@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsingham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weaire</Key>
-      <Text>, RF. A</Text>
+      <Text>RF. A</Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1392,7 +1392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lingham</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,7 +1526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rait-Kerr</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>

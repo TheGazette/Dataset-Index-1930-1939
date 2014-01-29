@@ -663,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaffrey</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keens</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +902,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilpatrick</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1020,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>T, D</Text>
+      <Forenames>T</Forenames>
+      <Text>, D</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,14 +1066,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6081</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1819,7 +1820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKissack</Key>
-      <Text>J —</Text>
+      <Forenames>J</Forenames>
+      <Text>—</Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>

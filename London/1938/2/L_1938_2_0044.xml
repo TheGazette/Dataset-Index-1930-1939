@@ -458,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +640,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +796,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Q j Q ,</Text>
+      <Forenames>Q</Forenames>
+      <Text>j Q ,</Text>
       <PageNumber>3118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +818,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dansey</Key>
-      <Text>F H</Text>
+      <Forenames>F</Forenames>
+      <Text>H</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,14 +893,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2154</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daynes</Key>
-      <Text>W H</Text>
+      <Forenames>W</Forenames>
+      <Text>H</Text>
       <PageNumber>2154</PageNumber>
       <PageNumber>2651</PageNumber>
     </MainItem>
@@ -913,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>dAndria</Key>
-      <Text>A V</Text>
+      <Forenames>A</Forenames>
+      <Text>V</Text>
       <PageNumber>3499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1090,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dowell</Key>
-      <Text>G v</Text>
+      <Forenames>G</Forenames>
+      <Text>v</Text>
       <PageNumber>3498</PageNumber>
     </MainItem>
   </ItemGroup>

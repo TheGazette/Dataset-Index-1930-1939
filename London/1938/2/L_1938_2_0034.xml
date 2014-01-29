@@ -115,7 +115,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Laverack</Key>
-      <Text>Capt. (Qrmr.) Thomas Victor, M.M., Member, Order of the British Empire</Text>
+      <Title>Capt. (Qrmr.)</Title>
+      <Forenames>Thomas Victor</Forenames>
+      <Text>, M.M., Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,9 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lay</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (Sqdn. S.M.) John Henry, M.C., Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (Sqdn. S.M.) John Henry, M.C., Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,8 +183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ledger</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Lloyd Kirkwood, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Lloyd Kirk-</Forenames>
+      <Text>wood, Officer, Order of the British Empire</Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,9 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Levack</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (Bty. S.M.) George, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (Bty. S.M.) George, Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,8 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindop</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Carl Arthur Boys, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Carl Arthur Boys, Officer, Order of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +310,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Conway, M.C., J.P., D.L., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Conway</Forenames>
+      <Text>, M.C., J.P., D.L., Knight</Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +329,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Seymour, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Seymour</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,9 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Longhurst</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (C.S.M.) Herbert, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (C.S.M.) Herbert, Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,8 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lough</Key>
-      <Forenames>Headmaster Lt</Forenames>
-      <Text>.-Cdr. Gordon, Member, Order of the British Empire</Text>
+      <Forenames>Headmaster</Forenames>
+      <Text>Lt.-Cdr. Gordon, Member, Order of the British Empire</Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +465,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyne</Key>
-      <Text>Capt. (Qrmr.) Robert William, Member, Order of the British Empire</Text>
+      <Title>Capt. (Qrmr.)</Title>
+      <Forenames>Robert William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +482,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Col. Colin Sinclair, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Bt. Col.</Title>
+      <Forenames>Colin Sinclair</Forenames>
+      <Text>, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,9 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Title>Want.</Title>
-      <Forenames>Officr</Forenames>
-      <Text>. CI. I (R.S.M. Albert Edward, Member, Order of the British Empire</Text>
+      <Title>Want. Officr.</Title>
+      <Text>CI. I (R.S.M. Albert Edward, Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>

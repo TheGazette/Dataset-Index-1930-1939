@@ -54,8 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harnett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Lidwell, Companion, .Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Lid-</Forenames>
+      <Text>well, Companion, .Order of the Indian Empire</Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,9 +110,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Title>Wrnt. Off.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.Maj. Edward, Member, Order of the British Empire</Text>
+      <Title>Wrnt. Off. Sgt.</Title>
+      <Text>Maj. Edward, Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,9 +135,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Title>Wrnt. Off.</Title>
-      <Forenames>Inst</Forenames>
-      <Text>., William Frederick, Member, Order of the British (Empire</Text>
+      <Title>Wrnt. Off. Inst.</Title>
+      <Text>, William Frederick, Member, Order of the British (Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,14 +226,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickling</Key>
-      <Text>Col. Horace ..Cyril Benjamin, D.S.O., M.O., . Nominated Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>. Col. Horace ..Cyril Benjamin, D.S.O., M.O., . Nominated Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hickson</Key>
-      <Text>Maj .-Gen.. Gerald Robert Stedall, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen.. Gerald Robert Stedall, O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,15 +380,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt-Wilson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric (Edward Boketon, C.M.G., D. S.O., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric</Forenames>
+      <Text>(Edward Boketon, C.M.G., D. S.O., Knight</Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Text>Brigadier .the Earl of, K.T., Ensigjn. of the King's Bodyguard for . Scotland ... -</Text>
+      <Title>Brigadier .</Title>
+      <Text>the Earl of, K.T., Ensigjn. of the King's Bodyguard for . Scotland ... -</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore-R</Key>
-      <Text>uthven, H. E. Brig.Gen. The Hon. Sir Alexander Gore Arkwright, V.C., K.C.M.G., C.B., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>.uthven, H. E. Brig.Gen. The Hon. Sir Alexander Gore Arkwright, V.C., K.C.M.G., C.B., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Forenames>Henry</Forenames>
-      <Text>.. Member, Order. of the British Empire</Text>
+      <Title>Henry.</Title>
+      <Text>. Member, Order. of the British Empire</Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -251,7 +251,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>,</Text>
       <PageNumber>5609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +314,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>, M: D</Text>
+      <Forenames>M</Forenames>
+      <Text>: D</Text>
       <PageNumber>6152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>, -G. J. Hancock, G, D. W</Text>
+      <Text>-G. J. Hancock, G, D. W</Text>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -772,7 +772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawken</Key>
-      <Text>, H;</Text>
+      <Forenames>H</Forenames>
+      <Text>;</Text>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayes</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heaps</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heffer</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendry</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,14 +1026,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Holloway</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,14 +1162,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyland</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,7 +1450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kimber</Key>
-      <Text>, ,R. J</Text>
+      <Text>,R. J</Text>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,7 +1576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leigh</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>4655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1647,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lillie-Costello</Key>
-      <Text>, V, J. A</Text>
+      <Forenames>V</Forenames>
+      <Text>, J. A</Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1966,7 +1969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>, J; W. R;</Text>
+      <Forenames>J</Forenames>
+      <Text>; W. R;</Text>
       <PageNumber>4479</PageNumber>
     </MainItem>
   </ItemGroup>

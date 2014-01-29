@@ -91,7 +91,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawle</Key>
-      <Text>Col. (temp. Brig.) Hanbury, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>. Col. (temp. Brig.) Hanbury, O.B.E., Commander, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col,, &amp; Bt. Col. Harold , Frederick, E.D., Officer, Order of the British Empire ... ... .;</Text>
+      <Title>Lt.</Title>
+      <Text>-Col,, &amp; Bt. Col. Harold , Frederick, E.D., Officer, Order of the British Empire ... ... .;</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perak</Key>
-      <Text>H.H. Sultan Abdul Aziz Al *Mu* Tassim Billah . Shah, Sultan of, Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>. H.H. Sultan Abdul Aziz Al *Mu* Tassim Billah . Shah, Sultan of, Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Platts</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Mathew George, O.B.E., M.C., Companion, Order of the Indian Empire Plymouth, The Earl of, P.C., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Mathew George</Forenames>
+      <Text>, O.B.E., M.C., Companion, Order of the Indian Empire Plymouth, The Earl of, P.C., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,16 +367,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Rees Thomas, T.D., Officer, Order of the British Empire Priestly, Sir Joseph Child, K.C, Chairman, Hertfordshire. Quarter Sessions, Hertford Division</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Rees Thomas</Forenames>
+      <Text>, T.D., Officer, Order of the British Empire Priestly, Sir Joseph Child, K.C, Chairman, Hertfordshire. Quarter Sessions, Hertford Division</Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Prince</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alan Charles, V.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alan Charles</Forenames>
+      <Text>, V.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>

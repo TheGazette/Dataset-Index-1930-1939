@@ -108,7 +108,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W, P. B</Text>
+      <Forenames>W</Forenames>
+      <Text>, P. B</Text>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +436,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>Sir jrF</Text>
+      <Title>Sir</Title>
+      <Text>jrF</Text>
       <PageNumber>8334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +827,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L, W. P</Text>
+      <Forenames>L</Forenames>
+      <Text>, W. P</Text>
       <PageNumber>7262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byhg</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavan</Key>
-      <Text>Earl of .„</Text>
+      <Title>Earl</Title>
+      <Text>of .„</Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coward</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1480,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W.</Text>
+      <Text>W</Text>
       <PageNumber>6335</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1519,7 +1523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Critchley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>

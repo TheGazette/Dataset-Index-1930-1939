@@ -113,7 +113,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sharpley</Key>
+      <Forenames>Arthur</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
@@ -254,9 +261,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Teleg.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander Harry, Member, Order of the British Empire</Text>
+      <Title>Teleg. Lt.</Title>
+      <Text>-Commander Harry, Member, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,14 +306,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, Lieut.-Colonel Sidney Cedric Mathews, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Sidney Cedric Mathews, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, Lieut.-Colonel Geoffrey Henry Julian Skeffington, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Geoffrey Henry Julian Skeffington, D.S.O., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +330,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Solly-Flood</Key>
-      <Text>, Colonel (Honorary Brigadier-General) Jtichard Elles, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (Honorary Brigadier-General)</Title>
+      <Forenames>Jtich-</Forenames>
+      <Text>ard Elles, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +388,14 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Staniforth</Key>
+      <Forenames>George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stark</Key>
@@ -480,7 +497,14 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Henry, M.B.E., H.M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Summerhayes</Key>
+      <Forenames>Christopher Henry</Forenames>
+      <Text>, M.B.E., H.M. Vice-Consul at Hamadan</Text>
+      <PageNumber>3760</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Synge</Key>
@@ -502,7 +526,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Quarter-Master) Fred, Member, Order of the British Empire</Text>
+      <Title>Capt. (Quarter-Master)</Title>
+      <Forenames>Fred</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +550,14 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Thomas</Key>
+      <Forenames>John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
@@ -573,7 +606,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, Major General Gervase, C.M.G., B-.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Gervase, C.M.G., B-.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>

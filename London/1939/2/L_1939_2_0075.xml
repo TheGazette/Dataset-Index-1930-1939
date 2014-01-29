@@ -319,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>,.C. H</Text>
+      <Text>.C. H</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>,. J. S</Text>
+      <Text>. J. S</Text>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wates</Key>
-      <Text>. C. F. W</Text>
+      <Text>C. F. W</Text>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watters</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1226,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,7 +1235,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T&gt;. G</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. G</Text>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitefield</Key>
-      <Text>. H</Text>
+      <Text>H</Text>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,14 +1578,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiteley</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3708</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitling</Key>
-      <Text>. I. E. W</Text>
+      <Text>I. E. W</Text>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,14 +1659,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Widdas</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3645</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wigfull</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1810,7 +1811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willcox</Key>
-      <Text>, A,</Text>
+      <Forenames>A</Forenames>
+      <Text>,</Text>
       <PageNumber>4358</PageNumber>
     </MainItem>
   </ItemGroup>

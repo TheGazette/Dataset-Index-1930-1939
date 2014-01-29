@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="023" pageID="https://www.thegazette.co.uk/id/London/index/year/1931/volume/2/page/023" pagePDF="https://www.thegazette.co.uk/London/index/year/1931/volume/2/page/023" pageRDF="https://www.thegazette.co.uk/London/index/year/1931/volume/2/page/023?view=linked-data" type="index" volume="2" year="1931">
-  <SubCategoryTitle>Abu Nakr El Nil, Nafar (Private) ... 4155 Abdulla Effendi, Lt</SubCategoryTitle>
   <SubCategoryTitle>El. Mulazim Awal 4155 Agabha Difan, Lance Cpl. Wekil-Onbashi 4155 Chater, Capt. &amp; Brvt</SubCategoryTitle>
-  <SubCategoryTitle>George, Lt. J. H. N. 4155 Ibrahim Effendi, Lt</SubCategoryTitle>
-  <SubCategoryTitle>El Mulazim Awal 4155 Makins, Lt. W. V.... 4155 Merkaz Murgan, Compy. Sgt.-Maj</SubCategoryTitle>
-  <SubCategoryTitle>Bash Shawish ... 4155 Walters, Sgt. H. ... 4155 Wargent, Cpl. W. A. 4155 Wiltshire, Cpl. C. S. 4155 Wooltooxton. Fit</SubCategoryTitle>
+  <SubCategoryTitle>Merkaz Murgan, Compy. Sgt.-Maj</SubCategoryTitle>
+  <SubCategoryTitle>Wooltooxton. Fit</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Workmen</Key>
@@ -23,8 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zanzibar</Key>
-      <Forenames>Orders</Forenames>
-      <Text>. (See under Foreign Orders.) ___ Ball-Knight, Rev. George Thomas, to the Vicarage of St. Bartholomew Bowling</Text>
+      <Title>Orders. (See under Foreign Orders.)</Title>
+      <Text>___ Ball-Knight, Rev. George Thomas, to the Vicarage of St. Bartholomew Bowling</Text>
       <PageNumber>3644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,8 +74,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Laverick</Key>
-      <Forenames>Rev</Forenames>
-      <Text>. . William Thompson, to the Rectory of Stonegrave, York</Text>
+      <Title>Rev.</Title>
+      <Text>. William Thompson, to the Rectory of Stonegrave, York</Text>
       <PageNumber>3224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +124,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Text>, Lieut.-Colonel John William, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel John William, O.B.E., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +187,14 @@
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>M.R.C.S., L.R.C.P</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Alexander</Key>
+      <Forenames>Frederick William</Forenames>
+      <Text>, M.R.C.S., L.R.C.P. (Edin.), D.P.H., Officer, Order of the British Empire</Text>
+      <PageNumber>3631</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -202,8 +208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William David, O.B.E., Assistant Commissioner of the Metropolitan Police</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William David</Forenames>
+      <Text>, O.B.E., Assistant Commissioner of the Metropolitan Police</Text>
       <PageNumber>3837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Text>, Lieut.-Commander Patrick Mervyn, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Commander Patrick Mervyn, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +310,23 @@
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>G.C.M.G., G.C.V.O., D.S.O., Member of H.M</SubCategoryTitle>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Athlone</Key>
+      <Forenames>Major-General Alex-</Forenames>
+      <Text>ander Augustus Frederick William Alfred George, iEairl of, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., Member of H.M. Privy Council</Text>
+      <PageNumber>3623</PageNumber>
+      <PageNumber>4241</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Atkins</Key>
+      <Forenames>Alfred</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
@@ -348,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>,. Arthur Charles John, Companion, Order of the Indian Empire</Text>
+      <Text>. Arthur Charles John, Companion, Order of the Indian Empire</Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>, Captain (Deputy Commissary) William John, Member, Order of the British Empire</Text>
+      <Title>Captain (Deputy Commissary)</Title>
+      <Forenames>William John</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>

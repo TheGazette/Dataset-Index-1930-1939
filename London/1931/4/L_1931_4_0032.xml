@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,8 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wauchope</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Arthur Grenfell, K.C.B., O.M.G., C.I.E., D.S.O., High Commissioner and Commander-in-Chief for Palestine, and High Commissioner for Trans-Jordan</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Arthur Grenfell, K.C.B., O.M.G., C.I.E., D.S.O., High Commissioner and Commander-in-Chief for Palestine, and High Commissioner for Trans-Jordan</Text>
       <PageNumber>6959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterton</Key>
-      <Text>The Rt. Hon. . Edward, Earl, M.P. for Horsham and Worthing</Text>
+      <Title>The Rt. Hon.</Title>
+      <Text>. Edward, Earl, M.P. for Horsham and Worthing</Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylde-Hughes</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +892,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockley</Key>
-      <Text>R, C</Text>
+      <Forenames>R</Forenames>
+      <Text>, C</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +914,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thwaites</Key>
-      <Text>Sir W</Text>
+      <Title>Sir</Title>
+      <Forenames>W</Forenames>
       <PageNumber>6394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenslade</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price-Williams</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stillingfleet</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7740</PageNumber>
     </MainItem>
   </ItemGroup>

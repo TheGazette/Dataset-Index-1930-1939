@@ -107,7 +107,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. and Bt.JMajor Reginald Strelley Moresbv, Officer, Order of the British Empire-</Text>
+      <Title>Capt. and Bt.</Title>
+      <Text>JMajor Reginald Strelley Moresbv, Officer, Order of the British Empire-</Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,8 +140,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiebkin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Wil.' ,liam, M.C., Officer, Order of the British Empire.</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Wil-</Forenames>
+      <Text>.' ,liam, M.C., Officer, Order of the British Empire.</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,9 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Title>Col.</Title>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir' .Clive, K.C.B., K.C.V.O., . C.S.I., Knight Grand Cross, Royal Victorian '.. . Order :</Text>
+      <Title>Col. Rt. Hon. Sir</Title>
+      <Text>' .Clive, K.C.B., K.C.V.O., . C.S.I., Knight Grand Cross, Royal Victorian '.. . Order :</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,8 +173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. .and Bt..Col, Edgar William;T..IJ,, ,, .Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>.and Bt..Col, Edgar William;T..IJ,, ,, .Officer, Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,8 +234,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon.. Sir Leslie Orme, G.C.S.I., G.C.I.E., C.M.G., D.S.O.,.Gover. nor of the State of Queensland and its. . Dependencies</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon.. Sir Leslie Orme, G.C.S.I., G.C.I.E., C.M.G., D.S.O.,.Gover. nor of the State of Queensland and its. . Dependencies</Text>
       <PageNumber>2476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolgar</Key>
-      <Text>Warrant Officer, Class I Supt. Clerk, ' George Alfred, Member, Order of the British Em' pire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class I Supt. Clerk, ' George Alfred, Member, Order of the British Em' pire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +351,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>Maj. (Commissary) Alexander, Member, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Alexander</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +755,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>E: F.:</Text>
+      <Forenames>E</Forenames>
+      <Text>: F.:</Text>
       <PageNumber>2401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudley</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount.</Title>
       <PageNumber>2636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churcher</Key>
-      <Text>G, M, (temp.)</Text>
+      <Forenames>G</Forenames>
+      <Text>, M, (temp.)</Text>
       <PageNumber>2143</PageNumber>
     </MainItem>
   </ItemGroup>

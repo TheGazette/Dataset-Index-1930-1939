@@ -243,7 +243,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>, Col. (temp. Brig.) Macan, D.S.O., Com. panion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Macan</Forenames>
+      <Text>, D.S.O., Com. panion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,8 +361,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Reginald Henry, O.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Reginald Henry</Forenames>
+      <Text>, O.V.O., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,8 +467,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Henry Antony, D.S.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Henry Antony, D.S.C., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slattery</Key>
-      <Text>, Mrs.. Eleanor, Serving Sister, Order of St. John of Jerusalem;</Text>
+      <Title>Mrs.</Title>
+      <Text>. Eleanor, Serving Sister, Order of St. John of Jerusalem;</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,14 +686,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>, the Lady Beatrix Taylonr, C.B.E., Imperial Order of the . Crown of India</Text>
+      <Text>the Lady Beatrix Taylonr, C.B.E., Imperial Order of the . Crown of India</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stantke</Key>
-      <Text>, Maj. (temp. Lt.Col.) Victor Paul Hildebrand, Officer, Order of the. British Empire'</Text>
+      <Title>Maj. (temp. Lt.Col.)</Title>
+      <Forenames>Victor Paul Hilde-</Forenames>
+      <Text>brand, Officer, Order of the. British Empire'</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,16 +12,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt.-Col. William Herbert, Officer, 'Order of the British Empire</Text>
+      <Title>Lt.-Col. and Bt.</Title>
+      <Text>-Col. William Herbert, Officer, 'Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Forenames>Wt</Forenames>
-      <Text>. . Offr. CI. II. Edmund Reginald, Member, Order of the British Empire</Text>
+      <Title>Wt.</Title>
+      <Text>. Offr. CI. II. Edmund Reginald, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) Henry Lawrence, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Henry Lawrence</Forenames>
+      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +257,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Col.(temp. Brig.) Henry St. George Stewart, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col.</Title>
+      <Text>(temp. Brig.) Henry St. George Stewart, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +325,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (Qr.-Mr.) Peter, . .Member, Order of the . British Empire</Text>
+      <Title>Capt. (Qr.-Mr.)</Title>
+      <Forenames>Peter</Forenames>
+      <Text>, . .Member, Order of the . British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +350,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearman</Key>
-      <Forenames>Wt</Forenames>
-      <Text>. OfEr., CI. I, Supt. Clerk, Alfred Robert, Member, Order of the British Empire</Text>
+      <Title>Wt.</Title>
+      <Text>OfEr., CI. I, Supt. Clerk, Alfred Robert, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +503,8 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lfr</Forenames>
-      <Text>.-Col.(Qr.-Mr.) Ernest, M.C., Office^ Order of the British Empire</Text>
+      <Title>Lfr.</Title>
+      <Text>-Col.(Qr.-Mr.) Ernest, M.C., Office^ Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +513,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs: Helen Gregory, R.R.C.; Commander, Order of the British Empire</Text>
+      <Title>Mrs</Title>
+      <Text>: Helen Gregory, R.R.C.; Commander, Order of the British Empire</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +523,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J o h n Blenkinsopp, . Serving Brother, Order of St. John of. . Jerusalem</Text>
+      <Forenames>J</Forenames>
+      <Text>o h n Blenkinsopp, . Serving Brother, Order of St. John of. . Jerusalem</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Steed</Key>
-      <Text>Maj. (local Lt.-CoJ.) Frederic Sherman, D.C.M., Officer, Order of the British Empire</Text>
+      <Title>Maj. (local Lt.-CoJ.)</Title>
+      <Forenames>Frederic Sherman</Forenames>
+      <Text>, D.C.M., Officer, Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>

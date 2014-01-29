@@ -212,9 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Title>Reg.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. John, D.C.M.. Member, Order ' of the British Empire</Text>
+      <Title>Reg. St.</Title>
+      <Text>-Maj. John, D.C.M.. Member, Order ' of the British Empire</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garforth</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stainer</Key>
-      <Text>G G^ '</Text>
+      <Forenames>G</Forenames>
+      <Text>G^ '</Text>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2772</PageNumber>
     </MainItem>
   </ItemGroup>

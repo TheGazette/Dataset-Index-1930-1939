@@ -93,10 +93,9 @@
       <Forenames>W. J</Forenames>
       <PageNumber>428</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Army Technical School (Boys)</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Army Technical School (Boys)</SubSectionTitle>
     <SubItem>
+      <Text>Army Technical School (Boys).</Text>
       <PageNumber>1418</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -153,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,10 +289,9 @@
       <Forenames>W. N</Forenames>
       <PageNumber>345</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Science, Military College of</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Science, Military College of</SubSectionTitle>
     <SubItem>
+      <Text>Science, Military College of.</Text>
       <PageNumber>428</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -386,14 +384,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Airey</Key>
-      <Text>G ___ ___ ___ J. G</Text>
+      <Forenames>G</Forenames>
+      <Text>___ ___ ___ J. G</Text>
       <PageNumber>501</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Text>A ___ ___ ___ L. C</Text>
+      <Forenames>A</Forenames>
+      <Text>___ ___ ___ L. C</Text>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>E Benn, A. A</Text>
+      <Forenames>E</Forenames>
+      <Text>Benn, A. A</Text>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allday</Key>
-      <Text>J O ___ ___ ___ T</Text>
+      <Forenames>J</Forenames>
+      <Text>O ___ ___ ___ T</Text>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>

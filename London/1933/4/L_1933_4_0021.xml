@@ -19,14 +19,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Congleton</Key>
-      <Text>, the Lady, Order of Mercy</Text>
+      <Text>the Lady, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +58,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daer</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +164,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gayer</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heckscher</Key>
-      <Text>, Miss, Bar to Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Bar to Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollingsworth</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houstoun-Boswall</Key>
-      <Text>, (William. Evelyn, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>(William. Evelyn, M.C., First Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +522,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leith</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,14 +574,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Luke</Key>
-      <Text>. The Lord, K.B.E., Order of Mercy</Text>
+      <Text>The Lord, K.B.E., Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lukies</Key>
-      <Text>, Mrs., Bar to Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar to Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,8 +614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, elected to the Board of Trustees of the British Museum</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, elected to the Board of Trustees of the British Museum</Text>
       <PageNumber>7612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,21 +699,24 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Mrs, Order of Mercy</Text>
+      <Title>Mrs</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moon</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +740,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murney</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>

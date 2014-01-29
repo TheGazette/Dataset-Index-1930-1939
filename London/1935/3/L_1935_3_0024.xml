@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maddat</Key>
-      <Forenames>Shah</Forenames>
+      <Title>Shah .</Title>
       <PageNumber>6069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +817,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +874,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, \V. K</Text>
+      <Text>\V. K</Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1160,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northcott</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1481,7 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parvin</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1595,7 +1595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Percival</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1632,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phayre</Key>
-      <Text>, R, D. H</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. H</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillipson</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,7 +1769,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pollok-McCall</Key>
-      <Text>, R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>5096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,7 +1855,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, ff</Text>
+      <Forenames>R</Forenames>
+      <Text>, ff</Text>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>

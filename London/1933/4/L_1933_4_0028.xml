@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, A;</Text>
+      <Forenames>A</Forenames>
+      <Text>;</Text>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate</Key>
-      <Text>, 0. C ,</Text>
+      <Text>0. C ,</Text>
       <PageNumber>7698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodroffe</Key>
-      <Text>,j. W</Text>
+      <Text>j. W</Text>
       <PageNumber>7697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>. G. W</Text>
+      <Text>G. W</Text>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambler</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardern</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay-Milne</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +677,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bathurst</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +692,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>, F ]</Text>
+      <Forenames>F</Forenames>
+      <Text>]</Text>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -824,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>. A. J</Text>
+      <Text>A. J</Text>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +871,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackstock</Key>
-      <Text>, W P</Text>
+      <Forenames>W</Forenames>
+      <Text>P</Text>
       <PageNumber>7699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodie</Key>
-      <Text>. A. J. G \</Text>
+      <Text>A. J. G \</Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>. C. F</Text>
+      <Text>C. F</Text>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +990,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bramall</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1099,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunskill</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cammack</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,7 +1697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corney</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8225</PageNumber>
     </MainItem>
   </ItemGroup>

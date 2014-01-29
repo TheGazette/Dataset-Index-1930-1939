@@ -703,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holroyde</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,14 +724,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Horne</Key>
-      <Text>,. E. de J</Text>
+      <Text>. E. de J</Text>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Houldsworth</Key>
-      <Text>,. W. W. W</Text>
+      <Text>. W. W. W</Text>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,14 +759,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphries</Key>
-      <Text>,. H. L</Text>
+      <Text>. H. L</Text>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>, Sir. A</Text>
+      <Title>Sir.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +949,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>O L</Text>
+      <Forenames>O</Forenames>
+      <Text>L</Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1069,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T M</Text>
+      <Forenames>T</Forenames>
+      <Text>M</Text>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirton</Key>
-      <Text>, LI. G</Text>
+      <Text>LI. G</Text>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>, D, J. E</Text>
+      <Forenames>D</Forenames>
+      <Text>, J. E</Text>
       <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. A. H. W</Text>
+      <Text>A. H. W</Text>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,14 +1303,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsell</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,7 +1866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountain</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>

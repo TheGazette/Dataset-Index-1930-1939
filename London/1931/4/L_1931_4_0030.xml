@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Maj .-Gen. The Hon. Sir Newton James, K.C.M.G., V.D., M.P. for Richmond</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. The Hon. Sir Newton James, K.C.M.G., V.D., M.P. for Richmond</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,16 +13,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Cecil Russell, C.B.E.. M.P. for Ayr</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Cecil Russell</Forenames>
+      <Text>, C.B.E.. M.P. for Ayr</Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moore-Brabazon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Theodore Cuthbert, M.P. for Wallasey</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Theodore Cuthbert</Forenames>
+      <Text>, M.P. for Wallasey</Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,8 +39,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. David Watts, C.B.E., D.S.O., M.P. for Rhondda, East</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>David Watts</Forenames>
+      <Text>, C.B.E., D.S.O., M.P. for Rhondda, East</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Platford</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,15 +552,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>Sir,John Cecil, Bart., . . M.P. for Wimbledon</Text>
+      <Title>Sir</Title>
+      <Text>,John Cecil, Bart., . . M.P. for Wimbledon</Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pownall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Assheton, Kt., M.P. for Lewisham, East</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Assheton</Forenames>
+      <Text>, Kt., M.P. for Lewisham, East</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +580,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs.. Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>. Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ravenshaw</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>

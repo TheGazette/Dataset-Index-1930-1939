@@ -17,7 +17,14 @@
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Kay, M.D., F.R.C.P.Ed., Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Menzies</Key>
+      <Forenames>Frederick Norton Kay</Forenames>
+      <Text>, M.D., F.R.C.P.Ed., Commander, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
@@ -27,7 +34,14 @@
       <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Michelmore</Key>
+      <Forenames>Harold Gaye</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
@@ -65,11 +79,20 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mills</Key>
+      <Forenames>Thomas</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Milward</Key>
-      <Text>, Colonel (temp. Brigadier) Clement Arthur, CLE., C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>Clement Arthur</Forenames>
+      <Text>, CLE., C.B.E., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,12 +198,22 @@
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William James</Forenames>
+      <Text>. Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moseley</Key>
-      <Text>, Major (local Lieutenant-Colonel) Reginald Anthony Deane, Officer, Order of the British Empire</Text>
+      <Title>Major (local Lieutenant-Colonel)</Title>
+      <Forenames>Reginald Anthony Deane</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +253,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, Lieut.-Colonel John, D. S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel John, D. S.O., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +266,14 @@
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
-    <SubCategoryTitle>Division of Liverpool ... 4152 Officer, Order of St</SubCategoryTitle>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Nail-Cain</Key>
+      <Forenames>Arthur Ronald Nail</Forenames>
+      <Text>, Member of Parliament for the Wavertree Division of Liverpool</Text>
+      <PageNumber>4152</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
@@ -257,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Needham</Key>
-      <Text>, Major General Henry, C.M.G. D.S.O., Companion Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Henry, C.M.G. D.S.O., Companion Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +389,14 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Northampton</Key>
+      <Forenames>The Marquess</Forenames>
+      <Text>, Commander, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northcote</Key>
@@ -383,7 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakes</Key>
-      <Text>, Colonel (Richard, C.B.E., Companion, Order of the Bath</Text>
+      <Title>Colonel</Title>
+      <Text>(Richard, C.B.E., Companion, Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +474,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ormerod</Key>
+      <Forenames>John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
@@ -442,7 +499,14 @@
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paddison</Key>
+      <Forenames>James</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Papple</Key>
@@ -478,7 +542,14 @@
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Passey</Key>
+      <Forenames>Charles</Forenames>
+      <Text>, Serving Brother Order of St. John or Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pate</Key>
@@ -512,7 +583,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Paul</Key>
+      <Forenames>Ernest</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pbrabhat</Key>
@@ -532,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peacock</Key>
-      <Text>, Lieut.-Colonel Gerald Eustace, M.R.O.S., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Gerald Eustace, M.R.O.S., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>

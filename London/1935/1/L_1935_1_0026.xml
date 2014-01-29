@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>, (Rev. Samuel, M.A., presented to the Vicarage of Wrangthorn</Text>
+      <Text>(Rev. Samuel, M.A., presented to the Vicarage of Wrangthorn</Text>
       <PageNumber>454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Addinall</Key>
-      <Text>, Maj. (Commissary) Frederic William, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Frederic William</Forenames>
+      <Text>, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashburnham</Key>
-      <Text>, the Countess of, Officer, Order of St. John of Jerusalem</Text>
+      <Text>the Countess of, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>

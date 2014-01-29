@@ -48,8 +48,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gon. James Ronald Edmondston C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gon. James Ronald Edmondston C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,9 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Title>Mrs.</Title>
-      <Forenames>Katheririe</Forenames>
-      <Text>.M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Mrs. Katheririe.</Title>
+      <Text>M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corby</Key>
-      <Text>. William Fellowes, Member, Order of the British Empire</Text>
+      <Text>William Fellowes, Member, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,8 +266,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crutchley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Ernest Trestam, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Ernest Trestam</Forenames>
+      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +284,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>, Capt. (local Maj.) John McAdam, M.C., Officer, Order of the British .Umpire</Text>
+      <Title>Capt. (local Maj.)</Title>
+      <Forenames>John</Forenames>
+      <Text>McAdam, M.C., Officer, Order of the British .Umpire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,14 +416,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir (Henry) Waif ord, O.B.E., Commander, Royal Victorian Order</Text>
+      <Title>Sir (Henry)</Title>
+      <Forenames>Waif</Forenames>
+      <Text>ord, O.B.E., Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>. Hubert Augustus, Member, Order of the British Empire</Text>
+      <Text>Hubert Augustus, Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>

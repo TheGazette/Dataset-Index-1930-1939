@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surjan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tayler</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wace</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>H, P</Text>
+      <Forenames>H</Forenames>
+      <Text>, P</Text>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1093,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy-Purvis</Key>
-      <Text>C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sulivan</Key>
-      <Text>N: A</Text>
+      <Forenames>N</Forenames>
+      <Text>: A</Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>C V</Text>
+      <Forenames>C</Forenames>
+      <Text>V</Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>K;</Text>
+      <Forenames>K</Forenames>
+      <Text>;</Text>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>

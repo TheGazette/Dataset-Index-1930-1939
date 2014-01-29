@@ -295,8 +295,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Osborne De Renzy, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Osborne De Renzy</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chubb</Key>
-      <Text>, . Commissioned Shipwright William Henry, Member, Order of the British Empire</Text>
+      <Text>. Commissioned Shipwright William Henry, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connor</Key>
-      <Text>, Maj .-Gen. Sir Frank Powell, CP., D.S.O., F. R.C.S., V.H.S., I.M.S., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Sir Frank Powell, CP., D.S.O., F. R.C.S., V.H.S., I.M.S., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -112,7 +112,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +400,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1276,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7641</PageNumber>
       <PageNumber>7645</PageNumber>
     </MainItem>
@@ -1343,7 +1343,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C LI</Text>
+      <Forenames>C</Forenames>
+      <Text>LI</Text>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1807,8 +1808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guisborough</Key>
-      <Title>Rt.</Title>
-      <Forenames>Hon</Forenames>
+      <Title>Rt. Hon .</Title>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>

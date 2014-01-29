@@ -35,7 +35,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>,. Warrt. Offr., CI. I, Sydney Alexander, Member, Order of the British Empire</Text>
+      <Text>. Warrt. Offr., CI. I, Sydney Alexander, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander Martin Henry St. Leger, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander Martin Henry St. Leger, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,8 +350,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Phipson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Selby, CLE., D.S.O., 5 Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Selby</Forenames>
+      <Text>, CLE., D.S.O., 5 Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
     <SubItem>

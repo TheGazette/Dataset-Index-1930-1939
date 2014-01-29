@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adderley</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aircl</Key>
-      <Text>, I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>6564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnot</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +528,7 @@
       <Key>
         <KeyDitto>——. ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +695,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagnall-Oakeley</Key>
-      <Text>, R P</Text>
+      <Forenames>R</Forenames>
+      <Text>P</Text>
       <PageNumber>8312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1162,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J H</Text>
+      <Forenames>J</Forenames>
+      <Text>H</Text>
       <PageNumber>7692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwell</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloom</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonniface</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1753,7 +1755,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1850,7 +1852,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6817</PageNumber>
     </MainItem>
   </ItemGroup>

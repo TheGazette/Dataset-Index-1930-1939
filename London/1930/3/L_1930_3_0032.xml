@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radcliffe</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairfield</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Formhy</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayre</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,14 +626,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4737</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coffey</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,14 +802,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hambly</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +895,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lever</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,14 +932,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McMurray</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Markham</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettman</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, R, M</Text>
+      <Forenames>R</Forenames>
+      <Text>, M</Text>
       <PageNumber>4642</PageNumber>
     </MainItem>
   </ItemGroup>

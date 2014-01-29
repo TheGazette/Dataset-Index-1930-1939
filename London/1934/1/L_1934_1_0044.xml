@@ -851,7 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Timberlake</Key>
-      <Text>R, R</Text>
+      <Forenames>R</Forenames>
+      <Text>, R</Text>
       <PageNumber>836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1042,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. Prince of</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>of</Text>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,7 +1390,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1547,7 +1549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wycherley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stallard</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1786,7 +1788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstey</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1835,7 +1837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadow</Key>
-      <Text>P. E</Text>
+      <Text>. P. E</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>C. R</Text>
+      <Text>. C. R</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>D. AV. H</Text>
+      <Text>. D. AV. H</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,14 +689,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hipwood</Key>
-      <Text>H £</Text>
+      <Forenames>H</Forenames>
+      <Text>£</Text>
       <PageNumber>057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horan</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keast</Key>
-      <Text>F. J. B</Text>
+      <Text>. F. J. B</Text>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,14 +936,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Keeble</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keggin</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkham</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyle</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1035,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1198,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCrae</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Text>H. L</Text>
+      <Text>. H. L</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madge</Key>
-      <Text>C. E</Text>
+      <Text>. C. E</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molyneux</Key>
-      <Text>H Montgomery, G. R</Text>
+      <Forenames>H</Forenames>
+      <Text>Montgomery, G. R</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullarkey</Key>
-      <Text>R, A. J</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. J</Text>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,7 +1771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Text>D. A</Text>
+      <Text>. D. A</Text>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickering</Key>
-      <Text>A. G</Text>
+      <Text>. A. G</Text>
       <PageNumber>6041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1907,14 +1910,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymond</Key>
-      <Text>H. J</Text>
+      <Text>. H. J</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reekie</Key>
-      <Text>H. E</Text>
+      <Text>. H. E</Text>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>

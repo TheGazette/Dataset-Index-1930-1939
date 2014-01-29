@@ -13,8 +13,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Forenames>It</Forenames>
-      <Text>. H</Text>
+      <Title>It.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,14 +36,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Makin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Siddall</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winchester</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nockolds</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiting</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,14 +993,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Pound</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Quill</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>4971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bull</Key>
-      <Text>L. R</Text>
+      <Text>. L. R</Text>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1263,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connell</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gimblett</Key>
-      <Text>A. R</Text>
+      <Text>. A. R</Text>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,21 +1348,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Gove</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harkness</Key>
-      <Text>A. F</Text>
+      <Text>. A. F</Text>
       <PageNumber>6099</PageNumber>
     </MainItem>
   </ItemGroup>

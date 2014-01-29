@@ -241,7 +241,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craik</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craske</Key>
-      <Text>. R. M</Text>
+      <Text>R. M</Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1172,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruden</Key>
-      <Text>, TG</Text>
+      <Text>TG</Text>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1407,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalhousie</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1879,7 +1880,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3385</PageNumber>
     </MainItem>
   </ItemGroup>

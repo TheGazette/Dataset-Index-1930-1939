@@ -692,7 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gohns</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8307</PageNumber>
       <PageNumber>8576</PageNumber>
     </MainItem>
@@ -1094,7 +1094,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A (Sigs.)</Text>
+      <Forenames>A</Forenames>
+      <Text>(Sigs.)</Text>
       <PageNumber>8022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1249,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1445,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Granby</Key>
-      <Text>C J. R. Manners, Marquis of</Text>
+      <Forenames>C</Forenames>
+      <Text>J. R. Manners, Marquis of</Text>
       <PageNumber>8022</PageNumber>
     </MainItem>
   </ItemGroup>

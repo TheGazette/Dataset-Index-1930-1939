@@ -226,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grandhi</Key>
-      <Text>M: R</Text>
+      <Forenames>M</Forenames>
+      <Text>: R</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>J ohn</Text>
+      <Forenames>J</Forenames>
+      <Text>ohn</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazara</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill-Murray</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jalaluddin</Key>
-      <Forenames>Pirzada</Forenames>
+      <Title>Pirzada .</Title>
       <PageNumber>3728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Krishnaprasanna</Key>
-      <Forenames>Haldar</Forenames>
+      <Title>Haldar .</Title>
       <PageNumber>3235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mecredy</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Forenames>Ashraf</Forenames>
+      <Title>Ashraf .</Title>
       <PageNumber>2149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1433,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1626,7 +1628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>SitaRam</Key>
-      <Forenames>Swami</Forenames>
+      <Title>Swami .</Title>
       <PageNumber>3235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1688,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ,</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1763,14 +1765,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sundaresan</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>2600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surendropal</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2724</PageNumber>
       <PageNumber>2724</PageNumber>
     </MainItem>

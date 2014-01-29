@@ -95,8 +95,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Packe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick Edward, M.V.O., O.B.E., . Gentleman Usher to His Majesty</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick Edward</Forenames>
+      <Text>, M.V.O., O.B.E., . Gentleman Usher to His Majesty</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,8 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Pro. fessor William Paterson, D. D., Chaplain in Ordinary in Scotland, H.M. Household '</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Pro. fessor William Paterson, D. D., Chaplain in Ordinary in Scotland, H.M. Household '</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pultenev</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Committee</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Committee</Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
     <SubItem>
@@ -291,8 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rasch</Key>
-      <Title>Col. Sir Frederic . Queen</Title>
-      <Forenames>Mary</Forenames>
+      <Title>Col. Sir Frederic . Queen Mary .</Title>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>

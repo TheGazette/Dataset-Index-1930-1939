@@ -70,7 +70,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffy</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>8334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenwick</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghulam</Key>
-      <Forenames>Muhd</Forenames>
+      <Title>Muhd .</Title>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1046,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R C</Text>
+      <Forenames>R</Forenames>
+      <Text>C</Text>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>Earl of Harland, L. S</Text>
+      <Title>Earl</Title>
+      <Text>of Harland, L. S</Text>
       <PageNumber>6417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heafey</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1431,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hebert</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -60,7 +60,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T Woodham, J. E</Text>
+      <Forenames>T</Forenames>
+      <Text>Woodham, J. E</Text>
       <PageNumber>4213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +155,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>R:</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>3955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allenby</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>3502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balderston</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2720</PageNumber>
       <PageNumber>3349</PageNumber>
     </MainItem>
@@ -1035,8 +1037,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>2890</PageNumber>
     </MainItem>
   </ItemGroup>

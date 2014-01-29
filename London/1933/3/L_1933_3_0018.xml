@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt-Wilson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric Edward Boketon, C.M.G., D.S.O., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric Edward Boketon</Forenames>
+      <Text>, C.M.G., D.S.O., Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +60,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, J ohn Dalrymple, Sheriff Substitute of Dumfries and Galloway</Text>
+      <Forenames>J</Forenames>
+      <Text>ohn Dalrymple, Sheriff Substitute of Dumfries and Galloway</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>

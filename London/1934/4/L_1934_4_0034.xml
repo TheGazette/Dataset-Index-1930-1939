@@ -172,8 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Title>Lord</Title>
-      <Forenames>Ronald</Forenames>
+      <Title>Lord Ronald .</Title>
       <PageNumber>7157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Text>, ]&gt;. C</Text>
+      <Text>]&gt;. C</Text>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamont</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldroyd</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allerton</Key>
-      <Text>, 0. D</Text>
+      <Text>0. D</Text>
       <PageNumber>8053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connock</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,14 +1375,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7088</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dendy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farnhill</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1597,7 +1596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster-Packer</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,7 +1674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Golding</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1733,7 +1732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grierson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7614</PageNumber>
     </MainItem>
   </ItemGroup>

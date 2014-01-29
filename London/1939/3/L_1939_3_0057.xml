@@ -190,7 +190,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S; M</Text>
+      <Forenames>S</Forenames>
+      <Text>; M</Text>
       <PageNumber>5678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1149,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>N '</Text>
+      <Forenames>N</Forenames>
+      <Text>'</Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1159,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1361,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>X R</Text>
+      <Forenames>X</Forenames>
+      <Text>R</Text>
       <PageNumber>4756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1552,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T, A</Text>
+      <Forenames>T</Forenames>
+      <Text>, A</Text>
       <PageNumber>6112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,14 +1585,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S, F</Text>
+      <Forenames>S</Forenames>
+      <Text>, F</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Petre</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettinger</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1813,7 +1818,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T; E</Text>
+      <Forenames>T</Forenames>
+      <Text>; E</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,7 +1853,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E: T</Text>
+      <Forenames>E</Forenames>
+      <Text>: T</Text>
       <PageNumber>6244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1884,7 +1891,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R:</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1908,7 +1916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Piek</Key>
-      <Text>, S:</Text>
+      <Forenames>S</Forenames>
+      <Text>:</Text>
       <PageNumber>6252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1930,7 +1939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piggott-Brown</Key>
-      <Text>, SirJ , H., Bt</Text>
+      <Text>SirJ , H., Bt</Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>

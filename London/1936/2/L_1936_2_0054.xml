@@ -49,14 +49,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ommaney-Davis</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3522</PageNumber>
     </MainItem>
     <SubSectionTitle>
@@ -290,14 +290,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jupp</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglesby</Key>
-      <Text>E: V</Text>
+      <Forenames>E</Forenames>
+      <Text>: V</Text>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3836</PageNumber>
       <PageNumber>4092</PageNumber>
     </MainItem>
@@ -635,7 +636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclver</Key>
-      <Text>E, D</Text>
+      <Forenames>E</Forenames>
+      <Text>, D</Text>
       <PageNumber>3836</PageNumber>
       <PageNumber>4092</PageNumber>
     </MainItem>
@@ -643,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathew</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,14 +689,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutledge</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair-Morford, A. C</Text>
+      <Text>. Clair-Morford, A. C</Text>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spraggett</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -879,7 +882,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackbourn</Key>
-      <Text>H L</Text>
+      <Forenames>H</Forenames>
+      <Text>L</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coe</Key>
-      <Text>N. J</Text>
+      <Text>. N. J</Text>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>

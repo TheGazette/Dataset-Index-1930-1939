@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>D. C</Text>
+      <Text>. D. C</Text>
       <PageNumber>5119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Text>R. S</Text>
+      <Text>. R. S</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>K. A</Text>
+      <Text>. K. A</Text>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsley</Key>
-      <Text>C. W</Text>
+      <Text>. C. W</Text>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bea</Key>
-      <Text>man, W. B</Text>
+      <Text>.man, W. B</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
-      <Text>H. D</Text>
+      <Text>. H. D</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,21 +1067,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>J. C</Text>
+      <Text>. J. C</Text>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>C</Text>
+      <Text>. C</Text>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>O. H. D</Text>
+      <Text>. O. H. D</Text>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boston</Key>
-      <Text>F</Text>
+      <Text>. F</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BrotJherhood</Key>
-      <Text>W. R</Text>
+      <Text>. W. R</Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>H. M. K</Text>
+      <Text>. H. M. K</Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1230,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrough</Key>
-      <Text>R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassels</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,7 +1397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohadwell</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chen-ill</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapp</Key>
-      <Text>O. W</Text>
+      <Text>. O. W</Text>
       <PageNumber>4234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Text>R. J</Text>
+      <Text>. R. J</Text>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coverdale</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craigeii</Key>
-      <Text>J. S. J</Text>
+      <Text>. J. S. J</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1723,7 +1724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowther</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cundell</Key>
-      <Text>L. S</Text>
+      <Text>. L. S</Text>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,7 +1775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cursham</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>

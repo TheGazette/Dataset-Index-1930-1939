@@ -90,7 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Text>, C,</Text>
+      <Forenames>C</Forenames>
+      <Text>,</Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwood</Key>
-      <Text>,. EE. G</Text>
+      <Text>. EE. G</Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blatchford</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McLeod</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henley</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rafferty</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>, EE</Text>
+      <Text>EE</Text>
       <PageNumber>7734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ooules</Key>
-      <Text>, A; W</Text>
+      <Forenames>A</Forenames>
+      <Text>; W</Text>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pack</Key>
-      <Text>A J</Text>
+      <Forenames>A</Forenames>
+      <Text>J</Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevis</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellwood</Key>
-      <Text>,. D. A. C</Text>
+      <Text>. D. A. C</Text>
       <PageNumber>6273</PageNumber>
     </MainItem>
   </ItemGroup>

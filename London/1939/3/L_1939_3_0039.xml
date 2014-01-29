@@ -198,7 +198,7 @@
       <Key>
         <KeyDitto>___ -— ___</KeyDitto>
       </Key>
-      <Text>Earl</Text>
+      <Title>Earl .</Title>
       <PageNumber>6185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +474,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,7 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +615,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellwood</Key>
-      <Text>, C; H. P</Text>
+      <Forenames>C</Forenames>
+      <Text>; H. P</Text>
       <PageNumber>5984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +742,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R Benson, J</Text>
+      <Forenames>R</Forenames>
+      <Text>Benson, J</Text>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +830,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingay</Key>
-      <Text>, 3. W. G</Text>
+      <Text>3. W. G</Text>
       <PageNumber>5319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1073,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F ,</Text>
+      <Forenames>F</Forenames>
+      <Text>,</Text>
       <PageNumber>6054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackbell</Key>
-      <Text>, E, W</Text>
+      <Forenames>E</Forenames>
+      <Text>, W</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,7 +1391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blaxland</Key>
-      <Text>, J; C</Text>
+      <Forenames>J</Forenames>
+      <Text>; C</Text>
       <PageNumber>5483</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -142,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grieve</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hailsham</Key>
-      <Text>Viscount, H.M. Secretary of State for War</Text>
+      <Title>Viscount</Title>
+      <Text>, H.M. Secretary of State for War</Text>
       <PageNumber>7239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,8 +266,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Frederick, . Bart., K.B.E., D.S.O., M.P. for Dulwich</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>, . Bart., K.B.E., D.S.O., M.P. for Dulwich</Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayley</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,16 +496,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Obl. Sir Vivian Leonard, Kt., M.C., M.P. for Chelmsford</Text>
+      <Title>Lt.</Title>
+      <Text>-Obl. Sir Vivian Leonard, Kt., M.C., M.P. for Chelmsford</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heneage</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cbl. Arthur Pelham, M.P. for Louth</Text>
+      <Title>Lt.</Title>
+      <Text>-Cbl. Arthur Pelham, M.P. for Louth</Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,15 +581,17 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Rt. Hon. Sir Samuel John Gurney, Bart., G.B.E., C.M.G., M.P. for Chelsea</Text>
+      <Title>Lt.-Col. The Rt. Hon. Sir</Title>
+      <Forenames>Samuel John Gurney</Forenames>
+      <Text>, Bart., G.B.E., C.M.G., M.P. for Chelsea</Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hodges</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,8 +733,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter-Weston</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Aylmer, K.C.B., D.S.O., M.P. for Bute and , Northern ,</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Aylmer, K.C.B., D.S.O., M.P. for Bute and , Northern ,</Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>

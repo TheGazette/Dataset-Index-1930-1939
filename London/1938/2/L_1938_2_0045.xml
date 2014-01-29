@@ -132,7 +132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forester</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garmoyle</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>2710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +634,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gort</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1562,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1571,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Text>C Hopwood, J. A</Text>
+      <Forenames>C</Forenames>
+      <Text>Hopwood, J. A</Text>
       <PageNumber>2247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1964,7 +1965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jamieson</Key>
-      <Text>L I</Text>
+      <Forenames>L</Forenames>
+      <Text>I</Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>

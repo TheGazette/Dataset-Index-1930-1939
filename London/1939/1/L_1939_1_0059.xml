@@ -802,14 +802,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, H. E. G</Text>
+      <Text>. George, H. E. G</Text>
       <PageNumber>1468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Johnston, J. H</Text>
+      <Text>. Johnston, J. H</Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1015,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seal</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>219</PageNumber>
       <PageNumber>290</PageNumber>
     </MainItem>
@@ -1272,7 +1272,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherlock</Key>
-      <Text>O ^</Text>
+      <Forenames>O</Forenames>
+      <Text>^</Text>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>

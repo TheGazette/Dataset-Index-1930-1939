@@ -3,14 +3,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Campion</Key>
-      <Text>B*</Text>
+      <Forenames>B</Forenames>
+      <Text>*</Text>
       <PageNumber>2281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carew</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranfurly</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McElwain</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,14 +892,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Luby</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rait-Kerr</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,14 +1113,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Peploe</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2983</PageNumber>
     </MainItem>
   </ItemGroup>

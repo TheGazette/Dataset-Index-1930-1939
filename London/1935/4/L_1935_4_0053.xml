@@ -189,7 +189,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fasson</Key>
-      <Text>, F,. A. B</Text>
+      <Forenames>F</Forenames>
+      <Text>,. A. B</Text>
       <PageNumber>6141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fisher</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6474</PageNumber>
       <PageNumber>6977</PageNumber>
     </MainItem>
@@ -275,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foord-Kelcey</Key>
-      <Text>, A-</Text>
+      <Text>A-</Text>
       <PageNumber>6474</PageNumber>
       <PageNumber>6977</PageNumber>
     </MainItem>
@@ -659,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadfield</Key>
-      <Text>, P :</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +702,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R, E</Text>
+      <Forenames>R</Forenames>
+      <Text>, E</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>,. A. F</Text>
+      <Text>. A. F</Text>
       <PageNumber>7674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>, R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>6637</PageNumber>
       <PageNumber>7337</PageNumber>
     </MainItem>
@@ -1345,7 +1349,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, H. S</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. S</Text>
       <PageNumber>7513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1877,7 +1882,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, E, W</Text>
+      <Forenames>E</Forenames>
+      <Text>, W</Text>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -358,8 +358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Zetland</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Marq. of</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>the Marq. of</Text>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1070,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,7 +1842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chatfield</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>

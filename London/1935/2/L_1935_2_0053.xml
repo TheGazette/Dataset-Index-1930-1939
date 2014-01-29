@@ -57,7 +57,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, L. B</Text>
+      <Forenames>R</Forenames>
+      <Text>, L. B</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thwaites</Key>
-      <Text>Sir AV</Text>
+      <Title>Sir</Title>
+      <Text>AV</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +829,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>R, J. F</Text>
+      <Forenames>R</Forenames>
+      <Text>, J. F</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +851,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tower</Key>
-      <Text>R, B</Text>
+      <Forenames>R</Forenames>
+      <Text>, B</Text>
       <PageNumber>2320</PageNumber>
       <PageNumber>2323</PageNumber>
     </MainItem>
@@ -926,7 +930,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1009,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Uniacke</Key>
-      <Text>R D. W</Text>
+      <Forenames>R</Forenames>
+      <Text>D. W</Text>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1793,7 +1799,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>A K</Text>
+      <Forenames>A</Forenames>
+      <Text>K</Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>

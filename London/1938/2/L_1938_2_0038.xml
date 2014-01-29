@@ -39,7 +39,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Renton</Key>
-      <Text>Maj. &amp; Bt. Lt.-Col Alexander Frederick . Gordon, M.C., Officer, Order, of the . British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>&amp; Bt. Lt.-Col Alexander Frederick . Gordon, M.C., Officer, Order, of the . British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>Capt. (local Maj.) Edmund. Charles, Officer, Order of the British Empire</Text>
+      <Title>Capt. (local Maj.) Edmund.</Title>
+      <Forenames>Charles</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +200,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. James Wilson, D.C.M., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>James Wilson</Forenames>
+      <Text>, D.C.M., Officer, Order of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,17 +211,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (Farrier Q.M.S.) Robert Wallace, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (Farrier Q.M.S.) Robert Wallace, Member, Order of the British Empire</Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp;. Bt. Col. Beltran Ford, T.D., Officer, . Order ' of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp;. Bt. Col. Beltran Ford, T.D., Officer, . Order ' of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,8 +240,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. James Frederick Martyn, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. James Frederick Martyn, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>

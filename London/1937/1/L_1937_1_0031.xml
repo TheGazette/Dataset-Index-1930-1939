@@ -15,8 +15,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frederick</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Boscawen, Exon, Yeoman of the Guard</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Boscawen</Forenames>
+      <Text>, Exon, Yeoman of the Guard</Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,8 +194,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William, Exon, Yeoman of the Guard</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>, Exon, Yeoman of the Guard</Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -243,8 +243,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-.Col. Francis Kyle, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-.Col. Francis Kyle, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,15 +383,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Brig. Gen. . Herbert . Ernest, C.B., C.M.G.,. D.S.O., V.D., Knight Commander, Order of the British Empire</Text>
+      <Title>Brig.</Title>
+      <Text>Gen. . Herbert . Ernest, C.B., C.M.G.,. D.S.O., V.D., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hartigan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. James' Andrew, C.B., C.M.G., D.S.O., M.B., D.Ch., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. James' Andrew, C.B., C.M.G., D.S.O., M.B., D.Ch., Knight Commander, Order of the Bath</Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,8 +424,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Headlam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Cuthbert Morley, D.S.O.. O.B.E., T.D., J.P., D.L., MP., Baronet</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Cuthbert Morley</Forenames>
+      <Text>, D.S.O.. O.B.E., T.D., J.P., D.L., MP., Baronet</Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,9 +511,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemsted</Key>
-      <Title>Paym.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (Temp. Paym.' Capt.) James Rustat, Officer, Order of the British Empire</Text>
+      <Title>Paym. Cdr. (Temp. Paym.' Capt.)</Title>
+      <Forenames>James Rustat</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,9 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewish</Key>
-      <Title>Cd.</Title>
-      <Forenames>Bsn</Forenames>
-      <Text>. ' George Frederick, R.A.N., Member, Order of the British Empire</Text>
+      <Title>Cd. Bsn.</Title>
+      <Text>' George Frederick, R.A.N., Member, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,17 +563,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Higgin</Key>
-      <Title>Co.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. John, Member, Order ' of the . British Empire. ... -</Text>
+      <Title>Co. St.</Title>
+      <Text>-Maj. John, Member, Order ' of the . British Empire. ... -</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Higham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Bernard, M.B., B.S. (Lond.), . M.R.C.S. ', (Eng.), ' L.R.C.P. (Lond.), Companion, Order of the . Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Bernard</Forenames>
+      <Text>, M.B., B.S. (Lond.), . M.R.C.S. ', (Eng.), ' L.R.C.P. (Lond.), Companion, Order of the . Indian Empire</Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,8 +20,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. John Edward Spencer, C.B., O.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. John Edward Spencer, C.B., O.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brocket</Key>
-      <Text>Lord, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lord, Commander</Title>
+      <Text>, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,16 +378,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Burtenshaw</Key>
-      <Title>By.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. Charles, Member, Order of the British Empire</Text>
+      <Title>By. St.</Title>
+      <Text>-Maj. Charles, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>Col. the Viscount, M.C, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Col.</Title>
+      <Text>the Viscount, M.C, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Calcott</Key>
-      <Text>Capt. (Deputy Commissary) Thomas, Member, Order of the British Empire</Text>
+      <Title>Capt. (Deputy Commissary)</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,8 +593,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpmael</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Raymond, M.Inst.C.E., M.I.Mech.E., Officer, Order. of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Raymond</Forenames>
+      <Text>, M.Inst.C.E., M.I.Mech.E., Officer, Order. of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,8 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. the Hon. Henry Mitford Amhurst, Officer, Order of the .British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. the Hon. Henry Mitford Amhurst, Officer, Order of the .British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +676,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir (Robert) Burton, Baronet</Text>
+      <Title>Sir (Robert)</Title>
+      <Forenames>Burton</Forenames>
+      <Text>, Baronet</Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>

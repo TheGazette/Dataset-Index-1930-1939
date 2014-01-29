@@ -476,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanusk</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,14 +1232,15 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W, N. C. ... Grange-Bennett, R. D</Text>
+      <Forenames>W</Forenames>
+      <Text>, N. C. ... Grange-Bennett, R. D</Text>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5988</PageNumber>
     </MainItem>
   </ItemGroup>

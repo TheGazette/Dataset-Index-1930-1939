@@ -8,7 +8,14 @@
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Official Member of the Legislative Council of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dear</Key>
+      <Forenames>Cyril Bruce</Forenames>
+      <Text>, Nominated Official Member of the Legislative Council of St. Lucia</Text>
+      <PageNumber>2891</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dea</Key>
@@ -77,8 +84,16 @@
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William James</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
@@ -157,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunk</Key>
-      <Text>. Sergeant-Major 1st Class James William, Member, Order of the British Empire</Text>
+      <Text>Sergeant-Major 1st Class James William, Member, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +218,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Edwards</Key>
+      <Forenames>D. Kemp</Forenames>
+      <Text>, Serving Brother Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
@@ -314,7 +336,9 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>Colonel (temp. Brigadier) William Harry, C.I.E., D.S.O., Companion Order of the Star of India</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>William Harry</Forenames>
+      <Text>, C.I.E., D.S.O., Companion Order of the Star of India</Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +369,22 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Everett</Key>
+      <Forenames>William</Forenames>
+      <Text>, Serving Brother Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Farmer</Key>
+      <Forenames>Sydney</Forenames>
+      <Text>, Serving Brother Order of St. John or Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farquharson</Key>
@@ -371,8 +409,16 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Leslie</Forenames>
+      <Text>, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Filleul</Key>
@@ -493,8 +539,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Wardmaster Lt</Forenames>
-      <Text>. Reginald, M.S.M., Member, Order of the British Empire</Text>
+      <Forenames>Wardmaster</Forenames>
+      <Text>Lt. Reginald, M.S.M., Member, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gale</Key>
-      <Text>, 1st Class Assistant Surgeon Richard Campbell, Member, Order of the British Empire</Text>
+      <Text>1st Class Assistant Surgeon Richard Campbell, Member, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +645,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Admiral Sir Arthur, K.C.B., C.B.E., F.R.C.S., Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gaskell</Key>
+      <Title>Surgeon</Title>
+      <Text>Vice Admiral Sir Arthur, K.C.B., C.B.E., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gastrell</Key>
@@ -634,7 +687,13 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gibson</Key>
+      <Text>^ Arthur Barnes, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
 </Index>
 

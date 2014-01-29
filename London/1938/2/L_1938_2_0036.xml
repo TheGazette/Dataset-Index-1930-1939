@@ -228,7 +228,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrow</Key>
-      <Text>Capt. (Qrmr.) Robert . Arthur, Member, Order of the British Empire</Text>
+      <Title>Capt. (Qrmr.) Robert .</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,15 +356,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Cyril MainMichael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Cyril MainMichael</Forenames>
+      <Text>and St. George</Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newth</Key>
-      <Text>Col. (temp, . Brig.) St. John of Jerusalem</Text>
+      <Title>Col. (temp, . Brig.) St.</Title>
+      <Forenames>John</Forenames>
+      <Text>of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>

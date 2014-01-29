@@ -70,7 +70,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Hon. M: E</Text>
+      <Title>Hon.</Title>
+      <Forenames>M</Forenames>
+      <Text>: E</Text>
       <PageNumber>5328</PageNumber>
       <PageNumber>5689</PageNumber>
     </MainItem>
@@ -539,7 +541,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +557,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falmouth</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +961,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Hon. W</Text>
+      <Title>Hon.</Title>
+      <Forenames>W</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1212,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J H</Text>
+      <Forenames>J</Forenames>
+      <Text>H</Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,7 +1819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamond</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5443</PageNumber>
     </MainItem>
   </ItemGroup>

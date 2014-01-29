@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elveden</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>8310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forres</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,7 +1845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Geldard</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1868,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>

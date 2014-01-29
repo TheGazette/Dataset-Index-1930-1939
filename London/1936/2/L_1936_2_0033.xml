@@ -90,7 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>Major General George Mackintosh, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General George Mackintosh, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,22 +236,26 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucarotti</Key>
-      <Text>Capt. (Qr.-Mr.) Umberto Rimes, Member, of the British Empire</Text>
+      <Title>Capt. (Qr.-Mr.)</Title>
+      <Forenames>Umberto Rimes</Forenames>
+      <Text>, Member, of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ludlam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Asst. Commy.) Herbert William, Member, Order of the British Empire</Text>
+      <Title>Lt. (Asst. Commy.)</Title>
+      <Forenames>Herbert William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ludlow</Key>
-      <Text>Brigadier General Walter Robert, C.B., V.D., T.D., D.L., Honorary Colonel, Knight Commander, Order of the Bath Lumley-Smith, Major Thomas Gabriel Lumley, D.S.O., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>Brigadier</Title>
+      <Text>General Walter Robert, C.B., V.D., T.D., D.L., Honorary Colonel, Knight Commander, Order of the Bath Lumley-Smith, Major Thomas Gabriel Lumley, D.S.O., Knight of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,9 +387,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Sqdn.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>. Maj. Jesson Gunn, Member, Order of the British Empire</Text>
+      <Title>Sqdn. Sergt.</Title>
+      <Text>Maj. Jesson Gunn, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +482,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>Capt. &amp; Adjt. Gerald Swinden, Member, of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Adjt. Gerald Swinden, Member, of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,8 +683,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Harry Manners, Member, 4th CI., Royal Victorian Order</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Harry Manners</Forenames>
+      <Text>, Member, 4th CI., Royal Victorian Order</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>

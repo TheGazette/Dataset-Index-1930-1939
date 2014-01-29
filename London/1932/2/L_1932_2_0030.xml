@@ -165,15 +165,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Piper</Key>
-      <Text>Maj.' . (Commissary) Joseph, Member, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>' . (Commissary) Joseph, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pittard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Ebenezer, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Ebenezer</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,9 +249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pownall</Key>
-      <Title>Major and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. Henry Royds, D.S.O., M.C., Bar to Distinguished Service Order</Text>
+      <Title>Major and Bt. Lt.</Title>
+      <Text>Col. Henry Royds, D.S.O., M.C., Bar to Distinguished Service Order</Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryce</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Henry Edward ap Rhys, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Henry Edward ap Rhys, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +481,8 @@
       <Key>
         <KeyDitto>—— ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
-      <Text>. . Scott Cumberland, King's Counsel</Text>
+      <Title>James .</Title>
+      <Text>. Scott Cumberland, King's Counsel</Text>
       <PageNumber>2214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,16 +599,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rixon</Key>
-      <Text>Warrant Officer, Class II, Staff Qrmr-Serg. Walter Wilson, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class II, Staff Qrmr-Serg. Walter Wilson, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Title>Pymr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cmdr. Alexander, R.N.R. Member, Order of the British Empire ,</Text>
+      <Title>Pymr. Lt.</Title>
+      <Text>-Cmdr. Alexander, R.N.R. Member, Order of the British Empire ,</Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Joseph Armitage, D.D!,' Knight Commander, Royal Victorian Order</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Joseph Armitage, D.D!,' Knight Commander, Royal Victorian Order</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>

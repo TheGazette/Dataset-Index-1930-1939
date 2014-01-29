@@ -55,7 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Text>Lieut.-Colonel the Rt. Hon. Sir John Gilmour, Bt., G.C.V.O., D.S.O., Minister of Shipping</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel the Rt. Hon. Sir John Gilmour, Bt., G.C.V.O., D.S.O., Minister of Shipping</Text>
       <PageNumber>7029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,8 +72,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grayston</Key>
-      <Forenames>Comdr</Forenames>
-      <Text>. -Edward -Templeton, D.S.C., Officer, Order of the British Empire</Text>
+      <Title>Comdr.</Title>
+      <Text>-Edward -Templeton, D.S.C., Officer, Order of the British Empire</Text>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>Col. (temp. Brigr.) Harold Victor, D.S.O., M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brigr.)</Title>
+      <Forenames>Harold Victor</Forenames>
+      <Text>, D.S.O., M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +350,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cmdr. Roger Curzon, Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cmdr. Roger Curzon, Distinguished Service Order</Text>
       <PageNumber>8547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lothian</Key>
-      <Text>The Most Hon. the Marquess of, C.H., H.M. Ambassador Extraordinary and Plenipotentiary at Washington</Text>
+      <Title>The Most Hon.</Title>
+      <Text>the Marquess of, C.H., H.M. Ambassador Extraordinary and Plenipotentiary at Washington</Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,8 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ouvry</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. John Garnault Delahaize, Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. John Garnault Delahaize, Distinguished Service Order</Text>
       <PageNumber>8547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +592,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Donald, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Donald</Forenames>
+      <Text>, Distinguished Service Order</Text>
       <PageNumber>7019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Havelock Chaplin, M.C., Distinguished Service . Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Havelock Chaplin</Forenames>
+      <Text>, M.C., Distinguished Service . Order</Text>
       <PageNumber>8529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +668,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritchie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alan MacDougall, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alan</Forenames>
+      <Text>MacDougall, Distinguished Service Order</Text>
       <PageNumber>8529</PageNumber>
     </MainItem>
   </ItemGroup>

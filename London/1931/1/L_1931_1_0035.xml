@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Text>.R. T</Text>
+      <Text>R. T</Text>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardie</Key>
-      <Text>, R, de B</Text>
+      <Forenames>R</Forenames>
+      <Text>, de B</Text>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,14 +69,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>. Visct</Text>
+      <Text>Visct</Text>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +283,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,14 +329,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Text>. G. G</Text>
+      <Text>G. G</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H T</Text>
+      <Forenames>H</Forenames>
+      <Text>T</Text>
       <PageNumber>1452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1109,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>L! S</Text>
+      <Forenames>L</Forenames>
+      <Text>! S</Text>
       <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, IX D</Text>
+      <Text>IX D</Text>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Karslake</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,7 +1435,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaye</Key>
-      <Text>, D; R. B</Text>
+      <Forenames>D</Forenames>
+      <Text>; R. B</Text>
       <PageNumber>677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, 0. J</Text>
+      <Text>0. J</Text>
       <PageNumber>1646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancefield-Staples</Key>
-      <Text>, !W. H</Text>
+      <Text>!W. H</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,7 +1846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Larmour</Key>
-      <Text>, T&gt;. M</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. M</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1857,7 +1862,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lascelles</Key>
-      <Text>, E, ff. W</Text>
+      <Forenames>E</Forenames>
+      <Text>, ff. W</Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>

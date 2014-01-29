@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandiland</Key>
-      <Text>, OB. L</Text>
+      <Text>OB. L</Text>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackden</Key>
-      <Text>, J: F</Text>
+      <Forenames>J</Forenames>
+      <Text>: F</Text>
       <PageNumber>1636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corayn</Key>
-      <Text>,. G. V</Text>
+      <Text>. G. V</Text>
       <PageNumber>305</PageNumber>
       <PageNumber>921</PageNumber>
     </MainItem>
@@ -390,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickins</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>305</PageNumber>
       <PageNumber>305</PageNumber>
     </MainItem>
@@ -544,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgson</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jonas</Key>
-      <Text>,, R. M</Text>
+      <Text>, R. M</Text>
       <PageNumber>921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>, .D. O.. W</Text>
+      <Text>.D. O.. W</Text>
       <PageNumber>1636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>, 0. H. L</Text>
+      <Text>0. H. L</Text>
       <PageNumber>921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Forenames>El</Forenames>
+      <Title>El.</Title>
       <PageNumber>921</PageNumber>
       <PageNumber>921</PageNumber>
     </MainItem>
@@ -1082,7 +1083,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bal</Key>
-      <Forenames>Krishna</Forenames>
+      <Title>Krishna .</Title>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,8 +1300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balwant</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... -</Text>
+      <Title>Singh.</Title>
+      <Text>.. -</Text>
       <PageNumber>1985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamji</Key>
-      <Text>,. S. R ..:</Text>
+      <Text>. S. R ..:</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,14 +1352,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Barru</Key>
-      <Forenames>Ram</Forenames>
+      <Title>Ram .</Title>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bartlett</Key>
-      <Text>, H, V</Text>
+      <Forenames>H</Forenames>
+      <Text>, V</Text>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>,E. G</Text>
+      <Text>E. G</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,14 +1468,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhatavadekar</Key>
-      <Text>, D M</Text>
+      <Forenames>D</Forenames>
+      <Text>M</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bhatt</Key>
-      <Text>, CP...:</Text>
+      <Text>CP...:</Text>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bikraih</Key>
-      <Forenames>Smgh</Forenames>
+      <Title>Smgh .</Title>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1546,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R; E. R ..;</Text>
+      <Forenames>R</Forenames>
+      <Text>; E. R ..;</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birmahi</Key>
-      <Text>, T; R</Text>
+      <Forenames>T</Forenames>
+      <Text>; R</Text>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Text>,' L. C</Text>
+      <Text>' L. C</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Budgen</Key>
-      <Text>, 0. R</Text>
+      <Text>0. R</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1757,7 @@
       <Key>
         <KeyDitto>—-'</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>

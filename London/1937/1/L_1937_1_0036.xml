@@ -11,8 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>More</Key>
-      <Forenames>Paymr</Forenames>
-      <Text>.-Cdr. John McLeod, D.S.C., Officer, Order of the British Empire</Text>
+      <Title>Paymr.</Title>
+      <Text>-Cdr. John McLeod, D.S.C., Officer, Order of the British Empire</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,15 +202,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Muspratt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sydney Frederick, C.B., C.S.I., C.I.E., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sydney Frederick, C.B., C.S.I., C.I.E., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MyaBu</Key>
-      <Forenames>Knight</Forenames>
+      <Title>Knight .</Title>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Noad</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. John Elliott Moncrieff, Officer, Order of the British Enipire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. John Elliott Moncrieff, Officer, Order of the British Enipire</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>Col. (hon. Brig.) Compton Cardew,, C.M.G., D. S.O., Commander, Order of the British Empire</Text>
+      <Title>Col. (hon. Brig.)</Title>
+      <Forenames>Compton Cardew</Forenames>
+      <Text>,, C.M.G., D. S.O., Commander, Order of the British Empire</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,8 +402,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Terence Edmund Gascoigne, M.V.O., M.C.: Comptroller, Lord Chamberlain's Office ... ... r4o</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Terence Edmund Gascoigne</Forenames>
+      <Text>, M.V.O., M.C.: Comptroller, Lord Chamberlain's Office ... ... r4o</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>

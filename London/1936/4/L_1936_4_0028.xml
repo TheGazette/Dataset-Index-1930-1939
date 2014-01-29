@@ -334,7 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gellatly</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gleadell</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goulder</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +774,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +788,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>, Lord ... Gresham, J. F</Text>
+      <Title>Lord .</Title>
+      <Text>.. Gresham, J. F</Text>
       <PageNumber>7645</PageNumber>
       <PageNumber>7646</PageNumber>
     </MainItem>
@@ -817,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffith</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +994,8 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R: C. S</Text>
+      <Forenames>R</Forenames>
+      <Text>: C. S</Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemming</Key>
-      <Text>, W: W</Text>
+      <Forenames>W</Forenames>
+      <Text>: W</Text>
       <PageNumber>7736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1801,7 +1804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hullock</Key>
-      <Text>, H-</Text>
+      <Text>H-</Text>
       <PageNumber>7645</PageNumber>
     </MainItem>
   </ItemGroup>

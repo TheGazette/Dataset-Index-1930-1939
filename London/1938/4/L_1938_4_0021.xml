@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="021" pageID="https://www.thegazette.co.uk/id/London/index/year/1938/volume/4/page/021" pagePDF="https://www.thegazette.co.uk/London/index/year/1938/volume/4/page/021" pageRDF="https://www.thegazette.co.uk/London/index/year/1938/volume/4/page/021?view=linked-data" type="index" volume="4" year="1938">
   <SubItem>
-    <Text>Shaw, Rifmn. T. C. ... 8177 Sinclair-Thomson, Lt. P. A. ... ... ... 8177 Soriano, Fit. Lt. V. J., M.B.E.</Text>
+    <Text>Shaw, Rifmn. T. C. ... 8177 Sinclair-Thomson, Lt. P. A. ... ... ... 8177 Soriano, Fit. Lt. V. J., M.B.E</Text>
     <PageNumber>8177</PageNumber>
   </SubItem>
   <ItemGroup>
@@ -24,6 +24,7 @@
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
@@ -60,6 +61,7 @@
       <PageNumber>6433</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
@@ -135,8 +137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashbv</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. James Ian Murray, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. James Ian Murray, Officer, Order of the British Empire</Text>
       <PageNumber>7600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Harry Douglas, Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Harry Douglas, Distinguished Service Order</Text>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bentall</Key>
-      <Text>,. Mrs. E. E., Bar to the Order of Mercy</Text>
+      <Text>. Mrs. E. E., Bar to the Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>, Lieut.-Colonel John Fillis Carre, C.B.E., Assistant Commissioner of Police of the Metropolis</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel John Fillis Carre, C.B.E., Assistant Commissioner of Police of the Metropolis</Text>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dain</Key>
-      <Text>, ]ohn Rutherford, CLE., Knighted</Text>
+      <Text>]ohn Rutherford, CLE., Knighted</Text>
       <PageNumber>6881</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -117,7 +117,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brandt</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +980,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2600</PageNumber>
       <PageNumber>2600</PageNumber>
     </MainItem>
@@ -1717,7 +1717,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewsbury</Key>
-      <Text>A ,</Text>
+      <Forenames>A</Forenames>
+      <Text>,</Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

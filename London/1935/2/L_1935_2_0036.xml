@@ -236,7 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudleston</Key>
-      <Text>Col. (temp. Brig.) John Wallace, A.D.C, .. Companion, Order of the ...Bath ,</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>John Wallace</Forenames>
+      <Text>, A.D.C, .. Companion, Order of the ...Bath ,</Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cbl. David Alexander, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cbl. David Alexander, Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,8 +427,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Innes-Ker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Lord Alastair Robert, D.S.O, Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col. Lord</Title>
+      <Forenames>Alastair Robert</Forenames>
+      <Text>, D.S.O, Commander, Royal Victorian Order</Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaipur</Key>
-      <Text>Capt. H.H. the Maharaja of, Knight Grand Commander, Order of the Indian Elmpire</Text>
+      <Title>Capt. H.H.</Title>
+      <Text>the Maharaja of, Knight Grand Commander, Order of the Indian Elmpire</Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +680,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Obi</Forenames>
-      <Text>. (temp. Brig.) Robert! D.S.O, O.B.E, Companion, Order of the . . Bath</Text>
+      <Title>Obi. (temp. Brig.)</Title>
+      <Forenames>Robert</Forenames>
+      <Text>! D.S.O, O.B.E, Companion, Order of the . . Bath</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>

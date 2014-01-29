@@ -108,7 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>R; G</Text>
+      <Forenames>R</Forenames>
+      <Text>; G</Text>
       <PageNumber>4081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +291,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailiff</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +889,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Hon. j; S. T</Text>
+      <Title>Hon.</Title>
+      <Text>j; S. T</Text>
       <PageNumber>4172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,8 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Title>Miss</Title>
-      <Forenames>Ann</Forenames>
+      <Title>Miss Ann .</Title>
       <PageNumber>3641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1436,7 +1437,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Anthony</Forenames>
+      <Title>Anthony .</Title>
       <PageNumber>3120</PageNumber>
     </MainItem>
   </ItemGroup>

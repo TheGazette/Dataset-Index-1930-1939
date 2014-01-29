@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plowden</Key>
-      <Text>. C. T. C</Text>
+      <Text>C. T. C</Text>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,7 +900,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. B. F</Text>
+      <Text>B. F</Text>
       <PageNumber>739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1194,7 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardeiro</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaudhuri</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,14 +1356,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaswant</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>112</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jolly</Key>
-      <Text>. G. G</Text>
+      <Text>G. G</Text>
       <PageNumber>1085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beggs</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>

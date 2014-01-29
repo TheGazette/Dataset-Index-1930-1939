@@ -31,8 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Most Rev</Forenames>
-      <Text>. Cosmo Gordon, D--&gt; High Almoner to B.M. the King</Text>
+      <Forenames>Most</Forenames>
+      <Text>Rev. Cosmo Gordon, D--&gt; High Almoner to B.M. the King</Text>
       <PageNumber>6011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,8 +169,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard John Charles, Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard John Charles</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingwood</Key>
-      <Text>, FIt.-Lt. Cuthbert John, Distinguished Flying Cross</Text>
+      <Text>FIt.-Lt. Cuthbert John, Distinguished Flying Cross</Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,8 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyfe</Key>
-      <Forenames>Flt</Forenames>
-      <Text>.-Lt. John Bernard, Distinguished Flying Cross</Text>
+      <Title>Flt.</Title>
+      <Text>-Lt. John Bernard, Distinguished Flying Cross</Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +551,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goddard</Key>
-      <Text>, Capt. and Bvt.-Maj. Eric Norman, O.B.E., M.C., Bar to Military Cross</Text>
+      <Title>Capt. and Bvt.</Title>
+      <Text>-Maj. Eric Norman, O.B.E., M.C., Bar to Military Cross</Text>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,8 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Sqdn</Forenames>
-      <Text>.-Ldr. Stafford Berkeley, D.F.C., A.F.C., Second Bar to Distinguished Flying Cross</Text>
+      <Title>Sqdn.</Title>
+      <Text>-Ldr. Stafford Berkeley, D.F.C., A.F.C., Second Bar to Distinguished Flying Cross</Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>,. Lt.-Col. and Bvt.-Col. Lewis Macclesfield, CLE., M.C., Distinguished Service Order</Text>
+      <Text>. Lt.-Col. and Bvt.-Col. Lewis Macclesfield, CLE., M.C., Distinguished Service Order</Text>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>

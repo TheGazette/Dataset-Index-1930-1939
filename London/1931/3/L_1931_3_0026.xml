@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>, A: P</Text>
+      <Forenames>A</Forenames>
+      <Text>: P</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +50,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T: W. M</Text>
+      <Forenames>T</Forenames>
+      <Text>: W. M</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keane</Key>
-      <Text>,. A. C</Text>
+      <Text>. A. C</Text>
       <PageNumber>4701</PageNumber>
       <PageNumber>5111</PageNumber>
     </MainItem>
@@ -217,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keatinge</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,14 +234,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Keeoh</Key>
-      <Text>,. J. H</Text>
+      <Text>. J. H</Text>
       <PageNumber>5111</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Keeling</Key>
-      <Text>, 6. V</Text>
+      <Text>6. V</Text>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenron-Fuller</Key>
-      <Text>. L. M</Text>
+      <Text>L. M</Text>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>. R. F</Text>
+      <Text>R. F</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Krook</Key>
-      <Text>,. A. D. C</Text>
+      <Text>. A. D. C</Text>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>,. A.</Text>
+      <Text>. A.</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Latchford</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,14 +537,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>, R; G</Text>
+      <Forenames>R</Forenames>
+      <Text>; G</Text>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lea-Cox</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Text>,R. B</Text>
+      <Text>R. B</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggett</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>,' F. H. ... '</Text>
+      <Text>' F. H. ... '</Text>
       <PageNumber>5026</PageNumber>
       <PageNumber>5026</PageNumber>
     </MainItem>
@@ -774,14 +777,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P: St. L</Text>
+      <Forenames>P</Forenames>
+      <Text>: St. L</Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Loch</Key>
-      <Text>, 'D. G</Text>
+      <Text>'D. G</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Text>,' F. S. R</Text>
+      <Text>' F. S. R</Text>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1453,7 +1457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>. G. H</Text>
+      <Text>G. H</Text>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1732,7 +1736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>,. E. G. B</Text>
+      <Text>. E. G. B</Text>
       <PageNumber>5693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,7 +1750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moulding</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1840,7 +1844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nasservanji</Key>
-      <Text>. Dhanjisha Bilimoria</Text>
+      <Text>Dhanjisha Bilimoria</Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1875,7 +1879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>, J\ H</Text>
+      <Forenames>J</Forenames>
+      <Text>\ H</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>

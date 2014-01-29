@@ -261,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>, LI. R</Text>
+      <Text>LI. R</Text>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Byas</Key>
-      <Text>, C W. ... -</Text>
+      <Forenames>C</Forenames>
+      <Text>W. ... -</Text>
       <PageNumber>5269</PageNumber>
       <PageNumber>5388</PageNumber>
     </MainItem>
@@ -1373,7 +1374,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H i</Text>
+      <Forenames>H</Forenames>
+      <Text>i</Text>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corfield</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>

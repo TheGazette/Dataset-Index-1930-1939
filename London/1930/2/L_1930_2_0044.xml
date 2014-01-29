@@ -117,7 +117,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sargeaunt</Key>
-      <Text>J, A. H</Text>
+      <Forenames>J</Forenames>
+      <Text>, A. H</Text>
       <PageNumber>2967</PageNumber>
       <PageNumber>3961</PageNumber>
     </MainItem>
@@ -501,7 +502,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trappes-Lomax</Key>
-      <Text>A, E. B</Text>
+      <Forenames>A</Forenames>
+      <Text>, E. B</Text>
       <PageNumber>2255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeler</Key>
-      <Text>A, H</Text>
+      <Forenames>A</Forenames>
+      <Text>, H</Text>
       <PageNumber>2966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +684,8 @@
       <Key>
         <KeyDitto>___ ___ ——</KeyDitto>
       </Key>
-      <Text>L, J. M</Text>
+      <Forenames>L</Forenames>
+      <Text>, J. M</Text>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +950,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamorgan</Key>
-      <Text>(cont.): Gilling, Lt.-Col. Henry Thomas, O.B.E., T.D</Text>
+      <Title>(cont.)</Title>
+      <Text>: Gilling, Lt.-Col. Henry Thomas, O.B.E., T.D</Text>
       <PageNumber>3494</PageNumber>
     </MainItem>
     <SubItem>
@@ -962,8 +967,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertfordshire</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Jdhn Babington Gilliat, D.S.O, T.D</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Jdhn Babington Gilliat</Forenames>
+      <Text>, D.S.O, T.D</Text>
       <PageNumber>2966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,11 +1029,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Earl of. Albemarle, . K.C.V.O., C.B., T.D</Text>
+      <Title>Earl</Title>
+      <Text>of. Albemarle, . K.C.V.O., C.B., T.D</Text>
       <PageNumber>3723</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Alden</Key>

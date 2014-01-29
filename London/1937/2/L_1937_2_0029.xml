@@ -226,7 +226,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Britton</Key>
-      <Text>Col. (hon. Brig.) Edwin John James, D.S.O., M.I.Mech.E., Commander, Order of the British Empire</Text>
+      <Title>Col. (hon. Brig.)</Title>
+      <Forenames>Edwin John James</Forenames>
+      <Text>, D.S.O., M.I.Mech.E., Commander, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +253,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Broke-Smith</Key>
-      <Text>Col. (Hon. Brig.) Philip William Lilian, D.S.O., O.B.E., Companion, Order of the Indian Empire</Text>
+      <Title>Col. (Hon. Brig.)</Title>
+      <Forenames>Philip William Lilian</Forenames>
+      <Text>, D.S.O., O.B.E., Companion, Order of the Indian Empire</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,9 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Budd</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II Bty. Sgt.-Maj. Peter Laing, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II Bty. Sgt.-Maj. Peter Laing, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,8 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burgess</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Cecil Ritchie, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Cecil Ritchie, Officer, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +572,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrows</Key>
-      <Text>Col. (temp. Brig) Hollis Martin, Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig)</Title>
+      <Forenames>Hollis Martin</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,9 +670,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Callingham</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II R.Qrmr. Sgt. Reginald George, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II R.Qrmr. Sgt. Reginald George, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>

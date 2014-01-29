@@ -106,14 +106,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Caulfield</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mearns</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butterworth</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,15 +1354,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Dabiruddin</Key>
-      <Forenames>Ahmad</Forenames>
+      <Title>Ahmad .</Title>
       <PageNumber>6379</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dallip</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... .:</Text>
+      <Title>Singh .</Title>
+      <Text>.. .:</Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>

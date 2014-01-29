@@ -19,8 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Helme, D.S.O., Member, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Helme</Forenames>
+      <Text>, D.S.O., Member, Royal Victorian Order</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,9 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pouncey</Key>
-      <Title>Batt.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. William Henry, Member, Order of the British Empire</Text>
+      <Title>Batt. Sgt.</Title>
+      <Text>-Maj. William Henry, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayleigh</Key>
-      <Text>Lord, Sc.D., F.R.S., Member of the Governing Body of the Imperial College of Science and Technology</Text>
+      <Title>Lord, Sc.</Title>
+      <Forenames>D.</Forenames>
+      <Text>, F.R.S., Member of the Governing Body of the Imperial College of Science and Technology</Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +440,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Commissary) William, Member, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +573,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Anthony Sidney, D.S.O., M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Anthony Sidney</Forenames>
+      <Text>, D.S.O., M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,7 +23,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Taggart</Key>
-      <Text>Maj. (District Offr.) Patrick, Officer, Order of the British Empire</Text>
+      <Title>Maj. (District Offr.)</Title>
+      <Forenames>Patrick</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thankerton</Key>
-      <Text>Lord, Member of Committee of the Privy Council on Official Roll of Baronets „</Text>
+      <Title>Lord</Title>
+      <Text>, Member of Committee of the Privy Council on Official Roll of Baronets „</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,9 +293,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Title>Fit.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (Acting Sqdrn. . Leader) Henry Norman, Member, Order of the British Empire</Text>
+      <Title>Fit. Lt. (Acting Sqdrn. . Leader)</Title>
+      <Forenames>Henry Norman</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,16 +329,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tollerton</Key>
-      <Title>Reg.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. James Gillespie, Member, Order of the British Empire</Text>
+      <Title>Reg. St.</Title>
+      <Text>-Maj. James Gillespie, Member, Order of the British Empire</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tomlin</Key>
-      <Text>Lord, Member of Committee . of the Privy Council on Official Roll of Baronets</Text>
+      <Title>Lord</Title>
+      <Text>, Member of Committee . of the Privy Council on Official Roll of Baronets</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +382,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tovey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Surveyor of Works) Leslie John Bar. rington, P.A.S.I., Member, Order of the British Empire</Text>
+      <Title>Lt. (Surveyor of Works)</Title>
+      <Forenames>Leslie John Bar-</Forenames>
+      <Text>. rington, P.A.S.I., Member, Order of the British Empire</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Travancore</Key>
-      <Text>H.H. the Maharaja, of, Knight Grand Commander, Order of the Indian Empire</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja, of, Knight Grand Commander, Order of the Indian Empire</Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +532,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedsmuir</Key>
-      <Text>Lord, G.C.M.G., C.H., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lord</Title>
+      <Text>, G.C.M.G., C.H., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Viesey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Ivo Lucius Beresford, K.B.E., C.B., C.M.G., D.S.O., Knight Commander,. Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Ivo Lucius Beresford, K.B.E., C.B., C.M.G., D.S.O., Knight Commander,. Order of the Bath</Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,8 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Jefferson Hirst, Member, Roval Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Jefferson Hirst, Member, Roval Victorian Order</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Text>F. E. ..;</Text>
+      <Text>. F. E. ..;</Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolly</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1170,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knebworth</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>

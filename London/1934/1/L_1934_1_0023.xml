@@ -121,7 +121,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>Col. (temp. Brig.) Robert Heath CLE., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Robert Heath</Forenames>
+      <Text>CLE., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,8 +221,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayris</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick John, V.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick John</Forenames>
+      <Text>, V.D., Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

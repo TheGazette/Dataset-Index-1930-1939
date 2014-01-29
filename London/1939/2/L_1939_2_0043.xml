@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Speckman</Key>
-      <Forenames>Qr</Forenames>
-      <Text>.-Mr. &amp; Hon. Maj. Carl Rudolph, M.C., Member,; Order of the British Empire</Text>
+      <Title>Qr.</Title>
+      <Text>-Mr. &amp; Hon. Maj. Carl Rudolph, M.C., Member,; Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur C.M.G., D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>C.M.G., D.S.O., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,14 +238,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (local Lt.-Col.) Reginald Herbert Ryrie, M.C, Officer, Order of the British Empire</Text>
+      <Title>Maj. (local Lt.-Col.)</Title>
+      <Forenames>Reginald Herbert Ryrie</Forenames>
+      <Text>, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Sir (Samuel) Findlater, G.C.I.E., K.C.B., C.C.I., Knight Grand Cross, Order of the Bath</Text>
+      <Title>Sir (Samuel)</Title>
+      <Forenames>Find-</Forenames>
+      <Text>later, G.C.I.E., K.C.B., C.C.I., Knight Grand Cross, Order of the Bath</Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,9 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (R.Q.M.S.) Arthur Bertram, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (R.Q.M.S.) Arthur Bertram, Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strallen</Key>
-      <Forenames>Local Lt</Forenames>
-      <Text>.-Col. Victor Albert, Officer, Order of the British Empire</Text>
+      <Forenames>Local</Forenames>
+      <Text>Lt.-Col. Victor Albert, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +451,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) George William, D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>George William</Forenames>
+      <Text>, D.S.O., T.D., Commander, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +523,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Geoffrey St. John Aldersey, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Geoffrey St. John Aldersey, Officer, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,8 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teynham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Cdr. Lord, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>Cdr. Lord, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,8 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Charles Ralfe, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Charles Ralfe, Officer, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thome</Key>
-      <Text>, Maj .-Gen. Augustus Francis Andrew Nicol, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Augustus Francis Andrew Nicol, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>

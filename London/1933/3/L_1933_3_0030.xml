@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stedman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6153</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdy</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twohig</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Feinhols</Key>
-      <Text>, I*</Text>
+      <Forenames>I</Forenames>
+      <Text>*</Text>
       <PageNumber>5048</PageNumber>
       <PageNumber>5048</PageNumber>
     </MainItem>
@@ -633,7 +634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nagina</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larken</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -883,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stavelep</Key>
-      <Text>, .C. M</Text>
+      <Text>.C. M</Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rotherham</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Handley</Key>
-      <Text>, H^ F. B</Text>
+      <Forenames>H</Forenames>
+      <Text>^ F. B</Text>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grantham</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>

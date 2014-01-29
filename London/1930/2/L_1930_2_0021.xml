@@ -102,7 +102,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Text>Capt. (Quartermr.) Frederick, M.C, Member, Order of the British Empire</Text>
+      <Title>Capt. (Quartermr.)</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>, M.C, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,9 +137,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Paymr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (S) Ernest Richard, R.N., Member, Order of the British Empire</Text>
+      <Title>Paymr. Lt. (S)</Title>
+      <Forenames>Ernest Richard</Forenames>
+      <Text>, R.N., Member, Order of the British Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,8 +156,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dare</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Quartermr.) Percy, Member, Order of the British Empire</Text>
+      <Title>Lt. (Quartermr.)</Title>
+      <Forenames>Percy</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,8 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fears</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Laurence Richard, Member, Order of the British Empire</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj. Laurence Richard, Member, Order of the British Empire</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,9 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Title>Maj. and Brevet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. Richard Robert, D. S.O., Officer, Order of the British Empire</Text>
+      <Title>Maj. and Brevet Lt.</Title>
+      <Text>Col. Richard Robert, D. S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCartney</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nepean</Key>
-      <Text>, H: D. H. Y</Text>
+      <Forenames>H</Forenames>
+      <Text>: D. H. Y</Text>
       <PageNumber>8003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheikh-ud-Din</Key>
-      <Forenames>Muzaffar</Forenames>
+      <Title>Muzaffar .</Title>
       <PageNumber>8183</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,14 +569,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Surendropal</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrey</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McAdam</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>, 1. D</Text>
+      <Text>1. D</Text>
       <PageNumber>6565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7689</PageNumber>
     </MainItem>
   </ItemGroup>

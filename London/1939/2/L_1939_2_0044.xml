@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, David Stanley, Officer, Order of the British Empire</Text>
+      <Text>David Stanley, Officer, Order of the British Empire</Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,9 +175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. I D.C.M., Member, Order of (R.S.M.) George Frederick, the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. I D.C.M., Member, Order of (R.S.M.) George Frederick, the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +390,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>, Capt. the Rt. Hon. David Euan, M.C., Minister of Transport</Text>
+      <Title>Capt.</Title>
+      <Text>the Rt. Hon. David Euan, M.C., Minister of Transport</Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward-Walker</Key>
-      <Text>,' Lt.-Col. &amp; Bt. Col. Arthur Westfield, T.D., Officer, Order of the British Empire</Text>
+      <Text>' Lt.-Col. &amp; Bt. Col. Arthur Westfield, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +580,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Wi l l iam Hutcheson, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Wi l l iam Hutcheson, Officer, Order of the British Empire</Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weavers</Key>
-      <Text>, Maj. (Bt. Lt.-Col.) Thomas Edgar, Officer, Order of the British Empire</Text>
+      <Title>Maj. (Bt. Lt.-Col.)</Title>
+      <Forenames>Thomas Edgar</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,9 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (C.S.M.) Sidney George, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (C.S.M.) Sidney George, Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>

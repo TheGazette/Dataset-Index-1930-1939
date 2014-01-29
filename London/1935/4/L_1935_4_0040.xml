@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanshawe</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, Sir R Forestier-Walker, Sir G. F. Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>Forestier-Walker, Sir G. F. Bt</Text>
       <PageNumber>6902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>6218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullerton-Carnegie</Key>
-      <Text>, J E</Text>
+      <Forenames>J</Forenames>
+      <Text>E</Text>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallie</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>, 0. H</Text>
+      <Text>0. H</Text>
       <PageNumber>7954</PageNumber>
       <PageNumber>7954</PageNumber>
     </MainItem>
@@ -813,7 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Text>, R, M. ,)»</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. ,)»</Text>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +896,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6139</PageNumber>
       <PageNumber>6139</PageNumber>
     </MainItem>
@@ -1142,7 +1147,8 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>8403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halligan</Key>
-      <Text>,j. T</Text>
+      <Text>j. T</Text>
       <PageNumber>8357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hargreaves</Key>
-      <Text>,. P. W</Text>
+      <Text>. P. W</Text>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henry</Key>
-      <Text>, R, N</Text>
+      <Forenames>R</Forenames>
+      <Text>, N</Text>
       <PageNumber>6544</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -344,7 +344,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>, Maj. (local Lt.-Col.) John Howard, M.C, Officer, Order of the British Empire</Text>
+      <Title>Maj. (local Lt.-Col.)</Title>
+      <Forenames>John Howard</Forenames>
+      <Text>, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stampe</Key>
-      <Text>, (William Leonard, Companion, Order of the Indian Empire</Text>
+      <Text>(William Leonard, Companion, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,9 +403,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanway</Key>
-      <Title>Capt. and Brev.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Henry, D. S.O., M.C, Officer, Order of the British Empire</Text>
+      <Title>Capt. and Brev. Lt.-Col.</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, D. S.O., M.C, Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>. Miss Amy Georgina Mary, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>Miss Amy Georgina Mary, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

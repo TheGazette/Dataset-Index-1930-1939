@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Text>,. N. V</Text>
+      <Text>. N. V</Text>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roberts</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>, I, W. McD</Text>
+      <Forenames>I</Forenames>
+      <Text>, W. McD</Text>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>,H. C-. C</Text>
+      <Text>H. C-. C</Text>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>

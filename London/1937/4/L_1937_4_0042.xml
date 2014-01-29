@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell-Muller</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milligan</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moseby</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,8 +473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mottistone</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Rt. Hon. Lord .</Title>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,7 +974,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R J</Text>
+      <Forenames>R</Forenames>
+      <Text>J</Text>
       <PageNumber>6970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickles</Key>
-      <Text>, K: F. T</Text>
+      <Forenames>K</Forenames>
+      <Text>: F. T</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1294,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purvis</Key>
-      <Text>, H A</Text>
+      <Forenames>H</Forenames>
+      <Text>A</Text>
       <PageNumber>6082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rooms</Key>
-      <Text>, EN</Text>
+      <Text>EN</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>

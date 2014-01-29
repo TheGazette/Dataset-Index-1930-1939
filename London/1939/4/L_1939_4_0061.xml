@@ -365,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>7022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,14 +573,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tozer</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1036,7 +1036,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,14 +1102,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arnott</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashcroft</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bective</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>8163</PageNumber>
     </MainItem>
   </ItemGroup>

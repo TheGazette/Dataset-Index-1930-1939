@@ -261,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grunsell</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>, TS</Text>
+      <Text>TS</Text>
       <PageNumber>8176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>, R, M</Text>
+      <Forenames>R</Forenames>
+      <Text>, M</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hook</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liversidge</Key>
-      <Text>, E A</Text>
+      <Forenames>E</Forenames>
+      <Text>A</Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>

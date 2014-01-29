@@ -280,7 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>H. H. B. Clegg-Hill, Hon. G. R. -</Text>
+      <Text>. H. H. B. Clegg-Hill, Hon. G. R. -</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookenden</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +892,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +918,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Delacombe</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +998,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dhrangadhra</Key>
-      <Text>H.H. the Maharaja Shri Sir Ghanshyamsinhji, Ajitsinhji, Maharaja Raj Saheb of</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja Shri Sir Ghanshyamsinhji, Ajitsinhji, Maharaja Raj Saheb of</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickens</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>2554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1171,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond-Hay</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,7 +1616,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T Fitt, P. W</Text>
+      <Forenames>T</Forenames>
+      <Text>Fitt, P. W</Text>
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>

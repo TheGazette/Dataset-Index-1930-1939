@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Sir George Adam, D.D., Chaplain in Ordinary in Scotland, H.M. Household</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Sir George Adam, D.D., Chaplain in Ordinary in Scotland, H.M. Household</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,8 +13,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Frederick Edgar, D.S.O., Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert Freder-</Forenames>
+      <Text>ick Edgar, D.S.O., Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>The Rt. Hon. Earl, K.G., D.S.O., M.C., Member, Coronation Committee</Text>
+      <Title>The Rt. Hon. Earl</Title>
+      <Text>, K.G., D.S.O., M.C., Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,8 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathearn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Calderwood, C.B.E., M.D., F.R.C.S., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Calderwood</Forenames>
+      <Text>, C.B.E., M.D., F.R.C.S., Knight</Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +211,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomlinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William, Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,24 +309,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Vesey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. Osbert Eustace, C.B.E., Gentleman of the Corps</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>Osbert Eustace</Forenames>
+      <Text>, C.B.E., Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Villiers</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Hjyde, T.D., Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Hjyde</Forenames>
+      <Text>, T.D., Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Valentine, C.M.G., D.S.O., M.V.O., Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Valentine</Forenames>
+      <Text>, C.M.G., D.S.O., M.V.O., Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warr</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Charles Laing, D.D., Chaplain in Ordinary in Scotland, H.M:. Household</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Charles Laing, D.D., Chaplain in Ordinary in Scotland, H.M:. Household</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,9 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Title>Sir</Title>
-      <Forenames>John</Forenames>
-      <Text>. K.C.V.O., C.M.G., M.D., Physician in 'Ordinary to Queen Mary</Text>
+      <Title>Sir John.</Title>
+      <Text>K.C.V.O., C.M.G., M.D., Physician in 'Ordinary to Queen Mary</Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
     <SubItem>
@@ -557,7 +563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>The Rt. Hon. Lord, Member, Coronation Committee</Text>
+      <Title>The Rt. Hon. Lord</Title>
+      <Text>, Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>

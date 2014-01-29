@@ -215,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortimer</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>468</PageNumber>
       <PageNumber>1470</PageNumber>
     </MainItem>
@@ -474,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>J. K. R</Text>
+      <Text>. J. K. R</Text>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +578,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkash</Key>
-      <Forenames>Chand</Forenames>
+      <Title>Chand .</Title>
       <PageNumber>1851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaughnessy</Key>
-      <Text>J I</Text>
+      <Forenames>J</Forenames>
+      <Text>I</Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1325,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>C. G</Text>
+      <Text>. C. G</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerville</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1523,7 +1524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarletbn</Key>
-      <Text>F. W</Text>
+      <Text>. F. W</Text>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,7 +1669,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vinycomb</Key>
-      <Text>G B</Text>
+      <Forenames>G</Forenames>
+      <Text>B</Text>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,7 +1693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wain</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2177</PageNumber>
     </MainItem>
   </ItemGroup>

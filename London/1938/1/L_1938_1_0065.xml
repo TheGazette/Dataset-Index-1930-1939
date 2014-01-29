@@ -46,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGovern</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLachlan</Key>
-      <Text>.^.J. A. F</Text>
+      <Text>^.J. A. F</Text>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>. L. G</Text>
+      <Text>L. G</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>, P, M</Text>
+      <Forenames>P</Forenames>
+      <Text>, M</Text>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Text>,, J. H.. ... ..;</Text>
+      <Text>, J. H.. ... ..;</Text>
       <PageNumber>974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1078,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,7 +1597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, J. R</Text>
+      <Text>John, J. R</Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>

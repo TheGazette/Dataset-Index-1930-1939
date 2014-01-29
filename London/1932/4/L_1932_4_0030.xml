@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowley</Key>
-      <Text>K. M</Text>
+      <Text>. K. M</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuthbertson</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dauncey</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +860,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gabriel</Key>
-      <Text>W L. M</Text>
+      <Forenames>W</Forenames>
+      <Text>L. M</Text>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1017,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R Goidschmidt, G. T</Text>
+      <Forenames>R</Forenames>
+      <Text>Goidschmidt, G. T</Text>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>E: H. G</Text>
+      <Forenames>E</Forenames>
+      <Text>: H. G</Text>
       <PageNumber>8034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>W. H</Text>
+      <Text>. W. H</Text>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,8 +1637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillman</Key>
-      <Forenames>It</Forenames>
-      <Text>.. A. E</Text>
+      <Title>It.</Title>
+      <Text>. A. E</Text>
       <PageNumber>7748</PageNumber>
     </MainItem>
   </ItemGroup>

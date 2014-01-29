@@ -259,8 +259,16 @@
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Companion, Order or St. Michael and St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Robert Walter</Forenames>
+      <Text>, C.B.E Companion, Order or St. Michael and St. George</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Teichman</Key>
@@ -335,7 +343,15 @@
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Russell, C.B.E., V.D., M.B., Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tracy-Inglis</Key>
+      <Title>Colonel</Title>
+      <Forenames>Tracy Russell</Forenames>
+      <Text>, C.B.E., V.D., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Trevor</Key>
@@ -392,7 +408,14 @@
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. Mrs., Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vincent</Key>
+      <Forenames>Effie Mary Ann</Forenames>
+      <Text>, . Mrs., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -459,14 +482,14 @@
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Wallas</Key>
-      <Title>Miss</Title>
-      <Forenames>Katharine Talbot</Forenames>
-      <Text>, Commander, Order of the British Empire Waller, Mr. Justice David Grierson, Knight</Text>
+      <Key>
+        <PageNumber>___ ___ ___ ___ ___</PageNumber>
+        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Walkley</Forenames>
+      <Text>, Mildred, Mrs., Member, Order of the British Empire Wallace, John, M.B., Serving Brother, Order of St. John of Jerusalem Wallas Miss Katharine Talbot, Commander, Order of the British Empire Waller, Mr. Justice David Grierson, Knight</Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,8 +504,6 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>British Empire ..</SubCategoryTitle>
-  <SubCategoryTitle>Raymond, M.C., Officer, Order of St. John of Jerusalem ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
@@ -493,9 +514,6 @@
   </ItemGroup>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Companion, Order of St. Michael and St</SubCategoryTitle>
-  <SubCategoryTitle>O.B., O.M.G., Knight Commander, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
   <SubCategoryTitle>Recorder of Newark..</SubCategoryTitle>
 </Index>
 

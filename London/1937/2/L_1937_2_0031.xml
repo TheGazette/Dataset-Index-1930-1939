@@ -97,7 +97,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coombes</Key>
-      <Text>Maj. (Qrmr.) William James. M.B.E.. Officer. Order of the British Empire</Text>
+      <Title>Maj. (Qrmr.)</Title>
+      <Forenames>William James</Forenames>
+      <Text>. M.B.E.. Officer. Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,8 +168,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet . Col. Vere Egerton, O.B.E., T.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet . Col.</Title>
+      <Forenames>Vere Egerton</Forenames>
+      <Text>, O.B.E., T.D., Commander, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,16 +229,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Asst. Commy.) Thomas, Member, Order of the British Empire</Text>
+      <Title>Lt. (Asst. Commy.)</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Henry Fortnom, C.M.G., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Henry Fortnom</Forenames>
+      <Text>, C.M.G., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +280,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (local Lt.-Col.) Matthew Henry, M.C., M.I.Mech.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (local Lt.-Col.)</Title>
+      <Forenames>Matthew Henry</Forenames>
+      <Text>, M.C., M.I.Mech.E., Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +291,9 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Thomas, D.S.O., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Thomas</Forenames>
+      <Text>, D.S.O., Knight</Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -319,8 +327,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Chetwode George Green, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Chetwode George Green</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +344,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crews</Key>
-      <Text>Capt. (Deputy Commy.) Viccars, Member, Order of the British Empire</Text>
+      <Title>Capt. (Deputy Commy.)</Title>
+      <Forenames>Viccars</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,9 +391,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. II, R.Q.M.S. Thomas Charles, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, CI. II, R.Q.M.S. Thomas Charles, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>

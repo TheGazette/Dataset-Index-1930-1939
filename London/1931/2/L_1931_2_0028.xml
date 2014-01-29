@@ -16,8 +16,22 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holmes</Key>
+      <Forenames>John</Forenames>
+      <Text>,Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Holt</Key>
+      <Forenames>Joseph</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoofien</Key>
@@ -169,7 +183,14 @@
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Lady, Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Humphreys</Key>
+      <Forenames>Annie Josephine</Forenames>
+      <Text>, Lady, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -214,7 +235,14 @@
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Huxley</Key>
+      <Forenames>Wilson</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hyamson</Key>
@@ -267,7 +295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ivory</Key>
-      <Text>, 1st Class Staff Sergeant-Major, Charles Ernest, Member, Order of the British Empire</Text>
+      <Text>1st Class Staff Sergeant-Major, Charles Ernest, Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,9 +308,24 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Michael and St</SubCategoryTitle>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Wilfrid Edward Francis</Forenames>
+      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <PageNumber>3626</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jacobs</Key>
+      <Forenames>Harry Arthur</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jaffrey</Key>
@@ -293,7 +336,14 @@
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>James</Key>
+      <Forenames>David John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -333,8 +383,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jobberns</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Joseph Brewer, Dean of Brechin, Officer, Order of the British Empire</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Joseph Brewer, Dean of Brechin, Officer, Order of the British Empire</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +431,14 @@
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Jordan</Key>
+      <Forenames>George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joughin</Key>
@@ -411,7 +468,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Keech</Key>
-      <Text>, Captain (QuarterMaster) James Henry, M.C., Member, Order of the British Empire</Text>
+      <Title>Captain (QuarterMaster)</Title>
+      <Forenames>James Henry</Forenames>
+      <Text>, M.C., Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +509,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, Major (QuarterMaster) George Arthur, Officer, Order of the British Empire</Text>
+      <Title>Major (QuarterMaster)</Title>
+      <Forenames>George Arthur</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +644,15 @@
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Campbell White, M.C., M.B., Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Knox</Key>
+      <Title>Captain</Title>
+      <Forenames>Alexander Campbell White</Forenames>
+      <Text>, M.C., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Koh</Key>

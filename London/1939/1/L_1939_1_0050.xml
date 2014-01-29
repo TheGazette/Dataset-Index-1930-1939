@@ -122,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allendale</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Apsley</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfield</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrs</Key>
-      <Text>E. E</Text>
+      <Text>. E. E</Text>
       <PageNumber>2175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1323,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bewlay</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1563,7 +1563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bilbrough</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,14 +1596,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Birch</Key>
-      <Text>N. B. S</Text>
+      <Text>. N. B. S</Text>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>R. J</Text>
+      <Text>. R. J</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,14 +1617,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Birdwood</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>287</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Birkenhead</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>

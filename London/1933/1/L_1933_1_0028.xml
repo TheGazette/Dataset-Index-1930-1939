@@ -25,7 +25,15 @@
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>K.C.B., C.B.E., Knight Grand Cross, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wilson</Key>
+      <Title>Sir</Title>
+      <Forenames>Horace John</Forenames>
+      <Text>, K.C.B., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <PageNumber>5</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -53,7 +61,13 @@
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>FitzRoy Rhys, Knight Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wingfield</Key>
+      <Text>.Charles John FitzRoy Rhys, Knight Commander, Order of St. Michael and St. George</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
@@ -87,11 +101,10 @@
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Order of St. John of Jerusalem ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Wray</Key>
-      <Text>. Brigadier-General John Cecil, C.B., C.M.G., C.V.O., T.D.. Officer, Order of St. John of Jerusalem</Text>
+      <Key>Worthington</Key>
+      <Text>Evans, Gertrude, Lady, Officer, Order of St. John of Jerusalem ... Wray,. Brigadier-General John Cecil, C.B., C.M.G., C.V.O., T.D.. Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +123,6 @@
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>St. John of Jerusalem ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
@@ -119,7 +131,6 @@
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>St. John of Jerusalem ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Youngs</Key>
@@ -322,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elrington</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,15 +419,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickes</Key>
-      <Forenames>It</Forenames>
-      <Text>. D</Text>
+      <Title>It.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>1429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hilton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,14 +708,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davey</Key>
-      <Text>C G. C</Text>
+      <Forenames>C</Forenames>
+      <Text>G. C</Text>
       <PageNumber>828</PageNumber>
     </MainItem>
   </ItemGroup>

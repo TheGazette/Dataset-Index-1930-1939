@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldecott</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +117,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,14 +205,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cann</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cannam</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caplan</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,14 +363,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +538,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Casey</Key>
-      <Text>C 1</Text>
+      <Forenames>C</Forenames>
+      <Text>1</Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Choules</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1326,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G' H</Text>
+      <Forenames>G</Forenames>
+      <Text>' H</Text>
       <PageNumber>7042</PageNumber>
       <PageNumber>7045</PageNumber>
     </MainItem>
@@ -1758,7 +1760,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7042</PageNumber>
       <PageNumber>7044</PageNumber>
     </MainItem>
@@ -1971,7 +1973,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7047</PageNumber>
     </MainItem>
   </ItemGroup>

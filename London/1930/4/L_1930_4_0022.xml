@@ -339,8 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Oscar Ferris, C.B.E., D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Oscar Ferris</Forenames>
+      <Text>, C.B.E., D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,8 +373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willan</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Capt. R. J., M.V.O., O.B.E., V.D., M.B., F.R.C.S., M.S., Honorary Surgeon to H.M. King</Text>
+      <Title>Surg.</Title>
+      <Text>-Capt. R. J., M.V.O., O.B.E., V.D., M.B., F.R.C.S., M.S., Honorary Surgeon to H.M. King</Text>
       <PageNumber>7889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,6 +406,7 @@
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>MILITARY PROMOTIONS</CategoryTitle>
   <SubSectionTitle>Commands and Staff</SubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -508,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,14 +610,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suther</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6956</PageNumber>
     </MainItem>
   </ItemGroup>

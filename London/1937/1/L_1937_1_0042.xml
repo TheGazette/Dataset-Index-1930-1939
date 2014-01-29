@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haugh</Key>
-      <Text>J. W. N</Text>
+      <Text>. J. W. N</Text>
       <PageNumber>265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Text>C. J</Text>
+      <Text>. C. J</Text>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cantan</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggar</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>, H.R.H. the Prince of</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of</Text>
       <PageNumber>5424</PageNumber>
     </MainItem>
     <SubSectionTitle>Bear Admirals</SubSectionTitle>
@@ -55,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurnell</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,14 +100,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hermon-Hodge</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan-Jones</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +229,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perring</Key>
-      <Text>, HH</Text>
+      <Text>HH</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>, C C. A</Text>
+      <Forenames>C</Forenames>
+      <Text>C. A</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swayne</Key>
-      <Text>, C B. C</Text>
+      <Forenames>C</Forenames>
+      <Text>B. C</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,14 +726,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cashman</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,14 +754,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coombes</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,14 +940,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pert</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,7 +1188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tregillis</Key>
-      <Text>, P W</Text>
+      <Forenames>P</Forenames>
+      <Text>W</Text>
       <PageNumber>5091</PageNumber>
     </MainItem>
   </ItemGroup>

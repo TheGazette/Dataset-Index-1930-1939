@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rumbelow</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scaife</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6613</PageNumber>
       <PageNumber>7517</PageNumber>
     </MainItem>
@@ -375,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skelsey</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Speller</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spinks</Key>
-      <Text>, SirC. W</Text>
+      <Text>SirC. W</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +775,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6821</PageNumber>
       <PageNumber>6821</PageNumber>
     </MainItem>
@@ -1084,7 +1084,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Corr:)</Text>
+      <Title>(Corr:)</Title>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1143,7 +1143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tollemache</Key>
-      <Text>, E ;. D. H</Text>
+      <Forenames>E</Forenames>
+      <Text>;. D. H</Text>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1453,8 @@
       <Key>
         <KeyDitto>___ ———</KeyDitto>
       </Key>
-      <Text>R S</Text>
+      <Forenames>R</Forenames>
+      <Text>S</Text>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walden</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>

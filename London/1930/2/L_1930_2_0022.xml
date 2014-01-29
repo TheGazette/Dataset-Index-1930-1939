@@ -20,7 +20,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>Maj. (Quartermr.) William, M.C., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Quartermr.)</Title>
+      <Forenames>William</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +87,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>Col. (tempy. Brig.) John Frederick Charles, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (tempy. Brig.)</Title>
+      <Forenames>John Frederick Charles</Forenames>
+      <Text>, C.B.E., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,8 +278,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Barre Algernon Highmore, Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Barre Algernon High-</Forenames>
+      <Text>more, Commander, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,9 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Lee</Key>
-      <Title>Maj.</Title>
-      <Forenames>Alfred</Forenames>
-      <Text>. M.C., Officer, Order of the British Empire</Text>
+      <Title>Maj. Alfred.</Title>
+      <Text>M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +398,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Quartermr.) Frederick, D.C.M., Officei, Order of the Britisn Empire</Text>
+      <Title>Lt.-Col. (Quartermr.)</Title>
+      <Forenames>Frederick</Forenames>
+      <Text>, D.C.M., Officei, Order of the Britisn Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>

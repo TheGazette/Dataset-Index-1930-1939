@@ -12,7 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Text>. R. R. M„ ... ...-2735 Osborne, R</Text>
+      <Text>R. R. M„ ... ...-2735 Osborne, R</Text>
       <PageNumber>2493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,14 +133,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>,..J. Q. ./. . ,/.,..^247 rPryer, F. ... ..f . ..V</Text>
+      <Text>..J. Q. ./. . ,/.,..^247 rPryer, F. ... ..f . ..V</Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newniarch</Key>
-      <Text>,. P. ... u ..-.-2303 , Pugh, M. R. D. .v. ,:.-</Text>
+      <Text>. P. ... u ..-.-2303 , Pugh, M. R. D. .v. ,:.-</Text>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,14 +155,13 @@
   <ItemGroup>
     <MainItem>
       <Key>NortK</Key>
-      <Text>.B. s. ::; ..-^.:..-2736 i.. Rayner, T. C .^</Text>
+      <Text>B. s. ::; ..-^.:..-2736 i.. Rayner, T. C .^</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
     <KeyDitto>-</KeyDitto>
     <SubCategoryTitle>©Dwyer; J.-J*</SubCategoryTitle>
-    <SubCategoryTitle>'.V 4077 . vRennie, T . 1;...2737 Oliver-Bellasis, J.</SubCategoryTitle>
     <SubItem>
-      <Text>...li..v.8404 TirW^.N. O. i-</Text>
+      <Text>...li..v.8404 TirW^.N. O. i-.</Text>
       <PageNumber>4077</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -254,10 +253,8 @@
       <PageNumber>4247</PageNumber>
     </MainItem>
     <KeyDitto>___ ...</KeyDitto>
-    <SubCategoryTitle>
-      <Text>. H</Text>
-    </SubCategoryTitle>
     <SubItem>
+      <Text>. H</Text>
       <PageNumber>3227</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -282,17 +279,15 @@
       <Text>„</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
-    <SubCategoryTitle>Rose, I. St. C. ..</SubCategoryTitle>
-    <SubCategoryTitle>Ross, J. F</SubCategoryTitle>
     <SubItem>
-      <Text>.;</Text>
+      <Text>.;.</Text>
       <PageNumber>4077</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rouhdway</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,14 +331,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryder</Key>
-      <Text>. L.C. D</Text>
+      <Text>L.C. D</Text>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saalfeld</Key>
-      <Text>, A: E. ,</Text>
+      <Forenames>A</Forenames>
+      <Text>: E. ,</Text>
       <PageNumber>3404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,11 +359,11 @@
       <PageNumber>2578</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>—— ___ ___ G. R</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Sands</Key>
-      <Text>, M:0</Text>
+      <Forenames>M</Forenames>
+      <Text>:0</Text>
       <PageNumber>2648</PageNumber>
     </MainItem>
   </ItemGroup>

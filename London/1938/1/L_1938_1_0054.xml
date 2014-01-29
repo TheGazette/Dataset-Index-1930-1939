@@ -315,7 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>,. H. M</Text>
+      <Text>. H. M</Text>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hotham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +537,7 @@
     </SubItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>S. A.</Text>
+      <Text>S. A</Text>
       <PageNumber>903</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -574,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibbotson</Key>
-      <Text>, W Ince, B. E. B</Text>
+      <Forenames>W</Forenames>
+      <Text>Ince, B. E. B</Text>
       <PageNumber>1753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkup</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>669</PageNumber>
       <PageNumber>1082</PageNumber>
     </MainItem>
@@ -1206,7 +1207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knollys</Key>
-      <Text>, V.C</Text>
+      <Text>V.C</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Levesley</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1848</PageNumber>
     </MainItem>
   </ItemGroup>

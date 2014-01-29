@@ -27,7 +27,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Text>Major (Qr.-Mr.) Charles, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Major (Qr.-Mr.)</Title>
+      <Forenames>Charles</Forenames>
+      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,8 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harper-Nelson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel John Joseph, O.B.E., M.O., M.D., F.R.C.S. (Edin.), Companion, Order of the Indian Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel John Joseph, O.B.E., M.O., M.D., F.R.C.S. (Edin.), Companion, Order of the Indian Empire</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,8 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel (Hon. Colonel) Donald Reginald Cavendish, D.S.O., E.D., A.D.C., Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel (Hon. Colonel) Donald Reginald Cavendish, D.S.O., E.D., A.D.C., Commander, Order of the British Empire</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,8 +209,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haymes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (local . Capt.) Walter Robert, Member, Order of the British Empire</Text>
+      <Title>Lt. (local . Capt.)</Title>
+      <Forenames>Walter Robert</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hildyard</Key>
-      <Text>Lieut.-Gen. . Sir Reginald J.T., K.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief,! Bermudas or Somers Islands ... -</Text>
+      <Title>Lieut.-Gen.</Title>
+      <Text>. Sir Reginald J.T., K.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief,! Bermudas or Somers Islands ... -</Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,8 +429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Forenames>Gilbert</Forenames>
-      <Text>. . Pitcairn,; CLE., Companion, Order of the Star of India</Text>
+      <Title>Gilbert.</Title>
+      <Text>. Pitcairn,; CLE., Companion, Order of the Star of India</Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +538,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubbard</Key>
-      <Forenames>Skipper Lt</Forenames>
-      <Text>. James William, R.D., Member, Order of the British Empire</Text>
+      <Forenames>Skipper</Forenames>
+      <Text>Lt. James William, R.D., Member, Order of the British Empire</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +578,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>Capt. (Local ' Lt.Colonel) David Arthur, Officer, Order of the British Empire</Text>
+      <Title>Capt. (Local ' Lt.Colonel)</Title>
+      <Forenames>David Arthur</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>

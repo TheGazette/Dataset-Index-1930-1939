@@ -31,28 +31,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Mostyn</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Nettleton</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norbury</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +139,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>K White, L</Text>
+      <Forenames>K</Forenames>
+      <Text>White, L</Text>
       <PageNumber>2898</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beanland</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clemence</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2326</PageNumber>
       <PageNumber>3053</PageNumber>
     </MainItem>
@@ -534,14 +535,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Frankland</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Frith</Key>
-      <Text>O: T</Text>
+      <Forenames>O</Forenames>
+      <Text>: T</Text>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>C E. C</Text>
+      <Forenames>C</Forenames>
+      <Text>E. C</Text>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loup</Key>
-      <Text>L, A</Text>
+      <Forenames>L</Forenames>
+      <Text>, A</Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atma</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosworth</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickens</Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>2774</PageNumber>
     </MainItem>
   </ItemGroup>

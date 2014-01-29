@@ -20,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorman-Smith</Key>
-      <Text>Colonel the' Rt. Hon. Sir Reginald Hugh, Member of H.M. Privy Council</Text>
+      <Title>Colonel</Title>
+      <Text>the' Rt. Hon. Sir Reginald Hugh, Member of H.M. Privy Council</Text>
       <PageNumber>751</PageNumber>
     </MainItem>
     <SubItem>
@@ -182,8 +183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Vivian, M.B.E., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Vivian</Forenames>
+      <Text>, M.B.E., Commander, Order of the British Empire</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,15 +232,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Bertram, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Bertram</Forenames>
+      <Text>, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edgar</Key>
-      <Text>2nd Lt. Alexander Thomson, Member, Order of the British. Empire</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Alexander Thomson</Forenames>
+      <Text>, Member, Order of the British. Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +325,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Element</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qrmr.) (local Captain) Richard, D.C.M., Officer, Order of the British Empire</Text>
+      <Title>Lt. (Qrmr.) (local Captain)</Title>
+      <Forenames>Richard</Forenames>
+      <Text>, D.C.M., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +430,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Evetts</Key>
-      <Text>Col. (temp. Brig.) John Fullerton, C.B.E., M.C., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>John Fullerton</Forenames>
+      <Text>, C.B.E., M.C., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,8 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foulkes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. William Allen, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. William Allen, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,8 +707,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser-Tytler</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Kerr, C.M.G., M.C., Knight Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Kerr</Forenames>
+      <Text>, C.M.G., M.C., Knight Commander, Order of the British Empire</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>

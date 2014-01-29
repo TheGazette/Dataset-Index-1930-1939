@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Text>, o; St. J</Text>
+      <Text>o; St. J</Text>
       <PageNumber>1751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorhead</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, K. A</Text>
+      <Forenames>J</Forenames>
+      <Text>, K. A</Text>
       <PageNumber>1751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>, G n</Text>
+      <Forenames>G</Forenames>
+      <Text>n</Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gascoigne</Key>
-      <Text>,, J. A</Text>
+      <Text>, J. A</Text>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +825,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahony</Key>
-      <Text>. N. E. B. C</Text>
+      <Text>N. E. B. C</Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsdale</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>43</PageNumber>
     </MainItem>
   </ItemGroup>

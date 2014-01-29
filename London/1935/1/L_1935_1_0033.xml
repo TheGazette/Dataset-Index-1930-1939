@@ -266,7 +266,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>, Maj. (Commissary) Matthew, Member, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Matthew</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>,-Maj. Philip Edwin, . M.B.E., Officer, Order of the British Empire</Text>
+      <Text>-Maj. Philip Edwin, . M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,8 +310,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Flt</Forenames>
-      <Text>.-Lt. Wilfred Reid,. . D.F.C., Officer, Order of the. British Empire</Text>
+      <Title>Flt.</Title>
+      <Text>-Lt. Wilfred Reid,. . D.F.C., Officer, Order of the. British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ —'</KeyDitto>
       </Key>
-      <Text>Capt.' Arthur James, M.I.E.E., Officer, Order of the British . Empire</Text>
+      <Title>Capt.</Title>
+      <Text>' Arthur James, M.I.E.E., Officer, Order of the British . Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melchett</Key>
-      <Text>, . Violet . Florence Mabel, Lady, D.B.E.,' Commander, Order of St. John of Jerusalem</Text>
+      <Text>. Violet . Florence Mabel, Lady, D.B.E.,' Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,9 +507,9 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Surg.</Title>
-      <Forenames>Cdr</Forenames>
-      <Text>. (D) Walter Cecil, L.D.S., Officer, Order of the . British Empire .Nash, Ernest Conrad, Member, Order, of the British Empire ... ' ,Neill, Capt. George Johnson, Member,' Order, of the British Empire Nelson, George William, Officer, Order of St. John of Jerusalem ... ... Nettlefold, . Thomas Sydney, Officer Order of the British Empire Newbould, William Harold, H.M.Consul at Senggora Nicholl. Lt.-Col. John Iltyd Dillwyn.J.P., D.L., Member, Order of the British Empire NicollrJones, Miss Sarah, Member, Order of the British Empire ' Nicholson, Col.' (temp. Brig.) Francis Lothian, D.S.O., M.C., Companion, Order</Text>
+      <Title>Surg. Cdr. (D)</Title>
+      <Forenames>Walter Cecil</Forenames>
+      <Text>, L.D.S., Officer, Order of the . British Empire .Nash, Ernest Conrad, Member, Order, of the British Empire ... ' ,Neill, Capt. George Johnson, Member,' Order, of the British Empire Nelson, George William, Officer, Order of St. John of Jerusalem ... ... Nettlefold, . Thomas Sydney, Officer Order of the British Empire Newbould, William Harold, H.M.Consul at Senggora Nicholl. Lt.-Col. John Iltyd Dillwyn.J.P., D.L., Member, Order of the British Empire NicollrJones, Miss Sarah, Member, Order of the British Empire ' Nicholson, Col.' (temp. Brig.) Francis Lothian, D.S.O., M.C., Companion, Order</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

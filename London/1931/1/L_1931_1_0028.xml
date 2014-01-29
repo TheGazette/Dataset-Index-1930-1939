@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perley</Key>
-      <Text>, the Honourable Sir George Balsey, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>the Honourable Sir George Balsey, K.C.M.G., Member of H.M. Privy Council</Text>
       <PageNumber>1</PageNumber>
       <PageNumber>999</PageNumber>
     </MainItem>
@@ -147,8 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Chancellor of the Duchy of Lancaster</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Chancellor of the Duchy of Lancaster</Text>
       <PageNumber>1877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,8 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rivers</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Comm. Arthur Tunna, R.N., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Surg.</Title>
+      <Text>-Comm. Arthur Tunna, R.N., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scorgie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Norman Gibb, C.B.E., Member, 4th class, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Norman Gibb</Forenames>
+      <Text>, C.B.E., Member, 4th class, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

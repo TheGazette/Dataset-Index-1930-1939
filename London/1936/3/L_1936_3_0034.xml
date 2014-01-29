@@ -108,7 +108,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>5188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grimthorpe</Key>
-      <Text>Lord .:</Text>
+      <Title>Lord .</Title>
+      <Text>:</Text>
       <PageNumber>5873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +786,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6077</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -960,7 +962,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>Hon. M. F. F</Text>
+      <Text>Hon. M. F. F.</Text>
       <PageNumber>4886</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1099,7 +1101,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,7 +1701,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macalpine-Leny</Key>
-      <Text>K, H</Text>
+      <Forenames>K</Forenames>
+      <Text>, H</Text>
       <PageNumber>5939</PageNumber>
     </MainItem>
   </ItemGroup>

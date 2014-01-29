@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bateson</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beadon</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>6355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +286,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Correction</Forenames>
+      <Title>Correction .</Title>
       <PageNumber>5760</PageNumber>
     </MainItem>
     <SubItem>
@@ -622,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>, CD. ... '</Text>
+      <Text>CD. ... '</Text>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Birchfield</Key>
-      <Text>, F; E. W</Text>
+      <Forenames>F</Forenames>
+      <Text>; E. W</Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake-Smith</Key>
-      <Text>,. C</Text>
+      <Text>. C</Text>
       <PageNumber>5486</PageNumber>
       <PageNumber>6508</PageNumber>
     </MainItem>
@@ -1610,7 +1611,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E). J</Text>
+      <Forenames>E</Forenames>
+      <Text>). J</Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
     <SubItem>
@@ -1812,7 +1814,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6130</PageNumber>
     </MainItem>
     <SubItem>
@@ -1844,7 +1846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckenham</Key>
-      <Text>, S Buckingham, F. A</Text>
+      <Forenames>S</Forenames>
+      <Text>Buckingham, F. A</Text>
       <PageNumber>5215</PageNumber>
     </MainItem>
   </ItemGroup>

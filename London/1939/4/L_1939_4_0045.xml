@@ -545,7 +545,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +554,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +686,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>I&gt;J</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;J</Text>
       <PageNumber>8576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +804,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7700</PageNumber>
     </MainItem>
   </ItemGroup>

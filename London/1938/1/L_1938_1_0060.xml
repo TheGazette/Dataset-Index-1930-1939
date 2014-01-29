@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ds</Key>
-      <Text>.venport, R. C</Text>
+      <Text>venport, R. C</Text>
       <PageNumber>512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>,, L. S</Text>
+      <Text>, L. S</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Basil</Forenames>
+      <Title>Basil .</Title>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,14 +995,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>. C. W</Text>
+      <Text>C. W</Text>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Healey</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>May</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1668</PageNumber>
     </MainItem>
   </ItemGroup>

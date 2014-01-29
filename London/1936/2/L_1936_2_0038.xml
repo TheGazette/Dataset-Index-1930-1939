@@ -123,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ware</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel and Brevet Colonel Innes Noel, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel and Brevet Colonel Innes Noel, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel John Dallas, D.S.O., J.P., Companion, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel John Dallas, D.S.O., J.P., Companion, Order of the Bath</Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellborne</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Cyril de Montfort, O'.B.E., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Cyril de Montfort, O'.B.E., Companion, Order of the Indian Empire</Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,9 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wenham</Key>
-      <Title>Batty.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Herbert Featherstone, Member, Order of the British Empire</Text>
+      <Title>Batty. Sergt.</Title>
+      <Text>-Maj. Herbert Featherstone, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +304,9 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>Colonel (temp. Brigadier) William Nicholas, D. S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>William Nicholas</Forenames>
+      <Text>, D. S.O., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,9 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wort</Key>
-      <Title>Batty.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Frank James, Member, Order of the British Empire</Text>
+      <Title>Batty. Sergt.</Title>
+      <Text>-Maj. Frank James, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +588,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. John Frederick, M.M., Member, Order of the British Empire</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>John Frederick</Forenames>
+      <Text>, M.M., Member, Order of the British Empire</Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>

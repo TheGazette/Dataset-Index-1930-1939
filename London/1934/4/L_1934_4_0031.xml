@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lajja</Key>
-      <Forenames>Ram</Forenames>
+      <Title>Ram .</Title>
       <PageNumber>6791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>,-J. C</Text>
+      <Text>-J. C</Text>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muhammad</Key>
-      <Forenames>Din</Forenames>
+      <Title>Din .</Title>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muhammad</Key>
-      <Forenames>Zaman</Forenames>
+      <Title>Zaman .</Title>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Narain</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigot</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +558,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shadi</Key>
-      <Forenames>Khan</Forenames>
-      <Text>... '</Text>
+      <Title>Khan .</Title>
+      <Text>.. '</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,14 +587,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shewring</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shoolbred</Key>
-      <Text>, AV. J</Text>
+      <Text>AV. J</Text>
       <PageNumber>6469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>. C. A</Text>
+      <Text>C. A</Text>
       <PageNumber>7685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tobin</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,14 +914,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Albuquerque</Key>
-      <Text>, V. M</Text>
+      <Text>V. M</Text>
       <PageNumber>7160</PageNumber>
       <PageNumber>7130</PageNumber>
     </MainItem>
@@ -964,7 +964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlewood</Key>
-      <Text>, G P</Text>
+      <Forenames>G</Forenames>
+      <Text>P</Text>
       <PageNumber>8462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,7 +1028,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laughland</Key>
-      <Text>. W. W</Text>
+      <Text>W. W</Text>
       <PageNumber>8461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,14 +1049,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morison</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quigley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ajitendu</Key>
-      <Forenames>Gkraverti</Forenames>
+      <Title>Gkraverti .</Title>
       <PageNumber>6470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyes</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7531</PageNumber>
     </MainItem>
   </ItemGroup>

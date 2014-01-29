@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson-Houston</Key>
-      <Text>, j.V</Text>
+      <Text>j.V</Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindsay</Key>
-      <Text>, G M</Text>
+      <Forenames>G</Forenames>
+      <Text>M</Text>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +915,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +980,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompson</Key>
-      <Text>, R, H. D</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. D</Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,7 +1478,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wager</Key>
-      <Text>, E, B</Text>
+      <Forenames>E</Forenames>
+      <Text>, B</Text>
       <PageNumber>6468</PageNumber>
     </MainItem>
   </ItemGroup>

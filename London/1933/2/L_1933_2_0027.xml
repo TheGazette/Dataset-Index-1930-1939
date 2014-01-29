@@ -19,8 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alexander, M.B., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander</Forenames>
+      <Text>, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,17 +51,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Denaro</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Albert, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Albert</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denton</Key>
-      <Title>Coy.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. Frank, Member, Order of the British Empire</Text>
+      <Title>Coy. Sgt.</Title>
+      <Text>-Maj. Frank, Member, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,8 +525,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Adm</Forenames>
-      <Text>. of the Fleet Sir Frederick Laurence, K.C.B., K.C.M.G., Knight Grand Cross, Order of the Bath</Text>
+      <Title>Adm.</Title>
+      <Text>of the Fleet Sir Frederick Laurence, K.C.B., K.C.M.G., Knight Grand Cross, Order of the Bath</Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +543,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Fladgate, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Flad-</Forenames>
+      <Text>gate, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,9 +622,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Coy.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. William, D.C.M., Member, Order of British Empire</Text>
+      <Title>Coy. Sgt.</Title>
+      <Text>-Maj. William, D.C.M., Member, Order of British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>

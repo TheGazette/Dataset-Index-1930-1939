@@ -507,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surtees</Key>
-      <Text>,' A. B!</Text>
+      <Text>' A. B!</Text>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sweeting</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +825,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sysonby</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4576</PageNumber>
       <PageNumber>5754</PageNumber>
     </MainItem>
@@ -911,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot-Rice</Key>
-      <Text>, T&gt;</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1661,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1698,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1825,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T, A</Text>
+      <Forenames>T</Forenames>
+      <Text>, A</Text>
       <PageNumber>5845</PageNumber>
     </MainItem>
   </ItemGroup>

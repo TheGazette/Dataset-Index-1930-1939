@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferguson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,14 +351,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grindley</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkham</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackey</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mandeville</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,14 +1003,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,8 +1039,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mula</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... '</Text>
+      <Title>Singh .</Title>
+      <Text>.. '</Text>
       <PageNumber>1607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neal</Key>
-      <Text>D '</Text>
+      <Forenames>D</Forenames>
+      <Text>'</Text>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1151,7 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>907</PageNumber>
       <PageNumber>907</PageNumber>
     </MainItem>
@@ -1476,7 +1478,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Solly</Key>
-      <Text>A; R</Text>
+      <Forenames>A</Forenames>
+      <Text>; R</Text>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strickland</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suryakant</Key>
-      <Forenames>Kunwar</Forenames>
+      <Title>Kunwar .</Title>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>

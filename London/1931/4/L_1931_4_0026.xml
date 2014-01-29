@@ -115,8 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bower</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander Robert Tatton, M.P. for Cleveland</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander Robert Tatton, M.P. for Cleveland</Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +228,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Bt.-Colonel Douglas Clifton, M.P. for Hexham</Text>
+      <Title>Bt.</Title>
+      <Text>-Colonel Douglas Clifton, M.P. for Hexham</Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +249,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Brig.-General Howard Clifton, M.P. for Newbury</Text>
+      <Title>Brig.</Title>
+      <Text>-General Howard Clifton, M.P. for Newbury</Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Castlereagh</Key>
-      <Text>Viscount, M.P. for Down</Text>
+      <Title>Viscount</Title>
+      <Text>, M.P. for Down</Text>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +669,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Windsor, M.P. for Ludlow</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Wind-</Forenames>
+      <Text>sor, M.P. for Ludlow</Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +765,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connor</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +855,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranborne</Key>
-      <Text>Viscount, M.P. for Dorset Southern</Text>
+      <Title>Viscount</Title>
+      <Text>, M.P. for Dorset Southern</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>

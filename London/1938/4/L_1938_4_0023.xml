@@ -125,7 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Soutar</Key>
-      <Text>, Miss, Bar to the Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Bar to the Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swire</Key>
-      <Text>, Mrs., Bar to the Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar to the Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,14 +265,16 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wakeley</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,14 +324,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetenhall</Key>
-      <Text>, Mrs., Order of Mercy ... ... .-</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy ... ... .-</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wickens</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkin</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bastyan</Key>
-      <Text>, EM .. t</Text>
+      <Text>EM .. t</Text>
       <PageNumber>265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beith</Key>
-      <Text>, [. H</Text>
+      <Text>[. H</Text>
       <PageNumber>6815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunskill</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6501</PageNumber>
       <PageNumber>6815</PageNumber>
     </MainItem>

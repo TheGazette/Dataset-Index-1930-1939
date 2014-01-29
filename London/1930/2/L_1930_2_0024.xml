@@ -11,15 +11,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Levita</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Cecil Bingham, C.B.E., M.V.O., D.L., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Cecil Bing-</Forenames>
+      <Text>ham, C.B.E., M.V.O., D.L., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewin</Key>
-      <Text>Brig. Oen. Henry Frederick Elliott, C.B., C. M.G., Comptroller to Princess Mary, Countess of Harewood</Text>
+      <Title>Brig.</Title>
+      <Text>Oen. Henry Frederick Elliott, C.B., C. M.G., Comptroller to Princess Mary, Countess of Harewood</Text>
       <PageNumber>2717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Logan</Key>
-      <Text>Col. (tempy. Brig.) Francis Douglas, C.M.G., D. S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (tempy. Brig.)</Title>
+      <Forenames>Francis Douglas</Forenames>
+      <Text>, C.M.G., D. S.O., Companion, Order of the Bath</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,8 +152,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McGann</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Herbert, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Her-</Forenames>
+      <Text>bert, Companion, Order of the Indian Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mack</Key>
-      <Text>Warrant Officer, Class I, Regimental Sergt. Maj. Andrew Aitchison, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class I, Regimental Sergt. Maj. Andrew Aitchison, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,8 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacKnight</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John James Thow, V.D., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John James Thow</Forenames>
+      <Text>, V.D., Companion, Order of the Indian Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLaurin</Key>
-      <Text>Warrant Officer, Class I, Regimental Sergt. Maj. James Fred, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class I, Regimental Sergt. Maj. James Fred, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,8 +473,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meadows</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sydney Manvers Woolner, D.S.O., M. R. C S., L.R.C.P., R.A.M.C., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Sydney Manvers Woolner</Forenames>
+      <Text>, D.S.O., M. R. C S., L.R.C.P., R.A.M.C., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>

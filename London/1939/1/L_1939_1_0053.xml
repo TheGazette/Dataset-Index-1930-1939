@@ -331,7 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ebbisham</Key>
-      <Text>Lord... '</Text>
+      <Title>Lord.</Title>
+      <Text>.. '</Text>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1135,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frith</Key>
-      <Text>D. S</Text>
+      <Text>. D. S</Text>
       <PageNumber>612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1585,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>1469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1598,7 +1600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyfe</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>686</PageNumber>
       <PageNumber>2094</PageNumber>
     </MainItem>
@@ -1812,7 +1814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gee</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>129</PageNumber>
       <PageNumber>2174</PageNumber>
     </MainItem>

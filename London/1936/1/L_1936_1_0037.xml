@@ -134,14 +134,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Carfrae</Key>
-      <Text>, CCA</Text>
+      <Text>CCA</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carkeet-James</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamberlain</Key>
-      <Text>, dE. G</Text>
+      <Text>dE. G</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaplin</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>532</PageNumber>
       <PageNumber>909</PageNumber>
     </MainItem>
@@ -512,7 +513,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C F</Text>
+      <Forenames>C</Forenames>
+      <Text>F</Text>
       <PageNumber>1382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +529,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T H</Text>
+      <Forenames>T</Forenames>
+      <Text>H</Text>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clewer</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clubley</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +678,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Constant</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,14 +936,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Corcoran</Key>
-      <Text>. W</Text>
+      <Text>W</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corder</Key>
-      <Text>,M</Text>
+      <Text>M</Text>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corner</Key>
-      <Text>, E, A</Text>
+      <Forenames>E</Forenames>
+      <Text>, A</Text>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Text>, ' R</Text>
+      <Text>' R</Text>
       <PageNumber>1560</PageNumber>
     </MainItem>
   </ItemGroup>

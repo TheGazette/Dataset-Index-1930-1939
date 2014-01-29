@@ -76,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilbury-Pox</Key>
-      <Text>, C a m,p b el 1, M.R.C.S., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>C</Forenames>
+      <Text>a m,p b el 1, M.R.C.S., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +92,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Toller</Key>
-      <Text>, Col. (Hon. Brig.) Hamlet Bush, C.M.G., Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. Brig.)</Title>
+      <Forenames>Ham-</Forenames>
+      <Text>let Bush, C.M.G., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,8 +118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Reginald</Forenames>
-      <Text>. C.B.E., Knight Commander, Order of the Bath Trapnell, John Graham, King's Counsel</Text>
+      <Title>Reginald.</Title>
+      <Text>C.B.E., Knight Commander, Order of the Bath Trapnell, John Graham, King's Counsel</Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,8 +158,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Hugh Stephenson, K.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Hugh Stephenson</Forenames>
+      <Text>, K.B.E., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +175,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Jasper Robert Joly, M.B., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Jasper Robert Joly</Forenames>
+      <Text>, M.B., Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vansittart</Key>
-      <Text>, Sir' Revert Gilbert. K.C.B.. C.Af.G.. M.V.O.. Knight Grnnd -Cross, Order of St. Michael.and St. George</Text>
+      <Title>Sir</Title>
+      <Text>' Revert Gilbert. K.C.B.. C.Af.G.. M.V.O.. Knight Grnnd -Cross, Order of St. Michael.and St. George</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. Oswald, Companion. Order of St. Michael and St. Georee &lt;</Text>
+      <Text>Oswald, Companion. Order of St. Michael and St. Georee &lt;</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Widdowson</Key>
-      <Text>. George Clifford. F.S.T., Officer. Order of the British Empire</Text>
+      <Text>George Clifford. F.S.T., Officer. Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>

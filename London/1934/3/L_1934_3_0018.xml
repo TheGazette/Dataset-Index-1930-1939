@@ -106,7 +106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>Martin Onslow, D.Sc., Ph:D., F.I.C., F.R.S., Knight</Text>
+      <Text>. Martin Onslow, D.Sc., Ph:D., F.I.C., F.R.S., Knight</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Earl of. Member, Royal Commision on Ancient Monuments in Wales and Monmouthshire</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>the Earl of. Member, Royal Commision on Ancient Monuments in Wales and Monmouthshire</Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>Brigadier General Godfrey Dean, C.B.E. D.S.O., Knight</Text>
+      <Title>Brigadier</Title>
+      <Text>General Godfrey Dean, C.B.E. D.S.O., Knight</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,7 +692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>, Grafton Elliot, M.D., Litt.D., D.Sc., F.R.S., F.R.C.P., Knight</Text>
+      <Text>., Grafton Elliot, M.D., Litt.D., D.Sc., F.R.S., F.R.C.P., Knight</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>, 0. CP</Text>
+      <Text>0. CP</Text>
       <PageNumber>7158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cripps</Key>
-      <Text>, T&gt;. S</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. S</Text>
       <PageNumber>8205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofton-Diggius</Key>
-      <Text>, J: C</Text>
+      <Forenames>J</Forenames>
+      <Text>: C</Text>
       <PageNumber>7356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>
-      <Text>,' H. S</Text>
+      <Text>' H. S</Text>
       <PageNumber>8458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>,-M. J</Text>
+      <Text>-M. J</Text>
       <PageNumber>6788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsworthy</Key>
-      <Text>. A. L</Text>
+      <Text>A. L</Text>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>,. R. R</Text>
+      <Text>. R. R</Text>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1178,7 +1180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghulam</Key>
-      <Forenames>Muhd</Forenames>
+      <Title>Muhd .</Title>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>

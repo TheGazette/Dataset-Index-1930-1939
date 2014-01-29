@@ -154,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Croce</Key>
-      <Text>, G_. L. S</Text>
+      <Forenames>G</Forenames>
+      <Text>_. L. S</Text>
       <PageNumber>4918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dadan</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dillon</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1888,7 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellenborough</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4836</PageNumber>
     </MainItem>
   </ItemGroup>

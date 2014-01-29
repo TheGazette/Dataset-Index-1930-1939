@@ -159,7 +159,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>234</PageNumber>
       <PageNumber>379</PageNumber>
     </MainItem>
@@ -391,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogerson</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. George, F. F. B</Text>
+      <Text>George, F. F. B</Text>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>, C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>1060</PageNumber>
       <PageNumber>1060</PageNumber>
     </MainItem>
@@ -923,7 +924,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1205,7 +1207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stemp</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, C C</Text>
+      <Forenames>C</Forenames>
+      <Text>C</Text>
       <PageNumber>1562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sylvester</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>1900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennant</Key>
-      <Text>, C G. I&gt;</Text>
+      <Forenames>C</Forenames>
+      <Text>G. I&gt;</Text>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrell</Key>
-      <Text>, C M. R</Text>
+      <Forenames>C</Forenames>
+      <Text>M. R</Text>
       <PageNumber>821</PageNumber>
     </MainItem>
   </ItemGroup>

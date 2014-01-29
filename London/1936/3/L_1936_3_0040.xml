@@ -426,7 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calcutt</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliwell</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoile</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +909,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>R, G. S</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. S</Text>
       <PageNumber>5539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1251,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>W ;</Text>
+      <Forenames>W</Forenames>
+      <Text>;</Text>
       <PageNumber>5594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foulston</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5594</PageNumber>
     </MainItem>
   </ItemGroup>

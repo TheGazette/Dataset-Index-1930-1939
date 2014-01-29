@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taggart</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adare</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +674,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bareham</Key>
-      <Text>F ,</Text>
+      <Forenames>F</Forenames>
+      <Text>,</Text>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +700,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,7 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1016,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhavnagar</Key>
-      <Text>H.H. the Marahaja Shri Krishna Kumarsinhji Bhavsinjhi, Maharaja of</Text>
+      <Title>H.H.</Title>
+      <Text>the Marahaja Shri Krishna Kumarsinhji Bhavsinjhi, Maharaja of</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1507,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>N ,</Text>
+      <Forenames>N</Forenames>
+      <Text>,</Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunch</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3858</PageNumber>
       <PageNumber>3858</PageNumber>
     </MainItem>
@@ -1642,7 +1645,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadogan</Key>
-      <Text>Earl</Text>
+      <Title>Earl</Title>
       <PageNumber>3186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1747,7 +1750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carew</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3513</PageNumber>
     </MainItem>
   </ItemGroup>

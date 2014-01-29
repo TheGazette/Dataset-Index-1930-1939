@@ -126,7 +126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLaren</Key>
-      <Text>, A D</Text>
+      <Forenames>A</Forenames>
+      <Text>D</Text>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
-      <Text>, McD. B</Text>
+      <Text>McD. B</Text>
       <PageNumber>6505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +399,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6506</PageNumber>
       <PageNumber>8078</PageNumber>
     </MainItem>
@@ -1598,7 +1599,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>

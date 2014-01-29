@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphry</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKinlay</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Needham</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +654,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toovey</Key>
-      <Text>, C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>1132</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,7 +791,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,14 +812,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Agha</Key>
-      <Forenames>Raza</Forenames>
+      <Title>Raza .</Title>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basu</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berrv</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burridge</Key>
-      <Text>. T. F. S</Text>
+      <Text>T. F. S</Text>
       <PageNumber>1501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,7 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>200</PageNumber>
     </MainItem>
   </ItemGroup>

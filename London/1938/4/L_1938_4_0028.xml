@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgins</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hvde-Smith</Key>
-      <Text>, ]. B</Text>
+      <Text>]. B</Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +642,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ireland</Key>
-      <Text>, T&gt;. A</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. A</Text>
       <PageNumber>7191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kafait</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirby-Smith</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lai</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane-Joynt</Key>
-      <Text>, PR</Text>
+      <Text>PR</Text>
       <PageNumber>8179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Livingstone-Learmonth</Key>
-      <Text>, j. s!</Text>
+      <Text>j. s!</Text>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1683,14 +1684,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>,' M. E</Text>
+      <Text>' M. E</Text>
       <PageNumber>7434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,7 +1807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MsrVav-Dick</Key>
-      <Text>, T-</Text>
+      <Text>T-</Text>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>

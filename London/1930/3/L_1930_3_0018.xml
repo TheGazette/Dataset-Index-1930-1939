@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams-Wynn</Key>
-      <Text>, 0. W</Text>
+      <Text>0. W</Text>
       <PageNumber>5093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pooock</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,21 +282,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake-Brockman</Key>
-      <Text>, V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fawcett</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4363</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andersson</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auten</Key>
-      <Text>, G-</Text>
+      <Text>G-</Text>
       <PageNumber>5491</PageNumber>
       <PageNumber>5492</PageNumber>
     </MainItem>
@@ -829,7 +829,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barraclough</Key>
-      <Text>, (E</Text>
+      <Text>(E</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beahan</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beggs</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>

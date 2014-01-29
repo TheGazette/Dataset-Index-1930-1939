@@ -213,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Falak</Key>
-      <Forenames>Sher</Forenames>
+      <Title>Sher .</Title>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,7 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Featherby</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1250,7 +1250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Firbank</Key>
-      <Text>C C</Text>
+      <Forenames>C</Forenames>
+      <Text>C</Text>
       <PageNumber>7862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1357,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>8582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1421,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1665,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1738,7 +1739,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2040,7 +2041,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7171</PageNumber>
     </MainItem>
   </ItemGroup>

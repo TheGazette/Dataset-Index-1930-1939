@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neel</Key>
-      <Text>P. A. B</Text>
+      <Text>. P. A. B</Text>
       <PageNumber>171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,14 +1441,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley-Adams</Key>
-      <Text>D R</Text>
+      <Forenames>D</Forenames>
+      <Text>R</Text>
       <PageNumber>412</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley-Turner</Key>
-      <Text>G, N. J</Text>
+      <Forenames>G</Forenames>
+      <Text>, N. J</Text>
       <PageNumber>717</PageNumber>
     </MainItem>
   </ItemGroup>

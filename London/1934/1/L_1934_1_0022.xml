@@ -6,7 +6,9 @@
   </SubItem>
   <SubItem>
     <Text>Stafford and Derby, Counties of</Text>
-    <PageNumber>1951</PageNumber>
+    <CategoryTitle>
+      <PageNumber>1951</PageNumber>
+    </CategoryTitle>
   </SubItem>
   <ItemGroup>
     <MainItem>
@@ -57,8 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Forenames>State</Forenames>
-      <Text>..of, and Dependencies;' Governor, Captain/the Rt. Hon. Lord/ Huntingfield, K.C.M/G</Text>
+      <Title>State .</Title>
+      <Text>.of, and Dependencies;' Governor, Captain/the Rt. Hon. Lord/ Huntingfield, K.C.M/G</Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +98,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>H.R.H. the Duke of, Equerry to, Lt. the Hon. Thomas William Edward Coke York Cathedral, transfer of property of Vicars Choral, scheme submitted</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, Equerry to, Lt. the Hon. Thomas William Edward Coke York Cathedral, transfer of property of Vicars Choral, scheme submitted</Text>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,8 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borroughs</Key>
-      <Forenames>Rev</Forenames>
-      <Text>. ' Benjamin Victor, M.A., appointed to the District of St. Cuthbert, Wrose</Text>
+      <Title>Rev.</Title>
+      <Text>' Benjamin Victor, M.A., appointed to the District of St. Cuthbert, Wrose</Text>
       <PageNumber>2034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,11 +187,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Rev</Forenames>
-      <Text>. -Frederick James, appointed to the District of St. Mark, Stockland Green</Text>
+      <Title>Rev.</Title>
+      <Text>-Frederick James, appointed to the District of St. Mark, Stockland Green</Text>
       <PageNumber>830</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>

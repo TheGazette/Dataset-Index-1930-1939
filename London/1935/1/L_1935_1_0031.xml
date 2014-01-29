@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemsted</Key>
-      <Text>, -Rupert William, O.B.E., Companion, Order . of St. Michael and St. George</Text>
+      <Text>-Rupert William, O.B.E., Companion, Order . of St. Michael and St. George</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hezlet</Key>
-      <Text>, Maj .-Gen. Robert Knox, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Robert Knox, C.B.E., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,8 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Eric Perceval, Member, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Eric Perceval, Member, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,15 +304,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Edmund Hugh, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Edmund Hugh, Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Houde</Key>
-      <Text>, , Camillien, Com' mander, Order of the British Empire</Text>
+      <Text>, Camillien, Com' mander, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>

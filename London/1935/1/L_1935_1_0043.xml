@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Odium</Key>
-      <Forenames>It</Forenames>
-      <Text>. E</Text>
+      <Title>It.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Orme</Key>
-      <Text>, T&gt;. F</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. F</Text>
       <PageNumber>1905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +239,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H! V. ' '</Text>
+      <Forenames>H</Forenames>
+      <Text>! V. ' '</Text>
       <PageNumber>770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkin</Key>
-      <Text>,' E</Text>
+      <Text>' E</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Text>, .W. G. H</Text>
+      <Text>.W. G. H</Text>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,14 +627,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pocock</Key>
-      <Text>,. H. I</Text>
+      <Text>. H. I</Text>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pollen</Key>
-      <Text>,..H. C. H. . ... Pollock, A. J. C</Text>
+      <Text>..H. C. H. . ... Pollock, A. J. C</Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +746,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J! C. '</Text>
+      <Forenames>J</Forenames>
+      <Text>! C. '</Text>
       <PageNumber>1556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolls</Key>
-      <Text>, -S. P. A</Text>
+      <Text>-S. P. A</Text>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,8 +1447,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadhu</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... ... .„</Text>
+      <Title>Singh .</Title>
+      <Text>.. ... .„</Text>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Text>,. R. MacK</Text>
+      <Text>. R. MacK</Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1575,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>1021</PageNumber>
       <PageNumber>1021</PageNumber>
     </MainItem>
@@ -1582,7 +1586,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>R, W. H. . . :</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. H. . . :</Text>
       <PageNumber>548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seymour</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1683,8 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>W;</Text>
+      <Forenames>W</Forenames>
+      <Text>;</Text>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,7 +1728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shewell</Key>
-      <Text>,E. L</Text>
+      <Text>E. L</Text>
       <PageNumber>1981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorten</Key>
-      <Text>, R, N. J</Text>
+      <Forenames>R</Forenames>
+      <Text>, N. J</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2029,7 +2036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyly</Key>
-      <Text>, RP.' P697</Text>
+      <Text>RP.' P697</Text>
       <PageNumber>919</PageNumber>
     </MainItem>
     <SubItem>

@@ -170,7 +170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smedley</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1198,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartholomew</Key>
-      <Text>Sir W H</Text>
+      <Title>Sir</Title>
+      <Forenames>W</Forenames>
+      <Text>H</Text>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>L. I. F. ... I</Text>
+      <Text>. L. I. F. ... I</Text>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bathe</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>891</PageNumber>
       <PageNumber>1082</PageNumber>
     </MainItem>

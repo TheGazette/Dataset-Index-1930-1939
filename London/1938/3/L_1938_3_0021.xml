@@ -28,7 +28,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakiston-Houston</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellie</Key>
-      <Text>G. B..J</Text>
+      <Text>.G. B..J</Text>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +692,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Amherst</Key>
-      <Text>Lord ... Anderson, A. S</Text>
+      <Title>Lord .</Title>
+      <Text>.. Anderson, A. S</Text>
       <PageNumber>4242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +711,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angwin</Key>
-      <Text>J. B. P. Anne, H. O. C</Text>
+      <Text>. J. B. P. Anne, H. O. C</Text>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -941,14 +942,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ardern</Key>
-      <Text>C 5°i</Text>
+      <Forenames>C</Forenames>
+      <Text>5°i</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +997,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F, R</Text>
+      <Forenames>F</Forenames>
+      <Text>, R</Text>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1251,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>B -</Text>
+      <Forenames>B</Forenames>
+      <Text>-</Text>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atwill</Key>
-      <Text>R. C</Text>
+      <Text>.R. C</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1309,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G C</Text>
+      <Forenames>G</Forenames>
+      <Text>C</Text>
       <PageNumber>4332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1417,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bakewell</Key>
-      <Text>R, ,H</Text>
+      <Forenames>R</Forenames>
+      <Text>, ,H</Text>
       <PageNumber>5892</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
@@ -1537,7 +1544,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>A, E. ,</Text>
+      <Forenames>A</Forenames>
+      <Text>, E. ,</Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>

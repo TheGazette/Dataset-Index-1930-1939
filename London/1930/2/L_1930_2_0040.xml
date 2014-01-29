@@ -492,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ram</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Luce</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vilhers</Key>
-      <Text>G: B</Text>
+      <Forenames>G</Forenames>
+      <Text>: B</Text>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hensman</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1345,7 +1346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Akhurst</Key>
-      <Text>A; F</Text>
+      <Forenames>A</Forenames>
+      <Text>; F</Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>M:</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>3878</PageNumber>
     </MainItem>
   </ItemGroup>

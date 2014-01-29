@@ -42,7 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humble</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4165</PageNumber>
       <PageNumber>4165</PageNumber>
     </MainItem>
@@ -382,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +444,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedv</Key>
-      <Text>K. E</Text>
+      <Text>. K. E</Text>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>R. H</Text>
+      <Text>. R. H</Text>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenna</Key>
-      <Text>A. F</Text>
+      <Text>. A. F</Text>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKnight</Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maw</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>2561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1476,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1557,7 +1560,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>

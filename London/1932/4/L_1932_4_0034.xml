@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>C B</Text>
+      <Forenames>C</Forenames>
+      <Text>B</Text>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Karam</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +188,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Leplar</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>H</Text>
+      <Text>. H</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +293,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, G</Text>
+      <Forenames>J</Forenames>
+      <Text>, G</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madiratta</Key>
-      <Text>P. S</Text>
+      <Text>. P. S</Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>T. S. S</Text>
+      <Text>. T. S. S</Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,14 +357,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Messerbv</Key>
-      <Text>F. W</Text>
+      <Text>. F. W</Text>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mihan</Key>
-      <Forenames>Sinsh</Forenames>
+      <Title>Sinsh .</Title>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moran</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osilw</Key>
-      <Text>J. D</Text>
+      <Text>. J. D</Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitts</Key>
-      <Text>S. T</Text>
+      <Text>. S. T</Text>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,14 +737,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Riddell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>J. C</Text>
+      <Text>. J. C</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,7 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansar</Key>
-      <Text>Chand</Text>
+      <Text>. Chand</Text>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +859,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sau</Key>
-      <Forenames>Tu</Forenames>
+      <Title>Tu .</Title>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sen</Key>
-      <Text>P. C</Text>
+      <Text>. P. C</Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,7 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shah</Key>
-      <Forenames>Nawaz</Forenames>
+      <Title>Nawaz .</Title>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,8 +986,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Li</Forenames>
-      <Text>. i&gt;. Solano, B. A</Text>
+      <Title>Li.</Title>
+      <Text>i&gt;. Solano, B. A</Text>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,21 +1263,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyatt</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wynter</Key>
-      <Text>P. M. D</Text>
+      <Text>.P. M. D</Text>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Zamir</Key>
-      <Text>Ahmad Hashmi</Text>
+      <Text>. Ahmad Hashmi</Text>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
-      <Text>W,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>6775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,7 +1700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>E, T</Text>
+      <Forenames>E</Forenames>
+      <Text>, T</Text>
       <PageNumber>7506</PageNumber>
       <PageNumber>7507</PageNumber>
     </MainItem>
@@ -1705,7 +1709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>E: D</Text>
+      <Forenames>E</Forenames>
+      <Text>: D</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>

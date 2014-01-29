@@ -27,7 +27,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilde</Key>
-      <Text>Warrant Officer, Class I, Sergt.-Maj. Alfred George, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class I, Sergt.-Maj. Alfred George, Member, Order of the British Empire</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +187,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Gen. Roger Cochrane, D.S.O., M.C. Companion, Order of the Bath</Text>
+      <Title>Maj.</Title>
+      <Text>Gen. Roger Cochrane, D.S.O., M.C. Companion, Order of the Bath</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3163</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hilton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mucklow</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Low</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,7 +1045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rait-Kerr</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>

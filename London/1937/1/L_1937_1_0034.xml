@@ -52,8 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Leon, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Leon</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,8 +98,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Reginald, C.V.O., O.B.E., Ensign, Yeoman of the Guard</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Reginald</Forenames>
+      <Text>, C.V.O., O.B.E., Ensign, Yeoman of the Guard</Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leane</Key>
-      <Text>Brig.-Gen Raymond Lionel, C.B C.M.G., D.S.O., Officer, Order of . St. John of Jerusalem ... Lear, George Sidney, Serving Brother, Order of St. . John of Jerusalem Learmonth, James Rognvald, Ch.M., F.R.C.S.E., Surgeon in Scotland to H.M. Household</Text>
+      <Title>Brig.</Title>
+      <Text>-Gen Raymond Lionel, C.B C.M.G., D.S.O., Officer, Order of . St. John of Jerusalem ... Lear, George Sidney, Serving Brother, Order of St. . John of Jerusalem Learmonth, James Rognvald, Ch.M., F.R.C.S.E., Surgeon in Scotland to H.M. Household</Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +183,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Albert George, O.B.E., M.C., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Albert George</Forenames>
+      <Text>, O.B.E., M.C., Knight</Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -199,23 +203,27 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>Sir (William) Clare,</Text>
+      <Title>Sir (William)</Title>
+      <Forenames>Clare</Forenames>
+      <Text>,</Text>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leeson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. La veil Hall, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>La</Forenames>
+      <Text>veil Hall, M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. Piers Walter, C.I.E., C.M.G.. M.V.O., O.B.E., Equerry to His Majesty</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>Piers Walter</Forenames>
+      <Text>, C.I.E., C.M.G.. M.V.O., O.B.E., Equerry to His Majesty</Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,8 +372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick Hamilton, D.S.O., Gentleman f the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick Hamilton</Forenames>
+      <Text>, D.S.O., Gentleman f the Corps</Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>

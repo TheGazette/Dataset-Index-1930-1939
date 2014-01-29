@@ -105,7 +105,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Metcalfe</Key>
-      <Text>H: J. Le S</Text>
+      <Forenames>H</Forenames>
+      <Text>: J. Le S</Text>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chard</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prowse</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirker</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>L. J</Text>
+      <Text>. L. J</Text>
       <PageNumber>3905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Switzer</Key>
-      <Text>J, St. V. (S)</Text>
+      <Forenames>J</Forenames>
+      <Text>, St. V. (S)</Text>
       <PageNumber>4140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoar</Key>
-      <Text>A. W. (S)</Text>
+      <Text>. A. W. (S)</Text>
       <PageNumber>2938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +679,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>IF. G. (S)</Text>
+      <Text>. IF. G. (S)</Text>
       <PageNumber>3905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1065,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R;</Text>
+      <Forenames>R</Forenames>
+      <Text>;</Text>
       <PageNumber>2388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,14 +1080,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bottomley</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1189,7 +1192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldfinch</Key>
-      <Text>A:</Text>
+      <Forenames>A</Forenames>
+      <Text>:</Text>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,14 +1277,14 @@
   <ItemGroup>
     <MainItem>
       <Key>McKinven</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3904</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacLean</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2788</PageNumber>
     </MainItem>
   </ItemGroup>

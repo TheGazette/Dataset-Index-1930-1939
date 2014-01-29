@@ -1,24 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="025" pageID="https://www.thegazette.co.uk/id/London/index/year/1936/volume/4/page/025" pagePDF="https://www.thegazette.co.uk/London/index/year/1936/volume/4/page/025" pageRDF="https://www.thegazette.co.uk/London/index/year/1936/volume/4/page/025?view=linked-data" type="index" volume="4" year="1936">
+  <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
   <SubItem>
     <Text>Member, Coronation Com mittee</Text>
     <PageNumber>8187</PageNumber>
   </SubItem>
-  <ItemGroup>
-    <MainItem>
-      <Key>York</Key>
-      <Text>, the Most Rev. the Archbishop of: Member, Coronation Claims Committee</Text>
-      <PageNumber>8185</PageNumber>
-    </MainItem>
-    <SubItem>
-      <Text>Member, Coronation Committee</Text>
-      <PageNumber>8187</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Member, Coronation Committee .:</Text>
-      <PageNumber>8187</PageNumber>
-    </SubItem>
-  </ItemGroup>
+  <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
+  <SubItem>
+    <Text>Member, Coronation Committee</Text>
+    <PageNumber>8187</PageNumber>
+  </SubItem>
+  <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
+  <SubItem>
+    <Text>Member, Coronation Committee .:</Text>
+    <PageNumber>8187</PageNumber>
+  </SubItem>
   <CategoryTitle>MILITARY PROMOTIONS</CategoryTitle>
   <SubSectionTitle>Commands and Staff</SubSectionTitle>
   <ItemGroup>
@@ -142,7 +138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beirne</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6432</PageNumber>
       <PageNumber>6538</PageNumber>
     </MainItem>
@@ -164,7 +160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duke</Key>
-      <Text>, .T. P ...TMt* Earle, E. G. ... ... -.. '</Text>
+      <Text>.T. P ...TMt* Earle, E. G. ... ... -.. '</Text>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evetts</Key>
-      <Text>,. J. F</Text>
+      <Text>. J. F</Text>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gambier-Parry</Key>
-      <Text>, . M. D</Text>
+      <Text>. M. D</Text>
       <PageNumber>7492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verschoyle-Campbell</Key>
-      <Text>, W H. MoN</Text>
+      <Forenames>W</Forenames>
+      <Text>H. MoN</Text>
       <PageNumber>6908</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsfold</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>8008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osmond</Key>
-      <Text>, SR... Artillery, School of.'</Text>
+      <Text>SR... Artillery, School of.'</Text>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neville</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKerchar</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1540,7 +1537,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fayle</Key>
-      <Text>, L, R. E</Text>
+      <Forenames>L</Forenames>
+      <Text>, R. E</Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>

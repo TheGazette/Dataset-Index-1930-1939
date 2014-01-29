@@ -60,7 +60,14 @@
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>K.C., Companion Order of St. Michael and St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Carrara</Key>
+      <Forenames>Arthur Charles</Forenames>
+      <Text>, K.C., Companion Order of St. Michael and St. George</Text>
+      <PageNumber>3627</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
@@ -74,8 +81,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The Most Rev</Forenames>
-      <Text>. William Marlborough, D.D., Knight 'Commander, Order of St. Michael and St. George</Text>
+      <Forenames>The Most</Forenames>
+      <Text>Rev. William Marlborough, D.D., Knight 'Commander, Order of St. Michael and St. George</Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,8 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander The Hon. Henry Mitford Amherst, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander The Hon. Henry Mitford Amherst, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +151,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Companion, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chalkley</Key>
+      <Forenames>Harry Owen</Forenames>
+      <Text>, C.B.E. Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>3627</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
@@ -196,7 +210,6 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Henry Crofton, C.V.O., Groom in Waiting to H.M</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Chill</Key>
@@ -262,7 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbett</Key>
-      <Text>, (Walter Palmer, Commander, Order of the British Empire</Text>
+      <Text>(Walter Palmer, Commander, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,8 +287,17 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order oi St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Miss</Title>
+      <Forenames>Mary Smallwood</Forenames>
+      <Text>, Officer, Order oi St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>

@@ -105,7 +105,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Text>, Col. (temp. Brig.) Henry Clare, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Henry Clare</Forenames>
+      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,8 +185,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. James Sands, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>James Sands</Forenames>
+      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +273,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanshawe</Key>
-      <Text>, Col. (temp. Brig.) Lionel Arthur, D.S.O., O. B. E., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Lionel Arthur</Forenames>
+      <Text>, D.S.O., O. B. E., Commander, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,8 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawcus</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Harold Ben, C. B., C.M.G., D.S.O., D. C.L., M.B., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Harold Ben, C. B., C.M.G., D.S.O., D. C.L., M.B., Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>. Lt.-Com. George William, R.N. (retired), Officer, Order of the British Empire</Text>
+      <Text>Lt.-Com. George William, R.N. (retired), Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,8 +347,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Harrington, O.B.E., T.D., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Har-</Forenames>
+      <Text>rington, O.B.E., T.D., M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>, Maj .-Gen. John George, O.B.E., M.B., R.A.M.C.. Officer, Order of St. John of Jerusalem</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. John George, O.B.E., M.B., R.A.M.C.. Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,14 +485,15 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Text>, H.R.H. Prince, K.G., G. C.V.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>, K.G., G. C.V.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>, loan Gwilym, C.B.E., Companion, Order of the Bath</Text>
+      <Text>loan Gwilym, C.B.E., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,8 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gollcher</Key>
-      <Forenames>Elisa</Forenames>
-      <Text>. Mrs., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Elisa. Mrs.</Title>
+      <Text>, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Giray</Key>
-      <Text>, iMjiss Jean, Member, Order of the British Empire</Text>
+      <Text>iMjiss Jean, Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

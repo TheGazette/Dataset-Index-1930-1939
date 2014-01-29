@@ -69,7 +69,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knebworth</Key>
-      <Text>Viscount, M.P. for Hitohin</Text>
+      <Title>Viscount</Title>
+      <Text>, M.P. for Hitohin</Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +85,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Knox</Key>
-      <Text>Maj .-Gen. Sir Alfred William Fortescue, K.C.B., C.M.G., M.P. for Wycombe</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Sir Alfred William Fortescue, K.C.B., C.M.G., M.P. for Wycombe</Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lymington</Key>
-      <Text>Viscount, M.P. for Basingstoke</Text>
+      <Title>Viscount</Title>
+      <Text>, M.P. for Basingstoke</Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,8 +675,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Manningham-Buller</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Mervyn Edward, Bart., M.P. for Northampton</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Mervyn Edward</Forenames>
+      <Text>, Bart., M.P. for Northampton</Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,8 +748,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, M.P. for East Ham, North</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, M.P. for East Ham, North</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,8 +849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monsell</Key>
-      <Forenames>Cdr</Forenames>
-      <Text>. the Rt. Hon. Sir Bolton Meredith Evres, G.B.E., K.N., First Lord of the Admiralty</Text>
+      <Title>Cdr.</Title>
+      <Text>the Rt. Hon. Sir Bolton Meredith Evres, G.B.E., K.N., First Lord of the Admiralty</Text>
       <PageNumber>7240</PageNumber>
     </MainItem>
     <SubItem>

@@ -102,7 +102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culliford</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1332,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenhalgh</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanworth</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>7189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Text>, N M</Text>
+      <Forenames>N</Forenames>
+      <Text>M</Text>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>

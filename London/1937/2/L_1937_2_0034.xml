@@ -186,7 +186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>H.R.H. the Duke of, K.G., K.T., K.P., G.C.M.G., G.C.V.O., High Steward of the Borough of New Windsor</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, K.G., K.T., K.P., G.C.M.G., G.C.V.O., High Steward of the Borough of New Windsor</Text>
       <PageNumber>2190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +293,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John de la Hay, O.B.E., M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>de la Hay, O.B.E., M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,8 +337,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. (hon. Gen.) Sir Hubert de la Poer, G.C.M.G., K.C.B., K.C.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. (hon. Gen.) Sir Hubert de la Poer, G.C.M.G., K.C.B., K.C.V.O., Knight Grand Cross, Order of the Bath</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowrie</Key>
-      <Text>Rt. Hon. Alexander Gore Arkwright, Lord, V.C., G.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
+      <Text>. Rt. Hon. Alexander Gore Arkwright, Lord, V.C., G.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>3506</PageNumber>
     </MainItem>
@@ -396,9 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grantham</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II, R.Q.M.S. Harry, D.C.M., Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II, R.Q.M.S. Harry, D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +415,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gravely</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Brian, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Brian</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,8 +581,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Cruickshank, C.M.G., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Cruickshank</Forenames>
+      <Text>, C.M.G., Commander, Order of the British Empire</Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>

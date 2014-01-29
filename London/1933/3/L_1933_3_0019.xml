@@ -61,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>Brig. Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
+      <Title>Brig.</Title>
+      <Text>Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewlett</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Ghani</Forenames>
+      <Title>Ghani .</Title>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Afif</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashraf</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>5117</PageNumber>
     </MainItem>
   </ItemGroup>

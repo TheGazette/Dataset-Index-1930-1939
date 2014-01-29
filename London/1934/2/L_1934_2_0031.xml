@@ -12,7 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>Maj. (Quarter-Master) John William, T.D., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Quarter-Master)</Title>
+      <Forenames>John William</Forenames>
+      <Text>, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,8 +173,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Bernard Rawdon, CLE., . O.B.E., D. S.O., Knight Com. , mander, Order of St. Michaeland St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Bernard Raw-</Forenames>
+      <Text>don, CLE., . O.B.E., D. S.O., Knight Com. , mander, Order of St. Michaeland St. George</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>Brig.-Gen.. Godfrey Dean, C.B.E.., D.S.O., R.E. (Retd.), Knight</Text>
+      <Title>Brig.-Gen.</Title>
+      <Text>. Godfrey Dean, C.B.E.., D.S.O., R.E. (Retd.), Knight</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,9 +242,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Title>Wrrnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>.,. Class II,. Staff Quart. .Sgt. Sidney Edward, Member, Order of the British Em, pire .... „.'</Text>
+      <Title>Wrrnt. Off.</Title>
+      <Text>,. Class II,. Staff Quart. .Sgt. Sidney Edward, Member, Order of the British Em, pire .... „.'</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,8 +278,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Fossett, O.B.E., Officer, Order of St. John of Jerusalem ...'</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Fossett</Forenames>
+      <Text>, O.B.E., Officer, Order of St. John of Jerusalem ...'</Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollo</Key>
-      <Text>and . Dunning, ^ Lord, C. B., Lieutenant, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
+      <Text>. and . Dunning, ^ Lord, C. B., Lieutenant, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rush</Key>
-      <Text>Ernest Cecil, Member, Order of the .. British Empire</Text>
+      <Text>. Ernest Cecil, Member, Order of the .. British Empire</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salem</Key>
-      <Text>..Subbukrishna Subrahmanyam, Member, .Order of the British Empire</Text>
+      <Text>...Subbukrishna Subrahmanyam, Member, .Order of the British Empire</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +442,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Satow</Key>
-      <Text>Sir -HaroldEustace, K.C.M.G., O.B.E., H.M. Consul-General at Tunis</Text>
+      <Title>Sir</Title>
+      <Text>-HaroldEustace, K.C.M.G., O.B.E., H.M. Consul-General at Tunis</Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Savantvadi</Key>
-      <Text>Maj.. H.. H. Raje Bahadur Shrimant Khem Savant Bhonsle, alias Bapu Saheb, Raja of, Knight Commander, Order of the-Star of India</Text>
+      <Title>Maj.</Title>
+      <Text>. H.. H. Raje Bahadur Shrimant Khem Savant Bhonsle, alias Bapu Saheb, Raja of, Knight Commander, Order of the-Star of India</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,8 +509,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Duncan</Forenames>
-      <Text>. .Campbell, . Litt.D., . F.R.S.C., F.R.S.L. Companion, Order of. St: Michael and St. George</Text>
+      <Title>Duncan .</Title>
+      <Text>.Campbell, . Litt.D., . F.R.S.C., F.R.S.L. Companion, Order of. St: Michael and St. George</Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +530,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. Lord ' Henry, Lieutenant, King's Bodyguard for, Scotland (Royal Company of Archers)</Text>
+      <Title>Col. Lord</Title>
+      <Text>' Henry, Lieutenant, King's Bodyguard for, Scotland (Royal Company of Archers)</Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +540,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) Ray. mond Somerville, Com. panion, Order of the . Indian Empire</Text>
+      <Title>Col. (temp. Brig.) Ray.</Title>
+      <Text>mond Somerville, Com. panion, Order of the . Indian Empire</Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +587,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftesbury</Key>
-      <Text>Brig.-Gen. the Earl of, K.P., G.O.V.O., C.B.E., P.C.; Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Brig.-Gen.</Title>
+      <Text>the Earl of, K.P., G.O.V.O., C.B.E., P.C.; Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>

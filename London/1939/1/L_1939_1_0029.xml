@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gabriel</Key>
-      <Forenames>Sqdri</Forenames>
-      <Text>.-Ldr. Christopher Parton, Officer, Order of the British Empire</Text>
+      <Title>Sqdri.</Title>
+      <Text>-Ldr. Christopher Parton, Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,8 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gagnon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henri, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henri</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,8 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt!-Col. Edward Norman, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt!-Col. Edward Norman, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,8 +216,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Girouard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Rene Arthur de la Bruere, V.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Rene Arthur</Forenames>
+      <Text>de la Bruere, V.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>H.R.H. the Duke of, K.G.; K.T., K.P., G.C.M.G., G.C.V.O., Grand Prior of the Order of the Hospital of St. John of Jerusalem</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, K.G.; K.T., K.P., G.C.M.G., G.C.V.O., Grand Prior of the Order of the Hospital of St. John of Jerusalem</Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +261,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. William Wellington, C.B., CM.G., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. William Wellington, C.B., CM.G., Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goudie</Key>
-      <Text>The Hon. George Louis, M.L.C., Knight</Text>
+      <Text>.The Hon. George Louis, M.L.C., Knight</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,8 +413,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Vivian Beaconsfield, M.C., Commander, Order, of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Vivian Beacons-</Forenames>
+      <Text>field, M.C., Commander, Order, of the British Empire</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>

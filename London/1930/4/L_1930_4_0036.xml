@@ -103,7 +103,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>R Kennedy, F. F</Text>
+      <Forenames>R</Forenames>
+      <Text>Kennedy, F. F</Text>
       <PageNumber>6959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +577,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6958</PageNumber>
       <PageNumber>6959</PageNumber>
     </MainItem>
@@ -760,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickersgill</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>7339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomasson</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1274,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,7 +1350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>Cyril</Forenames>
+      <Title>Cyril .</Title>
       <PageNumber>6599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1359,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7692</PageNumber>
     </MainItem>
   </ItemGroup>

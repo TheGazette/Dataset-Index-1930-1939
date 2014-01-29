@@ -76,7 +76,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6556</PageNumber>
       <PageNumber>6556</PageNumber>
     </MainItem>
@@ -175,7 +175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphries</Key>
-      <Text>., G. F</Text>
+      <Text>, G. F</Text>
       <PageNumber>8207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,14 +319,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T E. J</Text>
+      <Forenames>T</Forenames>
+      <Text>E. J</Text>
       <PageNumber>6180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kingston-McCloughry</Key>
-      <Text>,</Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>. H. G</Text>
+      <Text>H. G</Text>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. E. M</Text>
+      <Text>E. M</Text>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +537,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Redington</Key>
-      <Text>, P\</Text>
+      <Forenames>P</Forenames>
+      <Text>\</Text>
       <PageNumber>8058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,7 +1601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winch</Key>
-      <Text>, C E. B</Text>
+      <Forenames>C</Forenames>
+      <Text>E. B</Text>
       <PageNumber>8389</PageNumber>
     </MainItem>
   </ItemGroup>

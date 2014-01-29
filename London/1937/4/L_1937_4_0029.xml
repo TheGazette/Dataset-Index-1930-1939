@@ -24,14 +24,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridger</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7739</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromley</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooks</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +134,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler-Henderson</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>8000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carslake</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casse</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chavasse</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1901,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbank</Key>
-      <Text>, C A. H</Text>
+      <Forenames>C</Forenames>
+      <Text>A. H</Text>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>

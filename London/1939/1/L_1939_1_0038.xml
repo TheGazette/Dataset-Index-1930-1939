@@ -344,7 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhurst</Key>
-      <Text>F; N. St. J</Text>
+      <Forenames>F</Forenames>
+      <Text>; N. St. J</Text>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolnough</Key>
-      <Text>G. F</Text>
+      <Text>. G. F</Text>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,14 +1410,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1548</PageNumber>
     </MainItem>
   </ItemGroup>
   <SectionTitle>Royal Military College</SectionTitle>
   <SectionTitle>Anti-Aircraft Defence School</SectionTitle>
   <SectionTitle>Armoured Fighting Vehicles School</SectionTitle>
-  <SubCategoryTitle>Cantrell, H. 757 Gough, J. T 461 Hayward, S. D. ... 461 Jackson, A. C. 1069</SubCategoryTitle>
   <SectionTitle>Artillery School</SectionTitle>
 </Index>
 

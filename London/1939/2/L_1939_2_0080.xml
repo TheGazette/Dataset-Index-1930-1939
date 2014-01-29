@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>. R. A</Text>
+      <Text>R. A</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, ftf. G</Text>
+      <Text>ftf. G</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillmah</Key>
-      <Text>. H. H</Text>
+      <Text>H. H</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keddie</Key>
-      <Text>,; R. G, D. ,</Text>
+      <Text>; R. G, D. ,</Text>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxleyi</Key>
-      <Text>.O. A. G</Text>
+      <Text>O. A. G</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarthy</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>,. W. B</Text>
+      <Text>. W. B</Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +971,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Biden-Steele</Key>
-      <Text>, K;</Text>
+      <Forenames>K</Forenames>
+      <Text>;</Text>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1098,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Freebairn</Key>
-      <Text>, N;A</Text>
+      <Forenames>N</Forenames>
+      <Text>;A</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward-Butt</Key>
-      <Text>, J; T.;</Text>
+      <Forenames>J</Forenames>
+      <Text>; T.;</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>

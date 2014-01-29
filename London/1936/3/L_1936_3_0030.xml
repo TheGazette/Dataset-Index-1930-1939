@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mavfield</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +708,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldray</Key>
-      <Text>E: N</Text>
+      <Forenames>E</Forenames>
+      <Text>: N</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,7 +1402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orwin</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parbury</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,7 +1805,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J! W</Text>
+      <Forenames>J</Forenames>
+      <Text>! W</Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1904,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>V V</Text>
+      <Forenames>V</Forenames>
+      <Text>V</Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1949,7 +1952,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1995,7 +1998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5254</PageNumber>
     </MainItem>
   </ItemGroup>

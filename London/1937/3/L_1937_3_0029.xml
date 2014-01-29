@@ -114,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>, G ;</Text>
+      <Forenames>G</Forenames>
+      <Text>;</Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bampfield</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cam</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooch</Key>
-      <Text>, R F. S</Text>
+      <Forenames>R</Forenames>
+      <Text>F. S</Text>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurbachan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stedman</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4420</PageNumber>
       <PageNumber>4420</PageNumber>
     </MainItem>
@@ -1257,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5180</PageNumber>
       <PageNumber>5181</PageNumber>
     </MainItem>
@@ -1603,7 +1605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleman</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,7 +1619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conder</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>

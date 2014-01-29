@@ -191,7 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Keyes</Key>
-      <Text>, Admiral of the Fleet Sir Roger John Brownlow,, Bart., M.P. for Portsmouth, North</Text>
+      <Title>Admiral</Title>
+      <Text>of the Fleet Sir Roger John Brownlow,, Bart., M.P. for Portsmouth, North</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,15 +275,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. and Most Pov. Cosmo Gordon. D.D., ' Lord High Almoner</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>and Most Pov. Cosmo Gordon. D.D., ' Lord High Almoner</Text>
       <PageNumber>6470</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lansbury</Key>
-      <Text>, The Rt. Hon. George, M.P. for Bow and Bromley</Text>
+      <Text>The Rt. Hon. George, M.P. for Bow and Bromley</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees-Jones</Key>
-      <Text>, »John, M.P. for Blackley ..:</Text>
+      <Text>»John, M.P. for Blackley ..:</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,8 +489,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Llewelliu</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Jestyn, M.P. for-Uxbridge</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Jestyn</Forenames>
+      <Text>, M.P. for-Uxbridge</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,14 +514,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Locker-Lamipson</Key>
-      <Text>, . Oliver Stillingfleet, ' IM.P. for Handsworth</Text>
+      <Text>. Oliver Stillingfleet, ' IM.P. for Handsworth</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Loder</Key>
-      <Text>, .The Hon. John De Vere, M.P. for Lewes</Text>
+      <Text>.The Hon. John De Vere, M.P. for Lewes</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McConnell</Key>
-      <Text>,' Sir Joseph, Bart., M.P. for Antrim ...-'</Text>
+      <Text>' Sir Joseph, Bart., M.P. for Antrim ...-'</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>, . Gordon, M.P. for Ince ... .:</Text>
+      <Text>. Gordon, M.P. for Ince ... .:</Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwen</Key>
-      <Text>,-John Helias Finnie,' M:P. for Berwick and Haddington</Text>
+      <Text>-John Helias Finnie,' M:P. for Berwick and Haddington</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macnamara</Key>
-      <Text>, Captain ' John Robert Jermain, M.P. for Chelmsford . ... -</Text>
+      <Title>Captain</Title>
+      <Text>' John Robert Jermain, M.P. for Chelmsford . ... -</Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Makins</Key>
-      <Text>, Brig.-Gen. . Ernest, C.B., D.S.O., M.P. for Knutsford</Text>
+      <Title>Brig.-Gen.</Title>
+      <Text>. Ernest, C.B., D.S.O., M.P. for Knutsford</Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,8 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manningham-Bhller</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. . Sir Mervyn Edward, Bart., M.P. for North^ ampton</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>. Sir Mervyn Edward, Bart., M.P. for North^ ampton</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>

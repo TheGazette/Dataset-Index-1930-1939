@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ilifi</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolly</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawton</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +618,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J: T</Text>
+      <Forenames>J</Forenames>
+      <Text>: T</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grave</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chown</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowlishaw</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodridge</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoskison</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,14 +493,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Piper</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +832,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>R, H. A</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. A</Text>
       <PageNumber>2316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodrich</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pridie</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whiting</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1419,7 +1420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>W ,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>2439</PageNumber>
     </MainItem>
   </ItemGroup>

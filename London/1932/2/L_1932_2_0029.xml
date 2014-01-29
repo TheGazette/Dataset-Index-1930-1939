@@ -18,17 +18,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Hon. Col.) David, V.D., Companion^ Order of the Bath</Text>
+      <Title>Lt.-Col. (Hon. Col.)</Title>
+      <Forenames>David</Forenames>
+      <Text>, V.D., Companion^ Order of the Bath</Text>
       <PageNumber>3670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Makeham</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. I, Regmtl. Serg.-Maj. Cyril Herbert, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, CI. I, Regmtl. Serg.-Maj. Cyril Herbert, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,8 +42,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alexander Wyndham, Member, Fourth Class, Royal Victorian Order ... ..;</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander Wyndham</Forenames>
+      <Text>, Member, Fourth Class, Royal Victorian Order ... ..;</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,9 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsh</Key>
-      <Title>Maj. and Bt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Jeremy, Taylor, C.M.G., Officer, Order of the British Empire</Text>
+      <Title>Maj. and Bt. Lt.-Col.</Title>
+      <Forenames>Jeremy</Forenames>
+      <Text>, Taylor, C.M.G., Officer, Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +333,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>Maj .-Gen. the Hon. Sir Newton James. K.C.M.G.. V.E., Steward. , and Bailiff of the. Chiltern Hundreds</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. the Hon. Sir Newton James. K.C.M.G.. V.E., Steward. , and Bailiff of the. Chiltern Hundreds</Text>
       <PageNumber>2210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,8 +417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, D. S.O., Knight Commander,. Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, D. S.O., Knight Commander,. Royal Victorian Order</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>

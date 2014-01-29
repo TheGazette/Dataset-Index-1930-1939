@@ -75,7 +75,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tallents</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temkin</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +160,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Titchfield</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Topley</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trevenen</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veitch</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrick</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitwill</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McHardy</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +884,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>, I). J</Text>
+      <Forenames>I</Forenames>
+      <Text>). J</Text>
       <PageNumber>7770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birchall</Key>
-      <Text>. J. R</Text>
+      <Text>J. R</Text>
       <PageNumber>6430</PageNumber>
       <PageNumber>6430</PageNumber>
     </MainItem>
@@ -1320,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grey</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,7 +1509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>. C. G</Text>
+      <Text>C. G</Text>
       <PageNumber>7110</PageNumber>
       <PageNumber>7111</PageNumber>
     </MainItem>
@@ -1656,7 +1657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nickerson</Key>
-      <Text>, 'W. H. S</Text>
+      <Text>'W. H. S</Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1821,7 +1822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6430</PageNumber>
     </MainItem>
   </ItemGroup>

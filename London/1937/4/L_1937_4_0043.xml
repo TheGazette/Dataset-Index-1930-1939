@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selwyn</Key>
-      <Text>,. H. M</Text>
+      <Text>. H. M</Text>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +177,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R; C</Text>
+      <Forenames>R</Forenames>
+      <Text>; C</Text>
       <PageNumber>6616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G: P</Text>
+      <Forenames>G</Forenames>
+      <Text>: P</Text>
       <PageNumber>6824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strachan</Key>
-      <Text>, T&gt;. A</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. A</Text>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +854,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>,' A. L</Text>
+      <Text>' A. L</Text>
       <PageNumber>7352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +900,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1019,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veevers-Carter</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1885,7 +1888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingfield</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>

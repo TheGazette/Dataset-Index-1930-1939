@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shelley</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,9 +122,10 @@
       <Text>de M</Text>
       <PageNumber>1555</PageNumber>
     </MainItem>
-    <SubSectionTitle>Engineer Captains</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Engineer Captains</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Engineer Captains.</Text>
       <PageNumber>59</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -146,7 +147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,14 +231,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dendy</Key>
-      <Text>,..R. J. R</Text>
+      <Text>..R. J. R</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>BVans-Jjombe</Key>
-      <Text>,. E. M</Text>
+      <Text>. E. M</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes-Hallett</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Duff</Key>
-      <Text>,. R. T</Text>
+      <Text>. R. T</Text>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thruston</Key>
-      <Text>, E, W</Text>
+      <Forenames>E</Forenames>
+      <Text>, W</Text>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,7 +724,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitaker</Key>
-      <Text>, G, C. F</Text>
+      <Forenames>G</Forenames>
+      <Text>, C. F</Text>
       <PageNumber>842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,7 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunwich</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loehnis</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbury</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coote</Key>
-      <Text>,. J. R</Text>
+      <Text>. J. R</Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>, AA .;</Text>
+      <Text>AA .;</Text>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>,..A. J</Text>
+      <Text>..A. J</Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Veryard</Key>
-      <Text>, E,.T</Text>
+      <Forenames>E</Forenames>
+      <Text>,.T</Text>
       <PageNumber>1981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>,.R. W</Text>
+      <Text>.R. W</Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mould</Key>
-      <Text>, .H</Text>
+      <Text>.H</Text>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>, R A</Text>
+      <Forenames>R</Forenames>
+      <Text>A</Text>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubbs</Key>
-      <Text>,. R. F:</Text>
+      <Text>. R. F:</Text>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,14 +1309,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Farley</Key>
-      <Text>,.J. W</Text>
+      <Text>.J. W</Text>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,9 +1399,10 @@
       <Forenames>E.</Forenames>
       <PageNumber>458</PageNumber>
     </MainItem>
-    <SubSectionTitle>Engineer Lieutenants</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Engineer Lieutenants</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Engineer Lieutenants.</Text>
       <PageNumber>842</PageNumber>
     </SubItem>
   </ItemGroup>

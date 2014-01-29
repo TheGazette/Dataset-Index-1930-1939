@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,14 +483,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, C</Text>
+      <Forenames>R</Forenames>
+      <Text>, C</Text>
       <PageNumber>3049</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Text>Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>2598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +893,7 @@
       <Key>
         <KeyDitto>___ ___ —</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2824</PageNumber>
       <PageNumber>2824</PageNumber>
     </MainItem>
@@ -1003,7 +1005,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R, P. M</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. M</Text>
       <PageNumber>2319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brunskill</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2824</PageNumber>
       <PageNumber>3864</PageNumber>
     </MainItem>
@@ -1805,7 +1808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burn</Key>
-      <Text>S, ...</Text>
+      <Forenames>S</Forenames>
+      <Text>, ...</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -664,7 +664,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cecil</Key>
-      <Text>, Hon. H: K. A</Text>
+      <Title>Hon.</Title>
+      <Forenames>H</Forenames>
+      <Text>: K. A</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Checkley</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1033,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockcroft</Key>
-      <Text>, E: B—</Text>
+      <Forenames>E</Forenames>
+      <Text>: B—</Text>
       <PageNumber>6018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldstream</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>5386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1419,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G L</Text>
+      <Forenames>G</Forenames>
+      <Text>L</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalby</Key>
-      <Text>, T G</Text>
+      <Forenames>T</Forenames>
+      <Text>G</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,14 +1597,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dancer</Key>
-      <Text>, TB</Text>
+      <Text>TB</Text>
       <PageNumber>4882</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daniel</Key>
-      <Text>, t. W</Text>
+      <Text>t. W</Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kharegat</Key>
-      <Text>. M. D</Text>
+      <Text>M. D</Text>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +23,6 @@
       <PageNumber>4445</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>___ C. F</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -118,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinmont</Key>
-      <Text>. P. D. C</Text>
+      <Text>P. D. C</Text>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ktirton</Key>
-      <Forenames>Hi</Forenames>
+      <Title>Hi.</Title>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyd</Key>
-      <Text>. J. P</Text>
+      <Text>J. P</Text>
       <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leith-Buchanan</Key>
-      <Text>, D-. G. J</Text>
+      <Text>D-. G. J</Text>
       <PageNumber>355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +956,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1042,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>. C. V</Text>
+      <Text>C. V</Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>

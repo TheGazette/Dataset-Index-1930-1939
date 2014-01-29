@@ -648,8 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigtown</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of Stair, D.S.O</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of Stair, D.S.O</Text>
       <PageNumber>2665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +751,6 @@
       <PageNumber>2237</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
@@ -821,7 +820,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aslin</Key>
-      <Text>(London), notice</Text>
+      <Title>(London)</Title>
+      <Text>, notice</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>

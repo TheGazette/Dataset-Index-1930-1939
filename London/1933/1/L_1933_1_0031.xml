@@ -198,14 +198,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Duesbury</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>51</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dugdale</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +221,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eldridge</Key>
-      <Text>W, J</Text>
+      <Forenames>W</Forenames>
+      <Text>, J</Text>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +430,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +601,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairfield</Key>
-      <Text>V,</Text>
+      <Forenames>V</Forenames>
+      <Text>,</Text>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortescuo</Key>
-      <Text>Earl</Text>
+      <Title>Earl .</Title>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>51</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1541,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>G: G</Text>
+      <Forenames>G</Forenames>
+      <Text>: G</Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1884,7 +1887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harkirat</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1913,7 +1916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harnarian</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>742</PageNumber>
     </MainItem>
   </ItemGroup>

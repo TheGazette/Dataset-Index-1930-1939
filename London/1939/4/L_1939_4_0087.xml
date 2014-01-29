@@ -86,7 +86,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1386,7 +1386,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1413,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,7 +1843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>R: F</Text>
+      <Forenames>R</Forenames>
+      <Text>: F</Text>
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>

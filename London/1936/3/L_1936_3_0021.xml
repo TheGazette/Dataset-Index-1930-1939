@@ -64,8 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William</Text>
+      <Title>Lt.-Col. William .</Title>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +116,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Humphrey Gilbert, M.C., Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Humphrey Gilbert</Forenames>
+      <Text>, M.C., Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +367,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewart</Key>
-      <Text>The Rt. Hon. Lord, Member, Coronation Committee</Text>
+      <Title>The Rt. Hon. Lord</Title>
+      <Text>, Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
     <SubItem>
@@ -378,7 +379,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Text>Sir (Frederick) Stanley, K.C.B., K.C.V.O., K.B.EI., Mi.D., Surgeon Apothecary to His Majesty and Apothecary to the Household</Text>
+      <Title>Sir (Frederick)</Title>
+      <Forenames>Stan-</Forenames>
+      <Text>ley, K.C.B., K.C.V.O., K.B.EI., Mi.D., Surgeon Apothecary to His Majesty and Apothecary to the Household</Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
     <SubItem>
@@ -546,8 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Alfred Charles Eustace, C.M.G., M.C., D.D., Chaplain, H.M. House\ hold '</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Alfred Charles Eustace, C.M.G., M.C., D.D., Chaplain, H.M. House\ hold '</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>

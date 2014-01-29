@@ -319,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McMullen</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>, C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murgatroyd</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +709,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perring</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,14 +1127,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilling</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8125</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Piatt</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pomeroy</Key>
-      <Text>, LI. H</Text>
+      <Text>LI. H</Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,14 +1368,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rintoul</Key>
-      <Text>, A Rivett-Carnac, T. S</Text>
+      <Forenames>A</Forenames>
+      <Text>Rivett-Carnac, T. S</Text>
       <PageNumber>6541</PageNumber>
       <PageNumber>7232</PageNumber>
     </MainItem>
@@ -1391,7 +1393,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C L. C</Text>
+      <Forenames>C</Forenames>
+      <Text>L. C</Text>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,7 +1850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shipley</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1958,7 +1961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>

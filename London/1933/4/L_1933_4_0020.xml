@@ -74,18 +74,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, Rev. Canon Alfred Carey Wollaston, M.A., Chaplain to H.M. the King</Text>
+      <Text>Rev. Canon Alfred Carey Wollaston, M.A., Chaplain to H.M. the King</Text>
       <PageNumber>6689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. Sir George Adam, D.D., Chaplainin-Ordinary in Scotland to H.M. the King</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. Sir George Adam, D.D., Chaplainin-Ordinary in Scotland to H.M. the King</Text>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
@@ -131,8 +132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ash</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Ernest Arthur, D.S.O., Unofficial Member of the Federal Council of the Federated Malay States</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Ernest Arthur</Forenames>
+      <Text>, D.S.O., Unofficial Member of the Federal Council of the Federated Malay States</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brabourne</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, M.C., Additional Knight Grand Commander Order of the Indian Empire</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, M.C., Additional Knight Grand Commander Order of the Indian Empire</Text>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brecknock</Key>
-      <Text>, the Countess of, Order of Mercy</Text>
+      <Text>the Countess of, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Text>, the Marchioness, Order of Mercy</Text>
+      <Text>the Marchioness, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>

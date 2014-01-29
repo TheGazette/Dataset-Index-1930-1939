@@ -69,7 +69,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>Maj. (Quarter-Master) William Henry, Officer, Order of the British Empire</Text>
+      <Title>Maj. (Quarter-Master)</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacAlister</Key>
-      <Text>(George) Ian, Knight</Text>
+      <Title>(George)</Title>
+      <Forenames>Ian</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Text>Maj .-Gen. Andrew Jameson, D.S.O., D.CJM., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Andrew Jameson, D.S.O., D.CJM., Companion, Order of the Bath</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,8 +202,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric Dighton, D.S.O., Officer, Order of St. John of . Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric Dighton</Forenames>
+      <Text>, D.S.O., Officer, Order of St. John of . Jerusalem</Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +490,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meredith</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Christian, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Christian</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,8 +540,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Forenames>Cpt</Forenames>
-      <Text>. (Direc. of Music) George John, L.R.A.M., Member, Order of the British Empire</Text>
+      <Title>Cpt. (Direc. of Music)</Title>
+      <Forenames>George John</Forenames>
+      <Text>, L.R.A.M., Member, Order of the British Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Molson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert, C.M.G., M.C., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert</Forenames>
+      <Text>, C.M.G., M.C., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,8 +663,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Forenames>Flt</Forenames>
-      <Text>.-Lt. Alexander Hutchinson, Member, Order of the British . Empire .,</Text>
+      <Title>Flt.</Title>
+      <Text>-Lt. Alexander Hutchinson, Member, Order of the British . Empire .,</Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meares</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parrett</Key>
-      <Text>, E ,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynell</Key>
-      <Text>. R. C</Text>
+      <Text>R. C</Text>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +523,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seorgie</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +903,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S J C</Text>
+      <Forenames>S</Forenames>
+      <Text>J C</Text>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,7 +1072,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinder</Key>
-      <Text>. F. N</Text>
+      <Text>F. N</Text>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Upton</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,7 +1302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitford</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,17 +1493,23 @@
       <Forenames>E. L.</Forenames>
       <PageNumber>3919</PageNumber>
     </MainItem>
-    <CategoryTitle>LIEUTENANCIES OF COUNTIES</CategoryTitle>
-    <SectionTitle>Deputy Lieutenants</SectionTitle>
-    <SubCategoryTitle>
-      <SubItem>
-        <Text>Eustace, Adm. John Bridges</Text>
-        <PageNumber>3490</PageNumber>
-      </SubItem>
-    </SubCategoryTitle>
+  </ItemGroup>
+  <CategoryTitle>LIEUTENANCIES OF COUNTIES</CategoryTitle>
+  <SectionTitle>Deputy Lieutenants</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Berks</Key>
+      <Text>: Cayley, Maj .-Gen. Sir Walter de Sausmarez, K.O.M.G., C.B</Text>
+      <PageNumber>3490</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Eustace, Adm. John Bridges</Text>
+      <PageNumber>3490</PageNumber>
+    </SubItem>
     <SubItem>
       <Text>
         <PageNumber>3490</PageNumber>
+        <SubCategoryTitle>Smith, Brig.-Gen</SubCategoryTitle>
       </Text>
       <PageNumber>3490</PageNumber>
     </SubItem>
@@ -1513,12 +1521,19 @@
       <Text>, J.P</Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
-    <SubCategoryTitle>Igglesden, Sir Charles ... 3147 Lynden-Bell, Maj.-Gen</SubCategoryTitle>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kent</Key>
+      <Text>: Igglesden, Sir Charles</Text>
+      <PageNumber>3147</PageNumber>
+    </MainItem>
+    <SubCategoryTitle>Lynden-Bell, Maj.-Gen</SubCategoryTitle>
     <SubItem>
       <Text>Lynden-Bell, Maj.-Gen. Sir Arthur Lynden, K.C.B K.C.M.G</Text>
+      <PageNumber>3147</PageNumber>
     </SubItem>
     <SubCategoryTitle>
-      <PageNumber>3147</PageNumber>
       <SubItem>
         <Text>Passby, Col. Richard James</Text>
         <PageNumber>3147</PageNumber>

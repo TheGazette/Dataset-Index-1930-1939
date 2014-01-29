@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macara</Key>
-      <Text>, A-</Text>
+      <Text>A-</Text>
       <PageNumber>3383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCreton</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie-Stobie</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLean</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +419,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McMullan</Key>
-      <Text>, F :</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>2257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +717,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +747,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,7 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mead</Key>
-      <Text>, S Meade, J. A</Text>
+      <Forenames>S</Forenames>
+      <Text>Meade, J. A</Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ .</KeyDitto>
@@ -1045,7 +1047,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Micklem</Key>
-      <Text>, R Miles, A. G. N</Text>
+      <Forenames>R</Forenames>
+      <Text>Miles, A. G. N</Text>
       <PageNumber>3549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>

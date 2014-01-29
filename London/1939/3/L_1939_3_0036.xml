@@ -291,7 +291,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitefoord</Key>
-      <Text>, A -</Text>
+      <Forenames>A</Forenames>
+      <Text>-</Text>
       <PageNumber>5748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Text>, TH. H</Text>
+      <Text>TH. H</Text>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +972,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1034,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1051,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1113,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynniatt-Husey</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakiston-Houstort</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1562,7 +1563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6061</PageNumber>
     </MainItem>
   </ItemGroup>

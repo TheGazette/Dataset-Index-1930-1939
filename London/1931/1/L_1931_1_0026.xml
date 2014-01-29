@@ -265,7 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindley</Key>
-      <Text>, The Rt. Hon. Sir F r a n c i s Oswald, K.C.M.G., C.B., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Title>The Rt. Hon. Sir</Title>
+      <Forenames>F</Forenames>
+      <Text>r a n c i s Oswald, K.C.M.G., C.B., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +340,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCov</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John William, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -395,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarsdale</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J, P. E</Text>
+      <Forenames>J</Forenames>
+      <Text>, P. E</Text>
       <PageNumber>3976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +563,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R F</Text>
+      <Forenames>R</Forenames>
+      <Text>F</Text>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +649,8 @@
       <Key>
         <KeyDitto>___ _— ___</KeyDitto>
       </Key>
-      <Text>J, H</Text>
+      <Forenames>J</Forenames>
+      <Text>, H</Text>
       <PageNumber>4045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +865,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J C</Text>
+      <Forenames>J</Forenames>
+      <Text>C</Text>
       <PageNumber>3887</PageNumber>
       <PageNumber>3977</PageNumber>
     </MainItem>
@@ -1127,7 +1131,8 @@
       <Key>
         <KeyDitto>___ -</KeyDitto>
       </Key>
-      <Text>R: A. B</Text>
+      <Forenames>R</Forenames>
+      <Text>: A. B</Text>
       <PageNumber>3887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sitnmonds</Key>
-      <Text>, F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1644,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C: E</Text>
+      <Forenames>C</Forenames>
+      <Text>: E</Text>
       <PageNumber>3386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1756,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>4047</PageNumber>
     </MainItem>
   </ItemGroup>

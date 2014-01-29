@@ -129,7 +129,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>Capt. &amp; Bt. Major Harold Starmer, Officer, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Bt. Major Harold Starmer, Officer, Order of the British Empire</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patrick</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Text>E, J. L</Text>
+      <Forenames>E</Forenames>
+      <Text>, J. L</Text>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +568,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Urqnhart</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blakiston-H</Key>
-      <Text>ouston, J</Text>
+      <Text>.ouston, J</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wadham</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -791,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1105,7 +1108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Appleyard</Key>
-      <Text>W, St. L</Text>
+      <Forenames>W</Forenames>
+      <Text>, St. L</Text>
       <PageNumber>4592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnott</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5522</PageNumber>
     </MainItem>
   </ItemGroup>

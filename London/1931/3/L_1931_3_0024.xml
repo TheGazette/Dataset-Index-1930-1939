@@ -143,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chopping</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,14 +249,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clements</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clenshaw</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>. A. F. L</Text>
+      <Text>A. F. L</Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collingwood</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +404,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutforth</Key>
-      <Text>. L. E</Text>
+      <Text>L. E</Text>
       <PageNumber>5691</PageNumber>
       <PageNumber>5693</PageNumber>
       <PageNumber>6106</PageNumber>
@@ -831,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daulet</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +916,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ronald</Forenames>
+      <Title>Ronald .</Title>
       <PageNumber>6168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Desbrow</Key>
-      <Text>. P. D</Text>
+      <Text>P. D</Text>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diamond</Key>
-      <Text>, 8. J</Text>
+      <Text>8. J</Text>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>

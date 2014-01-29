@@ -38,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Richard Iwan Alexander, Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Richard Iwan Alexander, Distinguished Service Order</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,8 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerville</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Phillip, Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Phillip, Distinguished Service Order</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strickland</Key>
-      <Text>Lord (Count Delia Catena), G.C.M.G., Nominated Member of Executive Council of Malta</Text>
+      <Title>Lord (Count Delia Catena)</Title>
+      <Text>, G.C.M.G., Nominated Member of Executive Council of Malta</Text>
       <PageNumber>7038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,8 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Eric Langton, M.V.O., Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Eric Langton, M.V.O., Distinguished Service Order</Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8305</PageNumber>
     </MainItem>
   </ItemGroup>

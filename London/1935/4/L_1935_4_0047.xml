@@ -58,7 +58,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selby-Boothroyd</Key>
-      <Text>, C.B</Text>
+      <Text>C.B</Text>
       <PageNumber>6904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ShawMackenzie</Key>
-      <Text>, '0</Text>
+      <Text>'0</Text>
       <PageNumber>7512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +670,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S,</Text>
+      <Forenames>S</Forenames>
+      <Text>,</Text>
       <PageNumber>7674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Text>, 00. J</Text>
+      <Text>00. J</Text>
       <PageNumber>7512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borwick</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,7 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning-Smith</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,7 +1613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackman</Key>
-      <Text>, &lt;W. A</Text>
+      <Text>&lt;W. A</Text>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,14 +1740,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, W, H</Text>
+      <Forenames>W</Forenames>
+      <Text>, H</Text>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaux</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7227</PageNumber>
     </MainItem>
   </ItemGroup>

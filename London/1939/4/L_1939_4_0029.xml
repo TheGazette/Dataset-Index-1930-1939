@@ -382,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourgein</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7783</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +580,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1296,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridel</Key>
-      <Text>D G</Text>
+      <Forenames>D</Forenames>
+      <Text>G</Text>
       <PageNumber>8395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2000,7 +2001,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H H</Text>
+      <Forenames>H</Forenames>
+      <Text>H</Text>
       <PageNumber>7395</PageNumber>
     </MainItem>
   </ItemGroup>

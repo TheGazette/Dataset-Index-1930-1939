@@ -241,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osman</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Text>, 8. F</Text>
+      <Text>8. F</Text>
       <PageNumber>2063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkes</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>, IN</Text>
+      <Text>IN</Text>
       <PageNumber>1128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perceval-Maxwell</Key>
-      <Text>, IE. N</Text>
+      <Text>IE. N</Text>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plow</Key>
-      <Text>, iE. C</Text>
+      <Text>iE. C</Text>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullen</Key>
-      <Text>, 6</Text>
+      <Text>6</Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1473,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan-Robinson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,7 +1581,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>, A J</Text>
+      <Forenames>A</Forenames>
+      <Text>J</Text>
       <PageNumber>2138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,14 +1612,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, IE. Fitz R</Text>
+      <Text>Aubyn, IE. Fitz R</Text>
       <PageNumber>1721</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, E. R. G</Text>
+      <Text>John, E. R. G</Text>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,7 +1731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>, DO. R</Text>
+      <Text>DO. R</Text>
       <PageNumber>746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,7 +1818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Serjeantson</Key>
-      <Text>,. J. M</Text>
+      <Text>. J. M</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,7 +1839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. G</Text>
+      <Text>G</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,7 +1848,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1945,14 +1946,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Simonds-Gooding</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1988,7 +1989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>. A. N</Text>
+      <Text>A. N</Text>
       <PageNumber>2136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2029,7 +2030,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S C P</Text>
+      <Forenames>S</Forenames>
+      <Text>C P</Text>
       <PageNumber>231</PageNumber>
     </MainItem>
   </ItemGroup>

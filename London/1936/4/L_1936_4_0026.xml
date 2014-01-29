@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>,. R. E</Text>
+      <Text>. R. E</Text>
       <PageNumber>7125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Attwater</Key>
-      <Text>, HF</Text>
+      <Text>HF</Text>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7735</PageNumber>
       <PageNumber>7917</PageNumber>
     </MainItem>
@@ -1048,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell-Murray</Key>
-      <Text>, HE. M</Text>
+      <Text>HE. M</Text>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1187,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>, Sir B</Text>
+      <Title>Sir</Title>
+      <Forenames>B</Forenames>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,14 +1211,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Boardman</Key>
-      <Text>,. H</Text>
+      <Text>. H</Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boggis-Rolfe</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7819</PageNumber>
       <PageNumber>8288</PageNumber>
     </MainItem>
@@ -1279,7 +1280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booker</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boucher</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1539,7 +1540,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ».</KeyDitto>
       </Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1569,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1742,7 +1743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>, 'E. R. V</Text>
+      <Text>'E. R. V</Text>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>

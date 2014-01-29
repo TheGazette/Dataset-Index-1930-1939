@@ -228,7 +228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diack</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eames</Key>
-      <Text>, &lt;E. J. H</Text>
+      <Text>&lt;E. J. H</Text>
       <PageNumber>7736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +563,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L, K</Text>
+      <Forenames>L</Forenames>
+      <Text>, K</Text>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Estcourt</Key>
-      <Text>, 03. 'N.. K</Text>
+      <Text>03. 'N.. K</Text>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ewing</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +799,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>, R,. G. T</Text>
+      <Forenames>R</Forenames>
+      <Text>,. G. T</Text>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foggie</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>8010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1063,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>, G '</Text>
+      <Forenames>G</Forenames>
+      <Text>'</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1121,7 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glynn</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowing</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham-Scott</Key>
-      <Text>, ,E. T. B</Text>
+      <Text>,E. T. B</Text>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grainger-Stewart</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,7 +1243,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S: J</Text>
+      <Forenames>S</Forenames>
+      <Text>: J</Text>
       <PageNumber>8193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,7 +1352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gullick</Key>
-      <Text>, IE. D. M</Text>
+      <Text>IE. D. M</Text>
       <PageNumber>7736</PageNumber>
     </MainItem>
   </ItemGroup>

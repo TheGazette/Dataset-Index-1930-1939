@@ -36,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jackson</Key>
-      <Text>Lieut.-General Henry Cholmondeley, '. C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lieut.</Title>
+      <Text>-General Henry Cholmondeley, '. C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +56,8 @@
       <Key>
         <KeyDitto>—.— ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut.-Colonel (Commy.) S a v i 11 e Britain, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel (Commy.) S a v i 11 e Britain, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jolley</Key>
-      <Text>Major (Brevet Lieut.-Colonel) Norman Kempe, Officer, Order of the British Empire</Text>
+      <Title>Major (Brevet Lieut.-Colonel)</Title>
+      <Forenames>Norman Kempe</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +239,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G w i 1 y m, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>G</Forenames>
+      <Text>w i 1 y m, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kermack</Key>
-      <Text>Stuart Grace,' Sheriff-Substitute at Glasgow</Text>
+      <Text>. Stuart Grace,' Sheriff-Substitute at Glasgow</Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>Dinshaw Khambatta Khan Bahadur, L.M. and S. (Bom.), L.R.C.P. and S. (Edin.), L.F.P. and S.! (Glas.), . D.P.H. (Edin.), Member, Order of the British Empire</Text>
+      <Text>. Dinshaw Khambatta Khan Bahadur, L.M. and S. (Bom.), L.R.C.P. and S. (Edin.), L.F.P. and S.! (Glas.), . D.P.H. (Edin.), Member, Order of the British Empire</Text>
       <PageNumber>4008</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -584,8 +589,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Morice Challoner, Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Morice Challoner, Companion, Order of St. Michael and St. George</Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +605,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamington</Key>
-      <Text>Lord, G.C.M.G., G.C.I.E., Captain, King's Bodyguard for Scotland</Text>
+      <Title>Lord</Title>
+      <Text>, G.C.M.G., G.C.I.E., Captain, King's Bodyguard for Scotland</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>Colonel ' (temp. Brigadier) Edmund Henry, Companion, Order of the Bath</Text>
+      <Title>Colonel</Title>
+      <Text>' (temp. Brigadier) Edmund Henry, Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>

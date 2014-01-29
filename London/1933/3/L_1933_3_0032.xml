@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradbury</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacEwan</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cock</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dolan</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prfdie</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,10 +435,9 @@
       <Forenames>C .</Forenames>
       <PageNumber>5951</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Boyal Marine Aide-de-Camp to H.M. The King</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Boyal Marine Aide-de-Camp to H.M. The King</SubSectionTitle>
     <SubItem>
+      <Text>Boyal Marine Aide-de-Camp to H.M. The King.</Text>
       <PageNumber>5730</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -446,14 +445,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Claughton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6081</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colbeck</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owston</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stott</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +980,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howe</Key>
-      <Text>, Earl</Text>
+      <Title>Earl</Title>
       <PageNumber>4476</PageNumber>
     </MainItem>
   </ItemGroup>

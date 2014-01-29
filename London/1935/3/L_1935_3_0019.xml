@@ -420,7 +420,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandon</Key>
-      <Text>, Viscount, Member, Royal Commission on Historical Manuscripts</Text>
+      <Title>Viscount</Title>
+      <Text>, Member, Royal Commission on Historical Manuscripts</Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -729,7 +730,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alston</Key>
-      <Text>, D\ G. ..,</Text>
+      <Forenames>D</Forenames>
+      <Text>\ G. ..,</Text>
       <PageNumber>4683</PageNumber>
     </MainItem>
   </ItemGroup>

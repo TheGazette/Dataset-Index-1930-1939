@@ -511,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corry</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6213</PageNumber>
       <PageNumber>6214</PageNumber>
     </MainItem>
@@ -699,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosse</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosthwaite</Key>
-      <Text>L\ F</Text>
+      <Forenames>L</Forenames>
+      <Text>\ F</Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culbert</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cusworth</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalby</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +808,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T H</Text>
+      <Forenames>T</Forenames>
+      <Text>H</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +899,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +968,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W T</Text>
+      <Forenames>W</Forenames>
+      <Text>T</Text>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1038,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5539</PageNumber>
       <PageNumber>5595</PageNumber>
     </MainItem>
@@ -1160,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dinan</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1216,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1344,7 +1347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunleath</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>5412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,14 +1398,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Eadie</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,7 +1525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eggar</Key>
-      <Text>R, A. J</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. J</Text>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,14 +1688,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Farmiloe</Key>
-      <Text>T! H</Text>
+      <Forenames>T</Forenames>
+      <Text>! H</Text>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5255</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -280,7 +280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmesley</Key>
-      <Text>, C T. J. G</Text>
+      <Forenames>C</Forenames>
+      <Text>T. J. G</Text>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +335,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>X G C</Text>
+      <Forenames>X</Forenames>
+      <Text>G C</Text>
       <PageNumber>6267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +411,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Waterlow</Key>
-      <Text>, Sir W Bt. J-</Text>
+      <Title>Sir</Title>
+      <Forenames>W</Forenames>
+      <Text>Bt. J-</Text>
       <PageNumber>7352</PageNumber>
       <PageNumber>8014</PageNumber>
     </MainItem>
@@ -557,7 +561,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R: A</Text>
+      <Forenames>R</Forenames>
+      <Text>: A</Text>
       <PageNumber>7693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +842,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +984,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H F J</Text>
+      <Forenames>H</Forenames>
+      <Text>F J</Text>
       <PageNumber>6693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,7 +1072,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G A. J</Text>
+      <Forenames>G</Forenames>
+      <Text>A. J</Text>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -518,7 +518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellor</Key>
-      <Text>J. F. ... '</Text>
+      <Text>. J. F. ... '</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farr</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
     <SubItem>
@@ -699,7 +699,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenwick</Key>
-      <Text>R ,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
     <SubItem>
@@ -810,7 +811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fish</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gell</Key>
-      <Text>W. C. C</Text>
+      <Text>.W. C. C</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>C P</Text>
+      <Forenames>C</Forenames>
+      <Text>P</Text>
       <PageNumber>1397</PageNumber>
     </MainItem>
   </ItemGroup>

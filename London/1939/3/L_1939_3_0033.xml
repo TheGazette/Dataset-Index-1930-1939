@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price-Owen</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratcliffe</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +950,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ritzema</Key>
-      <Text>,' J. R.</Text>
+      <Text>' J. R.</Text>
       <PageNumber>5982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodney</Key>
-      <Text>, Lord ... Rodwell, R. M</Text>
+      <Title>Lord .</Title>
+      <Text>.. Rodwell, R. M</Text>
       <PageNumber>5314</PageNumber>
       <PageNumber>5478</PageNumber>
       <PageNumber>5677</PageNumber>

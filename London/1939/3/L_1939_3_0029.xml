@@ -145,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Text>, F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>4570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Humpherson</Key>
-      <Text>, E„. M</Text>
+      <Forenames>E</Forenames>
+      <Text>„. M</Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -834,7 +836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ivor-Moore</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +923,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +984,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Janitsch</Key>
-      <Text>, CD...;</Text>
+      <Text>CD...;</Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaulback</Key>
-      <Text>, R: J. A</Text>
+      <Forenames>R</Forenames>
+      <Text>: J. A</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,7 +1658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemble</Key>
-      <Text>, W: F</Text>
+      <Forenames>W</Forenames>
+      <Text>: F</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,7 +1795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerwick</Key>
-      <Text>, T: R. J. P</Text>
+      <Forenames>T</Forenames>
+      <Text>: R. J. P</Text>
       <PageNumber>5314</PageNumber>
     </MainItem>
   </ItemGroup>

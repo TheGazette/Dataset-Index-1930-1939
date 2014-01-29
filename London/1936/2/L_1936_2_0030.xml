@@ -37,7 +37,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fortune</Key>
-      <Text>Major General Victor Morven, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Victor Morven, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,8 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox-Pitt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel William Augustus Fitzgerald Lane, M.C., Member, 4th Class, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel William Augustus Fitzgerald Lane, M.C., Member, 4th Class, Royal Victorian Order</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,9 +161,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamble</Key>
-      <Title>Sqdn.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Thomas Alfred, Member, Order of the British Empire</Text>
+      <Title>Sqdn. Sergt.</Title>
+      <Text>-Maj. Thomas Alfred, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,8 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir John, Bart., G.C.V.O., D.S.O., Brigadier, King's Bodyguard for Scotland</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>John</Forenames>
+      <Text>, Bart., G.C.V.O., D.S.O., Brigadier, King's Bodyguard for Scotland</Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,8 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gomez</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Snr. Asst. Surgeon), Albert Edward, Member, Order of the British Empire</Text>
+      <Title>Lt. (Snr. Asst. Surgeon)</Title>
+      <Text>, Albert Edward, Member, Order of the British Empire</Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>Colonel (temp. Brigadier) Lord Douglas Malise, D.S.O., M.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temp. Brigadier) Lord</Title>
+      <Forenames>Douglas Malise</Forenames>
+      <Text>, D.S.O., M.O., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +450,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel (Hon. Colonel) Leonard Bishopp, T.D., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel (Hon. Colonel) Leonard Bishopp, T.D., Companion, Order of the Indian Empire</Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,8 +582,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Groom</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Albert Edward, D.S.M., Member, Order of the British Empire</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Albert Edward</Forenames>
+      <Text>, D.S.M., Member, Order of the British Empire</Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +616,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hailey</Key>
-      <Text>Sir (William) Malcolm, G.C.S.I., G.C.I.E., D.Litt., D.Laws, Baron</Text>
+      <Title>Sir (William)</Title>
+      <Forenames>Malcolm</Forenames>
+      <Text>, G.C.S.I., G.C.I.E., D.Litt., D.Laws, Baron</Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +633,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haining</Key>
-      <Text>Major General Robert Hadden, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Robert Hadden, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>

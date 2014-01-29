@@ -115,7 +115,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Edward) Percival, Knight</Text>
+      <Title>(Edward)</Title>
+      <Forenames>Percival</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -238,7 +240,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>, the Honourable Tasker Keech, Knight</Text>
+      <Text>the Honourable Tasker Keech, Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -265,7 +267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>. John Soden, Officer, Order of the British Empire</Text>
+      <Text>John Soden, Officer, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creswellj</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Col. Frank Benjamin, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>Col. Frank Benjamin, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,8 +412,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cubitt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Thomas Astley, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Thomas Astley, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,15 +499,17 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert, O.B.E., Member of Council of Government of Mauritius ... Deans, John, Member, Order of the British Empire Debenham, Ernest Ridley, Baronet</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>, O.B.E., Member of Council of Government of Mauritius ... Deans, John, Member, Order of the British Empire Debenham, Ernest Ridley, Baronet</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dehlavi</Key>
-      <Text>, A 1 i Muhammad Khan, Knight Delamere, Right Hon. Lord, KT.C.M.G., Unofficial Member of the Executive Council of Kenya ... Denham, Sir Edward Brandis, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George ... Despencer-Robertson, Maj. James Archibald St. George Fitzwarenne, Member of Parliament for the Salisbury Division of Wilts Dholpur, His Highness Raisud-Daula Sipadhar-ulMulk Maharajadhiraja Sri Sawai Maharajrana Sir Udaibhan Singh Lokindar Bahadur DilerJang Jai Deo, K.C.S.I., K.C.V.O., Maharaj-Rana of, Knight Grand Commander, Order of the Indian Empire</Text>
+      <Forenames>A</Forenames>
+      <Text>1 i Muhammad Khan, Knight Delamere, Right Hon. Lord, KT.C.M.G., Unofficial Member of the Executive Council of Kenya ... Denham, Sir Edward Brandis, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George ... Despencer-Robertson, Maj. James Archibald St. George Fitzwarenne, Member of Parliament for the Salisbury Division of Wilts Dholpur, His Highness Raisud-Daula Sipadhar-ulMulk Maharajadhiraja Sri Sawai Maharajrana Sir Udaibhan Singh Lokindar Bahadur DilerJang Jai Deo, K.C.S.I., K.C.V.O., Maharaj-Rana of, Knight Grand Commander, Order of the Indian Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
     <SubItem>

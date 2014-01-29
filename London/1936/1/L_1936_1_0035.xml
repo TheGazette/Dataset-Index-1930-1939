@@ -17,7 +17,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Text>,</Text>
       <PageNumber>820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>, (B</Text>
+      <Text>(B</Text>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1040,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stillingfleet</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pocock</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Golding</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1228,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P E</Text>
+      <Forenames>P</Forenames>
+      <Text>E</Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainsworth</Key>
-      <Text>, T :</Text>
+      <Forenames>T</Forenames>
+      <Text>:</Text>
       <PageNumber>821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -76,14 +76,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cummins</Key>
-      <Text>R^ L: ,</Text>
+      <Forenames>R</Forenames>
+      <Text>^ L: ,</Text>
       <PageNumber>2479</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunliffe</Key>
-      <Text>R :. '3«</Text>
+      <Forenames>R</Forenames>
+      <Text>:. '3«</Text>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +216,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Derby</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ferrier</Key>
-      <Text>R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +690,8 @@
       <Key>
         <KeyDitto>___ —___ ___</KeyDitto>
       </Key>
-      <Text>W Fowler, A</Text>
+      <Forenames>W</Forenames>
+      <Text>Fowler, A</Text>
       <PageNumber>2565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +700,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +937,8 @@
       <Key>
         <KeyDitto>__ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J V</Text>
+      <Forenames>J</Forenames>
+      <Text>V</Text>
       <PageNumber>2144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +989,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosselin</Key>
-      <Text>A: N</Text>
+      <Forenames>A</Forenames>
+      <Text>: N</Text>
       <PageNumber>3684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,8 +1089,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gretton</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. J</Text>
+      <Title>Rt. Hon.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>2295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,8 +1272,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartington</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henniker-Heaton</Key>
-      <Text>C A. C</Text>
+      <Forenames>C</Forenames>
+      <Text>A. C</Text>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,14 +1620,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurvid</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hynes</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3955</PageNumber>
     </MainItem>
   </ItemGroup>

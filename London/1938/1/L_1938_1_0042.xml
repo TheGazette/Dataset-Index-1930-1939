@@ -122,8 +122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilberforce-Bell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harold, C.I.E., Knight Commander, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harold</Forenames>
+      <Text>, C.I.E., Knight Commander, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>.D.Cs. to The.King: Blunt, G. C. G</Text>
+      <Text>D.Cs. to The.King: Blunt, G. C. G</Text>
       <PageNumber>1347</PageNumber>
     </MainItem>
     <SubItem>

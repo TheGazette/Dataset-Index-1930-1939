@@ -321,7 +321,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D 7647</Text>
+      <Forenames>D</Forenames>
+      <Text>7647</Text>
       <PageNumber>7804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +397,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F R</Text>
+      <Forenames>F</Forenames>
+      <Text>R</Text>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +563,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6663</PageNumber>
       <PageNumber>7185</PageNumber>
     </MainItem>
@@ -932,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drudge</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7804</PageNumber>
       <PageNumber>7805</PageNumber>
     </MainItem>
@@ -1080,8 +1082,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Rt. Hon. Lord .</Title>
       <PageNumber>7042</PageNumber>
       <PageNumber>7044</PageNumber>
     </MainItem>

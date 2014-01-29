@@ -386,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mutter</Key>
-      <Forenames>Qtr</Forenames>
-      <Text>. . Mstr. . Serg. William, Member, Order of..the British Empire</Text>
+      <Title>Qtr.</Title>
+      <Text>. Mstr. . Serg. William, Member, Order of..the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +425,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>Col. (hon. Brig.) Vernon Monro Colquhoun, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (hon. Brig.)</Title>
+      <Forenames>Vernon Monro Colquhoun</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,9 +490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newell</Key>
-      <Title>Reg.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. Instr. Robert, Member, Order of , the British Empire</Text>
+      <Title>Reg. St.</Title>
+      <Text>-Maj. Instr. Robert, Member, Order of , the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,9 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Title>Batt.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. Ethelbert Francis, Member, Order of the British Empire</Text>
+      <Title>Batt. St.</Title>
+      <Text>-Maj. Ethelbert Francis, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,16 +548,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Norrie</Key>
-      <Text>Col. (temp.' Brig.) Edward Creer, D.S.O., V.D., Companion, Order of the Bath</Text>
+      <Title>Col. (temp.' Brig.)</Title>
+      <Forenames>Edward Creer</Forenames>
+      <Text>, D.S.O., V.D., Companion, Order of the Bath</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Title>Staff.</Title>
-      <Forenames>St</Forenames>
-      <Text>. Maj. (Hon. Lt.) Arthur Randolph, M.C.; Member, Order of the British Empire</Text>
+      <Title>Staff. St. Maj. (Hon. Lt.)</Title>
+      <Forenames>Arthur Randolph</Forenames>
+      <Text>, M.C.; Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>

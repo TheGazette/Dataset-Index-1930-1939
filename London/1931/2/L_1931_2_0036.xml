@@ -21,7 +21,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>, R Corcoran, T. M</Text>
+      <Forenames>R</Forenames>
+      <Text>Corcoran, T. M</Text>
       <PageNumber>3322</PageNumber>
       <PageNumber>4077</PageNumber>
     </MainItem>
@@ -532,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dulake</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Text>,S. A. F. S</Text>
+      <Text>S. A. F. S</Text>
       <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +702,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H T</Text>
+      <Forenames>H</Forenames>
+      <Text>T</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +735,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G! M</Text>
+      <Forenames>G</Forenames>
+      <Text>! M</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanning-Evans</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farmer</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -936,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>,' S. CD</Text>
+      <Text>' S. CD</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +960,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1022,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1083,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes-Watson</Key>
-      <Text>, R, F</Text>
+      <Forenames>R</Forenames>
+      <Text>, F</Text>
       <PageNumber>3146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>. G. H</Text>
+      <Text>G. H</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1179,7 +1184,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1235,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibb</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>2333</PageNumber>
       <PageNumber>23113</PageNumber>
     </MainItem>
@@ -1580,7 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Text>, 8</Text>
+      <Text>8</Text>
       <PageNumber>3404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1667,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,14 +1688,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Halhday</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Halloran</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,7 +1714,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>3654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1772,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harford</Key>
-      <Text>, C ... Hari Singh, Indar Mahmdar Bahadur, Sipar-i-Saltanat, Maharaja of Jammu and Kashmir, H.H. Maharaja Sir</Text>
+      <Forenames>C</Forenames>
+      <Text>... Hari Singh, Indar Mahmdar Bahadur, Sipar-i-Saltanat, Maharaja of Jammu and Kashmir, H.H. Maharaja Sir</Text>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,7 +1831,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3323</PageNumber>
     </MainItem>
   </ItemGroup>

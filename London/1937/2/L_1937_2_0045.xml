@@ -32,8 +32,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Streeton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gilbert, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gilbert</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +468,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Text>2nd Lt. Hugh Jestyn Charles, Member, Order of the British Empire</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>Hugh Jestyn Charles</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,9 +479,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. II, C.S.M. Isaac, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, CI. II, C.S.M. Isaac, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +500,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Leonard Rhys, D.S.O., Member, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Leonard Rhys</Forenames>
+      <Text>, D.S.O., Member, Order of the British Empire</Text>
       <PageNumber>309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,8 +519,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Prof</Forenames>
-      <Text>. DArcy Wentworth, C.B., D.Litt., D.Sc., LL.D., F.R.S., F.R.S.E., Knight</Text>
+      <Title>Prof.</Title>
+      <Text>DArcy Wentworth, C.B., D.Litt., D.Sc., LL.D., F.R.S., F.R.S.E., Knight</Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -565,8 +568,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (E) Frederick Walter, Member, Order of the British Empire</Text>
+      <Title>Lt. (E)</Title>
+      <Forenames>Frederick Walter</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -188,8 +188,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Windsor, C.M.G., M.P. for Ludlow</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Windsor</Forenames>
+      <Text>, C.M.G., M.P. for Ludlow</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +213,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J., O.B.E., Order of Mercy</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J.</Forenames>
+      <Text>, O.B.E., Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +341,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper-Brown</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +408,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>, Miss, Bar, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Bar, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +451,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Creek</Key>
-      <Text>, Miss C, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Forenames>C</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalby</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>

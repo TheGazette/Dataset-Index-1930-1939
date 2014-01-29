@@ -716,7 +716,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,14 +741,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2804</PageNumber>
       <PageNumber>2884</PageNumber>
     </MainItem>
@@ -938,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinlan</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Radford</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rossiter</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1384,7 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowell</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, G. J. P</Text>
+      <Text>. Clair, G. J. P</Text>
       <PageNumber>3752</PageNumber>
       <PageNumber>2885</PageNumber>
     </MainItem>
@@ -1441,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Hon. R. T</Text>
+      <Text>. John, Hon. R. T</Text>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shafto</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,7 +1622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>H Shemff, G. G</Text>
+      <Forenames>H</Forenames>
+      <Text>Shemff, G. G</Text>
       <PageNumber>3185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1691,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sirmur</Key>
-      <Text>H.H. the Maharaja Rajindra Parkash Bahadur, Maharaja of</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja Rajindra Parkash Bahadur, Maharaja of</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1821,7 +1823,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith-Dorrien</Key>
-      <Text>G H G</Text>
+      <Forenames>G</Forenames>
+      <Text>H G</Text>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,7 +1890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerset</Key>
-      <Text>Duke of</Text>
+      <Title>Duke</Title>
+      <Text>of</Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>

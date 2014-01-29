@@ -203,7 +203,14 @@
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Elms</Key>
+      <Forenames>Samuel</Forenames>
+      <Text>, Serving Brother Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elsden</Key>
@@ -224,7 +231,13 @@
       <PageNumber>832</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>Companion, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Ennis</Key>
+      <Text>. Lawrence, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>5</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
@@ -330,7 +343,14 @@
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Fisk</Key>
+      <Forenames>Sidney John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
@@ -339,7 +359,14 @@
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Companion, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Flood</Key>
+      <Forenames>John Ernest William</Forenames>
+      <Text>, Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
@@ -368,22 +395,40 @@
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>Col. (temp. Brigadier) David, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brigadier)</Title>
+      <Forenames>David</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Percy James</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Gen. William Charles Hughan, M.B., V.H.S., Companion, Order of the Indian Empire</Text>
+      <Title>Maj.</Title>
+      <Text>Gen. William Charles Hughan, M.B., V.H.S., Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Companion, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Forsyth</Key>
+      <Forenames>Robert Sutherland</Forenames>
+      <Text>, Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>5</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fowkes</Key>
@@ -401,22 +446,14 @@
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Michael and St</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>K.B.E., Knight CornOrder ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Gwendolen Douglas Trench, C.B.E., Dame of Justice, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
   <SubCategoryTitle>Caithness, Orkney, and Zetland ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Empire ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Goodwin</Key>
-      <Forenames>Robert Stephen</Forenames>
-      <Text>Duke, Unofficial Member of the Executive Council of Antigua Gordon, Mrs. Elizabeth, Officer, Order of St. John of Jerusalem Gower, Helen, Mrs., J.P., Officer, Order of the British Empire Graham-Campbell, R o 11 o Frederick, Knight</Text>
+      <Key>Ginger</Key>
+      <Forenames>Thomas Richard</Forenames>
+      <Text>, M.C, Member, Order of the British Empire ... Glancy, Bertrand James, CLE., Companion, Order of the Star of India ... Godfrey, Robert Samuel, F.F.A.S., Commander, Order of the British Empire ... Godley, Percy Lovell, Member, Order of the British Empire ... Goodwin, Robert Stephen Duke, Unofficial Member of the Executive Council of Antigua Gordon, Mrs. Elizabeth, Officer, Order of St. John of Jerusalem Gower, Helen, Mrs., J.P., Officer, Order of the British Empire Graham-Campbell, R o 11 o Frederick, Knight</Text>
       <PageNumber>1356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,6 +473,13 @@
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Greenwood</Key>
+      <Forenames>Charles Henry</Forenames>
+      <Text>, M.B., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
 </Index>
 

@@ -159,7 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunch</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butterworth</Key>
-      <Text>T&gt;. C</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. C</Text>
       <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Text>E; W</Text>
+      <Forenames>E</Forenames>
+      <Text>; W</Text>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornes</Key>
-      <Text>R, C. J</Text>
+      <Forenames>R</Forenames>
+      <Text>, C. J</Text>
       <PageNumber>1707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuff</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mainwaring</Key>
-      <Text>, .. William Henry, M.P., Member of Rhodesia and Nyasaland Royal Commission</Text>
+      <Text>.. William Henry, M.P., Member of Rhodesia and Nyasaland Royal Commission</Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,8 +26,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Stuart Sidney, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Stuart Sid-</Forenames>
+      <Text>ney, D.S.O., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,8 +119,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Reginald Victor, M.R.C.S. (Eng.), L.R.C.P. (Lond.).D.O.M.S. (Eng.), L.M.S.S.A. (Lond), Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Reginald Victor</Forenames>
+      <Text>, M.R.C.S. (Eng.), L.R.C.P. (Lond.).D.O.M.S. (Eng.), L.M.S.S.A. (Lond), Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +302,7 @@
       <PageNumber>1936</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Neve, Eric Read, Recorder of Canterbury ;.</Text>
+      <Text>Neve, Eric Read, Recorder of Canterbury ;</Text>
       <PageNumber>31</PageNumber>
     </SubItem>
     <SubItem>

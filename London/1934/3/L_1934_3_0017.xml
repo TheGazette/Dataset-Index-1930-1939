@@ -206,15 +206,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Auchinleck</Key>
-      <Text>Col. (temp. Brigadier) Claude John Eyre, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brigadier)</Title>
+      <Forenames>Claude John Eyre</Forenames>
+      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Gilmore, Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Gil-</Forenames>
+      <Text>more, Commander, Order of the British Empire</Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +347,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>Edmund Ralph, C.B.E., Knight</Text>
+      <Text>. Edmund Ralph, C.B.E., Knight</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>

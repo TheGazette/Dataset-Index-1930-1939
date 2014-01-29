@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gisborough</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Rt. Hon. Lord .</Title>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +480,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harms</Key>
-      <Text>,' W.' S</Text>
+      <Text>' W.' S</Text>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>

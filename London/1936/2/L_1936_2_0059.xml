@@ -200,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiblin</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +269,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +455,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +551,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Earl of Airlio, K.O.V.O., M.O</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>the Earl of Airlio, K.O.V.O., M.O</Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +614,7 @@
       <PageNumber>3447</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wynne-Finch, Colonel William Heneage, M.O</Text>
+      <Text>Wynne-Finch, Colonel William Heneage, M.O.</Text>
       <PageNumber>3447</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -642,7 +642,7 @@
       <PageNumber>2558</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stalbridge, Hugh Grosvenor, The Lord, M.C</Text>
+      <Text>Stalbridge, Hugh Grosvenor, The Lord, M.C.</Text>
       <PageNumber>4020</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -678,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Inverness</Key>
-      <Text>Brig.-General Duncan Alwyn Macfarlane, C.B., D.S.O</Text>
+      <Title>Brig.</Title>
+      <Text>-General Duncan Alwyn Macfarlane, C.B., D.S.O</Text>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,16 +719,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Cunynghame</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Percy Francis, Bart., O.B.E., J.P</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Percy Francis</Forenames>
+      <Text>, Bart., O.B.E., J.P</Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Thomas, C.B., T.D</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Thomas</Forenames>
+      <Text>, C.B., T.D</Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,8 +754,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Colonel Robert Clifford Lloyd, M.O., T.D</Text>
+      <Title>Lt.</Title>
+      <Text>Colonel Robert Clifford Lloyd, M.O., T.D</Text>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,12 +809,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Tertius Pretty, O.B.E., resignation</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Tertius Pretty</Forenames>
+      <Text>, O.B.E., resignation</Text>
       <PageNumber>2490</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbing</Key>

@@ -28,8 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclaren</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Norman, M.B., F.R.C.S.,R.A.M.C., (T.A.), Serving Brother, Order of St. John of .Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Norman</Forenames>
+      <Text>, M.B., F.R.C.S.,R.A.M.C., (T.A.), Serving Brother, Order of St. John of .Jerusalem</Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,8 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McPhersoh</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alan Bruce, M.C., Member, 4th Class, , Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alan Bruce</Forenames>
+      <Text>, M.C., Member, 4th Class, , Royal Victorian Order</Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +82,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Bvt</Forenames>
-      <Text>.-Col. James K.H.S., Companion, Order of the Indian Empire</Text>
+      <Title>Bvt.</Title>
+      <Text>-Col. James K.H.S., Companion, Order of the Indian Empire</Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +136,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McWhinnie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (local Capt.) Frederick James, Member, Order of the British Em. pire</Text>
+      <Title>Lt. (local Capt.)</Title>
+      <Forenames>Frederick James</Forenames>
+      <Text>, Member, Order of the British Em. pire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +273,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>Maj. (Mechanist Off.) , George William, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Mechanist Off.)</Title>
+      <Text>, George William, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +299,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matheson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Archibald, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Archibald</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,9 +353,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Title>Wrnt. Off. Garr.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.Maj. William,' Member, Order of the British Empire</Text>
+      <Title>Wrnt. Off. Garr. Sgt.</Title>
+      <Text>Maj. William,' Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,8 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Medcalf</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bvt. Col. Sydney Arthur, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bvt. Col. Sydney Arthur, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Megaw</Key>
-      <Text>Maj .-Gen. Sir John Wallace Dick, K.C.I.E., M.B., K.H.P., I.M.S., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Sir John Wallace Dick, K.C.I.E., M.B., K.H.P., I.M.S., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,16 +532,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Molson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.JQol. Herbert, C.M.G., !M.O. Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>JQol. Herbert, C.M.G., !M.O. Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Moody</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (local Capt.) Beverley Charles, Member, Order of the British Empire</Text>
+      <Title>Lt. (local Capt.)</Title>
+      <Forenames>Beverley Charles</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +580,9 @@
       <Key>
         <KeyDitto>___ ___ '</KeyDitto>
       </Key>
-      <Text>Maj. (Commissary) Wilfred, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Wil-</Forenames>
+      <Text>fred, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,8 +702,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Gaussen, Commander, Order of the British Empire ... ,</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Gaussen</Forenames>
+      <Text>, Commander, Order of the British Empire ... ,</Text>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>

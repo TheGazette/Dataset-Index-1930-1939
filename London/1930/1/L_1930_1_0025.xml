@@ -20,7 +20,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>Col. (tempy. Brigadier) Charles John Cecil, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (tempy. Brigadier)</Title>
+      <Forenames>Charles John Cecil</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,8 +38,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grayson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col.. Sir Henry Mulleneux, Bt., K.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>. Sir Henry Mulleneux, Bt., K.B.E., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>

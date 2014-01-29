@@ -135,7 +135,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>The Rt. Hon. Sir (Richard) Dawson, O.B.E., D.L., M.P., Baronet</Text>
+      <Title>The Rt. Hon. Sir (Richard)</Title>
+      <Forenames>Dawson</Forenames>
+      <Text>, O.B.E., D.L., M.P., Baronet</Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>4010</PageNumber>
     </MainItem>
@@ -163,8 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Battye</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Rothney, D.S.O., M.B., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Rothney</Forenames>
+      <Text>, D.S.O., M.B., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,8 +199,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beales</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Lear, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Lear</Forenames>
+      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,8 +232,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beattie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alexander Elder, C.M.G., C.B.E., M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander Elder</Forenames>
+      <Text>, C.M.G., C.B.E., M.C., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +250,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauman</Key>
-      <Text>Col. (temp. Brig.) Archibald Bentley, D.S.O., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Archibald Bentley</Forenames>
+      <Text>, D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>33</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,9 +285,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II, Bty. Sgt. -Maj. Charles, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II, Bty. Sgt. -Maj. Charles, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,9 +585,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blay</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. I, MechanSgt.-Maj. Reginald Augustus, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. I, MechanSgt.-Maj. Reginald Augustus, Member, Order of the British Empire</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +634,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boiston</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (E) William Rochester, D.S.M., Member, Order of the British Empire</Text>
+      <Title>Lt. (E)</Title>
+      <Forenames>William Rochester</Forenames>
+      <Text>, D.S.M., Member, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>

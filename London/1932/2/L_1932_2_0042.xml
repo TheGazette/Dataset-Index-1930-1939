@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphry</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenna</Key>
-      <Text>J; C</Text>
+      <Forenames>J</Forenames>
+      <Text>; C</Text>
       <PageNumber>3789</PageNumber>
       <PageNumber>3418</PageNumber>
     </MainItem>
@@ -675,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross-Magenty</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verghese</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willatt</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birda</Key>
-      <Forenames>Rawat</Forenames>
+      <Title>Rawat .</Title>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosworth</Key>
-      <Text>D:</Text>
+      <Forenames>D</Forenames>
+      <Text>:</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>H\ T</Text>
+      <Forenames>H</Forenames>
+      <Text>\ T</Text>
       <PageNumber>2960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurbachan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>

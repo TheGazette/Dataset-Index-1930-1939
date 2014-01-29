@@ -104,14 +104,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordison</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Junagadh</Key>
-      <Text>H.H. the Nawab Sir Mahabatkhan Rasulkhan, Nawab of</Text>
+      <Title>H.H.</Title>
+      <Text>the Nawab Sir Mahabatkhan Rasulkhan, Nawab of</Text>
       <PageNumber>3925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,14 +229,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellet</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3185</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +405,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinkead</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knott</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lefrov</Key>
-      <Text>F. J</Text>
+      <Text>. F. J</Text>
       <PageNumber>2972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,14 +1411,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>3666</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
-      <Text>H -35*</Text>
+      <Forenames>H</Forenames>
+      <Text>-35*</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayfield</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meynell</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1547,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2805</PageNumber>
       <PageNumber>2971</PageNumber>
     </MainItem>
@@ -1650,7 +1652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomerie</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>2886</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,14 +19,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Noor</Key>
-      <Text>,. Mahomed Hashim bin Mohamed Dali, I.S.O., Nominated Unofficial Member, Legislative Council of the Straits Settlements</Text>
+      <Text>. Mahomed Hashim bin Mohamed Dali, I.S.O., Nominated Unofficial Member, Legislative Council of the Straits Settlements</Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>, Maj. (Qr.-Mr.) Ernest Alfred, M.C., D.C.M., Member, Order of the British Empire,</Text>
+      <Title>Maj. (Qr.-Mr.)</Title>
+      <Forenames>Ernest Alfred</Forenames>
+      <Text>, M.C., D.C.M., Member, Order of the British Empire,</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,8 +53,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noyes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric James Banks, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric James Banks</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,9 +151,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Onyett</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II. (Mech. Qrmr.-Sgt.) Herbert George, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II. (Mech. Qrmr.-Sgt.) Herbert George, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +290,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paris</Key>
-      <Text>, Maj. (local Lt.-Col.) Darell Kilburn, M.C., Officer, Order of the .British Empire</Text>
+      <Title>Maj. (local Lt.-Col.)</Title>
+      <Forenames>Darell Kilburn</Forenames>
+      <Text>, M.C., Officer, Order of the .British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,8 +315,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Singleton, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Singleton</Forenames>
+      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Arthur Broadbent, K.C.I.E., C.B.E., D.S.O., acting Governor of North West Frontier Province</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Arthur Broadbent</Forenames>
+      <Text>, K.C.I.E., C.B.E., D.S.O., acting Governor of North West Frontier Province</Text>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,9 +429,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. I (Staff S.M.) Walter, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. I (Staff S.M.) Walter, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,8 +469,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick Gerald, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick Gerald</Forenames>
+      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Piatt</Key>
-      <Text>, Maj .-Gen. William, D. S.O., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. William, D. S.O., Companion, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>

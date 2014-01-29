@@ -156,7 +156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Rahman</Forenames>
+      <Title>Rahman .</Title>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Archer</Key>
-      <Text>, H^</Text>
+      <Forenames>H</Forenames>
+      <Text>^</Text>
       <PageNumber>6901</PageNumber>
       <PageNumber>6902</PageNumber>
     </MainItem>
@@ -476,7 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6139</PageNumber>
       <PageNumber>6902</PageNumber>
     </MainItem>
@@ -796,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barratt</Key>
-      <Text>, s! F</Text>
+      <Text>s! F</Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -971,7 +972,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Begbie</Key>
-      <Text>, R, P. G</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. G</Text>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgeman</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1555,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>6300</PageNumber>
       <PageNumber>8404</PageNumber>
     </MainItem>

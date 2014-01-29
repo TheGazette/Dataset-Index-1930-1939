@@ -63,8 +63,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alexander Francis Somerville, D.S.O., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander Francis Somerville</Forenames>
+      <Text>, D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +419,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clough</Key>
-      <Text>Major (temp. Lt.-Col.) Arthur Butler, M.O., Officer, Order of the British Empire</Text>
+      <Title>Major (temp. Lt.-Col.)</Title>
+      <Forenames>Arthur Butler</Forenames>
+      <Text>, M.O., Officer, Order of the British Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +452,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Walter George, C.S.I., C.V.O., O.B.E., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Walter George</Forenames>
+      <Text>, C.S.I., C.V.O., O.B.E., Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -501,7 +505,6 @@
       <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Empire ...</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>

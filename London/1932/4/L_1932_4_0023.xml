@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,7 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>Lieut. Colonel Frederick Hamilton, D.S.O., one of H.M. ' Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Title>Lieut.</Title>
+      <Text>Colonel Frederick Hamilton, D.S.O., one of H.M. ' Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
       <PageNumber>0553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +98,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>Sir (William) Leslie, M.D., F.R.C.P., LL.D., Member of the General Council of Medical . Education and Registration of the United Kingdom, for Scotland</Text>
+      <Title>Sir (William)</Title>
+      <Forenames>Leslie</Forenames>
+      <Text>, M.D., F.R.C.P., LL.D., Member of the General Council of Medical . Education and Registration of the United Kingdom, for Scotland</Text>
       <PageNumber>6313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macvey</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +173,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oram</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +353,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Runtz</Key>
-      <Text>Lady, Order of Mercy, bar</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy, bar</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scanes</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +469,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smart</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinton</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,8 +584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomlin</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. ' Thomas James Chesshyre, Baron, Member of the Universities Committee of the Privy Council</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>' Thomas James Chesshyre, Baron, Member of the Universities Committee of the Privy Council</Text>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrance</Key>
-      <Text>Capt.&amp; Brevet Major Kenneth Sanderson, ' M.C., Officer, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Brevet Major Kenneth Sanderson, ' M.C., Officer, Order of the British Empire</Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,14 +676,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Watney</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +701,9 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>Colonel (now MajorGen.) John Weir, C.M.G., M.B., K.H.S., Commander, Order of the British Empire</Text>
+      <Title>Colonel (now MajorGen.)</Title>
+      <Forenames>John Weir</Forenames>
+      <Text>, C.M.G., M.B., K.H.S., Commander, Order of the British Empire</Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstey</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waring</Key>
-      <Text>, 0. J</Text>
+      <Text>0. J</Text>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pertwee</Key>
-      <Text>, H: G</Text>
+      <Forenames>H</Forenames>
+      <Text>: G</Text>
       <PageNumber>4627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +701,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hingston</Key>
-      <Text>, T -</Text>
+      <Forenames>T</Forenames>
+      <Text>-</Text>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1095,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walbrand-Evans</Key>
-      <Text>, E,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>6023</PageNumber>
     </MainItem>
   </ItemGroup>

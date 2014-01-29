@@ -125,7 +125,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S q d rn. St. Maj. Johnson, M.M, Member, Order of the British Empire</Text>
+      <Forenames>S</Forenames>
+      <Text>q d rn. St. Maj. Johnson, M.M, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,8 +143,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John William, O.B.E, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John William</Forenames>
+      <Text>, O.B.E, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +287,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. JamesSmart, T.D, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>JamesSmart</Forenames>
+      <Text>, T.D, Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +298,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T ho m as, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>T</Forenames>
+      <Text>ho m as, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +546,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aykroyd</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. (now Col.) Harold Hammond, M.C, T.D, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col. (now Col.)</Title>
+      <Forenames>Harold Hammond</Forenames>
+      <Text>, M.C, T.D, Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Odr. Cecil Claude, Member, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Odr. Cecil Claude, Member, Royal Victorian Order</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>

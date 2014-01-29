@@ -109,7 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Text>, \V H</Text>
+      <Text>\V H</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>, 0. G. S</Text>
+      <Text>0. G. S</Text>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kafait</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>7580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lampen</Key>
-      <Text>, R, E</Text>
+      <Forenames>R</Forenames>
+      <Text>, E</Text>
       <PageNumber>7165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>, E, A. ... '</Text>
+      <Forenames>E</Forenames>
+      <Text>, A. ... '</Text>
       <PageNumber>8038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>, W,. R. H</Text>
+      <Forenames>W</Forenames>
+      <Text>,. R. H</Text>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lifford</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>, E, L</Text>
+      <Forenames>E</Forenames>
+      <Text>, L</Text>
       <PageNumber>6903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maddat</Key>
-      <Forenames>Shah</Forenames>
+      <Title>Shah .</Title>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2053,7 +2058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, \V. A</Text>
+      <Text>\V. A</Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>

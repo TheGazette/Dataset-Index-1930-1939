@@ -806,7 +806,6 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>,</Text>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,17 +1560,15 @@
       <Text>, A. K</Text>
       <PageNumber>1846</PageNumber>
     </MainItem>
-    <SubCategoryTitle>
-      <Text>F. R. G</Text>
-    </SubCategoryTitle>
     <SubItem>
+      <Text>F. R. G</Text>
       <PageNumber>680</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Text>B. A. E</Text>
+      <Text>. B. A. E</Text>
       <PageNumber>610</PageNumber>
     </MainItem>
   </ItemGroup>

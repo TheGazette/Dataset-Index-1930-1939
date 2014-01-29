@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,14 +319,15 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>L' A. ::</Text>
+      <Forenames>L</Forenames>
+      <Text>' A. ::</Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baldwin-Webb</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartram</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6702</PageNumber>
       <PageNumber>8257</PageNumber>
     </MainItem>
@@ -963,7 +964,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohinnery-Haldane</Key>
-      <Text>A N</Text>
+      <Forenames>A</Forenames>
+      <Text>N</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,7 +1016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobham</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cussons</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,7 +1487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodds</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gooding</Key>
-      <Text>E syft</Text>
+      <Forenames>E</Forenames>
+      <Text>syft</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,7 +1829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6878</PageNumber>
     </MainItem>
   </ItemGroup>

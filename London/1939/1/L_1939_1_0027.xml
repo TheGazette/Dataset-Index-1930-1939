@@ -210,8 +210,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosland</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Bt. Col. Harold Powell, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Bt. Col.</Title>
+      <Forenames>Harold Powell</Forenames>
+      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,9 +340,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Title>Brevet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Victor Alexander Henry, M.C., Gentleman of the Corps, H.M. Body Guard of the Honourable Corps of Gentleman at Arms</Text>
+      <Title>Brevet Lt.-Col.</Title>
+      <Forenames>Victor Alexander Henry</Forenames>
+      <Text>, M.C., Gentleman of the Corps, H.M. Body Guard of the Honourable Corps of Gentleman at Arms</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +523,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>Col. (temp. Brig.) Ernest Frederick Steell, M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Ernest Frederick Steell</Forenames>
+      <Text>, M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,8 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dimoline</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. -William Alfred, M.C., Nominated . Member, Legislative Council of Northern Rhodesia</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>-William Alfred, M.C., Nominated . Member, Legislative Council of Northern Rhodesia</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>

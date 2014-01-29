@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filleul</Key>
-      <Text>,. Lt.-Cdr. Philip Miles, D. S.C., Commander, Order of St. John of Jerusalem</Text>
+      <Text>. Lt.-Cdr. Philip Miles, D. S.C., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,8 +78,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Douglas Alexander, M.C., E. D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Douglas Alexander</Forenames>
+      <Text>, M.C., E. D., Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foot</Key>
-      <Text>, _ Lt.-Col. &amp; Bt. Col. Richard Cunningham, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>_ Lt.-Col. &amp; Bt. Col. Richard Cunningham, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,8 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forester</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Lord, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>The</Forenames>
+      <Text>Lord, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +219,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, Maj. (Commy.) Horace Mays, Member, Order of the British Empire</Text>
+      <Title>Maj. (Commy.)</Title>
+      <Forenames>Horace Mays</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,8 +264,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Forenames>Comdr</Forenames>
-      <Text>. (Retd.) Ivan 'Bromhead, Officer, Order of the British Empire</Text>
+      <Title>Comdr. (Retd.)</Title>
+      <Forenames>Ivan</Forenames>
+      <Text>'Bromhead, Officer, Order of the British Empire</Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frost</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (E) William Andrew, Member, Order of the British Empire</Text>
+      <Title>Lt. (E)</Title>
+      <Forenames>William Andrew</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +339,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaboury</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +441,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnock</Key>
-      <Text>, Capt. Viscount, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Capt. Viscount</Title>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +457,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gatt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alfred Joseph, O.B.E., M.C., Knight, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alfred Joseph</Forenames>
+      <Text>, O.B.E., M.C., Knight, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +475,9 @@
   <ItemGroup>
     <MainItem>
       <Key>George</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William, M.C., T.D.. M.B., Serving Brother, Order of St. John of.. Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>, M.C., T.D.. M.B., Serving Brother, Order of St. John of.. Jerusalem</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,8 +534,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbert</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (E) John Henry, Member 5th Class, Royal Victorian Order</Text>
+      <Title>Lt. (E)</Title>
+      <Forenames>John Henry</Forenames>
+      <Text>, Member 5th Class, Royal Victorian Order</Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,9 +655,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodman</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. I (Garr. S.M.) George, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. I (Garr. S.M.) George, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,8 +698,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore-Browne</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Eric, D.S.O., T.D., A.D.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Eric, D.S.O., T.D., A.D.C., Officer, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,8 +714,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Goss</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Slade, M.C., M.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Slade</Forenames>
+      <Text>, M.C., M.R.C.S., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,8 +758,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant-Suttie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gerald Lynham Porte, Knight, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gerald Lynham Porte</Forenames>
+      <Text>, Knight, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>

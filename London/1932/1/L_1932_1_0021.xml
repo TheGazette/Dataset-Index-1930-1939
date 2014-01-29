@@ -47,8 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hows</Key>
-      <Forenames>Electrical Lt</Forenames>
-      <Text>.-Commander George William, Member, Order of the British Empire</Text>
+      <Forenames>Electrical</Forenames>
+      <Text>Lt.-Commander George William, Member, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,8 +73,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hull</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Francis Reginald, Member, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Francis Regi-</Forenames>
+      <Text>nald, Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,16 +90,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphrys</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Francis Henry, G.C.V.O., K.C.M.G., K.B.E., C.I.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Francis Henry</Forenames>
+      <Text>, G.C.V.O., K.C.M.G., K.B.E., C.I.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Patrick, O.B.E., D.L., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert Patrick</Forenames>
+      <Text>, O.B.E., D.L., Commander, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inncs</Key>
-      <Text>. Francis Alexander, M.B., Officer, Order of the British Empire</Text>
+      <Text>Francis Alexander, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +153,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tsaacs</Key>
-      <Text>, H.E. the Rt. Hon. Sir Isaac Alfred, P.C., K. C.M.G., Associate Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>H.E.</Title>
+      <Text>the Rt. Hon. Sir Isaac Alfred, P.C., K. C.M.G., Associate Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,8 +218,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Commander Leonard Albert William, Member 4th Class, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Commander Leonard Albert William, Member 4th Class, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +325,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Major Gen. John, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>Gen. John, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

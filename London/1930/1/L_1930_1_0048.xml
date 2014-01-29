@@ -162,7 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>Lieut. Commander Hector Richard Monro, R.N</Text>
+      <Title>Lieut.</Title>
+      <Text>Commander Hector Richard Monro, R.N</Text>
       <PageNumber>209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +222,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>Lieut. General Sir Henry Edward Burstall, K.C.B., K.C.M.G</Text>
+      <Title>Lieut.</Title>
+      <Text>General Sir Henry Edward Burstall, K.C.B., K.C.M.G</Text>
       <PageNumber>209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,11 +231,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Earl of Albemarle, K.C.V.O.. C.B., T.D</Text>
+      <Title>Earl</Title>
+      <Text>of Albemarle, K.C.V.O.. C.B., T.D</Text>
       <PageNumber>495</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Adwick-le-Street</Key>

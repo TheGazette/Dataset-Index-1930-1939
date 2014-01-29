@@ -728,7 +728,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowther</Key>
-      <Text>C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>G, B</Text>
+      <Forenames>G</Forenames>
+      <Text>, B</Text>
       <PageNumber>791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,7 +1563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwardes-Ker</Key>
-      <Text>R, D. W. Edwards, A. R —</Text>
+      <Forenames>R</Forenames>
+      <Text>, D. W. Edwards, A. R —</Text>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1670,7 +1673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elveden</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1826,7 +1829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielder</Key>
-      <Text>H. P</Text>
+      <Text>. H. P</Text>
       <PageNumber>624</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Husband</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBain</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4647</PageNumber>
       <PageNumber>4647</PageNumber>
     </MainItem>
@@ -188,7 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4646</PageNumber>
       <PageNumber>4647</PageNumber>
     </MainItem>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mortimer</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,14 +327,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>, H *</Text>
+      <Forenames>H</Forenames>
+      <Text>*</Text>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pennefather-Evans</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preedy</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verghese</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5364</PageNumber>
       <PageNumber>5365</PageNumber>
     </MainItem>
@@ -638,7 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bindra</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bratton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1013,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookes</Key>
-      <Text>, F '</Text>
+      <Forenames>F</Forenames>
+      <Text>'</Text>
       <PageNumber>5746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullinan</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dhar</Key>
-      <Text>, j. It</Text>
+      <Text>j. It</Text>
       <PageNumber>4806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>FitzGerald</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1769,7 +1772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Text>, fc, G</Text>
+      <Text>fc, G</Text>
       <PageNumber>5095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,7 +1851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kala</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5096</PageNumber>
     </MainItem>
   </ItemGroup>

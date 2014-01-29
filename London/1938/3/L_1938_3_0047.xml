@@ -507,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Text>C P. McG</Text>
+      <Forenames>C</Forenames>
+      <Text>P. McG</Text>
       <PageNumber>4677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duckworth</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5605</PageNumber>
     </MainItem>
   </ItemGroup>

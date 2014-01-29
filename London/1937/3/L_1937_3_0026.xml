@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="026" pageID="https://www.thegazette.co.uk/id/London/index/year/1937/volume/3/page/026" pagePDF="https://www.thegazette.co.uk/London/index/year/1937/volume/3/page/026" pageRDF="https://www.thegazette.co.uk/London/index/year/1937/volume/3/page/026?view=linked-data" type="index" volume="3" year="1937">
+  <CategoryTitle>MILITARY PROMOTIONS, Territorial Army</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Coverdale</Key>
@@ -47,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranworth</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +643,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S, ... ... Everington, J. E</Text>
+      <Forenames>S</Forenames>
+      <Text>, ... ... Everington, J. E</Text>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>GUksten</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1177,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G; B</Text>
+      <Forenames>G</Forenames>
+      <Text>; B</Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hingston</Key>
-      <Text>, C V</Text>
+      <Forenames>C</Forenames>
+      <Text>V</Text>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hirst</Key>
-      <Text>, I -</Text>
+      <Forenames>I</Forenames>
+      <Text>-</Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,7 +1784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopetoun</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5632</PageNumber>
     </MainItem>
   </ItemGroup>

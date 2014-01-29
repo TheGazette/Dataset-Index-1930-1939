@@ -66,7 +66,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nadin</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,14 +111,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orman</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peake-Cottam</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plomer</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rea</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, C W. F</Text>
+      <Forenames>C</Forenames>
+      <Text>W. F</Text>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +423,8 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Text>F B</Text>
+      <Forenames>F</Forenames>
+      <Text>B</Text>
       <PageNumber>7110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smvth</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,21 +588,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Text>. A. T. S</Text>
+      <Text>A. T. S</Text>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Suinmerneld</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sydney</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,14 +681,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8128</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tonkin</Key>
-      <Text>, R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +895,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Albuquerque</Key>
-      <Text>. V. M</Text>
+      <Text>V. M</Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1113,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McCarrison</Key>
-      <Text>, Sir R</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
       <PageNumber>7283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Forenames>Ata-ullah</Forenames>
+      <Title>Ata-ullah .</Title>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutt</Key>
-      <Text>. H. B</Text>
+      <Text>H. B</Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,14 +1186,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Puri</Key>
-      <Text>. V. V</Text>
+      <Text>V. V</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,10 +1416,9 @@
       <Forenames>A. C.</Forenames>
       <PageNumber>6355</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Bear-Admirals</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Bear-Admirals</SubSectionTitle>
     <SubItem>
+      <Text>Bear-Admirals.</Text>
       <PageNumber>6355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1454,10 +1458,9 @@
       <Text>, J. IF. C</Text>
       <PageNumber>6610</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Engineer Bear-Admirals</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Engineer Bear-Admirals</SubSectionTitle>
     <SubItem>
+      <Text>Engineer Bear-Admirals.</Text>
       <PageNumber>7696</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1472,7 +1475,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knothe</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratsey</Key>
-      <Text>, F 719a Spicer, S. D</Text>
+      <Forenames>F</Forenames>
+      <Text>719a Spicer, S. D</Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

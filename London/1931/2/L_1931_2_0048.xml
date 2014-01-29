@@ -77,14 +77,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellerton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lumley</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>, I ;</Text>
+      <Forenames>I</Forenames>
+      <Text>;</Text>
       <PageNumber>3321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MoShane</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lampen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wardell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>,. A. S. C</Text>
+      <Text>. A. S. C</Text>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blundell</Key>
-      <Text>. A. N ;</Text>
+      <Text>A. N ;</Text>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +555,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davison</Key>
-      <Text>, J;</Text>
+      <Forenames>J</Forenames>
+      <Text>;</Text>
       <PageNumber>2803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumper</Key>
-      <Text>, ©. C. ... ..:</Text>
+      <Text>©. C. ... ..:</Text>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>. J. P</Text>
+      <Text>J. P</Text>
       <PageNumber>2646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. R. P</Text>
+      <Text>R. P</Text>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Suggitt</Key>
-      <Text>, 8. C '</Text>
+      <Text>8. C '</Text>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowhill</Key>
-      <Text>, F: W</Text>
+      <Forenames>F</Forenames>
+      <Text>: W</Text>
       <PageNumber>3765</PageNumber>
     </MainItem>
   </ItemGroup>

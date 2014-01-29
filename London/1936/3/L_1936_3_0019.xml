@@ -20,8 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Forenames>The Verv Rev</Forenames>
-      <Text>. Albert Victor, K.C.V.O., D.D., Dean of Windsor, Chaplain, Chapels Royal</Text>
+      <Forenames>The Verv</Forenames>
+      <Text>Rev. Albert Victor, K.C.V.O., D.D., Dean of Windsor, Chaplain, Chapels Royal</Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buzzard</Key>
-      <Text>Sir (Edward) Farquhar, Bt., K.C.V.O., M.D., Physician in Ordinary, H.M. Household</Text>
+      <Title>Sir (Edward)</Title>
+      <Forenames>Far-</Forenames>
+      <Text>quhar, Bt., K.C.V.O., M.D., Physician in Ordinary, H.M. Household</Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,8 +356,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnegy</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Ughtred Elliott, D.S.O., M.C, Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Ughtred Elliott</Forenames>
+      <Text>, D.S.O., M.C, Gentleman of the Corps</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +505,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. Colonel Ralph Stephenson, Member of Parliament for East Grinstead</Text>
+      <Title>Lieut.</Title>
+      <Text>Colonel Ralph Stephenson, Member of Parliament for East Grinstead</Text>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,8 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-General Sir George Sidney, K.C.B., C.M.G., D. S.O., Marshal of the Diplomatic Corps</Text>
+      <Title>Lt.</Title>
+      <Text>-General Sir George Sidney, K.C.B., C.M.G., D. S.O., Marshal of the Diplomatic Corps</Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,8 +587,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel David John, Member, H.M. Privy Council</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel David John, Member, H.M. Privy Council</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymont</Key>
-      <Text>, 0. T. M</Text>
+      <Text>0. T. M</Text>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +290,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, H. W. G</Text>
+      <Forenames>J</Forenames>
+      <Text>, H. W. G</Text>
       <PageNumber>5931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanford</Key>
-      <Text>, R, U. E. A</Text>
+      <Forenames>R</Forenames>
+      <Text>, U. E. A</Text>
       <PageNumber>5658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaman</Key>
-      <Text>, W,</Text>
+      <Forenames>W</Forenames>
+      <Text>,</Text>
       <PageNumber>6068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellon</Key>
-      <Text>, -R. D</Text>
+      <Text>-R. D</Text>
       <PageNumber>5742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shahra</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>5341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,7 +1029,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiffner</Key>
-      <Text>, . Sir H. B. Bt</Text>
+      <Text>. Sir H. B. Bt</Text>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +1774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>, W Sir Tapps Gervis Meyrick</Text>
+      <Forenames>W</Forenames>
+      <Text>Sir Tapps Gervis Meyrick</Text>
       <PageNumber>6006</PageNumber>
     </MainItem>
     <SubItem>
@@ -1797,7 +1801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tavener</Key>
-      <Text>, ,T. R. D</Text>
+      <Text>,T. R. D</Text>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1938,7 +1942,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
-      <Text>, M:</Text>
+      <Forenames>M</Forenames>
+      <Text>:</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>

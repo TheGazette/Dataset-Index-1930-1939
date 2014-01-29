@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4631</PageNumber>
       <PageNumber>5333</PageNumber>
     </MainItem>
@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellers</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +211,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G W. F</Text>
+      <Forenames>G</Forenames>
+      <Text>W. F</Text>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.H. 'Alijah Farzand-i-Dilpazir-i-Daulat-i Inglishia Mukhlis-ud-Daula Nasirul-Mulk Amir-ul-Umra Nawab Saiyid Raza Ali Khan Bahadur Mustaid Jang, Nawab of Rampur</Text>
+      <Text>H. 'Alijah Farzand-i-Dilpazir-i-Daulat-i Inglishia Mukhlis-ud-Daula Nasirul-Mulk Amir-ul-Umra Nawab Saiyid Raza Ali Khan Bahadur Mustaid Jang, Nawab of Rampur</Text>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armytag</Key>
-      <Text>.v H. W. H</Text>
+      <Text>v H. W. H</Text>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. A. L</Text>
+      <Text>A. L</Text>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,15 +607,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Forenames>It</Forenames>
-      <Text>. E</Text>
+      <Title>It.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barber</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barlow</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +728,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +756,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartle</Key>
-      <Text>,</Text>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bass</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +842,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>,C. T</Text>
+      <Text>C. T</Text>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedwell</Key>
-      <Text>. F. C</Text>
+      <Text>F. C</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellerson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1005,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Binns</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blewitt</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloomer</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowler</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bronsson</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caruana-Dingli</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>

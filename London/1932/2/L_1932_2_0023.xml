@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>Capt. (Qr.-Mr.) Albert William, D.C.M., Member, Order of the British Empire'</Text>
+      <Title>Capt. (Qr.-Mr.)</Title>
+      <Forenames>Albert William</Forenames>
+      <Text>, D.C.M., Member, Order of the British Empire'</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +126,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannatyne</Key>
-      <Text>Col. (temp. Brig.) Neil Charles, Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Neil Charles</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,8 +159,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (Qr.-Mr.) Arthur, M.C., D.C.M., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. (Qr.-Mr.)</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, M.C., D.C.M., Officer, Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Beazley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Edwin, M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Edwin</Forenames>
+      <Text>, M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,8 +280,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>Regmtl</Forenames>
-      <Text>. Qrmr.-Serg. Samuel Cecil, Member, Order of the British Empire ;</Text>
+      <Title>Regmtl. Qrmr.</Title>
+      <Text>-Serg. Samuel Cecil, Member, Order of the British Empire ;</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,8 +331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhopal</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. H. H. Iftikhar-ul-Mulk Sikandar Saulat Nawab Haji Sir Muhammad Hamidullah Khan Bahadur, G.C.I.E., OS.I., C.V.O., Nawab of, Knight Grand Commander, the Order of the Star of India</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>H. H. Iftikhar-ul-Mulk Sikandar Saulat Nawab Haji</Forenames>
+      <Text>Sir Muhammad Hamidullah Khan Bahadur, G.C.I.E., OS.I., C.V.O., Nawab of, Knight Grand Commander, the Order of the Star of India</Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biscoe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Hugh Vincent, Knight Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Hugh Vincent</Forenames>
+      <Text>, Knight Commander, Order of the British Empire</Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,8 +505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowen</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Hugh Rice, D.S.O.. Bar to Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Hugh Rice, D.S.O.. Bar to Distinguished Service Order</Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,8 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brenan</Key>
-      <Forenames>John</Forenames>
-      <Text>.. Fitzgerald, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Title>John .</Title>
+      <Text>. Fitzgerald, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +612,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Broomhall</Key>
-      <Text>Capt. &amp; Bt. Major William Maurice, M.B.E.; Officer, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Bt. Major William Maurice, M.B.E.; Officer, Order of the British Empire</Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
   </ItemGroup>

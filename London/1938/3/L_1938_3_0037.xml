@@ -494,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wainman</Key>
-      <Text>P. R</Text>
+      <Text>. P. R</Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walch</Key>
-      <Text>L. J</Text>
+      <Text>. L. J</Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +658,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>A. A. ... '</Text>
+      <Text>. A. A. ... '</Text>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wr</Key>
-      <Text>rne, J. M. L</Text>
+      <Text>.rne, J. M. L</Text>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -916,7 +916,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J A</Text>
+      <Forenames>J</Forenames>
+      <Text>A</Text>
       <PageNumber>4814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1665,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D ;</Text>
+      <Forenames>D</Forenames>
+      <Text>;</Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>

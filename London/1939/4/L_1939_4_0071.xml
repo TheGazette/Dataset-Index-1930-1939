@@ -298,7 +298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Ghani</Forenames>
+      <Title>Ghani .</Title>
       <PageNumber>7189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cookson</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>8466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,7 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>7413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muhammad</Key>
-      <Forenames>Afzal</Forenames>
+      <Title>Afzal .</Title>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>

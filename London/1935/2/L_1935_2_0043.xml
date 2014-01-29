@@ -19,9 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rbllison</Key>
-      <Title>Batt.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. John, Member, Order of the British Empire</Text>
+      <Title>Batt. St.</Title>
+      <Text>-Maj. John, Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,15 +35,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Rorke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Victor, D.S.O, Companion, Imperial Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert Victor</Forenames>
+      <Text>, D.S.O, Companion, Imperial Service Order</Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>Sir (Hugh) Arthur, D.S.O, LL.D, J.P, D.L, . Baronet</Text>
+      <Title>Sir (Hugh)</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, D.S.O, LL.D, J.P, D.L, . Baronet</Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushcliffe</Key>
-      <Text>Lord, C.B.E, Member of Committee of the Privy Council on Official Roll of Baronets</Text>
+      <Title>Lord</Title>
+      <Text>, C.B.E, Member of Committee of the Privy Council on Official Roll of Baronets</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,8 +291,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alfred George, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alfred George</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,15 +397,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobell</Key>
-      <Text>Maj .-Gen. Sanford John Palairet, C.M.G, D. S.O, Companion, 'Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Sanford John Palairet, C.M.G, D. S.O, Companion, 'Order of the Bath</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scorgie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Norman Gibb, C.B.E, M.V.O, Commander,. Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Norman Gibb</Forenames>
+      <Text>, C.B.E, M.V.O, Commander,. Royal Victorian Order</Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +529,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Capt. (local . Lt.-Col.) William James, Member, Order of the British Empire</Text>
+      <Title>Capt. (local . Lt.-Col.)</Title>
+      <Forenames>William James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +605,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. Henry Young, M.A, Member, Order of the British Empire</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. Henry Young, M.A, Member, Order of the British Empire</Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>

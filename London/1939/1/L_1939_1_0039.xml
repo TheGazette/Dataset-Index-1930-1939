@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowan</Key>
-      <Text>W. W</Text>
+      <Text>. W. W</Text>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>A. J. H</Text>
+      <Text>. A. J. H</Text>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1325,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour-Davey</Key>
-      <Text>C ,G. C</Text>
+      <Forenames>C</Forenames>
+      <Text>,G. C</Text>
       <PageNumber>2003</PageNumber>
     </MainItem>
   </ItemGroup>

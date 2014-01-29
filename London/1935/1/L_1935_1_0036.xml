@@ -55,15 +55,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stern</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Albert Gerald, K.B.E., C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Albert Gerald</Forenames>
+      <Text>, K.B.E., C.M.G., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steward</Key>
-      <Text>, Maj .-Gen. Edward Merivale, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Edward Merivale, O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sydney</Key>
-      <Text>, the Most Rev. The Archbishop of, Chaplain, Order of St. John of Jerusalem</Text>
+      <Text>the Most Rev. The Archbishop of, Chaplain, Order of St. John of Jerusalem</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredegar</Key>
-      <Text>, the Viscount, Officer, Order of St. John of Jerusalem</Text>
+      <Text>the Viscount, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,8 +371,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Hugh Stephenson, K.B-E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Hugh Stephenson</Forenames>
+      <Text>, K.B-E., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>

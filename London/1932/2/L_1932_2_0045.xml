@@ -101,7 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lemon</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2401</PageNumber>
       <PageNumber>2635</PageNumber>
     </MainItem>
@@ -286,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>D: (D)</Text>
+      <Forenames>D</Forenames>
+      <Text>: (D)</Text>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heather</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sainsbury</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +798,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fulleylove</Key>
-      <Text>E, J</Text>
+      <Forenames>E</Forenames>
+      <Text>, J</Text>
       <PageNumber>2792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,7 +995,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meyer</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2477</PageNumber>
       <PageNumber>2477</PageNumber>
     </MainItem>
@@ -1317,7 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>H '</Text>
+      <Forenames>H</Forenames>
+      <Text>'</Text>
       <PageNumber>3954</PageNumber>
     </MainItem>
   </ItemGroup>

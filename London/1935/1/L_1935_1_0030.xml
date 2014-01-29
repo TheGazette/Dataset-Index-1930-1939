@@ -219,8 +219,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gorssline</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Raymond Myers, D.S.O., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Raymond Myers</Forenames>
+      <Text>, D.S.O., M.B., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +237,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, Maj .-Gen. James Drummond, O.B., CLE., K.H.S., Knight</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. James Drummond, O.B., CLE., K.H.S., Knight</Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +264,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Charles John Cecil C.B., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Charles John Cecil C.B., D.S.O., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +465,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. David Livingston, R.A.M.C., F.R.C.S., Serving Brother, Order of -St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>David Livingston</Forenames>
+      <Text>, R.A.M.C., F.R.C.S., Serving Brother, Order of -St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>

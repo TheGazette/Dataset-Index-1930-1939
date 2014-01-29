@@ -28,7 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cullen</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>EJmley</Key>
-      <Text>Viscount, M.P. for Norfolk, Eastern</Text>
+      <Title>Viscount</Title>
+      <Text>, M.P. for Norfolk, Eastern</Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +534,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkner</Key>
-      <Text>Col. (local Brig.) Eric Felton, C.M.G., D.S.O., Member of the Nominated Council of Malta</Text>
+      <Title>Col. (local Brig.)</Title>
+      <Forenames>Eric Felton</Forenames>
+      <Text>, C.M.G., D.S.O., Member of the Nominated Council of Malta</Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,8 +704,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gault</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Andrew Hamilton, D.S.O., M.P. for Taunton</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Andrew Hamilton</Forenames>
+      <Text>, D.S.O., M.P. for Taunton</Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,8 +797,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Rt. Hon. Sir John, Bart., D.S.O., M.P. for Pollok</Text>
+      <Title>Lt.-Col. The Rt. Hon. Sir</Title>
+      <Forenames>John</Forenames>
+      <Text>, Bart., D.S.O., M.P. for Pollok</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -216,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madho</Key>
-      <Forenames>Parshad</Forenames>
+      <Title>Parshad .</Title>
       <PageNumber>3589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldham</Key>
-      <Text>R. W</Text>
+      <Text>. R. W</Text>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blood</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>H, H</Text>
+      <Forenames>H</Forenames>
+      <Text>, H</Text>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmsley</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooker</Key>
-      <Text>J. J. S</Text>
+      <Text>. J. J. S</Text>
       <PageNumber>3511</PageNumber>
     </MainItem>
   </ItemGroup>

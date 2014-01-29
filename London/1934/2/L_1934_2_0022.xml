@@ -106,6 +106,7 @@
       <PageNumber>3822</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbiss</Key>
@@ -117,8 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbot</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick William, Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick William</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +455,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>Capt. (Dept. Commissary) Frederick William, Member, Order of the British Empire</Text>
+      <Title>Capt. (Dept. Commissary)</Title>
+      <Forenames>Frederick William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +575,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col.' Hubert Frederick, Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>' Hubert Frederick, Knight of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,8 +607,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartholomew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Gen. William Henry, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>Gen. William Henry, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>

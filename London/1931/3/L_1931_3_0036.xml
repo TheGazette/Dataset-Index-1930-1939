@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burch</Key>
-      <Text>,' A. R:</Text>
+      <Text>' A. R:</Text>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +70,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Formby</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lampen</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>. D.H.W</Text>
+      <Text>D.H.W</Text>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +199,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardley</Key>
-      <Text>, R, A. B</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. B</Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +265,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cresswell</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hynd</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johansen</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Portch</Key>
-      <Text>, P; E. G. .., ,</Text>
+      <Forenames>P</Forenames>
+      <Text>; E. G. .., ,</Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,15 +843,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Craigavon</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>Visct</Forenames>
+      <Title>Rt. Hon. Visct.</Title>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>,' N. B. E</Text>
+      <Text>' N. B. E</Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1135,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton-Jinks</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bannerman</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>6239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,7 +1663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheshire</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5402</PageNumber>
     </MainItem>
   </ItemGroup>

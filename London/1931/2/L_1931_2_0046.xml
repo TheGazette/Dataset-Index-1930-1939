@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>. H. R</Text>
+      <Text>H. R</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggett</Key>
-      <Text>, 0. E</Text>
+      <Text>0. E</Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,14 +371,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Faviell</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Johnstone</Key>
-      <Text>, A '</Text>
+      <Forenames>A</Forenames>
+      <Text>'</Text>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgway</Key>
-      <Text>, G: S</Text>
+      <Forenames>G</Forenames>
+      <Text>: S</Text>
       <PageNumber>2803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crick</Key>
-      <Text>, T, G. P</Text>
+      <Forenames>T</Forenames>
+      <Text>, G. P</Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fogg-Elliot</Key>
-      <Text>, 0</Text>
+      <Text>0</Text>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +922,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neame</Key>
-      <Text>, D; M. L</Text>
+      <Forenames>D</Forenames>
+      <Text>; M. L</Text>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caslon</Key>
-      <Text>.H. D</Text>
+      <Text>H. D</Text>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, A: H. B</Text>
+      <Forenames>A</Forenames>
+      <Text>: H. B</Text>
       <PageNumber>3916</PageNumber>
     </MainItem>
   </ItemGroup>

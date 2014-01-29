@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Text>Col. (temp. Brig.) George Ambrose, Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>George Ambrose</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +274,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Local Lt.-Col.) Herbert Busteed, M.C., Officer, Order or the British Empire ... Hope-Gill, Cecil Gervase, Officer, Order of the British Empire</Text>
+      <Title>Maj. (Local Lt.-Col.)</Title>
+      <Forenames>Herbert Busteed</Forenames>
+      <Text>, M.C., Officer, Order or the British Empire ... Hope-Gill, Cecil Gervase, Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,8 +386,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Huntingfield</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Knight Commander, St. Michael and St. George</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Knight Commander, St. Michael and St. George</Text>
       <PageNumber>1703</PageNumber>
     </MainItem>
     <SubItem>

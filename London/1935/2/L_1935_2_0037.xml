@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Otto, M.B.E., T.D., Officer, . Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Otto</Forenames>
+      <Text>, M.B.E., T.D., Officer, . Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>H.R.H. the D-uchess of, Dame Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>H.R.H.</Title>
+      <Text>the D-uchess of, Dame Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +195,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H.R.H. the Duke of, K.G., G.C.M.G., G.C.V.O., Knight of., the Most Ancient arid Most . Noble Order of the Thistle</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, K.G., G.C.M.G., G.C.V.O., Knight of., the Most Ancient arid Most . Noble Order of the Thistle</Text>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +316,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitching</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harold Edward, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harold Edward</Forenames>
+      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Knowles</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert, Companion, . Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>, Companion, . Order of the Indian Empire</Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +388,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kylsant</Key>
-      <Text>Lady, C.B.E.; Dameof Justice, Order of Si. John of Jerusalem ..: -</Text>
+      <Title>Lady</Title>
+      <Text>, C.B.E.; Dameof Justice, Order of Si. John of Jerusalem ..: -</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,8 +445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William . Robert, M.O., V.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. William .</Title>
+      <Forenames>Robert</Forenames>
+      <Text>, M.O., V.D., Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +503,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. ' Sir Percy 'Robert, ' K.O.V.O., C.B.E., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>' Sir Percy 'Robert, ' K.O.V.O., C.B.E., D.S.O., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>

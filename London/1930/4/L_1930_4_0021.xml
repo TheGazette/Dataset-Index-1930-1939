@@ -67,8 +67,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William David, O.B.E., Inspector under the County and Borough Police Act, 1856</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William David</Forenames>
+      <Text>, O.B.E., Inspector under the County and Borough Police Act, 1856</Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,8 +221,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon. the Earl of, Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon. the Earl of, Knight Grand Cross, Order of St. Michael and St. George</Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,15 +394,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyers</Key>
-      <Text>Capt. FitzRoy Hubert, Equerry to Field Marshal The Duke of Connaught</Text>
+      <Title>Capt.</Title>
+      <Text>FitzRoy Hubert, Equerry to Field Marshal The Duke of Connaught</Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gallagher</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Albert Ernest, C.B.E., D.S.O., Nominated Official Member, Legislative Council, Cyprus</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Albert Ernest</Forenames>
+      <Text>, C.B.E., D.S.O., Nominated Official Member, Legislative Council, Cyprus</Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>

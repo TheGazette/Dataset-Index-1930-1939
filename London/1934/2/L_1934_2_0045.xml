@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>W. D. Martin, R</Text>
+      <Text>. W. D. Martin, R</Text>
       <PageNumber>3030</PageNumber>
       <PageNumber>3981</PageNumber>
     </MainItem>
@@ -286,8 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Massaud</Key>
-      <Forenames>Khan</Forenames>
-      <Text>..:</Text>
+      <Title>Khan .</Title>
+      <Text>.:</Text>
       <PageNumber>2224</PageNumber>
       <PageNumber>3662</PageNumber>
     </MainItem>
@@ -403,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nazir</Key>
-      <Forenames>Ahmad</Forenames>
+      <Title>Ahmad .</Title>
       <PageNumber>2224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollins</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2549</PageNumber>
       <PageNumber>3219</PageNumber>
     </MainItem>
@@ -863,7 +863,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T H. L</Text>
+      <Forenames>T</Forenames>
+      <Text>H. L</Text>
       <PageNumber>2549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shuker</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -926,7 +927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1058,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tice</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>2862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Villiers</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wymer</Key>
-      <Text>E :</Text>
+      <Forenames>E</Forenames>
+      <Text>:</Text>
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reinhold</Key>
-      <Text>C: H</Text>
+      <Forenames>C</Forenames>
+      <Text>: H</Text>
       <PageNumber>2710</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smithers</Key>
-      <Text>, Col. (Hon. Brig.) Leonard Sueton Hrrsch, Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. Brig.)</Title>
+      <Forenames>Leonard Sueton Hrrsch</Forenames>
+      <Text>, Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,8 +148,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Ross, M.B., Oh.B., F.R.C.S. (E d i n.), Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Ross</Forenames>
+      <Text>, M.B., Oh.B., F.R.C.S. (E d i n.), Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +184,8 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>M r. justice Gilbert, Knight</Text>
+      <Forenames>M</Forenames>
+      <Text>r. justice Gilbert, Knight</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,8 +279,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Szlumper</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gilbert Savil, C.B.E., T.D., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gilbert Savil</Forenames>
+      <Text>, C.B.E., T.D., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,8 +379,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Prof</Forenames>
-      <Text>. DArcy Wentworth, C.B., F.R.S., Member of the Fishery Board for Scotland</Text>
+      <Title>Prof.</Title>
+      <Text>DArcy Wentworth, C.B., F.R.S., Member of the Fishery Board for Scotland</Text>
       <PageNumber>974</PageNumber>
     </MainItem>
   </ItemGroup>

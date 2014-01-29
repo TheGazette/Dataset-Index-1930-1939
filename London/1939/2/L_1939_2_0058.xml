@@ -345,7 +345,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, K</Text>
+      <Forenames>J</Forenames>
+      <Text>, K</Text>
       <PageNumber>3786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +616,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chambers</Key>
-      <Text>, A: S</Text>
+      <Forenames>A</Forenames>
+      <Text>: S</Text>
       <PageNumber>4444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chignell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1020,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobham</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>2665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,7 +1291,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q Q 444</Text>
+      <Forenames>Q</Forenames>
+      <Text>Q 444</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1446,7 +1449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coleby</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,7 +1465,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colledge</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>2665</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>F March Daymond, J. R. de Lisle, J. A. IF. Phillipps</Text>
+      <Forenames>F</Forenames>
+      <Text>March Daymond, J. R. de Lisle, J. A. IF. Phillipps</Text>
       <PageNumber>2773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>N Dowdall, J. B</Text>
+      <Forenames>N</Forenames>
+      <Text>Dowdall, J. B</Text>
       <PageNumber>3304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>2514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,7 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elcho</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,14 +771,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Elmhirst</Key>
-      <Text>R,</Text>
+      <Forenames>R</Forenames>
+      <Text>,</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Else</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3447</PageNumber>
       <PageNumber>4165</PageNumber>
     </MainItem>
@@ -784,7 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennis</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Entwistle</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flash</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes-Tweedie</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fbwke</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +998,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galletly</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +1913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hounsell</Key>
-      <Text>F; W</Text>
+      <Forenames>F</Forenames>
+      <Text>; W</Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>

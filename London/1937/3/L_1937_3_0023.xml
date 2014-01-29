@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratley</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +479,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prestidge</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +653,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rambush</Key>
-      <Text>, E: V. '</Text>
+      <Forenames>E</Forenames>
+      <Text>: V. '</Text>
       <PageNumber>5441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rathbone</Key>
-      <Text>, J: S. N</Text>
+      <Forenames>J</Forenames>
+      <Text>: S. N</Text>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1019,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1130,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rushton</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sackville</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1290,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R, E. W</Text>
+      <Forenames>R</Forenames>
+      <Text>, E. W</Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Serjeantson</Key>
-      <Text>, . J. M</Text>
+      <Text>. J. M</Text>
       <PageNumber>5439</PageNumber>
     </MainItem>
   </ItemGroup>

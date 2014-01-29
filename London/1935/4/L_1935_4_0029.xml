@@ -47,21 +47,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>, . -Missy ' Order' of .' Mercy. -.r.-</Text>
+      <Text>. -Missy ' Order' of .' Mercy. -.r.-</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Attlee</Key>
-      <Text>,The Rt,, Hon.Clement. Richard;-M.P. for Lime'-house . ... ... .: ... '</Text>
+      <Text>The Rt,, Hon.Clement. Richard;-M.P. for Lime'-house . ... ... .: ... '</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>,-Malcolm .Burnett Gardiner,' Nominated .Unofficial Member of . the Legislative Council of ... British -Guiana'</Text>
+      <Text>-Malcolm .Burnett Gardiner,' Nominated .Unofficial Member of . the Legislative Council of ... British -Guiana'</Text>
       <PageNumber>6542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,15 +76,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>,' Douglas, Unofficial Member of the Legislative Council of the Colony of ' '.. Seychelles' ...--' ' ..: . . :</Text>
+      <Text>' Douglas, Unofficial Member of the Legislative Council of the Colony of ' '.. Seychelles' ...--' ' ..: . . :</Text>
       <PageNumber>6297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col.:' J. . G. A., ..Order of Mercy'</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>:' J. . G. A., ..Order of Mercy'</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Text>, . The, Rt. Hon. , Stanley, M.P. for Bewdley</Text>
+      <Text>. The, Rt. Hon. , Stanley, M.P. for Bewdley</Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>, . George, , M.P.. for . .. Hampstead</Text>
+      <Text>. George, , M.P.. for . .. Hampstead</Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,14 +124,17 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>C a p t ;» i n -.' Harold Haririgton, . M.C:, '.*' M.P. for Isle ofrhanet</Text>
+      <Forenames>C</Forenames>
+      <Text>a p t ;» i n -.' Harold Haririgton, . M.C:, '.*' M.P. for Isle ofrhanet</Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ballantyne</Key>
-      <Text>, Mrs. J! K., Order of Mercy '.;... .,:..'</Text>
+      <Title>Mrs.</Title>
+      <Forenames>J</Forenames>
+      <Text>! K., Order of Mercy '.;... .,:..'</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batey</Key>
-      <Text>,, Joseph, M.P-: for Spennymoor</Text>
+      <Text>, Joseph, M.P-: for Spennymoor</Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beauchamp</Key>
-      <Text>, . Sir. . Brograv© Campbell,.Bart., M.P, for. . Walthamstow,' East :</Text>
+      <Text>. Sir. . Brograv© Campbell,.Bart., M.P, for. . Walthamstow,' East :</Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,14 +236,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Beit</Key>
-      <Text>, .Sir .Alfred Lane. Bart., M.P. for. St.' Pancras, . &gt;-' .'South-East</Text>
+      <Text>.Sir .Alfred Lane. Bart., M.P. for. St.' Pancras, . &gt;-' .'South-East</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bellenger</Key>
-      <Text>, , Frederick Joh-ri,' M.P.-for Bassetlaw-' :</Text>
+      <Text>, Frederick Joh-ri,' M.P.-for Bassetlaw-' :</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +316,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackbam</Key>
-      <Text>, Col. R, J., C.B., O.M.G., iBar, Order of Mercy</Text>
+      <Title>Col.</Title>
+      <Forenames>R</Forenames>
+      <Text>, J., C.B., O.M.G., iBar, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,8 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bourne</Key>
-      <Title>Captain</Title>
-      <Forenames>The</Forenames>
+      <Forenames>CaptainThe</Forenames>
       <Text>' Rt. Hon. Robert Croft, M.P. for Oxford :</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
@@ -430,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bbyd-Ca-rpenter</Key>
-      <Text>,' Sir Archibald, M.P: for Chertsey</Text>
+      <Text>' Sir Archibald, M.P: for Chertsey</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,14 +474,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bright</Key>
-      <Text>, Mrs., Bar, Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>,. Richard George, M.P. for Cambridge</Text>
+      <Text>. Richard George, M.P. for Cambridge</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,14 +498,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brocket</Key>
-      <Text>, the Lady, Order of Mercy</Text>
+      <Text>the Lady, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brocklebank</Key>
-      <Text>, ' Clement Edmund Royds, M.P. for Fairfield</Text>
+      <Text>' Clement Edmund Royds, M.P. for Fairfield</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>,, Brevet-Ocjl. Douglas Clifton, '.M.P. for Hexham</Text>
+      <Text>, Brevet-Ocjl. Douglas Clifton, '.M.P. for Hexham</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckeridge</Key>
-      <Text>, .Surg. Rear-Adm. G. L., O.B.E., M.R.C.S., L.R.C.P., Honorary Surgeon to H.M. the King</Text>
+      <Text>.Surg. Rear-Adm. G. L., O.B.E., M.R.C.S., L.R.C.P., Honorary Surgeon to H.M. the King</Text>
       <PageNumber>6901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burgin</Key>
-      <Text>,. Edward Leslie,. M.P. . .' . for Luton ;</Text>
+      <Text>. Edward Leslie,. M.P. . .' . for Luton ;</Text>
       <PageNumber>7495</PageNumber>
     </MainItem>
   </ItemGroup>

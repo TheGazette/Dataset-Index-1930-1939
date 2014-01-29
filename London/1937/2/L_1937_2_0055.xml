@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>J. A</Text>
+      <Text>. J. A</Text>
       <PageNumber>2807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +315,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Astle</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3111</PageNumber>
       <PageNumber>4016</PageNumber>
     </MainItem>
@@ -567,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barke</Key>
-      <Text>Maj. &amp; Bt. Lt.-Col</Text>
+      <Title>Maj.</Title>
+      <Text>&amp; Bt. Lt.-Col</Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayford</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadogan</Key>
-      <Text>Earl</Text>
+      <Title>Earl .</Title>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,7 +1849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chassels</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>

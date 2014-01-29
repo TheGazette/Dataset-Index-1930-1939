@@ -131,7 +131,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibb</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +301,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,7 @@
       <PageNumber>1918</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>___ ___ R. B</Text>
+      <Text>___ ___ R. B.</Text>
       <PageNumber>16</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -436,7 +436,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +473,7 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +528,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +848,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>X&gt;. H. L</Text>
+      <Forenames>X</Forenames>
+      <Text>&gt;. H. L</Text>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +866,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>169</PageNumber>
       <PageNumber>1332</PageNumber>
     </MainItem>
@@ -1413,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollinrake</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutcheson-Collins</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1714,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>C Ibbotson, R</Text>
+      <Forenames>C</Forenames>
+      <Text>Ibbotson, R</Text>
       <PageNumber>411</PageNumber>
     </MainItem>
   </ItemGroup>

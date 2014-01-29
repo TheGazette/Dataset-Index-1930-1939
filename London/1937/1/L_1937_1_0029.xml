@@ -85,8 +85,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edwin Charles, C.B.E., M.V.O.. Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edwin Charles</Forenames>
+      <Text>, C.B.E., M.V.O.. Commander, Royal Victorian Order</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +147,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) Henry Coventry Maitland M a k g i 1 1, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Henry Coventry Maitland M</Forenames>
+      <Text>a k g i 1 1, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +256,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cully</Key>
-      <Text>Qrmr. (Hon. Flight Lt.) Hugh. Member, Order of the British Empire</Text>
+      <Title>Qrmr. (Hon. Flight Lt.) Hugh.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +274,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuninghame</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Wallace Smith, D.S.O., Gentleman of the Corps</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Wallace Smith</Forenames>
+      <Text>, D.S.O., Gentleman of the Corps</Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,8 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drummond</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Robert J., D.D., Chaplain in Scotland, H.M. Household</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Robert J., D.D., Chaplain in Scotland, H.M. Household</Text>
       <PageNumber>699</PageNumber>
     </MainItem>
     <SubItem>

@@ -31,7 +31,7 @@
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
-      <Text>S. G. W 6637.</Text>
+      <Text>S. G. W 6637</Text>
       <PageNumber>6637</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -378,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowe</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>7922</PageNumber>
       <PageNumber>7923</PageNumber>
     </MainItem>
@@ -619,7 +619,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>6200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +870,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickins</Key>
-      <Text>, C J. S</Text>
+      <Forenames>C</Forenames>
+      <Text>J. S</Text>
       <PageNumber>6637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodgson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,15 +1053,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Rt. Hon. Lord .</Title>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Duminy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>

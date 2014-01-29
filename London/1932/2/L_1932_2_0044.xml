@@ -344,7 +344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jocelyn</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +521,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wadlow</Key>
-      <Text>P: van B</Text>
+      <Forenames>P</Forenames>
+      <Text>: van B</Text>
       <PageNumber>4114</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whinney</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowden</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cashman</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopkins</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +896,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Affleck-Graves</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>

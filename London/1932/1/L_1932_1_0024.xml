@@ -108,7 +108,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, Sir (Samuel) Findlater, K.C.I.E., C.S.I., Knight Commander, Order of the Bath</Text>
+      <Title>Sir (Samuel)</Title>
+      <Forenames>Find-</Forenames>
+      <Text>later, K.C.I.E., C.S.I., Knight Commander, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,8 +136,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Suhrwardy</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Hassan, O.B.E., M.D., F.R.C.S.I., Associate Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Hassan</Forenames>
+      <Text>, O.B.E., M.D., F.R.C.S.I., Associate Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +215,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. J. G., Steward and Bailiff of the Manor of Northstead</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>J. G.</Forenames>
+      <Text>, Steward and Bailiff of the Manor of Northstead</Text>
       <PageNumber>1293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +360,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Venning</Key>
-      <Text>, Colonel (temp. Brigadier) Francis Esmond Windgate. O.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>Francis Esmond Windgate</Forenames>
+      <Text>. O.B.E., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>

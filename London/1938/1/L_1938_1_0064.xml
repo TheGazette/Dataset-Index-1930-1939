@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbs</Key>
-      <Text>. E. P. P</Text>
+      <Text>E. P. P</Text>
       <PageNumber>1512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>, O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. J. R. S</Text>
+      <Text>J. R. S</Text>
       <PageNumber>973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grayling</Key>
-      <Text>, G: B</Text>
+      <Forenames>G</Forenames>
+      <Text>: B</Text>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1008,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hook</Key>
-      <Text>, S in Hopkinson, R. A</Text>
+      <Forenames>S</Forenames>
+      <Text>in Hopkinson, R. A</Text>
       <PageNumber>671</PageNumber>
       <PageNumber>672</PageNumber>
     </MainItem>
@@ -1219,7 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Iredell</Key>
-      <Text>,' Sir A. W. .. ... i35i Ironside, H. H. A</Text>
+      <Text>' Sir A. W. .. ... i35i Ironside, H. H. A</Text>
       <PageNumber>812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,7 +1820,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lister</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>813</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -347,14 +347,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Clewer</Key>
-      <Text>, D -</Text>
+      <Forenames>D</Forenames>
+      <Text>-</Text>
       <PageNumber>5559</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deeds</Key>
-      <Text>, Sir CP</Text>
+      <Title>Sir</Title>
+      <Text>CP</Text>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gort</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +513,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(cane.)</Text>
+      <Title>(cane.)</Title>
       <PageNumber>5900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Underhill</Key>
-      <Text>, N -</Text>
+      <Forenames>N</Forenames>
+      <Text>-</Text>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>

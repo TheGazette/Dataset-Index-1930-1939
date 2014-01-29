@@ -236,7 +236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mawaz</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mehar</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +488,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +657,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mornington</Key>
-      <Text>, Earl of ... Morris, F</Text>
+      <Title>Earl</Title>
+      <Text>of ... Morris, F</Text>
       <PageNumber>7350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,22 +778,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Muhd</Key>
-      <Forenames>Hussein</Forenames>
-      <Text>... :</Text>
+      <Title>Hussein .</Title>
+      <Text>.. :</Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Muhd</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Muhd</Key>
-      <Forenames>Shah</Forenames>
+      <Title>Shah .</Title>
       <PageNumber>7627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nur</Key>
-      <Forenames>Muhd</Forenames>
+      <Title>Muhd .</Title>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1559,7 +1560,7 @@
       <PageNumber>7996</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>7915.</Text>
+      <Text>7915</Text>
       <PageNumber>7995</PageNumber>
     </SubItem>
   </ItemGroup>

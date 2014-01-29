@@ -90,7 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maher-Loughnan</Key>
-      <Text>, M\ G. E .-</Text>
+      <Forenames>M</Forenames>
+      <Text>\ G. E .-</Text>
       <PageNumber>3778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bayley</Key>
-      <Text>, j. A</Text>
+      <Text>j. A</Text>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +279,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Text>, E; C</Text>
+      <Forenames>E</Forenames>
+      <Text>; C</Text>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair-Morford, A. C</Text>
+      <Text>Clair-Morford, A. C</Text>
       <PageNumber>2750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flint</Key>
-      <Text>. C. S</Text>
+      <Text>C. S</Text>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1056,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>, J :</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanfield</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Text>,' E. L</Text>
+      <Text>' E. L</Text>
       <PageNumber>2477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>2263</PageNumber>
     </MainItem>
   </ItemGroup>

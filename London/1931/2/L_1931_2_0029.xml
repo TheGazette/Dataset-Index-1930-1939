@@ -10,7 +10,14 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lancaster</Key>
+      <Forenames>George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
@@ -44,8 +51,22 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Carr, Officer, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>Philip, Member of H.M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lazenby</Key>
+      <Forenames>William Edward Carr</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Le</Key>
+      <Forenames>Breton</Forenames>
+      <Text>, Lt.-Col. Edward Philip, Member of H.M. Bodyguard of the Honourable* Corps of Gentlemen at Arms</Text>
+      <PageNumber>3757</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lean</Key>
@@ -54,7 +75,14 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Philip, Member of H.M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Le</Key>
+      <Forenames>Breton</Forenames>
+      <Text>, Lt.-Col. Edward Philip, Member of H.M. Bodyguard of the Honourable Corps of Gentlemen at Arms</Text>
+      <PageNumber>3757</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ledger</Key>
@@ -70,7 +98,14 @@
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lee</Key>
+      <Forenames>William</Forenames>
+      <Text>, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leeson</Key>
@@ -103,7 +138,14 @@
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lewis</Key>
+      <Forenames>Harold John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Liddell</Key>
@@ -291,7 +333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclver</Key>
-      <Text>, Captain (QuarterMaster) Norman, Member, Order of the British Empire</Text>
+      <Title>Captain (QuarterMaster)</Title>
+      <Forenames>Norman</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,8 +351,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackereth</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gilbert, M.C., H.M. Consul at Addis Ababa</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gilbert</Forenames>
+      <Text>, M.C., H.M. Consul at Addis Ababa</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +378,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George, D.S.O., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George</Forenames>
+      <Text>, D.S.O., M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,8 +534,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (QuarterMaster) Harold Percy, Member, Order of the British Empire</Text>
+      <Title>Lt. (QuarterMaster)</Title>
+      <Forenames>Harold Percy</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,8 +593,16 @@
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Catherine Scott</Forenames>
+      <Text>, Mrs., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>

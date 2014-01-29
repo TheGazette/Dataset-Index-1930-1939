@@ -864,7 +864,7 @@
       <PageNumber>2249</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>F. A</Text>
+      <Text>F. A.</Text>
       <PageNumber>2456</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1271,7 +1271,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>T F</Text>
+      <Forenames>T</Forenames>
+      <Text>F</Text>
       <PageNumber>3354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1364,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Marq</Forenames>
+      <Title>Marq.</Title>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1790,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>T&gt;</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>3423</PageNumber>
     </MainItem>
   </ItemGroup>

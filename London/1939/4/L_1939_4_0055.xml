@@ -46,7 +46,6 @@
   <KeyDitto>___ ___ ___ ___</KeyDitto>
   <KeyDitto>___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>... 7114 South, R. W. ..</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
@@ -203,7 +202,6 @@
       <PageNumber>7703</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>... 8390 Spilsbury, F. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -232,7 +230,6 @@
       <PageNumber>7394</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>. 754 Spoor, S. R: S</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -354,7 +351,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staning</Key>
-      <Text>D Stanley, A. B</Text>
+      <Forenames>D</Forenames>
+      <Text>Stanley, A. B</Text>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +497,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +521,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W: R. H</Text>
+      <Forenames>W</Forenames>
+      <Text>: R. H</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>

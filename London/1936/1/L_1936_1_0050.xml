@@ -161,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, .J</Text>
+      <Text>.J</Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stuart-Shepherd</Key>
-      <Text>, D L. P. S</Text>
+      <Forenames>D</Forenames>
+      <Text>L. P. S</Text>
       <PageNumber>980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahmed</Key>
-      <Forenames>Jan</Forenames>
+      <Title>Jan .</Title>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Belchem</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackett</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +919,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Catt</Key>
-      <Text>, C E. B</Text>
+      <Forenames>C</Forenames>
+      <Text>E. B</Text>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +941,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>,. G. H</Text>
+      <Text>. G. H</Text>
       <PageNumber>822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsmie</Key>
-      <Text>, R Evans, C. B</Text>
+      <Forenames>R</Forenames>
+      <Text>Evans, C. B</Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Maurice</Key>
-      <Text>,. W. H</Text>
+      <Text>. W. H</Text>
       <PageNumber>1978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghanshyam</Key>
-      <Forenames>Smgh</Forenames>
+      <Title>Smgh .</Title>
       <PageNumber>1821</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -169,16 +169,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Baird</Key>
-      <Forenames>William</Forenames>
-      <Text>. MacDonald, J.P., Knight -</Text>
+      <Title>William .</Title>
+      <Text>MacDonald, J.P., Knight -</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel and Brevet Colonel Eustoh Edward Francis, D.S.O., M.C.., T.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel and Brevet Colonel Eustoh Edward Francis, D.S.O., M.C.., T.D., Commander, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +270,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Percy Hoard, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Percy Hoard, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,8 +375,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alexander Dumaresq, M.C.-,. Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alexander Dumaresq</Forenames>
+      <Text>, M.C.-,. Officer, Order of the British Empire</Text>
       <PageNumber>2974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +386,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Major (Local Lt.Colonel) Charles Vere, A. M. I. Mech. E., Officer, Order of the</Text>
+      <Title>Major (Local Lt.Colonel)</Title>
+      <Forenames>Charles Vere</Forenames>
+      <Text>, A. M. I. Mech. E., Officer, Order of the</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackburn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Charles Bickerton, O.B.E., M.D., Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Charles Bickerton, O.B.E., M.D., Knight</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Borodale</Key>
-      <Text>Viscount, Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Title>Viscount</Title>
+      <Text>, Steward and Bailiff of the Chiltern Hundreds</Text>
       <PageNumber>2553</PageNumber>
     </MainItem>
   </ItemGroup>

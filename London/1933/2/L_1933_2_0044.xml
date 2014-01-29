@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2669</PageNumber>
     </MainItem>
     <SubItem>
@@ -507,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Karslake</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2566</PageNumber>
       <PageNumber>2566</PageNumber>
     </MainItem>
@@ -717,14 +717,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey-Cooper</Key>
-      <Text>E 8</Text>
+      <Forenames>E</Forenames>
+      <Text>8</Text>
       <PageNumber>4206</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stubbings</Key>
-      <Text>R A</Text>
+      <Forenames>R</Forenames>
+      <Text>A</Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,14 +879,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Babu</Key>
-      <Forenames>Parte</Forenames>
+      <Title>Parte .</Title>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>R, A</Text>
+      <Forenames>R</Forenames>
+      <Text>, A</Text>
       <PageNumber>4205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +970,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brouehton</Key>
-      <Text>H E</Text>
+      <Forenames>H</Forenames>
+      <Text>E</Text>
       <PageNumber>2374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +987,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3877</PageNumber>
       <PageNumber>4387</PageNumber>
     </MainItem>
@@ -1070,7 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>ChurcherW</Key>
-      <Text>D</Text>
+      <Text>. D</Text>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,14 +1168,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruttenden</Key>
-      <Text>L. C</Text>
+      <Text>. L. C</Text>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ouerden</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3550</PageNumber>
       <PageNumber>4387</PageNumber>
     </MainItem>
@@ -1193,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daulet</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,21 +1227,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Daya</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>3020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dhanbabadur</Key>
-      <Forenames>Gurung</Forenames>
+      <Title>Gurung .</Title>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>F. H</Text>
+      <Text>. F. H</Text>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fosbury</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,14 +1417,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gosselin</Key>
-      <Text>H. de V</Text>
+      <Text>. H. de V</Text>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>

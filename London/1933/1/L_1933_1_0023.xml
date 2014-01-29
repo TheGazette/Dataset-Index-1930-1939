@@ -130,7 +130,14 @@
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hanson</Key>
+      <Forenames>Frederick</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
@@ -285,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Forenames>Brigadier-General Archibald Fraser</Forenames>
+      <Title>Brigadier</Title>
+      <Forenames>General Archibald Fraser</Forenames>
       <Text>, C.B., C.M.G., D.S.O. Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
@@ -317,7 +325,14 @@
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>O.B., C.M.G., Knight Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Howorth</Key>
+      <Forenames>Rupert Beswicke</Forenames>
+      <Text>, O.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <PageNumber>5</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hubback</Key>
@@ -399,8 +414,16 @@
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Walter</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jacobs</Key>
@@ -435,31 +458,15 @@
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Member, Order of the British Empire ... ..</SubCategoryTitle>
   <SubCategoryTitle>Bath ... ..</SubCategoryTitle>
   <KeyDitto>___ —— ___ ___</KeyDitto>
   <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Companion, Order of St Michael and St</SubCategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
   <KeyDitto>___</KeyDitto>
-  <SubCategoryTitle>Class, Royal Victorian Order ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>John of Jerusalem ...</SubCategoryTitle>
   <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Order of St. John of Jerusalem ... ..</SubCategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
-  <SubCategoryTitle>John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Indian Empire ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Empire ..</SubCategoryTitle>
-  <SubCategoryTitle>Order of the British Empire ..</SubCategoryTitle>
-  <SubCategoryTitle>Member, Order of the British Empire. ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Serving Brother, Order or St. John of Jerusalem ..</SubCategoryTitle>
   <KeyDitto>___</KeyDitto>
-  <SubCategoryTitle>Official Member of the Legislative Council of ' . Saint Christopher and Nevis ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>John or Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Empire ..</SubCategoryTitle>
-  <SubCategoryTitle>Lqngworth, Member), Order of the British Empire ... ... ..</SubCategoryTitle>
+  <SubCategoryTitle>. Saint Christopher and Nevis ... ... ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>

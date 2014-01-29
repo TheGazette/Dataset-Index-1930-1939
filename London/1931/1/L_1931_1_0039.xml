@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Windeler</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,14 +68,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolsey</Key>
-      <Text>, 8. G</Text>
+      <Text>8. G</Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wombwell</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>, HS. A</Text>
+      <Text>HS. A</Text>
       <PageNumber>1130</PageNumber>
     </MainItem>
   </ItemGroup>

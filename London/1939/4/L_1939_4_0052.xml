@@ -556,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rewcastle-Woods</Key>
-      <Text>T G</Text>
+      <Forenames>T</Forenames>
+      <Text>G</Text>
       <PageNumber>8396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhys</Key>
-      <Text>Hon. D</Text>
+      <Title>Hon.</Title>
+      <Forenames>D</Forenames>
       <PageNumber>8308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +866,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>R. H.</Text>
+      <Text>R. H</Text>
       <PageNumber>7172</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -920,7 +922,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D F</Text>
+      <Forenames>D</Forenames>
+      <Text>F</Text>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +956,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>PJ.</Text>
+      <Text>PJ</Text>
       <PageNumber>7863</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -995,14 +998,15 @@
       <PageNumber>7633</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G.</Text>
+      <Text>G</Text>
       <PageNumber>7476</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ridley-Martin</Key>
-      <Text>M Ridout, H. A. W</Text>
+      <Forenames>M</Forenames>
+      <Text>Ridout, H. A. W</Text>
       <PageNumber>8574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rimmington</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8157</PageNumber>
     </MainItem>
   </ItemGroup>

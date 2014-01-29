@@ -45,16 +45,18 @@
   <ItemGroup>
     <MainItem>
       <Key>McDowell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arnott Edward Joseph Connell, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arnott Edward Joseph Connell</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mace</Key>
-      <Forenames>Comdr</Forenames>
-      <Text>. (acting Capt.) Frederick William, O.B.E., Commander, Order of the British Empire</Text>
+      <Title>Comdr. (acting Capt.)</Title>
+      <Forenames>Frederick William</Forenames>
+      <Text>, O.B.E., Commander, Order of the British Empire</Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,9 +225,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McLean</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II, S.S.M. Charles Thomas Rae, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II, S.S.M. Charles Thomas Rae, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +284,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McMullen</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Donald Jay, D. S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Donald Jay</Forenames>
+      <Text>, D. S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,16 +334,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Macready</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McRobert</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Leslie Harrison, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Leslie Har-</Forenames>
+      <Text>rison, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,8 +661,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maunsell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Beresford, E.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Beres-</Forenames>
+      <Text>ford, E.D., Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +717,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maynard</Key>
-      <Text>Col. (temp. Brig.) Francis Herbert, M.C, Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Francis Herbert</Forenames>
+      <Text>, M.C, Companion, Order of the Bath</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>

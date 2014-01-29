@@ -745,7 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubble</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +895,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inigo-Jones</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1003,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jebb</Key>
-      <Text>, I&gt;. G</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;. G</Text>
       <PageNumber>4603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1050,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1269,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kiggell</Key>
-      <Text>, _A. W</Text>
+      <Text>_A. W</Text>
       <PageNumber>5471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1494,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>, C E. A</Text>
+      <Forenames>C</Forenames>
+      <Text>E. A</Text>
       <PageNumber>5534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>

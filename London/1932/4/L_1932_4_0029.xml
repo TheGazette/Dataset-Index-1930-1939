@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitney</Key>
-      <Text>D</Text>
+      <Text>. D</Text>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +84,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wieklow</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +141,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R :</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>7588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wishart</Key>
-      <Text>A&gt;J. R</Text>
+      <Forenames>A</Forenames>
+      <Text>&gt;J. R</Text>
       <PageNumber>6921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +342,7 @@
     </SubItem>
     <SubSectionTitle>Commands and Staff</SubSectionTitle>
     <SubItem>
-      <Text>Hay, J. C. E.</Text>
+      <Text>Hay, J. C. E</Text>
       <PageNumber>6774</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -415,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>F, W</Text>
+      <Forenames>F</Forenames>
+      <Text>, W</Text>
       <PageNumber>7341</PageNumber>
     </MainItem>
   </ItemGroup>

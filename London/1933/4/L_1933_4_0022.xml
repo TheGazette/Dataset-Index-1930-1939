@@ -120,14 +120,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Text>, DArcy Patrick, Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>DArcy Patrick, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rickards</Key>
-      <Text>. George William, Member of Parliament for the Skipton Division</Text>
+      <Text>George William, Member of Parliament for the Skipton Division</Text>
       <PageNumber>7277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +167,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowan-Robinson</Key>
-      <Text>, Col. (Hon. Brig.-Gen.) (local Maj.Gen.) Henry, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. Brig.-Gen.) (local Maj.Gen.)</Title>
+      <Forenames>Henry</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, the Hon. Emily, Bar to Order of Mercy</Text>
+      <Text>John, the Hon. Emily, Bar to Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>, Mrs. King, Order of Mercy</Text>
+      <Title>Mrs. King</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,15 +395,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Vesey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. Thomas, Order of Mercy</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>. Miss M. E. R., Order of Mercy</Text>
+      <Text>Miss M. E. R., Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Text>, the Duchess of, Order of Mercy</Text>
+      <Text>the Duchess of, Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitmarsh</Key>
-      <Text>, Mrs., Bar to Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar to Order of Mercy</Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>, de Eresby, Lord, Member of Parliament for the Rutland and Stamford Division</Text>
+      <Text>de Eresby, Lord, Member of Parliament for the Rutland and Stamford Division</Text>
       <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonham-Carter</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>7608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>,. L. F</Text>
+      <Text>. L. F</Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +770,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,7 +792,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lammie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,14 +898,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver-Bellasis</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Packard</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, E. F</Text>
+      <Text>John, E. F</Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>

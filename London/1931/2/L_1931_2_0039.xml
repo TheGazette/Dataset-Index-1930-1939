@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stayordale</Key>
-      <Text>, Lord .\</Text>
+      <Title>Lord .</Title>
+      <Text>\</Text>
       <PageNumber>3322</PageNumber>
       <PageNumber>3322</PageNumber>
     </MainItem>
@@ -87,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stqtt</Key>
-      <Text>.A. O. ..,</Text>
+      <Text>A. O. ..,</Text>
       <PageNumber>2648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +167,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ...</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +199,6 @@
       <PageNumber>3321</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Tidcombe, A. L</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>cT</Key>
@@ -227,7 +227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trmdgill</Key>
-      <Text>, C-TrusQptt ___ ; Tudor., L..JB. .:.« .U '..r</Text>
+      <Text>C-TrusQptt ___ ; Tudor., L..JB. .:.« .U '..r</Text>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R;</Text>
+      <Forenames>R</Forenames>
+      <Text>;</Text>
       <PageNumber>2971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>..C. F,</Text>
+      <Text>.C. F,</Text>
       <PageNumber>3840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +341,7 @@
       <Key>
         <KeyDitto>___ ___ '</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2736</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,13 +350,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J;</Text>
+      <Forenames>J</Forenames>
+      <Text>;</Text>
       <PageNumber>3227</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ___ ___ :..</KeyDitto>
     <SubItem>
-      <Text>' x</Text>
+      <Text>' x.</Text>
       <PageNumber>2679</PageNumber>
     </SubItem>
     <SubItem>
@@ -377,7 +379,6 @@
       <PageNumber>4248</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>Wheeler, B. V. ... i40?7 ___ ___ R. De L. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -391,7 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>rWhiteley</Key>
-      <Text>, .B. F. H ...I .! ...r</Text>
+      <Text>.B. F. H ...I .! ...r</Text>
       <PageNumber>12737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkfasot</Key>
-      <Text>,W. M,? Williams, . A</Text>
+      <Text>W. M,? Williams, . A</Text>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,13 +430,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>,. A. U</Text>
+      <Text>. A. U</Text>
       <PageNumber>8994</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto />
-  <SubCategoryTitle>___ ___ E. Mcl. ..:4078 ___ ___ ___ ___ :.F. G... ...A S..-8656 ___ ___ ___ ___ ___ :.F. T..D. 1. ..t.Ti^:a:j3322 ___ ___ ___ ___ K. J. a... ,297t2j..a070 ___ ___ ___ ___ ___ M. d. -*9 3'S ___ ___ ___ ___ R. C</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ ___ ___ .T. A. A</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto />
+      </Key>
+      <Text>w_ ___ ___ d. P. B ___ ___ E. Mcl. ..:</Text>
+      <PageNumber>4078</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
@@ -461,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>. A. McL</Text>
+      <Text>A. McL</Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,17 +479,8 @@
       <Text>... :</Text>
       <PageNumber>3636</PageNumber>
     </MainItem>
-    <SubCategoryTitle>. :. . CommorKi* and! Staff;Allen, R. S. ... ... . 'I .3489 Borrell, O. C. ... 3228 Bourchier, R. W:-H., .' ,.: 2494 Buehanan-Dunlop, H. D; 3146 ^Buckle, C ... .. 3228 .Burnett of Leys, Sir J. L. G</SubCategoryTitle>
-    <SubCategoryTitle>'Jfohnson, Sir R. A</SubCategoryTitle>
-    <SubCategoryTitle>-Jolliffe, W. G. H</SubCategoryTitle>
-    <SubCategoryTitle>;R&lt;^ers,' W. L. ¥</SubCategoryTitle>
-    <SubCategoryTitle>Roundway ,. Lord ...8228 T?rHiFidwav . TiOrfl' 'Salt.H. F. -. . :.-!3l*6 Simner, P. R. iO. A. &lt; ,;:r-4248 ! Sinclair, T. C. ..</SubCategoryTitle>
-    <SubCategoryTitle>„Adams, C. F</SubCategoryTitle>
     <SubCategoryTitle>..Agnew-Wallace, R^</SubCategoryTitle>
-    <SubCategoryTitle>'Awxander' . P. ..: Aftan; J. B: ./. ..:{[ mi ..AUderidge, C. D</SubCategoryTitle>
-    <SubCategoryTitle>Allen, G. O: ..</SubCategoryTitle>
-    <SubCategoryTitle>^Anderibn, J. S</SubCategoryTitle>
-    <SubCategoryTitle>. Aiderton, R. .,V PAndrews, L. .u q .....;.,.,.,{.r|3?3 Angus, K.;;B. O</SubCategoryTitle>
+    <SubCategoryTitle>Angus, K.;;B. O</SubCategoryTitle>
     <SubCategoryTitle>Archibald,J. G</SubCategoryTitle>
     <SubItem>
       <Text>
@@ -503,7 +501,6 @@
     <SubItem>
       <Text>
         <SubCategoryTitle>___ ___ ;B. B:; F</SubCategoryTitle>
-        <SubCategoryTitle>^.Bartholomew, A. GJ</SubCategoryTitle>
       </Text>
       <PageNumber>118</PageNumber>
     </SubItem>

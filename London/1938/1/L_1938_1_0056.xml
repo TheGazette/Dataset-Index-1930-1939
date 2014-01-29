@@ -294,7 +294,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Segar</Key>
-      <Text>, GH</Text>
+      <Text>GH</Text>
       <PageNumber>367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Short</Key>
-      <Text>,.C. H. T</Text>
+      <Text>.C. H. T</Text>
       <PageNumber>1752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>, McD. G</Text>
+      <Text>McD. G</Text>
       <PageNumber>592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprot</Key>
-      <Text>,. J. . ... *</Text>
+      <Text>. J. . ... *</Text>
       <PageNumber>753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +747,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .].</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart-Blacker</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>37</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,7 +819,7 @@
       <PageNumber>194</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Visct.</Text>
+      <Text>Visct</Text>
       <PageNumber>1168</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1227,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tull</Key>
-      <Text>, RE</Text>
+      <Text>RE</Text>
       <PageNumber>2089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,7 +1408,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H H</Text>
+      <Forenames>H</Forenames>
+      <Text>H</Text>
       <PageNumber>1753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1418,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Sir LP. A. M., Bt</Text>
+      <Title>Sir</Title>
+      <Text>LP. A. M., Bt</Text>
       <PageNumber>972</PageNumber>
     </MainItem>
   </ItemGroup>

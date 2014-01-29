@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carew</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Caygill</Key>
-      <Text>, L: K; ... '</Text>
+      <Forenames>L</Forenames>
+      <Text>: K; ... '</Text>
       <PageNumber>7529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -906,8 +907,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coventry</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +998,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranley</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>8179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,14 +1270,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Daulat</Key>
-      <Forenames>Shah</Forenames>
+      <Title>Shah .</Title>
       <PageNumber>7786</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daulat</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>7267</PageNumber>
     </MainItem>
   </ItemGroup>

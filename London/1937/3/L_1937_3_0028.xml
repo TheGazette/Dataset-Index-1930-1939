@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="028" pageID="https://www.thegazette.co.uk/id/London/index/year/1937/volume/3/page/028" pagePDF="https://www.thegazette.co.uk/London/index/year/1937/volume/3/page/028" pageRDF="https://www.thegazette.co.uk/London/index/year/1937/volume/3/page/028?view=linked-data" type="index" volume="3" year="1937">
+  <CategoryTitle>MILITARY PROMOTIONS, Territorial Army</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Pollok</Key>
@@ -72,7 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purser</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridehalgh</Key>
-      <Text>, G, W</Text>
+      <Forenames>G</Forenames>
+      <Text>, W</Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Templemore</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Towns</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,7 +1813,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5329</PageNumber>
     </MainItem>
   </ItemGroup>

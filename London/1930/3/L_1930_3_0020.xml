@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, 0. J. M</Text>
+      <Text>0. J. M</Text>
       <PageNumber>4429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +122,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erne</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +548,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Juba</Forenames>
+      <Title>Juba .</Title>
       <PageNumber>4738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gleadell</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmith</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goss</Key>
-      <Text>, 0. R</Text>
+      <Text>0. R</Text>
       <PageNumber>4499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +993,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griggs</Key>
-      <Text>, WE</Text>
+      <Text>WE</Text>
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,14 +1102,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Groom</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grose</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1141,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, AL\</Text>
+      <Text>AL\</Text>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>

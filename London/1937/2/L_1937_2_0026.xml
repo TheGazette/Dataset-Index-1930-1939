@@ -70,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Viscounts</Key>
-      <Text>(cont.): Runciman, Rt. Hon. Walter, Viscount Runciman of Doxford</Text>
+      <Title>(cont.)</Title>
+      <Text>: Runciman, Rt. Hon. Walter, Viscount Runciman of Doxford</Text>
       <PageNumber>3429</PageNumber>
       <PageNumber>3750</PageNumber>
     </MainItem>
@@ -144,6 +145,7 @@
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>

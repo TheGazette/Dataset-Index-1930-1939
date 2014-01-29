@@ -59,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowallan</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shattock</Key>
-      <Text>B, A</Text>
+      <Forenames>B</Forenames>
+      <Text>, A</Text>
       <PageNumber>267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +637,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorrock</Key>
-      <Text>J&lt; W</Text>
+      <Forenames>J</Forenames>
+      <Text>&lt; W</Text>
       <PageNumber>169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +721,7 @@
     <KeyDitto>___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ..</KeyDitto>
     <SubItem>
-      <Text>L. F</Text>
+      <Text>L. F.</Text>
       <PageNumber>16</PageNumber>
     </SubItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -1638,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarbat</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>167</PageNumber>
       <PageNumber>411</PageNumber>
     </MainItem>

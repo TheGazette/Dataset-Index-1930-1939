@@ -17,7 +17,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Text>, N o</Text>
+      <Forenames>N</Forenames>
+      <Text>o</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +155,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vines</Key>
-      <Text>, r&gt;. S. E</Text>
+      <Text>r&gt;. S. E</Text>
       <PageNumber>4274</PageNumber>
       <PageNumber>5298</PageNumber>
     </MainItem>
@@ -351,7 +352,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wiseman</Key>
-      <Text>, J F. S</Text>
+      <Forenames>J</Forenames>
+      <Text>F. S</Text>
       <PageNumber>5095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +764,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clackmannan</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. the Viscount Younger of . Leckie, D.S.O., J.P., D.L</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>the Viscount Younger of . Leckie, D.S.O., J.P., D.L</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +786,6 @@
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
@@ -836,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Apneugene</Key>
-      <Text>, notice</Text>
+      <Text>notice</Text>
       <PageNumber>4550</PageNumber>
     </MainItem>
   </ItemGroup>

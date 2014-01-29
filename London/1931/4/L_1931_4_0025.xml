@@ -29,9 +29,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Unemployment</Key>
-      <Title>Insurance .</Title>
-      <Forenames>Acts</Forenames>
-      <Text>. (See under Labour, Ministry of.) United States of America: Consuls: at Hong Kong, John R. Putman</Text>
+      <Title>Insurance . Acts. (See under Labour, Ministry of.)</Title>
+      <Forenames>United States</Forenames>
+      <Text>of America: Consuls: at Hong Kong, John R. Putman</Text>
       <PageNumber>7241</PageNumber>
     </MainItem>
     <SubItem>
@@ -100,8 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Zanzibar</Key>
-      <Forenames>Orders</Forenames>
-      <Text>. (See under Foreign Orders.) Giffard, Rev. Agnew Walter Giles, M.A., to the Deanery of the Island and Bailiwick of Guernsey and the Rectory of St. Peter Port, Guernsey</Text>
+      <Title>Orders. (See under Foreign Orders.)</Title>
+      <Forenames>Giffard</Forenames>
+      <Text>, Rev. Agnew Walter Giles, M.A., to the Deanery of the Island and Bailiwick of Guernsey and the Rectory of St. Peter Port, Guernsey</Text>
       <PageNumber>7241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,8 +257,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William David, O.B.E., Metropolitan Police Inspector</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William David</Forenames>
+      <Text>, O.B.E., Metropolitan Police Inspector</Text>
       <PageNumber>7658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +297,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir William James, K.B.E., D.S.O M.P. for Armagh</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>William James</Forenames>
+      <Text>, K.B.E., D.S.O M.P. for Armagh</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,8 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Applin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Reginald Vincent Kempenfelt, M.P. for Enfield</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Reginald Vincent Kempenfelt</Forenames>
+      <Text>, M.P. for Enfield</Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,8 +349,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Rt. Hon. Wilfrid William, M.P. for New Forest and Christdhurch</Text>
+      <Title>Lt.-Col. The Rt. Hon.</Title>
+      <Forenames>Wilfrid William</Forenames>
+      <Text>, M.P. for New Forest and Christdhurch</Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +410,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Attfield</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +474,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balniel</Key>
-      <Text>Lord, M.P. for Lonsdale</Text>
+      <Title>Lord</Title>
+      <Text>, M.P. for Lonsdale</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>

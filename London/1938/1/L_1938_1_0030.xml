@@ -11,14 +11,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ainslie</Key>
-      <Text>,. Lt.-Cmdr. Wallace St. John, Officer, Order of the British Empire</Text>
+      <Text>. Lt.-Cmdr. Wallace St. John, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Airlie</Key>
-      <Text>,. Lt.-Col. David Lyulph Gore Wolseley, Earl of, K.C.V.O., M.C., J.P., D.L., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>. Lt.-Col. David Lyulph Gore Wolseley, Earl of, K.C.V.O., M.C., J.P., D.L., Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +259,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamford</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harry William Morrey, C.B.E., M.C., Mining Member of Legislative Council, Gold Coast Colony</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harry Wil-</Forenames>
+      <Text>liam Morrey, C.B.E., M.C., Mining Member of Legislative Council, Gold Coast Colony</Text>
       <PageNumber>1346</PageNumber>
     </MainItem>
   </ItemGroup>

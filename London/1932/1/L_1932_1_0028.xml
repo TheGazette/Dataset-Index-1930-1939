@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Disney</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,8 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Diaper</Key>
-      <Forenames>St</Forenames>
-      <Text>. J</Text>
+      <Title>St.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>1128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +191,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Text>,' V</Text>
+      <Text>' V</Text>
       <PageNumber>1295</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanshawe</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>, R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +607,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fergusson</Key>
-      <Text>, Sir C, Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>C</Forenames>
+      <Text>, Bt</Text>
       <PageNumber>421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flower</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frowd</Key>
-      <Text>,' T. S. '</Text>
+      <Text>' T. S. '</Text>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glass</Key>
-      <Text>. H. P. L</Text>
+      <Text>H. P. L</Text>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1278,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1306,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1592,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R:. R</Text>
+      <Forenames>R</Forenames>
+      <Text>:. R</Text>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ha</Key>
-      <Text>.ldane, M. M</Text>
+      <Text>ldane, M. M</Text>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>

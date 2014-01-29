@@ -165,7 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McFarlane</Key>
-      <Text>, Col. (temp. Brig.) Percy Muir, Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Percy Muir</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +190,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenna</Key>
-      <Text>, Col. (temp. Brig.) James Charles, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>James Charles</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +384,8 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. John, Member, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. John, Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,8 +417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mauldin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Henry, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Herbert Henry</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>

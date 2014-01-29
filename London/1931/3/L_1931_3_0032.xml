@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherwood</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crofton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunbar</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgins</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Karslake</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkpatrick</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,14 +388,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea-Cox</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Leaning</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5472</PageNumber>
       <PageNumber>5473</PageNumber>
     </MainItem>
@@ -484,7 +484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5626</PageNumber>
       <PageNumber>5627</PageNumber>
     </MainItem>
@@ -679,7 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Toyne</Key>
-      <Text>, C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>6473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson-Johnston</Key>
-      <Text>, (W. E</Text>
+      <Text>(W. E</Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adalat</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amar</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhup</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackett</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brij</Key>
-      <Text>. Raj Singh</Text>
+      <Text>Raj Singh</Text>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,7 +1114,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Hon. C G</Text>
+      <Title>Hon.</Title>
+      <Forenames>C</Forenames>
+      <Text>G</Text>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buta</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5028</PageNumber>
       <PageNumber>5905</PageNumber>
     </MainItem>
@@ -1360,7 +1363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daulet</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>, CO</Text>
+      <Text>CO</Text>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,7 +1440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudman</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gambhir</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,21 +1606,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdip</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4867</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
-      <Text>, 8</Text>
+      <Text>8</Text>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gurpuran</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>. L</Text>
+      <Text>L</Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1676,7 +1680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harish</Key>
-      <Forenames>Chandra</Forenames>
+      <Title>Chandra .</Title>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,7 +1804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>, R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>5905</PageNumber>
     </MainItem>
   </ItemGroup>

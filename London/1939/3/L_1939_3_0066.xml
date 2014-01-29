@@ -282,7 +282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wray</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyburd</Key>
-      <Text>, H; N. C</Text>
+      <Forenames>H</Forenames>
+      <Text>; N. C</Text>
       <PageNumber>6054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrie</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6115</PageNumber>
     </MainItem>
     <SubItem>
@@ -1641,7 +1642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Begg</Key>
-      <Text>, TA</Text>
+      <Text>TA</Text>
       <PageNumber>6179</PageNumber>
       <PageNumber>6411</PageNumber>
     </MainItem>

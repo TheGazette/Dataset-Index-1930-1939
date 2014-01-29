@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Text>,. S. CM</Text>
+      <Text>. S. CM</Text>
       <PageNumber>7348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aylmer</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Text>, W: P</Text>
+      <Forenames>W</Forenames>
+      <Text>: P</Text>
       <PageNumber>6967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berg</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +939,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +984,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1362,7 +1363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgeman</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6445</PageNumber>
       <PageNumber>7264</PageNumber>
     </MainItem>
@@ -1377,7 +1378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broad</Key>
-      <Text>,' C. L</Text>
+      <Text>' C. L</Text>
       <PageNumber>6513</PageNumber>
     </MainItem>
   </ItemGroup>

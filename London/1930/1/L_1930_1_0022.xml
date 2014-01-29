@@ -79,8 +79,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Andrew, LLD., M.D., C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Andrew</Forenames>
+      <Text>, LLD., M.D., C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +214,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattye</Key>
-      <Text>Col. (Tempy. Brigadier) Ivan Urnuston, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (Tempy. Brigadier)</Title>
+      <Forenames>Ivan Urnuston</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,8 +355,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Biscoe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Hugh Vin| cent, I.A., H.M. Consul&gt; General at Bushire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Hugh Vin-</Forenames>
+      <Text>| cent, I.A., H.M. Consul&gt; General at Bushire</Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
   </ItemGroup>

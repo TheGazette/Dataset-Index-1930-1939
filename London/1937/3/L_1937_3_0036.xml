@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humble</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5562</PageNumber>
       <PageNumber>5562</PageNumber>
     </MainItem>
@@ -43,7 +43,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P W</Text>
+      <Forenames>P</Forenames>
+      <Text>W</Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +67,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Huskinson</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +83,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,14 +104,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ing</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +210,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemsley</Key>
-      <Text>, A 5°9i Kendall, A. B</Text>
+      <Forenames>A</Forenames>
+      <Text>5°9i Kendall, A. B</Text>
       <PageNumber>4817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mclntyre</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McPherson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1255,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manson</Key>
-      <Text>, McD. B</Text>
+      <Text>McD. B</Text>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>, R! H</Text>
+      <Forenames>R</Forenames>
+      <Text>! H</Text>
       <PageNumber>5904</PageNumber>
       <PageNumber>5904</PageNumber>
     </MainItem>
@@ -1540,7 +1543,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>C G</Text>
+      <Forenames>C</Forenames>
+      <Text>G</Text>
       <PageNumber>5388</PageNumber>
     </MainItem>
   </ItemGroup>

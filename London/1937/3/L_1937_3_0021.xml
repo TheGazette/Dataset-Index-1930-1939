@@ -40,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harding</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartley</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepburn</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine-Fortescue</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jeffery</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1231,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1261,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E -</Text>
+      <Forenames>E</Forenames>
+      <Text>-</Text>
       <PageNumber>5439</PageNumber>
     </MainItem>
   </ItemGroup>

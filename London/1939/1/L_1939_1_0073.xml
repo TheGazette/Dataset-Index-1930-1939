@@ -73,7 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keith</Key>
-      <Text>LI. K</Text>
+      <Text>. LI. K</Text>
       <PageNumber>466</PageNumber>
       <PageNumber>546</PageNumber>
     </MainItem>
@@ -320,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lay</Key>
-      <Text>D. J. H</Text>
+      <Text>. D. J. H</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +793,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G: B</Text>
+      <Forenames>G</Forenames>
+      <Text>: B</Text>
       <PageNumber>2011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +978,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Livingstone</Key>
-      <Text>A. F</Text>
+      <Text>. A. F</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LydaD</Key>
-      <Text>J. E. . ... ...»</Text>
+      <Text>. J. E. . ... ...»</Text>
       <PageNumber>1551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manger</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>466</PageNumber>
       <PageNumber>467</PageNumber>
     </MainItem>
@@ -1687,7 +1688,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>L :</Text>
+      <Forenames>L</Forenames>
+      <Text>:</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shapcott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry, M.C, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,8 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (temp. Col.) Frank Keith, M.V.O., M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. (temp. Col.)</Title>
+      <Forenames>Frank Keith</Forenames>
+      <Text>, M.V.O., M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,8 +240,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Paul Herbert Shelley, .M.B., B.Ch., B.A.Q., L.M., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Paul Herbert Shelley</Forenames>
+      <Text>, .M.B., B.Ch., B.A.Q., L.M., Officer, Order of the British Empire</Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -128,7 +128,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Crozier</Key>
-      <Text>H: B. D</Text>
+      <Forenames>H</Forenames>
+      <Text>: B. D</Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +178,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daulet</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gambhir</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +412,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S\ M</Text>
+      <Forenames>S</Forenames>
+      <Text>\ M</Text>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,14 +443,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gulab</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gurdip</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2043</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harnarain</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>744</PageNumber>
       <PageNumber>1082</PageNumber>
     </MainItem>
@@ -599,7 +601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hissam-ud-din</Key>
-      <Text>Sir</Text>
+      <Title>Sir .</Title>
       <PageNumber>1085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +699,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jai</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joglekar</Key>
-      <Text>E; V</Text>
+      <Forenames>E</Forenames>
+      <Text>; V</Text>
       <PageNumber>1085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>LyonSj</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1008,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>131</PageNumber>
       <PageNumber>1431</PageNumber>
     </MainItem>
@@ -1196,7 +1199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meynell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,7 +1220,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Misra</Key>
-      <Text>R/ K</Text>
+      <Forenames>R</Forenames>
+      <Text>/ K</Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>W; C. '</Text>
+      <Forenames>W</Forenames>
+      <Text>; C. '</Text>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1364,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>C: T</Text>
+      <Forenames>C</Forenames>
+      <Text>: T</Text>
       <PageNumber>596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1458,7 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkash</Key>
-      <Forenames>Chand</Forenames>
+      <Title>Chand .</Title>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritam</Key>
-      <Forenames>Nath</Forenames>
+      <Title>Nath .</Title>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,8 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sangram</Key>
-      <Title>Keshary.</Title>
-      <Forenames>Ray</Forenames>
+      <Title>Keshary. Ray .</Title>
       <PageNumber>742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seoraj</Key>
-      <Forenames>Pun</Forenames>
+      <Title>Pun .</Title>
       <PageNumber>446</PageNumber>
     </MainItem>
   </ItemGroup>

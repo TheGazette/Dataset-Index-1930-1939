@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morel</Key>
-      <Text>M. P</Text>
+      <Text>. M. P</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>I. G</Text>
+      <Text>. I. G</Text>
       <PageNumber>1552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>C. T</Text>
+      <Text>. C. T</Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ottley</Key>
-      <Text>B. S</Text>
+      <Text>. B. S</Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1024,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxspring</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>1772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1366,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1477,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Polack</Key>
-      <Text>C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1640,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C P. D</Text>
+      <Forenames>C</Forenames>
+      <Text>P. D</Text>
       <PageNumber>2010</PageNumber>
     </MainItem>
   </ItemGroup>

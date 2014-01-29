@@ -11,7 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +61,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanbury-Williams</Key>
-      <Text>, Maj.Gen. Sir John, G.C.V.O., K.C.B., C.M.G., Extra Equerry to His Majesty</Text>
+      <Title>Maj.</Title>
+      <Text>Gen. Sir John, G.C.V.O., K.C.B., C.M.G., Extra Equerry to His Majesty</Text>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,21 +121,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Hore-Ruthven</Key>
-      <Text>, Brig.-General the Hon. Sir Alexander Gore Arkwright, V.C, K.C.M.G., C.B., D.S.O., Governor of New South Wales and its Dependencies</Text>
+      <Title>Brig.</Title>
+      <Text>-General the Hon. Sir Alexander Gore Arkwright, V.C, K.C.M.G., C.B., D.S.O., Governor of New South Wales and its Dependencies</Text>
       <PageNumber>8123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Horsman</Key>
-      <Text>, ' S. H., Order of Mercy</Text>
+      <Text>' S. H., Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hotham</Key>
-      <Text>, '.Admiral Alan Geoffrey, C.B., C.M.G., Gentleman Usher of the Blue Road, Order of St. Michael and St. George</Text>
+      <Text>'.Admiral Alan Geoffrey, C.B., C.M.G., Gentleman Usher of the Blue Road, Order of St. Michael and St. George</Text>
       <PageNumber>7154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jacob</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jose</Key>
-      <Text>, C H., Assistant Legal Adviser to the Clearing Office (Enemy Debts)</Text>
+      <Forenames>C</Forenames>
+      <Text>H., Assistant Legal Adviser to the Clearing Office (Enemy Debts)</Text>
       <PageNumber>6710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Latham</Key>
-      <Text>, Lady, Order of Mercy ... :</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy ... :</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclnnes</Key>
-      <Text>, .Robert, SheriffSubstitute of Ross, Cromarty and Sutherland</Text>
+      <Text>.Robert, SheriffSubstitute of Ross, Cromarty and Sutherland</Text>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +298,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Olney</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,14 +314,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pasteur</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patmore</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>, Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +380,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell-Jones</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +405,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prytherch</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,22 +430,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennell</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, G. C. B., G. C. M. G., .G.C.V.O., Member of the Council of the British School at Rome</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, G. C. B., G. C. M. G., .G.C.V.O., Member of the Council of the British School at Rome</Text>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rennie</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>,. . George Edward Fugl, Chief Justice and Magistrate, Saint Lucia</Text>
+      <Text>. . George Edward Fugl, Chief Justice and Magistrate, Saint Lucia</Text>
       <PageNumber>7258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Text>, Mrs., Bar to Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar to Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +546,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shreeve</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +598,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Soames</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,14 +665,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarver</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tootal</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,15 +690,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Warr</Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. Charles Laing, D.D., D.T., Chaplain in Ordinary to His Majesty in Scotland</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. Charles Laing, D.D., D.T., Chaplain in Ordinary to His Majesty in Scotland</Text>
       <PageNumber>7759</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>, Miss, Bar to Order of .Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Bar to Order of .Mercy</Text>
       <PageNumber>8</PageNumber>
       <PageNumber>292</PageNumber>
     </MainItem>
@@ -687,7 +707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +724,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>

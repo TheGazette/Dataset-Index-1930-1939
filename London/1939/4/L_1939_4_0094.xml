@@ -262,7 +262,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pryde</Key>
-      <Text>G M</Text>
+      <Forenames>G</Forenames>
+      <Text>M</Text>
       <PageNumber>8109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pyle</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8403</PageNumber>
       <PageNumber>8404</PageNumber>
     </MainItem>
@@ -781,7 +782,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H C</Text>
+      <Forenames>H</Forenames>
+      <Text>C</Text>
       <PageNumber>7277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1079,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1183,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J -</Text>
+      <Forenames>J</Forenames>
+      <Text>-</Text>
       <PageNumber>8259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1641,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Bertram</Forenames>
+      <Title>Bertram .</Title>
       <PageNumber>8550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,7 +1650,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Bruce</Forenames>
+      <Title>Bruce .</Title>
       <PageNumber>7182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1897,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J! K. !</Text>
+      <Forenames>J</Forenames>
+      <Text>! K. !</Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
   </ItemGroup>

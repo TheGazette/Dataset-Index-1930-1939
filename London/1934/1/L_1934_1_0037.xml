@@ -798,7 +798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ivor-Moore</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaipur</Key>
-      <Text>H.H. the Maharaja of</Text>
+      <Title>H.H.</Title>
+      <Text>the Maharaja of</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jennings</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1268,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1307,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,7 +1578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambart</Key>
-      <Text>Sir 0. F., lit</Text>
+      <Title>Sir</Title>
+      <Text>0. F., lit</Text>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1790,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,14 +1941,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lindley</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lindsay-MacDougall</Key>
-      <Text>J* S^</Text>
+      <Forenames>J</Forenames>
+      <Text>* S^</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>

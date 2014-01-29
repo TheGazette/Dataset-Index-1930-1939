@@ -378,7 +378,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ :-</KeyDitto>
       </Key>
-      <Text>I: .r ::: ::</Text>
+      <Forenames>I</Forenames>
+      <Text>: .r ::: ::</Text>
       <PageNumber>8159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rothchild</Key>
-      <Text>T Earl of</Text>
+      <Forenames>T</Forenames>
+      <Text>Earl of</Text>
       <PageNumber>7628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sahib</Key>
-      <Forenames>Dad</Forenames>
+      <Title>Dad .</Title>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>

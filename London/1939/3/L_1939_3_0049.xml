@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hasseli</Key>
-      <Text>,; J. K</Text>
+      <Text>; J. K</Text>
       <PageNumber>5984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +43,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>R, J::</Text>
+      <Forenames>R</Forenames>
+      <Text>, J::</Text>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +260,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayman</Key>
-      <Text>, C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>6408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hazeldine</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Healey</Key>
-      <Text>,. R. G</Text>
+      <Text>. R. G</Text>
       <PageNumber>5402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Himely</Key>
-      <Text>,. F. C.A</Text>
+      <Text>. F. C.A</Text>
       <PageNumber>5754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinde</Key>
-      <Text>, j. E. ... ,</Text>
+      <Text>j. E. ... ,</Text>
       <PageNumber>5553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hinksman</Key>
-      <Text>, j. F</Text>
+      <Text>j. F</Text>
       <PageNumber>6178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +969,8 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>4920</PageNumber>
     </MainItem>
   </ItemGroup>

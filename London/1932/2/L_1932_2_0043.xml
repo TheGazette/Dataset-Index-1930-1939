@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leplar</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maung</Key>
-      <Forenames>Aye</Forenames>
+      <Title>Aye .</Title>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parbury</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Partap</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>2296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +600,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ulla-Uddin</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,7 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Zaman</Key>
-      <Forenames>Ali</Forenames>
+      <Title>Ali .</Title>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,14 +888,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Guthrie</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hannesson</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>H.R.H. Duke of</Text>
+      <Title>H.R.H. Duke</Title>
+      <Text>of</Text>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>

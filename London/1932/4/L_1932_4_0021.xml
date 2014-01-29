@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Office</Key>
-      <Text>(cont.): Mentioned in Despatches (cont.) : Harris; A. J</Text>
+      <Title>(cont.)</Title>
+      <Text>: Mentioned in Despatches (cont.) : Harris; A. J</Text>
       <PageNumber>8134</PageNumber>
     </MainItem>
     <SubItem>
@@ -48,8 +49,8 @@
   <ItemGroup>
     <MainItem>
       <Key>War</Key>
-      <Forenames>Office</Forenames>
-      <Text>. (cont.): Mentioned in Despatches (cont.) : Turner, G. M</Text>
+      <Title>Office . (cont.)</Title>
+      <Text>: Mentioned in Despatches (cont.) : Turner, G. M</Text>
       <PageNumber>8134</PageNumber>
     </MainItem>
     <SubItem>
@@ -115,7 +116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>Duchess of, Lady-inWaiting, the Hon. Mrs. Geoffrey Bowlby</Text>
+      <Title>Duchess</Title>
+      <Text>of, Lady-inWaiting, the Hon. Mrs. Geoffrey Bowlby</Text>
       <PageNumber>7927</PageNumber>
     </MainItem>
   </ItemGroup>

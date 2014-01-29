@@ -75,7 +75,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>P: A</Text>
+      <Forenames>P</Forenames>
+      <Text>: A</Text>
       <PageNumber>2665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +105,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. S</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>S.</Forenames>
       <PageNumber>3786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stamp</Key>
-      <Text>,Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,14 +912,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoner</Key>
-      <Text>,. M</Text>
+      <Text>. M</Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stones</Key>
-      <Text>,. W. R</Text>
+      <Text>. W. R</Text>
       <PageNumber>2592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey</Key>
-      <Text>,. J. D</Text>
+      <Text>. J. D</Text>
       <PageNumber>4044</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1023,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratton</Key>
-      <Text>, CM ,</Text>
+      <Text>CM ,</Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1314,7 +1316,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1325,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1540,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>2nd Lt. J. A</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>J. A.</Forenames>
       <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>

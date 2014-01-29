@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Text>T. J</Text>
+      <Text>.T. J</Text>
       <PageNumber>2469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bisset</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2223</PageNumber>
       <PageNumber>3028</PageNumber>
     </MainItem>
@@ -934,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blewitt</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3658</PageNumber>
       <PageNumber>3659</PageNumber>
     </MainItem>
@@ -1520,7 +1520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chamberlain</Key>
-      <Text>J, :</Text>
+      <Forenames>J</Forenames>
+      <Text>, :</Text>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleaver</Key>
-      <Text>C, A. S</Text>
+      <Forenames>C</Forenames>
+      <Text>, A. S</Text>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>

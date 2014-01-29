@@ -360,7 +360,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDermott</Key>
-      <Text>, W &gt;</Text>
+      <Forenames>W</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maltby</Key>
-      <Text>, R A</Text>
+      <Forenames>R</Forenames>
+      <Text>A</Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +692,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J,*</Text>
+      <Forenames>J</Forenames>
+      <Text>,*</Text>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1063,7 @@
       <PageNumber>5178</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>4813.</Text>
+      <Text>4813</Text>
       <PageNumber>4587</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1278,7 +1281,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>, B 55 Murray, A. I. R</Text>
+      <Forenames>B</Forenames>
+      <Text>55 Murray, A. I. R</Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +1570,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G C</Text>
+      <Forenames>G</Forenames>
+      <Text>C</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>

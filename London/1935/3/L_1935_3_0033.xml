@@ -4,7 +4,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>,</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starkey</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +303,8 @@
   <ItemGroup>
     <MainItem>
       <Key>AVilliamson</Key>
-      <Text>, R, M. P</Text>
+      <Forenames>R</Forenames>
+      <Text>, M. P</Text>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>, H: J, R</Text>
+      <Forenames>H</Forenames>
+      <Text>: J, R</Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holford</Key>
-      <Text>, JVM</Text>
+      <Text>JVM</Text>
       <PageNumber>5410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +817,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Text>, R: S. (D)</Text>
+      <Forenames>R</Forenames>
+      <Text>: S. (D)</Text>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -844,7 +846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>, R, H. A</Text>
+      <Forenames>R</Forenames>
+      <Text>, H. A</Text>
       <PageNumber>5410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grist</Key>
-      <Text>, ..G. S</Text>
+      <Text>..G. S</Text>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lees</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +913,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shute</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -946,7 +949,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, H: P. W. G.\ .V</Text>
+      <Forenames>H</Forenames>
+      <Text>: P. W. G.\ .V</Text>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bamfnrd</Key>
-      <Text>, .T. A</Text>
+      <Text>.T. A</Text>
       <PageNumber>565</PageNumber>
     </MainItem>
   </ItemGroup>

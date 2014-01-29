@@ -193,14 +193,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scone</Key>
-      <Text>Lord, M.P. for Perth</Text>
+      <Title>Lord</Title>
+      <Text>, M.P. for Perth</Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +456,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanlev</Key>
-      <Text>Lord, M.P. for Fylde</Text>
+      <Title>Lord</Title>
+      <Text>, M.P. for Fylde</Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,14 +498,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,8 +628,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Templemore</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Claud Spencer, Baron, D. S.O., O.B.E., Lord-inWaiting to H.M. the King</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Claud Spencer</Forenames>
+      <Text>, Baron, D. S.O., O.B.E., Lord-inWaiting to H.M. the King</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +645,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Gibb, D.S.O., M.C., M.P. for Dumbarton</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Gibb</Forenames>
+      <Text>, D.S.O., M.C., M.P. for Dumbarton</Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,8 +778,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Troyte</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gilbert John Acland, C.M.G., D.S.O., M.P. for Tiverton</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gilbert John Acland</Forenames>
+      <Text>, C.M.G., D.S.O., M.P. for Tiverton</Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,7 +804,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyson</Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
   </ItemGroup>

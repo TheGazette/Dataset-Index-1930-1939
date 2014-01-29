@@ -287,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratchfie</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddle</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +595,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +663,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +738,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowley</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,8 +789,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>2468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandford</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,14 +1087,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shenstone</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shepley-Barlow</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,14 +1130,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Shorthouse</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shrewsbury</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2378</PageNumber>
     </MainItem>
   </ItemGroup>

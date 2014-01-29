@@ -317,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MeNair</Key>
-      <Text>, 0. B</Text>
+      <Text>0. B</Text>
       <PageNumber>2111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>, \V. H</Text>
+      <Text>\V. H</Text>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +554,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Q p</Text>
+      <Forenames>Q</Forenames>
+      <Text>p</Text>
       <PageNumber>124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norie</Key>
-      <Text>, (B. A. M</Text>
+      <Text>(B. A. M</Text>
       <PageNumber>880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -806,14 +807,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Iimblett</Key>
-      <Text>, II. C. S</Text>
+      <Text>II. C. S</Text>
       <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pitman</Key>
-      <Text>, 0. D</Text>
+      <Text>0. D</Text>
       <PageNumber>709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallman-Tew</Key>
-      <Text>, I!</Text>
+      <Forenames>I</Forenames>
+      <Text>!</Text>
       <PageNumber>280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timmins</Key>
-      <Text>, LI. M</Text>
+      <Text>LI. M</Text>
       <PageNumber>1053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>, LI. M. B</Text>
+      <Text>LI. M. B</Text>
       <PageNumber>1607</PageNumber>
     </MainItem>
   </ItemGroup>

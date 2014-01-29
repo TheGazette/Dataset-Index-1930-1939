@@ -46,7 +46,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +78,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snow</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,14 +165,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Standing</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanhope</Key>
-      <Text>, Earl</Text>
+      <Title>Earl</Title>
       <PageNumber>6903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>, J, 'El. S</Text>
+      <Forenames>J</Forenames>
+      <Text>, 'El. S</Text>
       <PageNumber>6217</PageNumber>
       <PageNumber>6976</PageNumber>
     </MainItem>
@@ -347,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strallen</Key>
-      <Text>, . V. A</Text>
+      <Text>. V. A</Text>
       <PageNumber>6301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Struthers</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutherland</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +472,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>, E, S. H</Text>
+      <Forenames>E</Forenames>
+      <Text>, S. H</Text>
       <PageNumber>8039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tankard</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tinkler</Key>
-      <Text>, T, A</Text>
+      <Forenames>T</Forenames>
+      <Text>, A</Text>
       <PageNumber>8357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Text>, G de V</Text>
+      <Forenames>G</Forenames>
+      <Text>de V</Text>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>

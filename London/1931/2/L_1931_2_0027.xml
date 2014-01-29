@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidney</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Henry Albert John, P.R.C.S.E., M.L.A Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Henry Albert John, P.R.C.S.E., M.L.A Knight</Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,8 +62,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (QuarterMaster) Fred Josiah, D.O.M. Member, Order of the British Empire</Text>
+      <Title>Lt. (QuarterMaster)</Title>
+      <Forenames>Fred Josiah</Forenames>
+      <Text>, D.O.M. Member, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,8 +103,22 @@
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>M.C., Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Goodyer</Key>
+      <Forenames>Bertie</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gordon</Key>
+      <Forenames>Douglas</Forenames>
+      <Text>McKenzie, M.C., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gould</Key>
@@ -236,11 +251,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwynn</Key>
-      <Text>, Major General Charles William, C.B., O.M.G., D.S.O Knight Commander, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Charles William, C.B., O.M.G., D.S.O Knight Commander, Order of the Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Reginald Dauphin, H.M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Gybbon-Monypenny</Key>
+      <Forenames>Herbert Reginald Dauphin</Forenames>
+      <Text>, H.M. Consul at Ahwaz</Text>
+      <PageNumber>3760</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hadden</Key>
@@ -435,7 +458,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawkins</Key>
-      <Text>, Major (local Lieutenant-Colonel) Edward Brian Barkley, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Major (local Lieutenant-Colonel)</Title>
+      <Forenames>Edward Brian Barkley</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heslop</Key>
-      <Forenames>Flight Lieutenant Herbert William</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Lieutenant Herbert William</Forenames>
       <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
@@ -519,8 +545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewettj</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>.-Colonel Henry Meiklam Prescott, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lieut .</Title>
+      <Text>-Colonel Henry Meiklam Prescott, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +600,15 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Order of St. John of Jerusalem ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hoare</Key>
+      <Title>Miss</Title>
+      <Forenames>Juliana Mar-</Forenames>
+      <Text>garet, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hobbs</Key>

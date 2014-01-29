@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilly</Key>
-      <Text>, Maj. (Ord. Offr. 3rd CI.) Thomas Paul, Officer, Order of the British Empire</Text>
+      <Title>Maj. (Ord. Offr. 3rd CI.)</Title>
+      <Forenames>Thomas Paul</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,8 +55,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Llewellin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. John Jestyn, O.B.E., M.C., T.D., M.P., Commander, Order . of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. John Jestyn, O.B.E., M.C., T.D., M.P., Commander, Order . of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +91,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Loftus</Key>
-      <Text>, Capt. (Asst. Paymr.) William Edward Charles, Member, Order of the British Empire</Text>
+      <Title>Capt. (Asst. Paymr.)</Title>
+      <Forenames>William Edward Charles</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +205,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacArthur</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. William Porter, C.B., D.S.O., O.B.E., M.D.. D.Sc, F.R.C.P., F.R.C.P.I., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. William Porter, C.B., D.S.O., O.B.E., M.D.. D.Sc, F.R.C.P., F.R.C.P.I., Knight Commander, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,8 +350,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert Forrester Douglas, M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert Forrester Douglas</Forenames>
+      <Text>, M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,15 +391,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric Dighton, C.M.G., D.S.O., Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric Dighton</Forenames>
+      <Text>, C.M.G., D.S.O., Commander, Royal Victorian Order</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacKenzie</Key>
-      <Text>, Capt. (Ord. Offr. 4th CI.) Hugh Fraser, Member, Order of the British Empire ;</Text>
+      <Title>Capt. (Ord. Offr. 4th CI.)</Title>
+      <Forenames>Hugh Fraser</Forenames>
+      <Text>, Member, Order of the British Empire ;</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallock</Key>
-      <Text>, Col. (temp. Brig.) Arthur Richard Ogilvie, Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Arthur Richard Ogilvie</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +699,9 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert Edmund, C.M.G., J.P., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert Edmund</Forenames>
+      <Text>, C.M.G., J.P., Knight</Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,9 +710,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. I (R.S.M.), William John, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>, CI. I (R.S.M.), William John, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>

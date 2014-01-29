@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jenkins</Key>
-      <Title>Wrnt.</Title>
-      <Forenames>Master-atArms Albert</Forenames>
+      <Title>Wrnt. Master</Title>
+      <Forenames>Arms Albert</Forenames>
       <Text>BriggsjR.N... Member, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
@@ -119,7 +119,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Judge</Key>
-      <Text>Maj. _ (QuarterMaster) ' Frederick, Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>_ (QuarterMaster) ' Frederick, Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,8 +316,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harold Holmes, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harold Holmes</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,8 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirwan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Bertram Richard, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Bertram Richard, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +379,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Robert Foley, R.N., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Robert Foley, R.N., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,8 +509,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Forenames>Wrrnt</Forenames>
-      <Text>.-0n\, Class II, Quart. 'Sgt. Art. Clerk Charles Joseph, Member, Order of the British Empire</Text>
+      <Title>Wrrnt.</Title>
+      <Text>-0n\, Class II, Quart. 'Sgt. Art. Clerk Charles Joseph, Member, Order of the British Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,9 +563,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Wrrnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., Class II, Reg. Quart. Sgt. Henry Albert, Member, Order of the British Empire</Text>
+      <Title>Wrrnt. Off.</Title>
+      <Text>, Class II, Reg. Quart. Sgt. Henry Albert, Member, Order of the British Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,9 +675,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lidderdale</Key>
-      <Title>Maj. and Bvt.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Douglas, M.C., Officer, Order of the British Empire</Text>
+      <Title>Maj. and Bvt. Lt.-Col.</Title>
+      <Forenames>Walter Douglas</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>

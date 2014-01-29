@@ -43,7 +43,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackman</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>R, A. F</Text>
+      <Forenames>R</Forenames>
+      <Text>, A. F</Text>
       <PageNumber>4126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grieve</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>E. B</Text>
+      <Text>. E. B</Text>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weekes</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2488</PageNumber>
     </MainItem>
   </ItemGroup>

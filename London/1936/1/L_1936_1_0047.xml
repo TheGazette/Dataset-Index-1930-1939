@@ -116,7 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCosh</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1059</PageNumber>
       <PageNumber>1741</PageNumber>
     </MainItem>
@@ -361,7 +361,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Main</Key>
-      <Text>, L&gt;. M</Text>
+      <Forenames>L</Forenames>
+      <Text>&gt;. M</Text>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marley</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,8 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Text>W, L</Text>
+      <Forenames>W</Forenames>
+      <Text>, L</Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milnes</Key>
-      <Text>,\ J. G</Text>
+      <Text>\ J. G</Text>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>1820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nason</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1177,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of</Text>
+      <Title>Duke</Title>
+      <Text>of</Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1503,7 +1506,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, W. H</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. H</Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1532,7 +1536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>. R. B</Text>
+      <Text>R. B</Text>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1834,7 +1838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>, ft</Text>
+      <Text>ft</Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,7 +1914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>. F. W</Text>
+      <Text>F. W</Text>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>

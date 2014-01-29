@@ -88,6 +88,7 @@
       <PageNumber>1814</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS,</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abel</Key>
@@ -193,7 +194,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, Col. (Temp. Brig.) the Hon. Harold Rupert Leofric George, D.S.O., M.C., Companion, Order of the Star of India</Text>
+      <Title>Col. (Temp. Brig.) the Hon.</Title>
+      <Forenames>Harold Rupert Leofric George</Forenames>
+      <Text>, D.S.O., M.C., Companion, Order of the Star of India</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +262,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Eric Litchfield Brooke, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Eric Litchfield Brooke</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +273,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Guy Willoughby, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Guy Willoughby</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,8 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Reg</Forenames>
-      <Text>. ' Serg.-Maj. Frederick Thomas, M.M., Member, Order of the British Empire</Text>
+      <Title>Reg.</Title>
+      <Text>' Serg.-Maj. Frederick Thomas, M.M., Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -412,7 +412,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lightfoot</Key>
-      <Text>,' H. B</Text>
+      <Text>' H. B</Text>
       <PageNumber>8011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Londonderry</Key>
-      <Text>, Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>8439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,14 +679,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyell</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +700,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McFarlane</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +750,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLean</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>7574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Text>, 0. S</Text>
+      <Text>0. S</Text>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +780,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McQuiston</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -904,7 +905,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D R</Text>
+      <Forenames>D</Forenames>
+      <Text>R</Text>
       <PageNumber>7231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +933,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T S</Text>
+      <Forenames>T</Forenames>
+      <Text>S</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +950,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +959,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J i</Text>
+      <Forenames>J</Forenames>
+      <Text>i</Text>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +969,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>6764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milburn</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1557,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Packer</Key>
-      <Text>, L\ S</Text>
+      <Forenames>L</Forenames>
+      <Text>\ S</Text>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1838,7 +1843,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Piper</Key>
-      <Text>, R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>8192</PageNumber>
     </MainItem>
   </ItemGroup>

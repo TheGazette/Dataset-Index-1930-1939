@@ -143,7 +143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallbones</Key>
-      <Text>,. Robert Townsend, M.B.E., H.M. Consul at Zagreb .:. ... ..,</Text>
+      <Text>. Robert Townsend, M.B.E., H.M. Consul at Zagreb .:. ... ..,</Text>
       <PageNumber>6688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +257,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tryon</Key>
-      <Text>, Maj. the Rt. Hon. George Clement, Minister of Pensions</Text>
+      <Title>Maj.</Title>
+      <Text>the Rt. Hon. George Clement, Minister of Pensions</Text>
       <PageNumber>5827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wauchope</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Arthur Grenfell, C.B., C.M.G., C.I.E., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Arthur Grenfell, C.B., C.M.G., C.I.E., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>5171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jieresford</Key>
-      <Text>, 'Lord W. M. de la P</Text>
+      <Text>'Lord W. M. de la P</Text>
       <PageNumber>4543</PageNumber>
       <PageNumber>4864</PageNumber>
     </MainItem>
@@ -566,7 +567,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Falkner</Key>
-      <Text>, E: F</Text>
+      <Forenames>E</Forenames>
+      <Text>: F</Text>
       <PageNumber>6037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>,. F</Text>
+      <Text>. F</Text>
       <PageNumber>5332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MillerG</Key>
-      <Text>. W</Text>
+      <Text>W</Text>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>

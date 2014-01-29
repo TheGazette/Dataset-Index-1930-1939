@@ -110,7 +110,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>V; L</Text>
+      <Forenames>V</Forenames>
+      <Text>; L</Text>
       <PageNumber>1264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>. D. J</Text>
+      <Text>D. J</Text>
       <PageNumber>1509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,14 +1222,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Brundret</Key>
-      <Text>, TB</Text>
+      <Text>TB</Text>
       <PageNumber>1752</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brunskill</Key>
-      <Text>. F. J</Text>
+      <Text>F. J</Text>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burghley</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1639,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q J£</Text>
+      <Forenames>Q</Forenames>
+      <Text>J£</Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,7 +1706,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colledge</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>

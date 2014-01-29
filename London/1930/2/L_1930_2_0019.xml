@@ -99,7 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahl</Key>
-      <Text>Maj. (District Officer). Frederick, Officer, Order of the British Empire</Text>
+      <Title>Maj. (District Officer)</Title>
+      <Text>. Frederick, Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,8 +141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alison</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gom. Sir Archibald, Bt;, R.N., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Gom. Sir Archibald, Bt;, R.N., Officer, Order of the British Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +274,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Forenames>Flt</Forenames>
-      <Text>.-Lt. Sidney James, .Member, Order of the British Empire</Text>
+      <Title>Flt.</Title>
+      <Text>-Lt. Sidney James, .Member, Order of the British Empire</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +333,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Christopher William, Baron, M.C T.D., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Christopher William</Forenames>
+      <Text>, Baron, M.C T.D., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,8 +459,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Belk</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William, C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>, C.M.G., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,8 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackmore</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Com. George Ernest, D.S.C, R.}*., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Com. George Ernest, D.S.C, R.}*., Officer, Order of the British Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,14 +684,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>Col. (tempy. Brig.) William Alan, CM.G., D.S.O., A.D.C, Companion, Order of the Bath</Text>
+      <Title>Col. (tempy. Brig.)</Title>
+      <Forenames>William Alan</Forenames>
+      <Text>, CM.G., D.S.O., A.D.C, Companion, Order of the Bath</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blyth</Key>
-      <Text>Miss lEthel Marion, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Text>lEthel Marion, Member, Order of the British Empire</Text>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>

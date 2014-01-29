@@ -155,15 +155,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Merthyr</Key>
-      <Text>, Lady, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Title>Lady, Serving Sister</Title>
+      <Text>, Order of St. John of Jerusalem</Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Micallef</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Albert Edward, Companion, Imperial Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Albert Edward</Forenames>
+      <Text>, Companion, Imperial Service Order</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +260,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mingo</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edgar Willard, Officer, Oreder of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edgar Willard</Forenames>
+      <Text>, Officer, Oreder of St. John of Jerusalem</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mostyn</Key>
-      <Text>, Lord, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lord, Commander</Title>
+      <Text>, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,9 +573,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Want.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (Bty. S.M.) Robert, Member, Order of the British Empire</Text>
+      <Title>Want. Offr.</Title>
+      <Text>CI. II (Bty. S.M.) Robert, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>

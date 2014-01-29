@@ -301,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kellett</Key>
-      <Text>, TP</Text>
+      <Text>TP</Text>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>8075</PageNumber>
       <PageNumber>8075</PageNumber>
     </MainItem>
@@ -884,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6705</PageNumber>
       <PageNumber>8074</PageNumber>
     </MainItem>
@@ -946,7 +946,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bainbridge</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1156,7 +1156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,14 +1180,14 @@
       <PageNumber>7581</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Corr.</Text>
+      <Text>Corr</Text>
       <PageNumber>7998</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6705</PageNumber>
       <PageNumber>7741</PageNumber>
     </MainItem>
@@ -1499,7 +1499,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick-Lauder</Key>
-      <Text>, Sir TN. D., Bt</Text>
+      <Title>Sir</Title>
+      <Text>TN. D., Bt</Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>

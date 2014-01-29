@@ -52,7 +52,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W T</Text>
+      <Forenames>W</Forenames>
+      <Text>T</Text>
       <PageNumber>1180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vivian</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,8 +762,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Thomas Leigh Hare, M.V.O</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Thomas Leigh Hare</Forenames>
+      <Text>, M.V.O</Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +777,6 @@
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Addiscombe</Key>

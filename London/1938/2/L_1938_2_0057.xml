@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphy</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nazar</Key>
-      <Forenames>Hussain</Forenames>
+      <Title>Hussain .</Title>
       <PageNumber>2930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -718,14 +718,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kasliwal</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,14 +1161,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkash</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Passmore</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shankhla</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1360,7 +1360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chandra</Key>
-      <Forenames>Bhushan</Forenames>
+      <Title>Bhushan .</Title>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahmudul</Key>
-      <Forenames>Hasan</Forenames>
+      <Title>Hasan .</Title>
       <PageNumber>3268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casement</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>

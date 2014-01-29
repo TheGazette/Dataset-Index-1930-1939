@@ -371,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kimber</Key>
-      <Text>, TH</Text>
+      <Text>TH</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knott</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambie</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -779,7 +779,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +910,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1050,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lea</Key>
-      <Text>, S F. B</Text>
+      <Forenames>S</Forenames>
+      <Text>F. B</Text>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ledger</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1120,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1129,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>

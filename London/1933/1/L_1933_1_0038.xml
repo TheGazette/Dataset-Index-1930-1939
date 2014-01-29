@@ -594,7 +594,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,14 +694,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McPnerson</Key>
-      <Text>J ,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McTurk</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>130</PageNumber>
       <PageNumber>370</PageNumber>
     </MainItem>
@@ -872,7 +873,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1430</PageNumber>
       <PageNumber>1965</PageNumber>
     </MainItem>
@@ -1076,7 +1077,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molyneux</Key>
-      <Text>G; G</Text>
+      <Forenames>G</Forenames>
+      <Text>; G</Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1426,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northbourne</Key>
-      <Text>Lord (Hon. w! E. C. James) .:</Text>
+      <Title>Lord (Hon. w! E. C. James)</Title>
+      <Text>.:</Text>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1493,8 @@
       <Key>
         <KeyDitto>___ ——</KeyDitto>
       </Key>
-      <Text>W E</Text>
+      <Forenames>W</Forenames>
+      <Text>E</Text>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1573,7 +1577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Papworth</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,7 +1741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Text>T! S</Text>
+      <Forenames>T</Forenames>
+      <Text>! S</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>

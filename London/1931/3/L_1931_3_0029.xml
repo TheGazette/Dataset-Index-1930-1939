@@ -47,7 +47,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Younfr</Key>
-      <Text>, K W</Text>
+      <Forenames>K</Forenames>
+      <Text>W</Text>
       <PageNumber>5764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brenton</Key>
-      <Text>, O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +703,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,14 +1077,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldstream</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1220,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,7 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Featherston</Key>
-      <Forenames>So</Forenames>
+      <Title>So .</Title>
       <PageNumber>5113</PageNumber>
     </MainItem>
   </ItemGroup>

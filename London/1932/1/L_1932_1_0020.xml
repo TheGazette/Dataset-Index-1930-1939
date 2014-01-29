@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sherman Gordon Venn, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Sherman Gordon Venn</Forenames>
+      <Text>, D.S.O., Companion, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +20,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elphinstone</Key>
-      <Text>, Lady, Dame of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lady, Dame</Title>
+      <Text>of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,8 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alfred Axen Leonard, V.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alfred Axen Leonard</Forenames>
+      <Text>, V.D., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,8 +96,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forester</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Lord, Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Lord, Knight of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +147,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyers</Key>
-      <Text>, Capt. FitzRoy Hubert, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Capt.</Title>
+      <Text>FitzRoy Hubert, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,9 +384,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Greet</Key>
-      <Title>Paymr.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (W) William Chapman, M.S.M., Member, Order of the British Empire</Text>
+      <Title>Paymr. Lt. (W)</Title>
+      <Forenames>William Chapman</Forenames>
+      <Text>, M.S.M., Member, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,8 +419,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Ralph Edwin Hotchkin, C.I.E., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Ralph Edwin Hotchkin</Forenames>
+      <Text>, C.I.E., Knight</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

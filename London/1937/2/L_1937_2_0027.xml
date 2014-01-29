@@ -13,7 +13,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>Col. (temp. Brig.) Reginald Stuart, M.C., A.D.C., Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Reginald Stuart</Forenames>
+      <Text>, M.C., A.D.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +241,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. &amp; Adjt. William Faithful!, Member, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Adjt. William Faithful!, Member, Order of the British Empire</Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,8 +265,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Hon. George Augustus, C.B.E., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.-Col. The Hon.</Title>
+      <Forenames>George Augustus</Forenames>
+      <Text>, C.B.E., M.V.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +331,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnot</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Terence John, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Terence John</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baden-Powell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Robert Stephenson Smythe, Baron, G.C.M.G., G.C.V.O., K.C.B., Order of Merit</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Robert Stephenson Smythe, Baron, G.C.M.G., G.C.V.O., K.C.B., Order of Merit</Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,8 +576,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qrmr.) (local Maj.) Sidney Edwin, Officer, Order of the British Empire</Text>
+      <Title>Lt. (Qrmr.) (local Maj.)</Title>
+      <Forenames>Sidney Edwin</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,8 +630,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baldwin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Local Maj.) Christopher Melfort, Member, Order of the British Empire</Text>
+      <Title>Lt. (Local Maj.)</Title>
+      <Forenames>Christopher Melfort</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>34</PageNumber>
     </MainItem>
   </ItemGroup>

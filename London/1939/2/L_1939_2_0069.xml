@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +244,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir 7 W. L., Bt</Text>
+      <Title>Sir</Title>
+      <Text>7 W. L., Bt</Text>
       <PageNumber>4047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newitt</Key>
-      <Text>, CL</Text>
+      <Text>CL</Text>
       <PageNumber>2999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Text>,. A. E</Text>
+      <Text>. A. E</Text>
       <PageNumber>4358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +963,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W -</Text>
+      <Forenames>W</Forenames>
+      <Text>-</Text>
       <PageNumber>3387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1066,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R -</Text>
+      <Forenames>R</Forenames>
+      <Text>-</Text>
       <PageNumber>3784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1807,7 +1810,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3647</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Forenames>Bvt</Forenames>
-      <Text>.-Col. Percy Reginald, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Title>Bvt.</Title>
+      <Text>-Col. Percy Reginald, D.S.O., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Text>S. C. M</Text>
+      <Text>. S. C. M</Text>
       <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +322,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett-Stuart</Key>
-      <Text>Sir r. T</Text>
+      <Title>Sir</Title>
+      <Text>r. T</Text>
       <PageNumber>2938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,14 +462,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2185</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>IFisher-Rowe</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -780,7 +781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruthven</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surtees</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Genochio</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2860</PageNumber>
     </MainItem>
   </ItemGroup>

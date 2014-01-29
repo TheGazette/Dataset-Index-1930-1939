@@ -9,8 +9,16 @@
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>Stanley George Reeves</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barry</Key>
@@ -58,7 +66,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beatty</Key>
-      <Text>, Major^General Guy Archibald Hastings, C.B., C.S.I., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Title>Major</Title>
+      <Text>^General Guy Archibald Hastings, C.B., C.S.I., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,8 +163,17 @@
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Title>Sir</Title>
+      <Forenames>James Gomer</Forenames>
+      <Text>, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -174,7 +192,14 @@
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beswick</Key>
+      <Forenames>John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bevan</Key>
@@ -183,7 +208,15 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Bt., C.B.E., Knight of Justice, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Beynon</Key>
+      <Title>Sir</Title>
+      <Forenames>John Wyndham</Forenames>
+      <Text>, Bt., C.B.E., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <PageNumber>4071</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Billingham</Key>
@@ -193,7 +226,14 @@
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bilton</Key>
+      <Forenames>George Albert</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
@@ -205,7 +245,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Forenames>Flight Lieutenant Frederick Ernest</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Lieutenant Frederick Ernest</Forenames>
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
@@ -400,7 +441,14 @@
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Brereton</Key>
+      <Forenames>Percy</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
@@ -428,7 +476,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brind</Key>
-      <Text>, Captain (QuarterMaster) Frederick William, Officer, Order of the British Empire</Text>
+      <Title>Captain (QuarterMaster)</Title>
+      <Forenames>Frederick William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +572,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucktin</Key>
-      <Text>, Major (Quarter-Master) Francis George, TD, Officer, Order of the British Empire</Text>
+      <Title>Major (Quarter-Master)</Title>
+      <Forenames>Francis George</Forenames>
+      <Text>, TD, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,13 +586,23 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Tritton, G.O.V.O., C.B., Extra Equerry to H.M</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buller</Key>
+      <Title>Admiral Sir</Title>
+      <Forenames>Henry Tritton</Forenames>
+      <Text>, G.O.V.O., C.B., Extra Equerry to H.M. the King</Text>
+      <PageNumber>2213</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>Captain (local Major) Raymond Swinburne, Officer, Order of the British Empire</Text>
+      <Title>Captain (local Major)</Title>
+      <Forenames>Raymond Swinburne</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>

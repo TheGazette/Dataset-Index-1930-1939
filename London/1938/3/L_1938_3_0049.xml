@@ -525,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allison</Key>
-      <Text>D. B</Text>
+      <Text>. D. B</Text>
       <PageNumber>5418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Text>W: E. B</Text>
+      <Forenames>W</Forenames>
+      <Text>: E. B</Text>
       <PageNumber>5420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1594,7 +1595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellis</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5292</PageNumber>
       <PageNumber>5679</PageNumber>
     </MainItem>
@@ -1750,7 +1751,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bickford</Key>
-      <Text>R -</Text>
+      <Forenames>R</Forenames>
+      <Text>-</Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -288,7 +288,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairbairn-Crawford</Key>
-      <Text>I; F</Text>
+      <Forenames>I</Forenames>
+      <Text>; F</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +371,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>F S</Text>
+      <Forenames>F</Forenames>
+      <Text>S</Text>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +434,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H: M</Text>
+      <Forenames>H</Forenames>
+      <Text>: M</Text>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>2118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +651,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>A; J</Text>
+      <Forenames>A</Forenames>
+      <Text>; J</Text>
       <PageNumber>2192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +758,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>R:</Text>
+      <Forenames>R</Forenames>
+      <Text>:</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawking</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1731,7 +1736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ibberson</Key>
-      <Text>G -</Text>
+      <Forenames>G</Forenames>
+      <Text>-</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>

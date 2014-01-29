@@ -178,7 +178,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E, L. S</Text>
+      <Forenames>E</Forenames>
+      <Text>, L. S</Text>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +300,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westhorpe</Key>
-      <Text>, A C. P</Text>
+      <Forenames>A</Forenames>
+      <Text>C. P</Text>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +343,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T A. W</Text>
+      <Forenames>T</Forenames>
+      <Text>A. W</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +671,7 @@
       <PageNumber>1637</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Jones, Maj. John, VJ&gt;</Text>
+      <Text>Jones, Maj. John, VJ&gt;.</Text>
       <PageNumber>1537</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -710,7 +713,7 @@
       <PageNumber>932</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stanley, Capt. the Hon. Edward Montagu Cavendish, M.C., M.P</Text>
+      <Text>Stanley, Capt. the Hon. Edward Montagu Cavendish, M.C., M.P.</Text>
       <PageNumber>932</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -721,7 +724,7 @@
       <PageNumber>679</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Nutting, Capt. Sir Harold Stansmore, Bart</Text>
+      <Text>Nutting, Capt. Sir Harold Stansmore, Bart.</Text>
       <PageNumber>679</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -739,9 +742,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Title>Brevet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Herbert Patrick Hunter, O.B.E</Text>
+      <Title>Brevet Lt.-Col.</Title>
+      <Forenames>Herbert Patrick Hunter</Forenames>
+      <Text>, O.B.E</Text>
       <PageNumber>1454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,11 +756,10 @@
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>. G. Hatch &lt;fe Company, Limited, notice</Text>
+      <Text>G. Hatch &lt;fe Company, Limited, notice</Text>
       <PageNumber>791</PageNumber>
     </MainItem>
   </ItemGroup>

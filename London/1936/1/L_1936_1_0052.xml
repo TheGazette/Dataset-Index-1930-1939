@@ -153,7 +153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodcock</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duffy</Key>
-      <Text>, j</Text>
+      <Text>j</Text>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Higham</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Linton</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shri</Key>
-      <Forenames>Rameshwar</Forenames>
+      <Title>Rameshwar .</Title>
       <PageNumber>1978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tait</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verdon</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, His Royal Highness the Duke of</Text>
+      <Title>His Royal Highness</Title>
+      <Text>the Duke of</Text>
       <PageNumber>1057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +782,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, His Royal Highness the Duke of</Text>
+      <Title>His Royal Highness</Title>
+      <Text>the Duke of</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1065,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickling</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lydekker</Key>
-      <Text>, G; O</Text>
+      <Forenames>G</Forenames>
+      <Text>; O</Text>
       <PageNumber>818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Terry</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1427,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noel</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>531</PageNumber>
     </MainItem>
   </ItemGroup>

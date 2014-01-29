@@ -299,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>N. F</Text>
+      <Text>. N. F</Text>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John F. O. St.Quintin, E. Sandeman, G. R.'</Text>
+      <Text>. John F. O. St.Quintin, E. Sandeman, G. R.'</Text>
       <PageNumber>7434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sardar</Key>
-      <Forenames>Mujd</Forenames>
+      <Title>Mujd .</Title>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,15 +1299,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarbat</Key>
-      <Forenames>Visct</Forenames>
-      <Text>. '</Text>
+      <Title>Visct.</Title>
+      <Text>'</Text>
       <PageNumber>7930</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1316,7 +1316,7 @@
       <Key>
         <KeyDitto>___ ___ /</KeyDitto>
       </Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1349,7 +1349,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1421,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>O G. N</Text>
+      <Forenames>O</Forenames>
+      <Text>G. N</Text>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1431,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>V B</Text>
+      <Forenames>V</Forenames>
+      <Text>B</Text>
       <PageNumber>7746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vidall</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>A. F</Text>
+      <Text>. A. F</Text>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>

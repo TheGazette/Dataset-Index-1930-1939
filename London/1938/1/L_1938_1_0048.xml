@@ -479,7 +479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leppard</Key>
-      <Text>, C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>1081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewes</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +739,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1218,7 +1220,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,14 +1299,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Maguire</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mahony</Key>
-      <Text>, A, A</Text>
+      <Forenames>A</Forenames>
+      <Text>, A</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1488,7 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>, EH</Text>
+      <Text>EH</Text>
       <PageNumber>735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martyn</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1628,14 +1631,15 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir, T. G</Text>
+      <Title>Sir</Title>
+      <Text>, T. G</Text>
       <PageNumber>736</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1349</PageNumber>
     </MainItem>
   </ItemGroup>

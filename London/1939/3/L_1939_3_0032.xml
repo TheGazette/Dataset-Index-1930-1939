@@ -221,7 +221,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +545,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, A</Text>
+      <Forenames>J</Forenames>
+      <Text>, A</Text>
       <PageNumber>6241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Page</Key>
-      <Text>, C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>5108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perk</Key>
-      <Text>, T&gt;</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;</Text>
       <PageNumber>5315</PageNumber>
     </MainItem>
   </ItemGroup>

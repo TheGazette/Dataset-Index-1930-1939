@@ -74,17 +74,16 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. II, B.S.M. Walker, Daniel, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, CI. II, B.S.M. Walker, Daniel, Member, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Col. Robert, O.B.E., Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>Col. Robert, O.B.E., Commander, Order of the British Empire</Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,8 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. John Greer, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. John Greer, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,8 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Domville</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. John Patrick, Member, Order of the British Empire</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>John Patrick</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
     <SubItem>
@@ -433,8 +433,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. George Milton, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. George Milton, Officer, Order of the British Empire</Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -446,8 +446,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Kinnimmont, M.C, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Kin-</Forenames>
+      <Text>nimmont, M.C, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +564,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir James Sands, M.D., Knight, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>James Sands</Forenames>
+      <Text>, M.D., Knight, Order of St. John of Jerusalem</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>

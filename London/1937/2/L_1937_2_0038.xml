@@ -23,8 +23,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lansell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. George Victor, V.D., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>George Victor</Forenames>
+      <Text>, V.D., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +200,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Legh</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. Piers Walter, C.M.G., CLE., M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>Piers Walter</Forenames>
+      <Text>, C.M.G., CLE., M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +347,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ling</Key>
-      <Text>Col. (Hon. . Brig.) Christopher George, D.S.O., M.C, Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. . Brig.)</Title>
+      <Forenames>Christopher George</Forenames>
+      <Text>, D.S.O., M.C, Companion, Order of the Bath</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +425,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lock</Key>
-      <Text>Col. (local Maj.-Gen.) Robert Ferguson, Companion, Order of the Bath</Text>
+      <Title>Col. (local Maj.-Gen.)</Title>
+      <Forenames>Robert Ferguson</Forenames>
+      <Text>, Companion, Order of the Bath</Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,9 +475,8 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II, C.S.M. Alfred James, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II, C.S.M. Alfred James, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>

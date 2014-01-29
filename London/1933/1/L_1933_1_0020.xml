@@ -63,7 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Addison</Key>
-      <Forenames>Major-General George Henry</Forenames>
+      <Title>Major</Title>
+      <Forenames>General George Henry</Forenames>
       <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
@@ -115,7 +116,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>Major General Charles Clement, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major</Title>
+      <Text>General Charles Clement, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>Captain (Deputy Commissary) Arthur Edwin, Member, Order of the British Empire</Text>
+      <Title>Captain (Deputy Commissary)</Title>
+      <Forenames>Arthur Ed-</Forenames>
+      <Text>win, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +464,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Braine</Key>
-      <Text>Col. (temp. Brigadier) Herbert E dmind Reginald Rubens, C.M.G., D.S.O., Companion, Order of the Bath Braithwaite, Frank, Serving Brother, Order of St. John of Jerusalem Brattle, Walter Thomas, Member, Order of the British Empire Brennan, Thomas, Macer of the Court of Justiciary and of the Court of Session Brookes, Mabel Balcombe, Mrs., Commander, Order pf the British Empire</Text>
+      <Title>Col. (temp. Brigadier)</Title>
+      <Forenames>Herbert E</Forenames>
+      <Text>dmind Reginald Rubens, C.M.G., D.S.O., Companion, Order of the Bath Braithwaite, Frank, Serving Brother, Order of St. John of Jerusalem Brattle, Walter Thomas, Member, Order of the British Empire Brennan, Thomas, Macer of the Court of Justiciary and of the Court of Session Brookes, Mabel Balcombe, Mrs., Commander, Order pf the British Empire</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
     <SubItem>

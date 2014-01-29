@@ -135,7 +135,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Text>, Col. (temp. Brig.) Harold St. John Loyd, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Harold St</Forenames>
+      <Text>. John Loyd, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +380,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDonald</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -910,7 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Text>, OB</Text>
+      <Text>OB</Text>
       <PageNumber>1171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,7 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>, OP</Text>
+      <Text>OP</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsfold</Key>
-      <Text>, OP</Text>
+      <Text>OP</Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1293,7 +1295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>

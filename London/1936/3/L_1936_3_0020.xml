@@ -176,7 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Desborough</Key>
-      <Text>Lady, Extra Lady of the Bedchamber to Queen Mary</Text>
+      <Title>Lady</Title>
+      <Text>, Extra Lady of the Bedchamber to Queen Mary</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,8 +476,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielden</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Edward Hedley, A.F.C., Equerry in Waiting to His Majesty</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Edward Hedley</Forenames>
+      <Text>, A.F.C., Equerry in Waiting to His Majesty</Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frederick</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Boscawen, Exon, Yeoman of the Guard</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Boscawen</Forenames>
+      <Text>, Exon, Yeoman of the Guard</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>

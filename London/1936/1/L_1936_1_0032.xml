@@ -358,7 +358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>, Maj. (Commissary) Thomas Ray, Officer, Order of the ' British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Thomas Ray</Forenames>
+      <Text>, Officer, Order of the ' British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>

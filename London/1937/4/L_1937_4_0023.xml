@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardwell</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carr</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chuter</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +341,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +493,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colville</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connors</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +724,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +854,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuddon</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,14 +1082,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Darroch</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davenport</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Deedes</Key>
-      <Text>, Sir CP</Text>
+      <Title>Sir</Title>
+      <Text>CP</Text>
       <PageNumber>6306</PageNumber>
       <PageNumber>6306</PageNumber>
     </MainItem>
@@ -1238,7 +1239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickens</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ditton</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1350,7 +1351,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,7 +1381,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7264</PageNumber>
       <PageNumber>7264</PageNumber>
     </MainItem>
@@ -1481,7 +1482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunlop</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellington</Key>
-      <Text>, M Elwood, A. W</Text>
+      <Forenames>M</Forenames>
+      <Text>Elwood, A. W</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>

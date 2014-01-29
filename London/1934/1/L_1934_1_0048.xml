@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowlland</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +192,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +449,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodd</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollocombe</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willsteed</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bekenn</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsmid</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankey</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1471,7 +1471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Langford</Key>
-      <Text>R, S. C</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. C</Text>
       <PageNumber>539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,7 +1549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,7 +1642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>

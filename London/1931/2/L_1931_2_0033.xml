@@ -85,7 +85,14 @@
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother. Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tyson</Key>
+      <Forenames>Edward Serving Brother</Forenames>
+      <Text>. Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
@@ -105,7 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Urmston</Key>
-      <Text>, Maj or Denis George Severn, Officer, Order of the British Empire</Text>
+      <Title>Maj</Title>
+      <Text>or Denis George Severn, Officer, Order of the British Empire</Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>, MiBS Gertrude Alice, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>MiBS Gertrude Alice, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney</Key>
-      <Text>. Sir Harry Lloyd, K.C.V.O., Extra Groom in Waiting to H.M. The King</Text>
+      <Text>Sir Harry Lloyd, K.C.V.O., Extra Groom in Waiting to H.M. The King</Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +198,13 @@
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Rochfort, Nominated Official Member of the Legislative Council of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wade</Key>
+      <Text>. Thomas Gustavus Rochfort, Nominated Official Member of the Legislative Council of St. Lucia</Text>
+      <PageNumber>2891</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wagner</Key>
@@ -262,15 +276,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Weekes</Key>
-      <Forenames>The Very Rev</Forenames>
-      <Text>. Dean William Haye, Chaplain, Order of St. John of Jerusalem</Text>
+      <Forenames>The Very</Forenames>
+      <Text>Rev. Dean William Haye, Chaplain, Order of St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Weekley</Key>
-      <Text>, Lieut. Colonel George Mitchell, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>Colonel George Mitchell, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>. Major Henry Harold, O.B.E., M.O., Commander, Order of the British Empire</Text>
+      <Text>Major Henry Harold, O.B.E., M.O., Commander, Order of the British Empire</Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,11 +434,18 @@
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother. Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Wildman</Key>
+      <Forenames>Herbert</Forenames>
+      <Text>, Serving Brother. Order of St. John or Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, . Col. Roger, D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>. Col. Roger, D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,10 +487,26 @@
       <PageNumber>2891</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Horace Trevor</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Wallace</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willingdon</Key>
@@ -505,8 +543,16 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Archibald Kennedy</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -517,8 +563,16 @@
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>James Arthur</Forenames>
+      <Text>, O.B.E;, Officer, Order of St. John.of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -537,7 +591,14 @@
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Winterbourne</Key>
+      <Forenames>James</Forenames>
+      <Text>, Serving Brother, Order of St. . John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wishlade</Key>
@@ -584,7 +645,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Forenames>Flight Lieutenant Frank</Forenames>
+      <Title>Flight</Title>
+      <Forenames>Lieutenant Frank</Forenames>
       <Text>, D.F.C., Officer, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>

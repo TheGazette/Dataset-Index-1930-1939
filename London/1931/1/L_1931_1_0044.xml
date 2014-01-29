@@ -441,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sodhi</Key>
-      <Text>, la. S</Text>
+      <Text>la. S</Text>
       <PageNumber>536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,14 +582,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Terry</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tulsi</Key>
-      <Forenames>Das</Forenames>
+      <Title>Das .</Title>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,14 +944,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Benjamin</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carrey</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shannon</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Singh</Key>
-      <Text>, J ,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Niblett</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1724</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1425,7 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hensman</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1476,7 +1477,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>

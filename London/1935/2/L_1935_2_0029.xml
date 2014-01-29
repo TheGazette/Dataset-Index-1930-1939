@@ -12,8 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Louis Edward, C.M.G., M.B., F.R.C.S., Knight of Grace. Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Louis Edward</Forenames>
+      <Text>, C.M.G., M.B., F.R.C.S., Knight of Grace. Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +313,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bice</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Percy ^Gordon, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Percy</Forenames>
+      <Text>^Gordon, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,8 +432,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bledisloe</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, G.C.M.G., K.B.E., Member, Governing Body of the Imperial College of Science and Technology</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, G.C.M.G., K.B.E., Member, Governing Body of the Imperial College of Science and Technology</Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
     <SubItem>
@@ -452,9 +454,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Blundell</Key>
-      <Title>Paym.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>. (S) John, Member, Order of the British Empire</Text>
+      <Title>Paym. Lt. (S)</Title>
+      <Forenames>John</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,8 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodfish</Key>
-      <Forenames>By</Forenames>
-      <Text>.-St.-Maj. George. D.C.M., Member, Order of the British Empire</Text>
+      <Title>By.</Title>
+      <Text>-St.-Maj. George. D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>

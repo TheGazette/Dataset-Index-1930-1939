@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>A '</Text>
+      <Forenames>A</Forenames>
+      <Text>'</Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plaits</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>5873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1020,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rabbetts</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ratendone</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>4316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1336,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>I&gt;. H. S</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;. H. S</Text>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1592,7 @@
       <PageNumber>4886</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J. S</Text>
+      <Text>J. S.</Text>
       <PageNumber>5939</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1631,7 +1634,7 @@
       <PageNumber>6215</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. W</Text>
+      <Text>R. W.</Text>
       <PageNumber>4229</PageNumber>
     </SubItem>
   </ItemGroup>

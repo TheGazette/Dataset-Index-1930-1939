@@ -118,7 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinhoe</Key>
-      <Text>Capt. (now Maj.) Maurice Robert Harold Zitenius, Officer, Order of the British Empire</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>Maurice Robert Harold Zitenius</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,22 +152,25 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>Paw Tun, The Hon., Knighted</Text>
+      <Text>. Paw Tun, The Hon., Knighted</Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Veitch</Key>
-      <Text>Capt. (now Maj.) William Lionel Douglas,.. Officer, Order of the British Empire</Text>
+      <Title>Capt. (now Maj.)</Title>
+      <Forenames>William Lionel Douglas</Forenames>
+      <Text>,.. Officer, Order of the British Empire</Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vulliamy</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Colwyn Henry Hughes, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Colwyn Henry Hughes</Forenames>
+      <Text>, Distinguished Service Order</Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +185,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>Capt. &amp; Bt. Maj. Francis James, Officer, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Bt. Maj. Francis James, Officer, Order of the British Empire</Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (now Col. (now temp. Brig.) ) Aubrey Ellis, D.S.O., M.C., Bar to Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>(now Col. (now temp. Brig.) ) Aubrey Ellis, D.S.O., M.C., Bar to Distinguished Service Order</Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>D.C. to The King, Wootten, R. M</Text>
+      <Text>.D.C. to The King, Wootten, R. M</Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Finlayson</Key>
-      <Text>Sir R</Text>
+      <Text>. Sir R</Text>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Galloway</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>

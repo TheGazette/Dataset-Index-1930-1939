@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coney</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guy</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosley</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +348,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haines</Key>
-      <Text>G T</Text>
+      <Forenames>G</Forenames>
+      <Text>T</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Druoe</Key>
-      <Text>B E</Text>
+      <Forenames>B</Forenames>
+      <Text>E</Text>
       <PageNumber>278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +639,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edkin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,14 +688,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>J C</Text>
+      <Forenames>J</Forenames>
+      <Text>C</Text>
       <PageNumber>344</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Text>E,. H</Text>
+      <Forenames>E</Forenames>
+      <Text>,. H</Text>
       <PageNumber>499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humby</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tweedie</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blewitt</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>278</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gay</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Miller</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>648</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -37,7 +37,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Text>Sir (Arthur Charles) Cosmo, K.C.M.G., O.B.E., Knight Commander, Order of the Bath -</Text>
+      <Title>Sir (Arthur Charles)</Title>
+      <Forenames>Cosmo</Forenames>
+      <Text>, K.C.M.G., O.B.E., Knight Commander, Order of the Bath -</Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,8 +75,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parsons</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Edward Broadbent, C.B.E., D.S.O., Knight Commander, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Ed-</Forenames>
+      <Text>ward Broadbent, C.B.E., D.S.O., Knight Commander, Order of the Indian Empire</Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>

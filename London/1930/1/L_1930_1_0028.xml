@@ -123,8 +123,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Radcliffe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Percy Pollexfen de Blaquiere, K.C.M.G., C.B. D.S.O., . Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Percy Pollexfen de Blaquiere, K.C.M.G., C.B. D.S.O., . Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Robb</Key>
-      <Text>Major General Sir Frederick Spencer, K.O.B., K.C.M.G., K.C.V.O</Text>
+      <Title>Major</Title>
+      <Text>General Sir Frederick Spencer, K.O.B., K.C.M.G., K.C.V.O</Text>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,8 +298,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Heaton Forbes, Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Heaton Forbes</Forenames>
+      <Text>, Companion, Order of St. Michael and St. George</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +517,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Speckman</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harry, Officer, Order of St. John of Jerusalem Speight, Richard Langford, Third Secretary in H.M. Diplomatic Service</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harry</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem Speight, Richard Langford, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>

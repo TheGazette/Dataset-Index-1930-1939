@@ -23,9 +23,25 @@
       <Text>, Lady, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
-    <KeyDitto>___ ___</KeyDitto>
-    <SubCategoryTitle>C.M.G., Knight of Grace, Order of St</SubCategoryTitle>
-    <SubCategoryTitle>M.A., F.B.A., F.R.I.B.A., Knight 3624 Officer, Order of St</SubCategoryTitle>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Sir</Title>
+      <Forenames>Wiliam</Forenames>
+      <Text>, K.B.E., C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <PageNumber>4071</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Peers</Key>
+      <Forenames>Charles Reed</Forenames>
+      <Text>, O.B.E., M.A., F.B.A., F.R.I.B.A., Knight</Text>
+      <PageNumber>3624</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
@@ -73,7 +89,14 @@
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>St. Michael and St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Perlis</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>, Tuan Syed Alwi, ibni almerhum Syed San, C.B.E., Raja of, Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>3627</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perowne</Key>
@@ -105,7 +128,14 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Philbey</Key>
+      <Forenames>Frank</Forenames>
+      <Text>, Serving Brother Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
@@ -115,8 +145,16 @@
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Sister, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Forenames>Sebina</Forenames>
+      <Text>, Mrs., Serving Sister, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pierce</Key>
@@ -178,7 +216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>, AVilliam David, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>AVilliam David, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +248,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Powney</Key>
-      <Text>, Lieut.-Colonel Cecil Du Pre Penton, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Cecil Du Pre Penton, O.B.E., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,8 +286,16 @@
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>James Edward</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4072</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Punnett</Key>
@@ -331,7 +378,14 @@
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Reed</Key>
+      <Forenames>George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>4073</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Relton</Key>
@@ -435,8 +489,16 @@
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Michael and St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>William Nathaniel</Forenames>
+      <Text>, C. B.E.. M.B., Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>3627</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
@@ -519,7 +581,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowe</Key>
-      <Text>, Major (Quarter-Master) George William Henry, Officer, Order of the British Empire</Text>
+      <Title>Major (Quarter-Master)</Title>
+      <Forenames>George William Henry</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, LieutenantColonel Thomas Reginald C.M.G., Kniht Commander, Order of St. Michael and St. George</Text>
+      <Text>Johnston, LieutenantColonel Thomas Reginald C.M.G., Kniht Commander, Order of St. Michael and St. George</Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>

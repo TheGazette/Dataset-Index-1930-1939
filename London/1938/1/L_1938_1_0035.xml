@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopwood</Key>
-      <Text>, Col. (temp. Brig.) Alfred Henry, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Alfred Henry</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,8 +73,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Geoffrey Weston, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Geoffrey Weston, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

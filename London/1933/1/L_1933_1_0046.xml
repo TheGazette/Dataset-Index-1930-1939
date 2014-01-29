@@ -160,7 +160,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hay</Key>
-      <Text>J, G</Text>
+      <Forenames>J</Forenames>
+      <Text>, G</Text>
       <PageNumber>1781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +806,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackey</Key>
-      <Text>C, W</Text>
+      <Forenames>C</Forenames>
+      <Text>, W</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -848,7 +850,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Madden</Key>
-      <Text>H; P</Text>
+      <Forenames>H</Forenames>
+      <Text>; P</Text>
       <PageNumber>1967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +865,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malleson</Key>
-      <Text>R St. A</Text>
+      <Forenames>R</Forenames>
+      <Text>St. A</Text>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountain</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1250,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>B: J</Text>
+      <Forenames>B</Forenames>
+      <Text>: J</Text>
       <PageNumber>372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1435,7 +1440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rump</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1821,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Somemlle</Key>
-      <Text>I&gt;. G. W</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;. G. W</Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>

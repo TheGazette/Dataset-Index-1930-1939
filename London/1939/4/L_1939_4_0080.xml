@@ -186,7 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7187</PageNumber>
       <PageNumber>8406</PageNumber>
     </MainItem>
@@ -1052,7 +1052,7 @@
       <PageNumber>7805</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>7275.</Text>
+      <Text>7275</Text>
       <PageNumber>7963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1068,7 +1068,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,7 +1276,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H Birchfield, F. E. W</Text>
+      <Forenames>H</Forenames>
+      <Text>Birchfield, F. E. W</Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,7 +1953,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>7187</PageNumber>
       <PageNumber>8406</PageNumber>
     </MainItem>

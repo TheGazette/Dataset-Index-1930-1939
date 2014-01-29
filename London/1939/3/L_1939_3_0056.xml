@@ -37,7 +37,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monland</Key>
-      <Text>, A:R</Text>
+      <Forenames>A</Forenames>
+      <Text>:R</Text>
       <PageNumber>5922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moule</Key>
-      <Text>,G. G</Text>
+      <Text>G. G</Text>
       <PageNumber>6064</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moyes</Key>
-      <Text>,-1. Y</Text>
+      <Text>-1. Y</Text>
       <PageNumber>5986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>,,A -</Text>
+      <Text>,A -</Text>
       <PageNumber>5751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +238,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muller</Key>
-      <Text>, J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>6245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +269,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J; A. B</Text>
+      <Forenames>J</Forenames>
+      <Text>; A. B</Text>
       <PageNumber>4762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +349,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Munster</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +527,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>F;</Text>
+      <Forenames>F</Forenames>
+      <Text>;</Text>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MurrayRust</Key>
-      <Text>, . T. M,</Text>
+      <Text>. T. M,</Text>
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +673,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Naismith</Key>
-      <Text>, A: F</Text>
+      <Forenames>A</Forenames>
+      <Text>: F</Text>
       <PageNumber>5849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ness</Key>
-      <Text>, ,G</Text>
+      <Text>,G</Text>
       <PageNumber>0056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +928,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C: L. C</Text>
+      <Forenames>C</Forenames>
+      <Text>: L. C</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1223,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingale</Key>
-      <Text>, A E/</Text>
+      <Forenames>A</Forenames>
+      <Text>E/</Text>
       <PageNumber>5752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,7 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norbury</Key>
-      <Text>, EN</Text>
+      <Text>EN</Text>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1345,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>, Duke of... -5 7 Norfolk, R. W. ...-5H-</Text>
+      <Title>Duke</Title>
+      <Text>of... -5 7 Norfolk, R. W. ...-5H-</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,14 +1361,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman-Butler</Key>
-      <Text>, N, N</Text>
+      <Forenames>N</Forenames>
+      <Text>, N</Text>
       <PageNumber>6109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norris</Key>
-      <Text>,. B. R. H</Text>
+      <Text>. B. R. H</Text>
       <PageNumber>5847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1390,7 +1400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>North</Key>
-      <Text>, .Lord,,</Text>
+      <Text>.Lord,,</Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1541,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, O'Ferrall, G. M:</Text>
+      <Forenames>J</Forenames>
+      <Text>, O'Ferrall, G. M:</Text>
       <PageNumber>4920</PageNumber>
       <PageNumber>5205</PageNumber>
     </MainItem>
@@ -1653,7 +1664,8 @@
       <Key>
         <KeyDitto>___ — ___</KeyDitto>
       </Key>
-      <Text>E: I</Text>
+      <Forenames>E</Forenames>
+      <Text>: I</Text>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>

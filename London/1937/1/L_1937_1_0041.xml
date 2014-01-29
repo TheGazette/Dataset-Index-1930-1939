@@ -30,8 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. David Alexander, O.B.E., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>David Alex-</Forenames>
+      <Text>ander, O.B.E., M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>D.C. to The King: Connaught and St rath earn, H.R.H. The Duke of</Text>
+      <Text>.D.C. to The King: Connaught and St rath earn, H.R.H. The Duke of</Text>
       <PageNumber>687</PageNumber>
     </MainItem>
     <SubItem>
@@ -413,7 +414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>A.D.C. to The King: Bikaner, H.H. Marahajahiraja Raj Rajeshwar Shiromani Maharaja Shri Si r G a n g a Singh, Bahadur, Maharaja of</Text>
+      <Text>. A.D.C. to The King: Bikaner, H.H. Marahajahiraja Raj Rajeshwar Shiromani Maharaja Shri Si r G a n g a Singh, Bahadur, Maharaja of</Text>
       <PageNumber>996</PageNumber>
     </MainItem>
     <SubItem>
@@ -451,7 +452,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +697,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>H.R.H. Prince 688</Text>
+      <Title>H.R.H. Prince</Title>
+      <Text>688</Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coryton</Key>
-      <Text>R. H. O</Text>
+      <Text>. R. H. O</Text>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>

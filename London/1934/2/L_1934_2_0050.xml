@@ -342,8 +342,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Hugh Arthur Rose, D.S.O., J.P</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Hugh Arthur Rose</Forenames>
+      <Text>, D.S.O., J.P</Text>
       <PageNumber>3120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,6 @@
       <PageNumber>3581</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Aarons</Key>
@@ -506,7 +506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Balofsky</Key>
-      <Text>(or Brailovski), Ben, change of name by deed poll to B. Barlow</Text>
+      <Title>(or Brailovski)</Title>
+      <Text>, Ben, change of name by deed poll to B. Barlow</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnsta</Key>
-      <Text>ple Fishermen's Society, cancelling of registry</Text>
+      <Text>.ple Fishermen's Society, cancelling of registry</Text>
       <PageNumber>3512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +617,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brailovski</Key>
-      <Text>(or Balofsky), Ben, change of name by' deed poll to B. Barlow</Text>
+      <Title>(or Balofsky)</Title>
+      <Text>, Ben, change of name by' deed poll to B. Barlow</Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -16,8 +16,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. William Foxley, O.V.O., D.D., Knight Commander, Royal Victorian Order</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. William Foxley, O.V.O., D.D., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +96,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>,.John Boyd, D.S.O., M.C. MIA., M.D., D.Sc, F.R.S., Knight ... '</Text>
+      <Text>.John Boyd, D.S.O., M.C. MIA., M.D., D.Sc, F.R.S., Knight ... '</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -263,8 +263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Phipson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Selby, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Selby</Forenames>
+      <Text>, D.S.O., Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +329,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Forenames>Flight Lt</Forenames>
-      <Text>. Alfred Alderson, Member, Order of the British Empire</Text>
+      <Title>Flight Lt.</Title>
+      <Forenames>Alfred Alderson</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +340,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Gibson, V.D., J.P., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Gibson</Forenames>
+      <Text>, V.D., J.P., Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -374,8 +377,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, O.B.E., V.D., Companion, Order . of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, O.B.E., V.D., Companion, Order . of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +559,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fayner</Key>
-      <Text>, Maj. (Commissary) Arthur, Officer, Order of the British Empire .*</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, Officer, Order of the British Empire .*</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>, Maj.Henry James, M.C, Companion, Order of the Indian Empire ..:</Text>
+      <Title>Maj.</Title>
+      <Text>Henry James, M.C, Companion, Order of the Indian Empire ..:</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

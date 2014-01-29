@@ -845,7 +845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubber-Richards</Key>
-      <Text>, R: A</Text>
+      <Forenames>R</Forenames>
+      <Text>: A</Text>
       <PageNumber>6129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1315,8 +1316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Iliffe</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord</Text>
+      <Title>Rt. Hon. Lord .</Title>
       <PageNumber>5930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joel</Key>
-      <Text>, LI. J</Text>
+      <Text>LI. J</Text>
       <PageNumber>4579</PageNumber>
     </MainItem>
   </ItemGroup>

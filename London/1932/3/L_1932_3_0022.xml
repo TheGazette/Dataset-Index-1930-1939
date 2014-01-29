@@ -491,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, J. H</Text>
+      <Text>Johnston, J. H</Text>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftoe</Key>
-      <Text>.H. I</Text>
+      <Text>H. I</Text>
       <PageNumber>4560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sidmouth</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +694,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A F</Text>
+      <Forenames>A</Forenames>
+      <Text>F</Text>
       <PageNumber>4302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +902,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tayleur</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1006,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1136,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veitch</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,14 +1172,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Waddell</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5227</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walden</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmsley</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1309,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>W' S</Text>
+      <Forenames>W</Forenames>
+      <Text>' S</Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>, .E. A</Text>
+      <Text>.E. A</Text>
       <PageNumber>5302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1589,7 +1591,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yellowlees</Key>
-      <Text>, L\ M</Text>
+      <Forenames>L</Forenames>
+      <Text>\ M</Text>
       <PageNumber>5007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,15 +1619,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Hubert Tunstall</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Hubert Tun-</Forenames>
+      <Text>stall</Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bayley-Worthington</Key>
-      <Text>, Maj</Text>
+      <Title>Maj.</Title>
       <PageNumber>5435</PageNumber>
     </MainItem>
     <SubItem>
@@ -1684,8 +1688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldren</Key>
-      <Title>Capt.</Title>
-      <Forenames>Alfred</Forenames>
+      <Title>Capt. Alfred .</Title>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,15 +1703,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolf</Key>
-      <Text>, Capt.. Edward Moses</Text>
+      <Title>Capt.</Title>
+      <Text>. Edward Moses</Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Reginald</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Reginald</Forenames>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,8 +1721,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Diver</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Hon. Col. Walter</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Hon. Col. Walter</Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
     <SubItem>
@@ -1766,7 +1770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bootle-Wilbraham</Key>
-      <Text>, L ,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>5064</PageNumber>
     </MainItem>
   </ItemGroup>

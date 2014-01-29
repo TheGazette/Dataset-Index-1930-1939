@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collier</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosthwaite</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +295,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>, C: E</Text>
+      <Forenames>C</Forenames>
+      <Text>: E</Text>
       <PageNumber>4187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edelsten</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmerson</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairley</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flett</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,7 +838,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +944,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyrtih</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilchrist</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillibrand</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gleave</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1177,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halley</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,7 +1816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,7 +1853,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T A A</Text>
+      <Forenames>T</Forenames>
+      <Text>A A</Text>
       <PageNumber>5625</PageNumber>
     </MainItem>
   </ItemGroup>

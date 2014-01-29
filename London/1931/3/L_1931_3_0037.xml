@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Few</Key>
-      <Text>. L. M</Text>
+      <Text>L. M</Text>
       <PageNumber>5402</PageNumber>
       <PageNumber>5555</PageNumber>
     </MainItem>
@@ -372,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gifford</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodhart</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grandy</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>. E. P</Text>
+      <Text>E. P</Text>
       <PageNumber>6239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>, Y&gt;. S</Text>
+      <Forenames>Y</Forenames>
+      <Text>&gt;. S</Text>
       <PageNumber>6109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -949,7 +950,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T,. L</Text>
+      <Forenames>T</Forenames>
+      <Text>,. L</Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>,, E. S. ... ....-</Text>
+      <Text>, E. S. ... ....-</Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1918,7 +1920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>. D. W</Text>
+      <Text>D. W</Text>
       <PageNumber>4944</PageNumber>
       <PageNumber>4944</PageNumber>
     </MainItem>

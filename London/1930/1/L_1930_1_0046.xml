@@ -660,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtis</Key>
-      <Text>T,</Text>
+      <Forenames>T</Forenames>
+      <Text>,</Text>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craik</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewsbury</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Esmonde</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1069,7 +1070,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Feather</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1194,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Text>F, D. D</Text>
+      <Forenames>F</Forenames>
+      <Text>, D. D</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodall</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1800,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Roderick</Forenames>
+      <Title>Roderick .</Title>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>

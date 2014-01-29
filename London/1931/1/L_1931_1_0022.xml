@@ -223,8 +223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolitho</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Hoblyn Warren, D.S.O., Sheriff of Cornwall</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Hoblyn Warren</Forenames>
+      <Text>, D.S.O., Sheriff of Cornwall</Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,9 +259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Title>Reg.</Title>
-      <Forenames>Qrt</Forenames>
-      <Text>.-Serg. James Valentine, Member, Order of the British Empire</Text>
+      <Title>Reg. Qrt.</Title>
+      <Text>-Serg. James Valentine, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,9 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Title>Warrnt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., Class II, Comp. Serg.-Maj. David, D.O.M., Member, 'Order of the British Empire</Text>
+      <Title>Warrnt. Off.</Title>
+      <Text>, Class II, Comp. Serg.-Maj. David, D.O.M., Member, 'Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,8 +371,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brennand</Key>
-      <Forenames>Surg</Forenames>
-      <Text>.-Com. Henry John Wolverton, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Surg.</Title>
+      <Text>-Com. Henry John Wolverton, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>

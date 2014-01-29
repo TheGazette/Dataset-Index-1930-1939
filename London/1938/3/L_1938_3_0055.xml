@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>H, j</Text>
+      <Forenames>H</Forenames>
+      <Text>, j</Text>
       <PageNumber>4817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +144,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>J; A</Text>
+      <Forenames>J</Forenames>
+      <Text>; A</Text>
       <PageNumber>4538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,8 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stair</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of</Text>
       <PageNumber>5294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +664,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J; B</Text>
+      <Forenames>J</Forenames>
+      <Text>; B</Text>
       <PageNumber>4538</PageNumber>
       <PageNumber>5121</PageNumber>
     </MainItem>
@@ -738,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey</Key>
-      <Text>G. G</Text>
+      <Text>. G. G</Text>
       <PageNumber>5293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1298,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd-White</Key>
-      <Text>R. N</Text>
+      <Text>. R. N</Text>
       <PageNumber>4682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veevers-Carter</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1950,7 +1953,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>R: H</Text>
+      <Forenames>R</Forenames>
+      <Text>: H</Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,7 +1990,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheller</Key>
-      <Text>E! F. P</Text>
+      <Forenames>E</Forenames>
+      <Text>! F. P</Text>
       <PageNumber>4681</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -755,7 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildt</Key>
-      <Text>J. H</Text>
+      <Text>. J. H</Text>
       <PageNumber>1571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>16</PageNumber>
     </MainItem>
     <SubItem>
@@ -1178,7 +1178,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>J, M</Text>
+      <Forenames>J</Forenames>
+      <Text>, M</Text>
       <PageNumber>792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1197,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R 10S</Text>
+      <Forenames>R</Forenames>
+      <Text>10S</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worrall</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wycherley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,7 +1742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Text>G, F</Text>
+      <Forenames>G</Forenames>
+      <Text>, F</Text>
       <PageNumber>1497</PageNumber>
     </MainItem>
   </ItemGroup>

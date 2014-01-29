@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaytor</Key>
-      <Text>, JVC</Text>
+      <Text>JVC</Text>
       <PageNumber>6186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q Q_</Text>
+      <Forenames>Q</Forenames>
+      <Text>Q_</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +543,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>K, A</Text>
+      <Forenames>K</Forenames>
+      <Text>, A</Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1187,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colledge</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1751,7 +1753,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cornwall</Key>
-      <Text>, E: F</Text>
+      <Forenames>E</Forenames>
+      <Text>: F</Text>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1760,7 +1763,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F: D</Text>
+      <Forenames>F</Forenames>
+      <Text>: D</Text>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -59,8 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Charles, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Charles, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,16 +210,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Dallas, C.B., D.S.O., Chairman, Cheshire Quarter Sessions</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Dallas</Forenames>
+      <Text>, C.B., D.S.O., Chairman, Cheshire Quarter Sessions</Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wates</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qrmr.) Charles Frederick William, Member, Order of the British Empire</Text>
+      <Title>Lt. (Qrmr.)</Title>
+      <Forenames>Charles Frederick William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wavell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Archibald Percival, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Archibald Percival, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +363,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicks</Key>
-      <Text>Maj. (Qrmr.) Charles Gloucester, Member, Order of the British Empire ... Wignall, Mary, Mrs., Member, Order of the British Empire</Text>
+      <Title>Maj. (Qrmr.)</Title>
+      <Forenames>Charles Gloucester</Forenames>
+      <Text>, Member, Order of the British Empire ... Wignall, Mary, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,8 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Symes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Alfred Leslie, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Alfred Leslie, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,8 +101,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. General Maurice . Grove, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>General Maurice . Grove, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,8 +119,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tebbs</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qrmr.) Frank, D:C.M., Member, Order of the British Empire</Text>
+      <Title>Lt. (Qrmr.)</Title>
+      <Forenames>Frank</Forenames>
+      <Text>, D:C.M., Member, Order of the British Empire</Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +176,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H:E. Sir Thomas Shenton Whitelegge, G.C.M.G., O.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Forenames>H</Forenames>
+      <Text>:E. Sir Thomas Shenton Whitelegge, G.C.M.G., O.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +204,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Mrs.' Elizabeth, Serving Sister, Order of St. . John of Jerusalem</Text>
+      <Title>Mrs.</Title>
+      <Text>' Elizabeth, Serving Sister, Order of St. . John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +339,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tozer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.rCol. &amp; Bt. Col. William, T.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>rCol. &amp; Bt. Col. William, T.D., Commander, Order of the British Empire</Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +362,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tykiss</Key>
-      <Text>Capt. (Qrmr.) Simon Member, Order of the British Empire ... Tyler, Miss Harriet Jane, Member, Order of the British Empire Tyler-Smith, Harold Augustus A.M.I.C.E., A.M.I.M.E., Nominated Official Member of the Legislative Council of the Colony of Trindad and Tobago Tyndale, Arthur Carrington, Officer, Order of the British Empire Twiss, Maj-Gen. William Louis Oberkirch, C.B., C.B.E., M.C., Knight Commander, Order of the Indian Empire U Paw Tun, Knight ... ... Upjohn, Clive Henry Critchett, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Capt. (Qrmr.)</Title>
+      <Forenames>Simon Member</Forenames>
+      <Text>, Order of the British Empire ... Tyler, Miss Harriet Jane, Member, Order of the British Empire Tyler-Smith, Harold Augustus A.M.I.C.E., A.M.I.M.E., Nominated Official Member of the Legislative Council of the Colony of Trindad and Tobago Tyndale, Arthur Carrington, Officer, Order of the British Empire Twiss, Maj-Gen. William Louis Oberkirch, C.B., C.B.E., M.C., Knight Commander, Order of the Indian Empire U Paw Tun, Knight ... ... Upjohn, Clive Henry Critchett, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,8 +445,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>... Hon. William Nicholas Somers Laurence Hyde, Officer, Order of' St. John of Jerusalem</Text>
+      <Title>The .</Title>
+      <Text>.. Hon. William Nicholas Somers Laurence Hyde, Officer, Order of' St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,9 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Off</Forenames>
-      <Text>., CI. II (Foreman of Signals, Q.M.S.) Alfred Russell, Member, Order of the British Empire</Text>
+      <Title>Warrt. Off.</Title>
+      <Text>, CI. II (Foreman of Signals, Q.M.S.) Alfred Russell, Member, Order of the British Empire</Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>

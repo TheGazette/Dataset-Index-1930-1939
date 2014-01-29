@@ -226,7 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Girdwood</Key>
-      <Text>Maj .-Gen. Eric Stanley, C.B C.M.G., Knight Commander, ___ ___ Order of the British Empire</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Eric Stanley, C.B C.M.G., Knight Commander, ___ ___ Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,8 +242,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Girouard</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Rene Arthur de la Bruere, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Rene Arthur</Forenames>
+      <Text>de la Bruere, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>H.R.H. the Duke of, K.G., P.C., K.T., K.P., G.O.V.O., A.D.O., Knight Grand Orjoss, Order of Saint Michael and St. George</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, K.G., P.C., K.T., K.P., G.O.V.O., A.D.O., Knight Grand Orjoss, Order of Saint Michael and St. George</Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goschen</Key>
-      <Text>Maj .-Gen. Arthur Alec, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. Arthur Alec, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>

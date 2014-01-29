@@ -154,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>D; N</Text>
+      <Forenames>D</Forenames>
+      <Text>; N</Text>
       <PageNumber>370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolston</Key>
-      <Text>A, 0</Text>
+      <Forenames>A</Forenames>
+      <Text>, 0</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,8 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Salisbury</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +621,8 @@
       <Key>
         <KeyDitto>-— ___</KeyDitto>
       </Key>
-      <Text>C H. K</Text>
+      <Forenames>C</Forenames>
+      <Text>H. K</Text>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +769,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sowerby</Key>
-      <Text>H:</Text>
+      <Forenames>H</Forenames>
+      <Text>:</Text>
       <PageNumber>445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +952,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stott</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutcliffe</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1068,7 +1072,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tallents</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tetley</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>370</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,7 +1626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>C F. D</Text>
+      <Forenames>C</Forenames>
+      <Text>F. D</Text>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1638,7 +1643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watee</Key>
-      <Text>C F. W</Text>
+      <Forenames>C</Forenames>
+      <Text>F. W</Text>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,7 +1821,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Claude</Forenames>
+      <Title>Claude .</Title>
       <PageNumber>1179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1840,7 +1846,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White-Thomson</Key>
-      <Text>C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>

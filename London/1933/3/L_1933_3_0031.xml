@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gowlland</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sarsfield-Hall</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McConnell</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,14 +307,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, 8. T</Text>
+      <Text>8. T</Text>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pepperell</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunn</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>4554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwinner</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,7 +811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medland</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,14 +825,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shuker</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5045</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Twine</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
-      <Text>,..F. F</Text>
+      <Text>..F. F</Text>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelburn</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>6013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>, 8. G</Text>
+      <Text>8. G</Text>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garden</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4719</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -95,9 +95,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Title>Wrnt. Off.</Title>
-      <Forenames>Qm</Forenames>
-      <Text>.Sgt. Saddler Joseph Eric, Member Order of the British Empire</Text>
+      <Title>Wrnt. Off. Qm.</Title>
+      <Text>Sgt. Saddler Joseph Eric, Member Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +379,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Anson, Equerry to Prince Arthur of Connaught</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Anson</Forenames>
+      <Text>, Equerry to Prince Arthur of Connaught</Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +662,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alvin McPhee, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alvin</Forenames>
+      <Text>McPhee, M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>

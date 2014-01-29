@@ -56,7 +56,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,14 +414,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1901</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Drudge</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsmie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everidge</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -831,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>2080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +845,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Text>, C E. N</Text>
+      <Forenames>C</Forenames>
+      <Text>E. N</Text>
       <PageNumber>1563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +874,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halfhide</Key>
-      <Text>, C iW</Text>
+      <Forenames>C</Forenames>
+      <Text>iW</Text>
       <PageNumber>1062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones-Bateman</Key>
-      <Text>, LI. C</Text>
+      <Text>LI. C</Text>
       <PageNumber>1386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitley</Key>
-      <Text>,' R. W. G</Text>
+      <Text>' R. W. G</Text>
       <PageNumber>737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1396,7 +1398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>, C B</Text>
+      <Forenames>C</Forenames>
+      <Text>B</Text>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>

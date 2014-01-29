@@ -618,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevn</Key>
-      <Text>, TH</Text>
+      <Text>TH</Text>
       <PageNumber>4769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +686,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +695,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stringer</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4580</PageNumber>
       <PageNumber>6353</PageNumber>
     </MainItem>
@@ -1057,7 +1057,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1102,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tapley</Key>
-      <Text>, S: C</Text>
+      <Forenames>S</Forenames>
+      <Text>: C</Text>
       <PageNumber>4930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1161,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5216</PageNumber>
       <PageNumber>5760</PageNumber>
     </MainItem>
@@ -1277,7 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tedman</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1308,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1784,7 +1785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toll</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>

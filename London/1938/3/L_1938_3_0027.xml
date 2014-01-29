@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garratt</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +85,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gay</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>O</Text>
+      <Forenames>O</Forenames>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5034</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gold</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gourley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4880</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,7 +855,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,7 +952,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4814</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,10 +1797,8 @@
       <PageNumber>5019</PageNumber>
     </MainItem>
     <KeyDitto>___ ...</KeyDitto>
-    <SubCategoryTitle>
-      <Text>R. de B</Text>
-    </SubCategoryTitle>
     <SubItem>
+      <Text>R. de B</Text>
       <PageNumber>5016</PageNumber>
     </SubItem>
   </ItemGroup>

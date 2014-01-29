@@ -119,9 +119,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Wilfrid William Ashley, J.P., D.L., M.P., Baron (Mount Temple of Lee)</Text>
+      <Title>Rt. Hon. Lt.-Col.</Title>
+      <Forenames>Wilfrid William Ashley</Forenames>
+      <Text>, J.P., D.L., M.P., Baron (Mount Temple of Lee)</Text>
       <PageNumber>1</PageNumber>
       <PageNumber>346</PageNumber>
     </MainItem>
@@ -179,7 +179,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Colonel (Temporary Brigadier) Jasper, C.B.E., Companion, Order of the Bath</Text>
+      <Title>Colonel (Temporary Brigadier)</Title>
+      <Forenames>Jasper</Forenames>
+      <Text>, C.B.E., Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bessborough</Key>
-      <Text>, the Countess of. Dame of Grace, Order of St. John of Jerusalem</Text>
+      <Text>the Countess of. Dame of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>

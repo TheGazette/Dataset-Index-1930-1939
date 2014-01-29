@@ -14,8 +14,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Shipwright Lt</Forenames>
-      <Text>. Walter Thomas Ford, Member, Order of the British Empire</Text>
+      <Forenames>Shipwright</Forenames>
+      <Text>Lt. Walter Thomas Ford, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Minghull-Ford</Key>
-      <Forenames>Major-General John Randle Minshull</Forenames>
+      <Title>Major</Title>
+      <Forenames>General John Randle Minshull</Forenames>
       <Text>, D.S.O., M.C.,-Companion, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
@@ -127,8 +128,23 @@
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morris</Key>
+      <Forenames>Thomas</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Morrison</Key>
+      <Title>Lt.</Title>
+      <Forenames>Edwin Allen</Forenames>
+      <Text>, Commander, Order of St. John.of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Morshead</Key>
@@ -286,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Obl. Charles Frederick, T.D., D.L., Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Obl. Charles Frederick, T.D., D.L., Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -305,7 +321,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Onians</Key>
-      <Text>Miss 'Edith Charlotte, Officer, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Text>'Edith Charlotte, Officer, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +382,23 @@
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>St. Michael and St</SubCategoryTitle>
-  <SubCategoryTitle>C.M.G., C.B.E., Knight Commander, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pahang</Key>
+      <Title>His Highness</Title>
+      <Forenames>Abu Baker</Forenames>
+      <Text>ibni almerhum Sultan Abdullah, Sultan of, Companion, Order of St. Michael and St. George;</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Palmer</Key>
+      <Forenames>Herbert Richmond</Forenames>
+      <Text>, C.M.G., C.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -377,8 +409,16 @@
       <PageNumber>300</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <SubCategoryTitle>Brother, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>
+        <KeyDitto>___ ___ ___</KeyDitto>
+      </Key>
+      <Forenames>John George</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Patton</Key>
@@ -404,26 +444,22 @@
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Serving Brother, Order of St. John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Knight . Commander, Order of the Bath ..</SubCategoryTitle>
-  <SubCategoryTitle>Peter Donald, Member, Order of the British Empire ..</SubCategoryTitle>
-  <SubCategoryTitle>Order of St. John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Serving Brother, Order of St. John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Order of the British Empire ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Indian Empire ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Edward, Bt., Officer, Order of St. John of Jerusalem ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Knight Commander, Order of St. Michael and St. George ... ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Phythian-Adams</Key>
-      <Title>Rev. Canon</Title>
-      <Forenames>William John Telia</Forenames>
-      <Text>, D. S.O., M.C., Chaplain to H.M. the King</Text>
+      <Key>Peterson</Key>
+      <Forenames>Maurice Drum-</Forenames>
+      <Text>mond, Companion, Order of St, Michael and St. George Petty, Charles, Member, Order of the British Empire ... ... ... Phibbs, Charles, Officer, Order of St. John of Jerusalem Philip, Charles Lyall, Companion, Order of the Indian Empire ... ... Philippe, Sir Henry Erasmus Edward, Bt., Officer, Order of St. John of Jerusalem ... ... Phillips, Frederick, C.B., Knight Commander, Order of St. Michael and St. George ... ... Phythian-Adams, Rev. Canon William John Telia, D. S.O., M.C., Chaplain to H.M. the King</Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Serving Sister, Order of St. John of Jerusalem .:</SubCategoryTitle>
-  <SubCategoryTitle>Empire . ... ... . ..</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Pickering</Key>
+      <Forenames>Fred</Forenames>
+      <Text>M.B.E., J.P., Officer, Order of the British Empire Pickles, Edward Llewellyn, M.B.E., Officer, Order of the British Empire ... Piggott, Julian Ito, O.B.E., M.C., Commander, Order of the British Empire ... Plincke, Miss Lilian Alice Annie, Member,. Order of the British Empire -. ... Pollard, Miss Anna Albertina Isabel, Member, Ordeir of the British Empire Porter, Sybil Constance, Mrs., Serving Sister, Order of St. John of Jerusalem .:. Postlethwaite, John Rutherfoord Parkin, M.B.E., Commander, Order of the British Empire Potter, Thomas Irwin, Member, Order of the British Empire</Text>
+      <PageNumber>46</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

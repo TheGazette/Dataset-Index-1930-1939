@@ -314,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>,, W. S</Text>
+      <Text>, W. S</Text>
       <PageNumber>7085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shi</Key>
-      <Text>.pman, E ... T-</Text>
+      <Text>pman, E ... T-</Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,7 +923,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickle</Key>
-      <Text>. R. S</Text>
+      <Text>R. S</Text>
       <PageNumber>7764</PageNumber>
       <PageNumber>7764</PageNumber>
     </MainItem>
@@ -1309,7 +1310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>, R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>8460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1897,7 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,14 +1907,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Ames</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Aykroyd</Key>
-      <Text>, H, H</Text>
+      <Forenames>H</Forenames>
+      <Text>, H</Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>

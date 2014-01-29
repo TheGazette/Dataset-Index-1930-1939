@@ -276,7 +276,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickell</Key>
-      <Text>E, F</Text>
+      <Forenames>E</Forenames>
+      <Text>, F</Text>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tora</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>5937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +680,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Waight</Key>
-      <Text>T&gt;. E. F</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. E. F</Text>
       <PageNumber>6213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1114,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,14 +1702,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Clowes</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5938</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1733,7 +1737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4315</PageNumber>
     </MainItem>
   </ItemGroup>

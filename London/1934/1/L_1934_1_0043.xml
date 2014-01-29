@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lupton</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +74,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lysaght</Key>
-      <Text>E, C</Text>
+      <Forenames>E</Forenames>
+      <Text>, C</Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCall</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDermid</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +350,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McPott</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manby</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +473,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W D</Text>
+      <Forenames>W</Forenames>
+      <Text>D</Text>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>F G</Text>
+      <Forenames>F</Forenames>
+      <Text>G</Text>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merthyr</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -783,7 +786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>I, A. M</Text>
+      <Forenames>I</Forenames>
+      <Text>, A. M</Text>
       <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +933,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Duke of Northampton, Marques, s of</Text>
+      <Title>Duke</Title>
+      <Text>of Northampton, Marques, s of</Text>
       <PageNumber>1427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1445,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P, C</Text>
+      <Forenames>P</Forenames>
+      <Text>, C</Text>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +1572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridley</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>1778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1763,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J| g</Text>
+      <Forenames>J</Forenames>
+      <Text>| g</Text>
       <PageNumber>1947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1901,7 +1908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Gilbert</Forenames>
+      <Title>Gilbert .</Title>
       <PageNumber>610</PageNumber>
     </MainItem>
   </ItemGroup>

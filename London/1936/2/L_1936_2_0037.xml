@@ -19,8 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephenson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Henry Kenyon, D.S.O., V.D., J.P., D.L., LL.D., Baronet</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Henry Kenyon, D.S.O., V.D., J.P., D.L., LL.D., Baronet</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,8 +120,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathearn</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel John Calderwood, C.B.E., M.D., F.R.GS., Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel John Calderwood, C.B.E., M.D., F.R.GS., Knight</Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,8 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturrock</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel and Brevet Colonel Thomas, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel and Brevet Colonel Thomas, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,8 +213,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel and (Brevet Colonel Keith, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel and (Brevet Colonel Keith, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomlinson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel William, J.P., D.L., Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel William, J.P., D.L., Knight</Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,8 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Townend</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Robert Douglas Greaves, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Robert Douglas Greaves, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Usumanu</Key>
-      <Text>Emir of Gwandu, Honorary Commander, Order of the British Empire</Text>
+      <Title>Emir</Title>
+      <Text>of Gwandu, Honorary Commander, Order of the British Empire</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>

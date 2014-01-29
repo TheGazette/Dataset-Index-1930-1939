@@ -1,5 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="024" pageID="https://www.thegazette.co.uk/id/London/index/year/1936/volume/4/page/024" pagePDF="https://www.thegazette.co.uk/London/index/year/1936/volume/4/page/024" pageRDF="https://www.thegazette.co.uk/London/index/year/1936/volume/4/page/024?view=linked-data" type="index" volume="4" year="1936">
+  <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
+  <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
@@ -7,30 +9,27 @@
       <Text>, Member, Herring Industry Board 6271 Mackilligin, Robert Springett, O.B.E., M.C., Nominated Official Member, Legislative Council, Trinidad and Tobago</Text>
       <PageNumber>7345</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Neale</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel W. G., OLE., Member, Coronation Executive Committee 8366 Norfolk, Duke of : Member, Coronation Claims Committee ... §</Text>
-      <PageNumber>185</PageNumber>
-    </MainItem>
+    <CategoryTitle>Claims Committee ... §185</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
     </SubItem>
   </ItemGroup>
+  <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Nugent</Key>
-      <Text>, Lieut.-Colonel T. E. G., M.V.O., M.C., Member, Coronation Executive Committee</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel T. E. G., M.V.O., M.C., Member, Coronation Executive Committee</Text>
       <PageNumber>6606</PageNumber>
       <PageNumber>8366</PageNumber>
     </MainItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
     </SubItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -60,13 +59,7 @@
       <Text>, D.S.O., A.F.C., Companion, Order of the Bath</Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Portland</Key>
-      <Text>, Duke of, K.G., G.C.V.O. : Member, Coronation . Claims Committee</Text>
-      <PageNumber>8185</PageNumber>
-    </MainItem>
+    <CategoryTitle>. Claims Committee ... 8185</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -139,14 +132,7 @@
       <Text>, K.B.E., O.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiarpr at Durazzo</Text>
       <PageNumber>6607</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>Salisbury</Key>
-      <Forenames>Most</Forenames>
-      <Text>Hon. the Marquess of, K.G., G.C.V.O., C.B.: Member, Coronation Claims Committee</Text>
-      <PageNumber>8185</PageNumber>
-    </MainItem>
+    <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -193,10 +179,12 @@
       <Text>, C:M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to His Imperial Majesty the Shahinshah of Iran</Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
     </SubItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee ... '</Text>
       <PageNumber>8187</PageNumber>
@@ -226,10 +214,11 @@
       <PageNumber>6271</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>, . Neil Stuart, Official Member, Legislative Council of British Honduras</Text>
+      <Text>. Neil Stuart, Official Member, Legislative Council of British Honduras</Text>
       <PageNumber>8120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +257,11 @@
     </MainItem>
     <SubItem>
       <Text>Member, Coronation Claims Committee</Text>
-      <PageNumber>8185</PageNumber>
+      <CategoryTitle>
+        <PageNumber>8185</PageNumber>
+      </CategoryTitle>
     </SubItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -283,6 +275,7 @@
       <Text>, Distinguished Service Order</Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -347,6 +340,7 @@
       <Text>, D.L., LL.D., F.R.S.E., J.P., Chairman, Herring Industry Board</Text>
       <PageNumber>6271</PageNumber>
     </MainItem>
+    <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
     <SubItem>
       <Text>Member, Coronation Committee</Text>
       <PageNumber>8187</PageNumber>
@@ -384,8 +378,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Squad</Forenames>
-      <Text>.-Leader John Allan Cecil, A.F.C., T.D., Member of Parliament for Erdington</Text>
+      <Title>Squad.</Title>
+      <Text>-Leader John Allan Cecil, A.F.C., T.D., Member of Parliament for Erdington</Text>
       <PageNumber>6760</PageNumber>
     </MainItem>
   </ItemGroup>

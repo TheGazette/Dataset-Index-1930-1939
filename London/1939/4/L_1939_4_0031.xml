@@ -77,7 +77,7 @@
       <Key>
         <KeyDitto>___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Graham</Forenames>
+      <Title>Graham .</Title>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +86,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Geoffrey</Forenames>
+      <Title>Geoffrey .</Title>
       <PageNumber>7113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8024</PageNumber>
       <PageNumber>8089</PageNumber>
     </MainItem>
@@ -276,7 +276,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6778</PageNumber>
       <PageNumber>7394</PageNumber>
     </MainItem>
@@ -366,7 +366,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7114</PageNumber>
       <PageNumber>8092</PageNumber>
     </MainItem>
@@ -667,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chalkley</Key>
-      <Text>R -</Text>
+      <Forenames>R</Forenames>
+      <Text>-</Text>
       <PageNumber>8534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,8 +816,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Channan</Key>
-      <Forenames>Khan</Forenames>
-      <Text>... —</Text>
+      <Title>Khan .</Title>
+      <Text>.. —</Text>
       <PageNumber>7396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1525,7 +1526,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>8574</PageNumber>
     </MainItem>
   </ItemGroup>

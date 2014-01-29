@@ -123,8 +123,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Boyle, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Boyle</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>Maj. the Rt. Hon. Alexander Henry Louis, C.B., C.V.O., M.C.: Knight Commander, Order of the Bath</Text>
+      <Title>Maj.</Title>
+      <Text>the Rt. Hon. Alexander Henry Louis, C.B., C.V.O., M.C.: Knight Commander, Order of the Bath</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
     <SubItem>
@@ -223,8 +225,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
-      <Text>.. Edmund, Member of Parliament for ..English Universities</Text>
+      <Title>Thomas.</Title>
+      <Text>. Edmund, Member of Parliament for ..English Universities</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>

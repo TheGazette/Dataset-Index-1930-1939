@@ -166,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>Prof. Henry, O.B.E., Officer, Order of St. John of Jerusalem '</Text>
+      <Text>. Prof. Henry, O.B.E., Officer, Order of St. John of Jerusalem '</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>Lt.-Col. Frank, D.S.O., M:C, Serving Brother, Order of St. John of .Jerusalem .-</Text>
+      <Text>. Lt.-Col. Frank, D.S.O., M:C, Serving Brother, Order of St. John of .Jerusalem .-</Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,8 +320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryant</Key>
-      <Forenames>Qm</Forenames>
-      <Text>.-Sgt. Percy Henry Bryant, Member, Order of the British Empire</Text>
+      <Title>Qm.</Title>
+      <Text>-Sgt. Percy Henry Bryant, Member, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnell-Nugent</Key>
-      <Text>Col. (temp.; Brig.) Frank Henry, D.S?0., O.B.E., Companion, Order of the Bath</Text>
+      <Title>Col. (temp.; Brig.)</Title>
+      <Forenames>Frank Henry</Forenames>
+      <Text>, D.S?0., O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +522,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) Hector, D.S.O., M.V.O., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Hector</Forenames>
+      <Text>, D.S.O., M.V.O., Companion, Order of the Bath</Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,15 +552,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell-Ross</Key>
-      <Text>Col. (Hon. Brig.) Alan, D.SiO., Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. Brig.)</Title>
+      <Forenames>Alan</Forenames>
+      <Text>, D.SiO., Companion, Order of the Bath</Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cannon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Oscar Anson, M.B., Officer, Order of St. John-of Jerusalem ... '</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Oscar Anson</Forenames>
+      <Text>, M.B., Officer, Order of St. John-of Jerusalem ... '</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +636,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carruthers</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Francis John, Brigadier of the King's Body Guard for Scotland „</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Francis John</Forenames>
+      <Text>, Brigadier of the King's Body Guard for Scotland „</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +679,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cassels</Key>
-      <Forenames>Gen</Forenames>
-      <Text>. Sir Robert Archibald, K.C.B., C.S.I.,D.S.O., Knight Grand Cross, Order of the Bath</Text>
+      <Title>Gen.</Title>
+      <Text>Sir Robert Archibald, K.C.B., C.S.I.,D.S.O., Knight Grand Cross, Order of the Bath</Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>

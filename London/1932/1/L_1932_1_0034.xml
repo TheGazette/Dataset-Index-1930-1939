@@ -612,7 +612,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J C. E</Text>
+      <Forenames>J</Forenames>
+      <Text>C. E</Text>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +710,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillary</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodgart</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollows</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>1298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsfall</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1052</PageNumber>
       <PageNumber>1215</PageNumber>
     </MainItem>
@@ -1075,7 +1076,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>1607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,7 +1586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Limerick</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>2109</PageNumber>
     </MainItem>
   </ItemGroup>

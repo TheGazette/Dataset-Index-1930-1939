@@ -79,7 +79,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jagat</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Khadam</Key>
-      <Forenames>Hussein</Forenames>
+      <Title>Hussein .</Title>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +531,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kildare</Key>
-      <Text>, Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Longstaff</Key>
-      <Text>, fit</Text>
+      <Text>fit</Text>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,7 +1293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGhie</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7088</PageNumber>
       <PageNumber>7088</PageNumber>
     </MainItem>
@@ -1581,7 +1582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maghar</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1770,7 +1771,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matheson</Key>
-      <Text>, D ,</Text>
+      <Forenames>D</Forenames>
+      <Text>,</Text>
       <PageNumber>7088</PageNumber>
       <PageNumber>7088</PageNumber>
     </MainItem>
@@ -1794,7 +1796,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>

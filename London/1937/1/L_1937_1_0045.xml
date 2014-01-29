@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cripps</Key>
-      <Text>A. T. H</Text>
+      <Text>. A. T. H</Text>
       <PageNumber>622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cruddas</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>83</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalziel</Key>
-      <Text>L: A. G</Text>
+      <Forenames>L</Forenames>
+      <Text>: A. G</Text>
       <PageNumber>1749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darroch</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1089,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G E</Text>
+      <Forenames>G</Forenames>
+      <Text>E</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Else</Key>
-      <Text>F. H</Text>
+      <Text>. F. H</Text>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>Maj.-Gen. the Rt. Hon. Sir Frederick Hugh, G.C.I.E., G.B.E., C.M.G., K.C.B</Text>
+      <Title>Maj.-Gen.</Title>
+      <Text>the Rt. Hon. Sir Frederick Hugh, G.C.I.E., G.B.E., C.M.G., K.C.B</Text>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,8 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Cdr</Forenames>
-      <Text>. .Geoffrey David, R.N:, Officer, Order of the British Empire</Text>
+      <Title>Cdr.</Title>
+      <Text>.Geoffrey David, R.N:, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +181,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson-Glover</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John William, C.B.E., H.M. Consul-General at Kashgar</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John William</Forenames>
+      <Text>, C.B.E., H.M. Consul-General at Kashgar</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tower</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Cyril Francis, R.N., Member, 4th Class, Royal Victorian Order ... Train, Joseph Wilfred, Officer, Order of the British Empire Travers, Arthur Richard, J.P., Member, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Cyril Francis, R.N., Member, 4th Class, Royal Victorian Order ... Train, Joseph Wilfred, Officer, Order of the British Empire Travers, Arthur Richard, J.P., Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +330,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Richard Lionel, Member of Parliament for Cambridge Borough</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Richard Lionel, Member of Parliament for Cambridge Borough</Text>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,8 +454,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetton</Key>
-      <Forenames>Mnj</Forenames>
-      <Text>. (Commissary) John Lewis, Officer, Order of the British Empire ... Wheeler, Harold Bertie, Nominated Unofficial Member of the Legislative Council of Nigeria</Text>
+      <Title>Mnj. (Commissary)</Title>
+      <Forenames>John Lewis</Forenames>
+      <Text>, Officer, Order of the British Empire ... Wheeler, Harold Bertie, Nominated Unofficial Member of the Legislative Council of Nigeria</Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>

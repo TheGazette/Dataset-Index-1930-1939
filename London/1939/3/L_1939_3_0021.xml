@@ -155,7 +155,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddell</Key>
-      <Text>, Lieut.-General Sir Clive Gerard, K.C.B., C.M.G., CB.E., D.S.O., Governor and Commander-... in-Chief of the . City and Garrison of Gibraltar</Text>
+      <Title>Lieut.</Title>
+      <Text>-General Sir Clive Gerard, K.C.B., C.M.G., CB.E., D.S.O., Governor and Commander-... in-Chief of the . City and Garrison of Gibraltar</Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,8 +226,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGregor</Key>
-      <Forenames>Sqdn</Forenames>
-      <Text>.-Ldr. Hector Douglas, Distinguished Service Order</Text>
+      <Title>Sqdn.</Title>
+      <Text>-Ldr. Hector Douglas, Distinguished Service Order</Text>
       <PageNumber>6285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +293,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert Edmund, C.M.G., Knighted</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert Edmund</Forenames>
+      <Text>, C.M.G., Knighted</Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merriman</Key>
-      <Text>, the Rt. Hon. Sir Frank Boyd, Kt., O.B.E., Commissioner for the care and custody of the Great Seal during absence of the Lord High Chancellor</Text>
+      <Text>the Rt. Hon. Sir Frank Boyd, Kt., O.B.E., Commissioner for the care and custody of the Great Seal during absence of the Lord High Chancellor</Text>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>, the Rt. Hon. Richard William Alan, Earl of, G.B.E., Commissioner for the care and custody of the Great Seal during absence . of the Lord High Chancellor</Text>
+      <Text>the Rt. Hon. Richard William Alan, Earl of, G.B.E., Commissioner for the care and custody of the Great Seal during absence . of the Lord High Chancellor</Text>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rice</Key>
-      <Text>, Lieut.-Colonel S. M., C. I.E., C.B.E., Commissioner, Indian Military Service Family Pension Fund</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel S. M., C. I.E., C.B.E., Commissioner, Indian Military Service Family Pension Fund</Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +515,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Royds</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edmund, O.B.E., Knighted</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edmund</Forenames>
+      <Text>, O.B.E., Knighted</Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>

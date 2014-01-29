@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camp</Key>
-      <Text>, ii. J</Text>
+      <Text>ii. J</Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,15 +233,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Carew</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carisbrooke</Key>
-      <Forenames>Marq</Forenames>
-      <Text>. of</Text>
+      <Title>Marq.</Title>
+      <Text>of</Text>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cave-Bigley</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8435</PageNumber>
       <PageNumber>8437</PageNumber>
     </MainItem>
@@ -604,7 +604,6 @@
   <ItemGroup>
     <MainItem>
       <Key>Compton-Bracebridge</Key>
-      <Text>,</Text>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotter</Key>
-      <Text>, iW. H. E</Text>
+      <Text>iW. H. E</Text>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +954,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E P</Text>
+      <Forenames>E</Forenames>
+      <Text>P</Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dearden</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,7 +1134,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dening</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickins</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Divers</Key>
-      <Text>, LI. S. P</Text>
+      <Text>LI. S. P</Text>
       <PageNumber>8122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durtnell</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,7 +1704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fermor-Hesketh</Key>
-      <Forenames>Hon</Forenames>
+      <Title>Hon .</Title>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>

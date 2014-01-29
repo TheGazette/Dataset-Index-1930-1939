@@ -415,7 +415,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stable</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>A. D</Text>
+      <Text>. A. D</Text>
       <PageNumber>2804</PageNumber>
       <PageNumber>2985</PageNumber>
     </MainItem>
@@ -801,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clyde</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,7 +823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dockery</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lobo</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -974,7 +975,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quigley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Revans</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3152</PageNumber>
       <PageNumber>3298</PageNumber>
     </MainItem>
@@ -1025,7 +1026,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saldanha</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1265,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>R, V</Text>
+      <Forenames>R</Forenames>
+      <Text>, V</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1550,7 +1552,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spalding</Key>
-      <Text>R: L</Text>
+      <Forenames>R</Forenames>
+      <Text>: L</Text>
       <PageNumber>3522</PageNumber>
     </MainItem>
   </ItemGroup>

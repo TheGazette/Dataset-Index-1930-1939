@@ -12,7 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>2385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buist</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cormack</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godwin</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,14 +170,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pers</Key>
-      <Text>A.-de-C. to His Majesty The King. York, Air Chief Marshal H.R.H. Albert Frederick Arthur George, Duke of</Text>
+      <Text>. A.-de-C. to His Majesty The King. York, Air Chief Marshal H.R.H. Albert Frederick Arthur George, Duke of</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Addenbrooke</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allerston</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>C T</Text>
+      <Forenames>C</Forenames>
+      <Text>T</Text>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Arnold</Key>
-      <Text>R, G. C</Text>
+      <Forenames>R</Forenames>
+      <Text>, G. C</Text>
       <PageNumber>2560</PageNumber>
       <PageNumber>3525</PageNumber>
     </MainItem>
@@ -507,7 +509,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2561</PageNumber>
       <PageNumber>2899</PageNumber>
     </MainItem>
@@ -736,7 +738,7 @@
       <Key>
         <KeyDitto>___ —___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>2561</PageNumber>
       <PageNumber>2899</PageNumber>
     </MainItem>
@@ -800,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckett</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +873,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>4020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,7 +1291,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>2458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burdick</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,7 +1391,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>2457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,14 +1400,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Byron</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1482,7 +1485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Capel-Cure</Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>2561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,7 +1670,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleland</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>

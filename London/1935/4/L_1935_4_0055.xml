@@ -269,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGlynn</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spensley</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, ,G</Text>
+      <Text>,G</Text>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tisdall</Key>
-      <Text>,' A.' M. '</Text>
+      <Text>' A.' M. '</Text>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,6 @@
       <PageNumber>8357</PageNumber>
     </SubItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abrams</Key>

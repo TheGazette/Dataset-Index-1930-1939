@@ -180,7 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehead</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +409,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -590,7 +590,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +640,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6203</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,12 +715,12 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SectionTitle>Service</SectionTitle>
-    <CategoryTitle>Giles, P. ... 7355 ADVERTISEMENTS</CategoryTitle>
     <SubItem>
       <Text>Ackitz, Sydney George, change ___ ___ ___ of name by deed poll to S. G. Hackett</Text>
       <PageNumber>7237</PageNumber>
     </SubItem>
   </ItemGroup>
+  <CategoryTitle>LIEUTENANCES OF COUNTIES. change of name by deed</CategoryTitle>
   <SectionTitle>Lieutenants</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -737,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>, Brig.-General Sir Anderson and Co. (Ware), Norman Archibald Orr notice</Text>
+      <Title>Brig.</Title>
+      <Text>-General Sir Anderson and Co. (Ware), Norman Archibald Orr notice</Text>
       <PageNumber>7753</PageNumber>
     </MainItem>
   </ItemGroup>

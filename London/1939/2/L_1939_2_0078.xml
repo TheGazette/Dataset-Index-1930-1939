@@ -356,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prabh</Key>
-      <Forenames>Dial</Forenames>
+      <Title>Dial .</Title>
       <PageNumber>3899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +625,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>,. C. L. L</Text>
+      <Text>. C. L. L</Text>
       <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,7 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +810,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>2666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Forenames>Akram</Forenames>
+      <Title>Akram .</Title>
       <PageNumber>4456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumptre</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1357,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Colvin</Key>
-      <Text>, Sir R, M</Text>
+      <Title>Sir</Title>
+      <Forenames>R</Forenames>
+      <Text>, M</Text>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, H.R.H. the Duke of</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1394,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2917</PageNumber>
     </MainItem>
   </ItemGroup>

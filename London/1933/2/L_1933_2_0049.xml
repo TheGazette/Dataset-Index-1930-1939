@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>A. M</Text>
+      <Text>. A. M</Text>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halley</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +514,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>E, C</Text>
+      <Forenames>E</Forenames>
+      <Text>, C</Text>
       <PageNumber>2768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>G. K</Text>
+      <Text>. G. K</Text>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,7 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>T). A. ... ..:</Text>
+      <Forenames>T</Forenames>
+      <Text>). A. ... ..:</Text>
       <PageNumber>3467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>G. F</Text>
+      <Text>. G. F</Text>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1768,7 +1770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Trench</Key>
-      <Text>C F. le P</Text>
+      <Forenames>C</Forenames>
+      <Text>F. le P</Text>
       <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>

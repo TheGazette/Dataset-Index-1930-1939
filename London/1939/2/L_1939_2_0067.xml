@@ -448,7 +448,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyell</Key>
-      <Text>, A —</Text>
+      <Forenames>A</Forenames>
+      <Text>—</Text>
       <PageNumber>3785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDowall</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,14 +989,14 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Machan</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackay</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKechnie</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,7 +1452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeill</Key>
-      <Text>. L</Text>
+      <Text>L</Text>
       <PageNumber>3553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1705,7 +1706,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H —</Text>
+      <Forenames>H</Forenames>
+      <Text>—</Text>
       <PageNumber>3193</PageNumber>
     </MainItem>
   </ItemGroup>

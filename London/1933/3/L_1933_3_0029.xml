@@ -107,7 +107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Challen</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,14 +214,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalip</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalla</Key>
-      <Forenames>Rawat</Forenames>
+      <Title>Rawat .</Title>
       <PageNumber>4557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fateh</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fazal</Key>
-      <Forenames>Ahmed</Forenames>
+      <Title>Ahmed .</Title>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harkaraj</Key>
-      <Forenames>Rai</Forenames>
+      <Title>Rai .</Title>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hullock</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenworthy</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Khuda</Key>
-      <Forenames>Bakhsh</Forenames>
+      <Title>Bakhsh .</Title>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Letts</Key>
-      <Text>, IF. C</Text>
+      <Text>IF. C</Text>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,7 +1273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffatt</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1375,7 +1375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Narayan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,7 +1460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parmodh</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,7 +1510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitha</Key>
-      <Forenames>Rawat</Forenames>
+      <Title>Rawat .</Title>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,7 +1721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sapuran</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1816,7 +1816,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>

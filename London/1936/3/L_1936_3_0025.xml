@@ -337,7 +337,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haining</Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kemp-Welch</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Topham</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +783,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>R, B. P</Text>
+      <Forenames>R</Forenames>
+      <Text>, B. P</Text>
       <PageNumber>4420</PageNumber>
       <PageNumber>5255</PageNumber>
     </MainItem>
@@ -923,7 +925,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hnrrii</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,7 +1015,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>

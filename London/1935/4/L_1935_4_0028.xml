@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>, the Very Rev. Edward Lowry, M.A., granted the Deanery of the Cathedral Church of Salisbury</Text>
+      <Text>the Very Rev. Edward Lowry, M.A., granted the Deanery of the Cathedral Church of Salisbury</Text>
       <PageNumber>8117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,14 +197,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Abergavennv</Key>
-      <Text>, the Marchioness of, Order of Mercy</Text>
+      <Text>the Marchioness of, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
-      <Text>, Miss, Order of Mercy S</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy S</Text>
       <PageNumber>116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,8 +267,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Agnew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Peter Garnett, M.P. for Camborne</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Peter Garnett, M.P. for Camborne</Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +303,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Sandeman M.C., T.D., M.P. for Birkenhead West</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Sandeman</Forenames>
+      <Text>M.C., T.D., M.P. for Birkenhead West</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,8 +314,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir William James, K.B.E., D.S.O., M.P. for Armagh</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>William James</Forenames>
+      <Text>, K.B.E., D.S.O., M.P. for Armagh</Text>
       <PageNumber>7508</PageNumber>
     </MainItem>
   </ItemGroup>

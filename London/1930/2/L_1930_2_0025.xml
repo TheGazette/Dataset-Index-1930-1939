@@ -239,9 +239,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldfield</Key>
-      <Title>Maj. and Brevet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.Col. Richard William, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Title>Maj. and Brevet Lt.</Title>
+      <Text>Col. Richard William, D.S.O., M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +370,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Warrant Officer, Class II, Staff Quartermr. Sergt. John, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class II, Staff Quartermr. Sergt. John, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>Warrant Officer, Class I, Regimental Sergt. Maj. Albert Edward, Member, Order of the British Empire</Text>
+      <Title>Warrant Officer</Title>
+      <Text>, Class I, Regimental Sergt. Maj. Albert Edward, Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +546,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>Col. (tempy. Brig.) Sydney Buxton, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col. (tempy. Brig.)</Title>
+      <Forenames>Sydney Buxton</Forenames>
+      <Text>, D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,8 +563,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Adrian Sydney Morton, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Adrian Sydney Morton</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +592,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Jackson, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Jack-</Forenames>
+      <Text>son, Companion, Order of the Indian Empire</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulteney</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir William, K. C. B., K. C M. G., K.CV.OD.S.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir William, K. C. B., K. C M. G., K.CV.OD.S.O., Knight Grand Cross, Royal Victorian Order</Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>

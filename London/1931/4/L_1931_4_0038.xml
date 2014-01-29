@@ -30,7 +30,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamp-Adams</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haslam</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +497,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>S, E</Text>
+      <Forenames>S</Forenames>
+      <Text>, E</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkwood</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7584</PageNumber>
       <PageNumber>8164</PageNumber>
     </MainItem>
@@ -946,7 +947,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Q -Q</Text>
+      <Forenames>Q</Forenames>
+      <Text>-Q</Text>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1083,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mactaggart</Key>
-      <Text>C '</Text>
+      <Forenames>C</Forenames>
+      <Text>'</Text>
       <PageNumber>6395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1382,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>J ,</Text>
+      <Forenames>J</Forenames>
+      <Text>,</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Prosser</Key>
-      <Text>C O. L</Text>
+      <Forenames>C</Forenames>
+      <Text>O. L</Text>
       <PageNumber>7330</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1786,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raw</Key>
-      <Text>C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>6630</PageNumber>
     </MainItem>
   </ItemGroup>

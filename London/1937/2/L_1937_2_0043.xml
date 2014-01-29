@@ -436,7 +436,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Hill, Felix Perceval, Officer, Order of St. John of Jerusalem</Text>
+      <Text>. Hill, Felix Perceval, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,8 +660,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seel</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Ralph Cecil, M.C, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Ralph Cecil</Forenames>
+      <Text>, M.C, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sergison-Brooke</Key>
-      <Text>Maj. -Gen. Bertram Norman, C.B., . C.M.G., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>Maj.</Title>
+      <Text>-Gen. Bertram Norman, C.B., . C.M.G., D.S.O., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>

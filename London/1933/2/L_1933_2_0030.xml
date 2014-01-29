@@ -129,7 +129,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Joyner</Key>
-      <Text>Maj. (Commissary) Harryi M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Harryi</Forenames>
+      <Text>M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kailas</Key>
-      <Text>Narayan. Haksar, Pandit, CLE;, Knight</Text>
+      <Text>. Narayan. Haksar, Pandit, CLE;, Knight</Text>
       <PageNumber>2485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>Nellie, Mrs., A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>. Nellie, Mrs., A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,9 +649,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Title>Wrnt. Off. Coy.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. John, M.C, D.C.M., Member, Order of the British Empire</Text>
+      <Title>Wrnt. Off. Coy. Sgt.</Title>
+      <Text>-Maj. John, M.C, D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,9 +665,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McGerr</Key>
-      <Title>Wrnt. Off. Garr.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. John, Member, Order of the British Empire</Text>
+      <Title>Wrnt. Off. Garr. Sgt.</Title>
+      <Text>-Maj. John, Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>

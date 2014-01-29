@@ -525,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richman</Key>
-      <Text>K: G</Text>
+      <Forenames>K</Forenames>
+      <Text>: G</Text>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rippon</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roborough</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,7 +1291,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1632,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1761,14 +1762,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, Hon. C. M. K, (Master of Sinclair)</Text>
+      <Text>. Clair, Hon. C. M. K, (Master of Sinclair)</Text>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>George, H. E. G</Text>
+      <Text>. George, H. E. G</Text>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>

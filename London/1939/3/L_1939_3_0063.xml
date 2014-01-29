@@ -54,7 +54,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tjibrhely</Key>
-      <Text>, J; B</Text>
+      <Forenames>J</Forenames>
+      <Text>; B</Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +97,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorpe</Key>
-      <Text>, C: N.S</Text>
+      <Forenames>C</Forenames>
+      <Text>: N.S</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurgood</Key>
-      <Text>, HvC. C</Text>
+      <Text>HvC. C</Text>
       <PageNumber>5209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +207,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilby</Key>
-      <Text>,. J. C. G</Text>
+      <Text>. J. C. G</Text>
       <PageNumber>5922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tritton</Key>
-      <Text>,. G. C. F</Text>
+      <Text>. G. C. F</Text>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuff</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1481,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, W. S; ... :</Text>
+      <Forenames>H</Forenames>
+      <Text>, W. S; ... :</Text>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1685,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G: A. ... '</Text>
+      <Forenames>G</Forenames>
+      <Text>: A. ... '</Text>
       <PageNumber>4928</PageNumber>
     </MainItem>
   </ItemGroup>

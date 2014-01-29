@@ -74,7 +74,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tugwell</Key>
-      <Text>, K, S</Text>
+      <Forenames>K</Forenames>
+      <Text>, S</Text>
       <PageNumber>6507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,7 +1047,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westcott</Key>
-      <Text>, TN</Text>
+      <Text>TN</Text>
       <PageNumber>6129</PageNumber>
     </MainItem>
   </ItemGroup>

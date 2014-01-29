@@ -153,14 +153,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mander</Key>
-      <Text>, DA. J. D</Text>
+      <Text>DA. J. D</Text>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manlove</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,21 +204,21 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>. G. H</Text>
+      <Text>G. H</Text>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martyn</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +640,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Murphv</Key>
-      <Text>, E, J</Text>
+      <Forenames>E</Forenames>
+      <Text>, J</Text>
       <PageNumber>4796</PageNumber>
     </MainItem>
   </ItemGroup>

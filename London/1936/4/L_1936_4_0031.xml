@@ -277,7 +277,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +442,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,14 +478,15 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W '</Text>
+      <Forenames>W</Forenames>
+      <Text>'</Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stewart-Cox</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratheden</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudmersen</Key>
-      <Text>,.E. I. M;</Text>
+      <Text>.E. I. M;</Text>
       <PageNumber>7735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton-Pratt</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +916,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Titchfield</Key>
-      <Text>, Marquis of</Text>
+      <Title>Marquis</Title>
+      <Text>of</Text>
       <PageNumber>6909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,7 +1422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whelan</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitaker</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1593,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildy</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1729,7 +1731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,7 +1782,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E W</Text>
+      <Forenames>E</Forenames>
+      <Text>W</Text>
       <PageNumber>8288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,7 +1863,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Worsfold</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>

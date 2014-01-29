@@ -27,7 +27,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bath</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +62,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haynes</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +83,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manley</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullen</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Argles</Key>
-      <Text>L. W. L</Text>
+      <Text>. L. W. L</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridport</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan-Dunlop</Key>
-      <Text>D, K</Text>
+      <Forenames>D</Forenames>
+      <Text>, K</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pasley-Tyler</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>.-John, S. A. G</Text>
+      <Text>..-John, S. A. G</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>S W</Text>
+      <Forenames>S</Forenames>
+      <Text>W</Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,12 +636,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Letherby</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7833</PageNumber>
     </MainItem>
-    <SubSectionTitle>Senior Masters</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Senior Masters</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Senior Masters.</Text>
       <PageNumber>6249</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -677,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyland</Key>
-      <Text>, F. J</Text>
+      <Text>., F. J</Text>
       <PageNumber>6334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +722,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,14 +765,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Balderston</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Connolly</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>

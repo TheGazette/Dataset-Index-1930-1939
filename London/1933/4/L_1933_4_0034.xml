@@ -37,7 +37,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +51,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drink-water</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maud</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>8222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Text>. A. J</Text>
+      <Text>A. J</Text>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeoman</Key>
-      <Text>, T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailv</Key>
-      <Text>. G. L</Text>
+      <Text>G. L</Text>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailey</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>. J. G. B</Text>
+      <Text>J. G. B</Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R, H</Text>
+      <Forenames>R</Forenames>
+      <Text>, H</Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,14 +649,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>. F. T</Text>
+      <Text>F. T</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>. R. P</Text>
+      <Text>R. P</Text>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>,' G. S</Text>
+      <Text>' G. S</Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -753,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpev-Schafer</Key>
-      <Text>. J. M</Text>
+      <Text>J. M</Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,14 +796,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilde</Key>
-      <Text>. J. O. S</Text>
+      <Text>J. O. S</Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilmott</Key>
-      <Text>. H. N. C</Text>
+      <Text>H. N. C</Text>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grove</Key>
-      <Text>. G. M. E</Text>
+      <Text>G. M. E</Text>
       <PageNumber>8125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -902,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scrimshaw</Key>
-      <Text>. O. T</Text>
+      <Text>O. T</Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,10 +929,9 @@
       <Text>(temp.)</Text>
       <PageNumber>8126</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>
-      <Text>Betired List</Text>
-    </SubSubSectionTitle>
+    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
     <SubItem>
+      <Text>Betired List.</Text>
       <PageNumber>8222</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -942,10 +942,9 @@
       <Forenames>W. J</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>
-      <Text>Betired List</Text>
-    </SubSubSectionTitle>
+    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
     <SubItem>
+      <Text>Betired List.</Text>
       <PageNumber>8050</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -971,7 +970,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turgoose</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1020,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,7 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1091,7 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moresby</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rorke</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7126</PageNumber>
     </MainItem>
   </ItemGroup>

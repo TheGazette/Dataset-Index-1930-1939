@@ -97,7 +97,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R' L</Text>
+      <Forenames>R</Forenames>
+      <Text>' L</Text>
       <PageNumber>6216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,15 +287,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard Rouse Orlebar</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard Rouse Orlebar</Forenames>
       <PageNumber>5079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Text>Lieut.-Colonel Sir Edward Arthur Barry, Bt</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel Sir Edward Arthur Barry, Bt</Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Text>(cont.): Simonds, Maj. John Hayes... . ..:</Text>
+      <Title>(cont.)</Title>
+      <Text>: Simonds, Maj. John Hayes... . ..:</Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
     <SubItem>
@@ -394,7 +397,7 @@
       <PageNumber>4421</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>' Mitchell, Lt.-Col. Archibald Maclaine, D.S.O., T.D</Text>
+      <Text>' Mitchell, Lt.-Col. Archibald Maclaine, D.S.O., T.D.</Text>
       <PageNumber>4887</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -551,7 +554,6 @@
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abram</Key>

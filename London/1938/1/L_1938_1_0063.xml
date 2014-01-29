@@ -1153,7 +1153,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougall</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>671</PageNumber>
       <PageNumber>672</PageNumber>
     </MainItem>
@@ -1291,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunphy</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>671</PageNumber>
       <PageNumber>672</PageNumber>
     </MainItem>
@@ -1489,7 +1489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Feather</Key>
-      <Text>, C -</Text>
+      <Forenames>C</Forenames>
+      <Text>-</Text>
       <PageNumber>1756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gammack</Key>
-      <Text>, GD. D</Text>
+      <Text>GD. D</Text>
       <PageNumber>519</PageNumber>
     </MainItem>
   </ItemGroup>

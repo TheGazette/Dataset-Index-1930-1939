@@ -144,7 +144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heywood</Key>
-      <Text>, «T. G. G</Text>
+      <Text>«T. G. G</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1103,7 +1103,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1173,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1343,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R S</Text>
+      <Forenames>R</Forenames>
+      <Text>S</Text>
       <PageNumber>6335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allgood</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1479,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G! H.'</Text>
+      <Forenames>G</Forenames>
+      <Text>! H.'</Text>
       <PageNumber>6182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1516,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5482</PageNumber>
       <PageNumber>6495</PageNumber>
     </MainItem>
@@ -1621,7 +1623,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angear</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6409</PageNumber>
     </MainItem>
   </ItemGroup>

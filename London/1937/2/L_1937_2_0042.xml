@@ -28,7 +28,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Place</Key>
-      <Text>Surgeon Capt. (D) James Frederick, L.D.S., Officer, Order of the British Empire -</Text>
+      <Title>Surgeon Capt. (D)</Title>
+      <Forenames>James Frederick</Forenames>
+      <Text>, L.D.S., Officer, Order of the British Empire -</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,9 +128,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II, C.S.M. William Edward Edgar, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>CI. II, C.S.M. William Edward Edgar, Member, Order of the British Empire</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,8 +144,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Edward John William, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Edward John William</Forenames>
+      <Text>, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +271,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) John Hedley Thornton, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>John Hedley Thornton</Forenames>
+      <Text>, D.S.O., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,8 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Cecil, Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Cecil</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,8 +548,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Reilly</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Bernard Rawdon, K.C.M.G., CLE., O.B.E., Governor and Commander-in-Chief, Colony and Protectorate of Aden</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Bernard Rawdon</Forenames>
+      <Text>, K.C.M.G., CLE., O.B.E., Governor and Commander-in-Chief, Colony and Protectorate of Aden</Text>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,8 +624,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rickers</Key>
-      <Forenames>Headmaster Lt</Forenames>
-      <Text>.Comdr. George Herbert Ivor, Member, Order of the British Empire</Text>
+      <Forenames>Headmaster</Forenames>
+      <Text>Lt.Comdr. George Herbert Ivor, Member, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -88,7 +88,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holman</Key>
-      <Text>, K; J</Text>
+      <Forenames>K</Forenames>
+      <Text>; J</Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +462,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R, L</Text>
+      <Forenames>R</Forenames>
+      <Text>, L</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +547,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsfall</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +696,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J, E</Text>
+      <Forenames>J</Forenames>
+      <Text>, E</Text>
       <PageNumber>5116</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -1612,7 +1615,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,7 +1724,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1833,7 +1836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inchiquin</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5207</PageNumber>
     </MainItem>
   </ItemGroup>

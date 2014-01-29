@@ -76,7 +76,15 @@
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>G. C. M. G., M. V. O</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Browning</Key>
+      <Title>Adm. Sir</Title>
+      <Forenames>Mon-</Forenames>
+      <Text>tague Edward, G.C.B., G. C. M. G., M. V. O. Knight Grand Cross, Royal Victorian Order „</Text>
+      <PageNumber>7</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brownlee</Key>
@@ -121,8 +129,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Richard John Charles, Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Richard John Charles</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,8 +179,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Archibald Rice, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Archibald Rice, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,8 +212,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Quarter-Master) Edgar Arthur, Member, Order of the British Empire</Text>
+      <Title>Lt. (Quarter-Master)</Title>
+      <Text>Edgar Arthur, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +263,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cheethain</Key>
-      <Text>Maj. (Commissary) Henry Joseph, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>Henry Joseph</Forenames>
+      <Text>, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +281,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chichele-Plowden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Terence, Companion, Order 'of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Terence</Forenames>
+      <Text>, Companion, Order 'of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +386,14 @@
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Companion, Order of St</SubCategoryTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>Collier</Key>
+      <Forenames>Charles St</Forenames>
+      <Text>. John, Companion, Order of St. Michael and St. George</Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
@@ -412,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>(Ernest George) Stenson, Knight</Text>
+      <Title>(Ernest George)</Title>
+      <Forenames>Sten-</Forenames>
+      <Text>son, Knight</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -444,7 +465,6 @@
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Officer, Order of the British Empire ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -456,24 +476,15 @@
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Council of Fiji ... ..</SubCategoryTitle>
-  <SubCategoryTitle>William Beresford, D.S.O., J.P., D.L., Knight ... ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Member, Order of the British Empire ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Indian Empire ... ..</SubCategoryTitle>
   <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Order of St. John of Jerusalem ... ..</SubCategoryTitle>
-  <KeyDitto>___ ___</KeyDitto>
-  <SubCategoryTitle>Officer, Order of St</SubCategoryTitle>
-  <SubCategoryTitle>. John of Jerusalem ..</SubCategoryTitle>
-  <SubCategoryTitle>Member, Order of the British Empire ... ..</SubCategoryTitle>
-  <SubCategoryTitle>Walter Whitney, M.B., Serving Brother, Order of St. John of Jerusalem..</SubCategoryTitle>
-  <SubCategoryTitle>Rawson Stratford K.C.B., M.V.O., Knight</SubCategoryTitle>
-  <SubCategoryTitle>Commander, Order of St</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Grasse</Forenames>
-      <Text>, . William Bruce Mortimer, Unofficial Member of the Executive Council of Saint Christopher and Nevis ... ... de Lafontaine, Alfred Cart, Officer, Order of St. John of Jerusalem</Text>
+      <Key>
+        <KeyDitto>___ ___</KeyDitto>
+      </Key>
+      <Title>Miss</Title>
+      <Forenames>Mary Elizabeth</Forenames>
+      <Text>, Officer, Order of St. . John of Jerusalem ... Davis, Miss Elizabeth Date, Member, Order of the British Empire ... ... Dawson. Lt.-Col. Frederick Walter Whitney, M.B., Serving Brother, Order of St. John of Jerusalem... Day, John Hanks, Member, Order of the British Empire ... ... ... ... De Chair, Admiral Sir Dudley Rawson Stratford K.C.B., M.V.O., Knight . Commander, Order of St. Michael and St. George De Grasse, . William Bruce Mortimer, Unofficial Member of the Executive Council of Saint Christopher and Nevis ... ... de Lafontaine, Alfred Cart, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>

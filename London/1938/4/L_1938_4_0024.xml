@@ -18,7 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>, A F. :</Text>
+      <Forenames>A</Forenames>
+      <Text>F. :</Text>
       <PageNumber>8177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townsend</Key>
-      <Forenames>Marq</Forenames>
+      <Title>Marq.</Title>
       <PageNumber>6562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +721,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>, j. C</Text>
+      <Text>j. C</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ekins</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkeley-Miller</Key>
-      <Text>, JN</Text>
+      <Text>JN</Text>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1230,7 +1231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bloomer</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8306</PageNumber>
     </MainItem>
   </ItemGroup>

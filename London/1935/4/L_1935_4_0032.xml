@@ -53,7 +53,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>,' George Arthur, .M.P. for Hemsworth</Text>
+      <Text>' George Arthur, .M.P. for Hemsworth</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunston</Key>
-      <Text>, ' Captain Derrick Wellesley, M.P. for Thornbury</Text>
+      <Text>' Captain Derrick Wellesley, M.P. for Thornbury</Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +145,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hacking</Key>
-      <Text>, Captain The Rt. Hon.' Douglas Hewitt, M.P. for Chorley</Text>
+      <Title>Captain The Rt. Hon.</Title>
+      <Text>' Douglas Hewitt, M.P. for Chorley</Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +195,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Lieut. . .Godfrey John, Distinguished Service Order</Text>
+      <Title>Lieut.</Title>
+      <Text>. .Godfrey John, Distinguished Service Order</Text>
       <PageNumber>8291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +266,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrap</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>, ' George, M.P. . for Kennington</Text>
+      <Text>' George, M.P. . for Kennington</Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +331,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heilgers</Key>
-      <Text>, Capt. ' Frank Frederick Alexander, M.P. for Bury St. Edmunds</Text>
+      <Title>Capt.</Title>
+      <Text>' Frank Frederick Alexander, M.P. for Bury St. Edmunds</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,14 +399,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Heneage</Key>
-      <Text>, . Arthur Pelham, M.P. for-Louth</Text>
+      <Text>. Arthur Pelham, M.P. for-Louth</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hepworth</Key>
-      <Text>,Joseph, M.P. for .Bradford, East</Text>
+      <Text>Joseph, M.P. for .Bradford, East</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +513,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Rt. Hon. Sir Samuel John Gurney, Bart., G.C.S.I., G.B.E., C. M.G., M.P. for Chelsea</Text>
+      <Title>Lt.-Col. The Rt. Hon. Sir</Title>
+      <Forenames>Samuel John Gurney</Forenames>
+      <Text>, Bart., G.C.S.I., G.B.E., C. M.G., M.P. for Chelsea</Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooker</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +608,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Text>, The Rt. Hon. . Sir Robert Stevenson, G.B.E., K.C.; M.P. for Hillhead</Text>
+      <Title>The Rt. Hon.</Title>
+      <Text>. Sir Robert Stevenson, G.B.E., K.C.; M.P. for Hillhead</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Text>,' Thomas, M.P.' for Perth</Text>
+      <Text>' Thomas, M.P.' for Perth</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>

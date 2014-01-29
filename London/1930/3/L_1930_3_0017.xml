@@ -474,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuff</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piatt</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -948,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,7 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holness</Key>
-      <Text>, U, J</Text>
+      <Forenames>U</Forenames>
+      <Text>, J</Text>
       <PageNumber>5574</PageNumber>
     </MainItem>
   </ItemGroup>

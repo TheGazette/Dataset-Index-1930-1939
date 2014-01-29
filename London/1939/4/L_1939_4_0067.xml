@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merthyr</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +335,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>8313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunburnholme</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Papillon</Key>
-      <Text>I). P</Text>
+      <Forenames>I</Forenames>
+      <Text>). P</Text>
       <PageNumber>6856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,7 +1605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piek</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>8584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plew</Key>
-      <Text>F Pleydell Bouverie, Hon. P</Text>
+      <Forenames>F</Forenames>
+      <Text>Pleydell Bouverie, Hon. P</Text>
       <PageNumber>8246</PageNumber>
     </MainItem>
   </ItemGroup>

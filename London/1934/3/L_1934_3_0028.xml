@@ -174,7 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newby</Key>
-      <Text>E, H</Text>
+      <Forenames>E</Forenames>
+      <Text>, H</Text>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noll</Key>
-      <Text>M. G</Text>
+      <Text>. M. G</Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rule</Key>
-      <Text>R, V</Text>
+      <Forenames>R</Forenames>
+      <Text>, V</Text>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,7 +1034,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R, D</Text>
+      <Forenames>R</Forenames>
+      <Text>, D</Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,14 +1058,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Barbe, G. F</Text>
+      <Text>. Barbe, G. F</Text>
       <PageNumber>5906</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sandberg</Key>
-      <Text>R, S. T</Text>
+      <Forenames>R</Forenames>
+      <Text>, S. T</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,7 +1094,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>P. F</Text>
+      <Text>. P. F</Text>
       <PageNumber>4436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>A. I</Text>
+      <Text>. A. I</Text>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,14 +1185,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>P. \V</Text>
+      <Text>. P. \V</Text>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shaw-Mackenzie</Key>
-      <Text>C. J</Text>
+      <Text>. C. J</Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheffield</Key>
-      <Text>J</Text>
+      <Text>. J</Text>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>J. C</Text>
+      <Text>. J. C</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1324,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>L). J. r&gt;</Text>
+      <Forenames>L</Forenames>
+      <Text>). J. r&gt;</Text>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,14 +1790,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tredegar</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Treen</Key>
-      <Text>J. P</Text>
+      <Text>. J. P</Text>
       <PageNumber>4742</PageNumber>
       <PageNumber>5265</PageNumber>
     </MainItem>
@@ -1867,7 +1872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Upcott</Key>
-      <Text>R, E</Text>
+      <Forenames>R</Forenames>
+      <Text>, E</Text>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1902,7 +1908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wadsworth</Key>
-      <Text>A. V</Text>
+      <Text>. A. V</Text>
       <PageNumber>4436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1937,7 +1943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>R</Text>
+      <Text>. R</Text>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1951,7 +1957,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waters</Key>
-      <Text>D. B</Text>
+      <Text>. D. B</Text>
       <PageNumber>4232</PageNumber>
     </MainItem>
   </ItemGroup>

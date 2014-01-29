@@ -11,8 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Oscar Ferris, C.B.E., D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Oscar Ferris</Forenames>
+      <Text>, C.B.E., D.S.O., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,8 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wauchope</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir Arthur Grenfell, K.C.B., C.M.G., C.I.E., D.S.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir Arthur Grenfell, K.C.B., C.M.G., C.I.E., D.S.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,8 +71,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qm.) John Stanley, Member, Order of the British Empire</Text>
+      <Title>Lt. (Qm.)</Title>
+      <Forenames>John Stan-</Forenames>
+      <Text>ley, Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,8 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. James Leslie Rose, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>James Leslie Rose</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,8 +304,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Rhys, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Rhys</Forenames>
+      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>Brig. Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
+      <Title>Brig.</Title>
+      <Text>Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,8 +358,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Arnold Talbot, K.C.I.E., C.S.I., O.M.G., D.S.O., MemTier of Parliament for the Hitchin Division of Hertford</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Arnold Talbot</Forenames>
+      <Text>, K.C.I.E., C.S.I., O.M.G., D.S.O., MemTier of Parliament for the Hitchin Division of Hertford</Text>
       <PageNumber>3965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +416,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate-S</Key>
-      <Text>iul, Ernest Wingate, K.C., Knight</Text>
+      <Text>.iul, Ernest Wingate, K.C., Knight</Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +457,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>Ensign P. F:, C.B., K.C., Lieutenant of the King's Body Guard for Scotland</Text>
+      <Text>. Ensign P. F:, C.B., K.C., Lieutenant of the King's Body Guard for Scotland</Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>

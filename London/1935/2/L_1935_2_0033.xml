@@ -90,7 +90,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj/-Gen. . Edward, C.B.,. C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Title>Maj</Title>
+      <Text>/-Gen. . Edward, C.B.,. C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +130,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs.-.*Sarah, Serving Sister, Order of St. ' '. . John of Jerusalem</Text>
+      <Title>Mrs.</Title>
+      <Text>-.*Sarah, Serving Sister, Order of St. ' '. . John of Jerusalem</Text>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,8 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fiddler</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Asst. Commissary) William Henry, . Member,Order of the .. British Empire</Text>
+      <Title>Lt. (Asst. Commissary)</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, . Member,Order of the .. British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,8 +367,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alastair Gordon, M.C., V.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alastair Gordon</Forenames>
+      <Text>, M.C., V.D., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,8 +484,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col::,(now ..Col.) Herbert Cecil, . D.S.O., T.D.,. Officer,' Orderof the . .' . British. Empire ... .,...:&gt;</Text>
+      <Title>Lt.-Col. and Brevet</Title>
+      <Forenames>Col</Forenames>
+      <Text>::,(now ..Col.) Herbert Cecil, . D.S.O., T.D.,. Officer,' Orderof the . .' . British. Empire ... .,...:&gt;</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +542,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Freeman</Key>
-      <Text>Maj. (Commissary) William Elgy, Officer, Order of ;the British .v Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>William Elgy</Forenames>
+      <Text>, Officer, Order of ;the British .v Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +596,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fyers</Key>
-      <Text>Capt. FitzRoy Hubert, 'Member, Royal Victorian Order .-</Text>
+      <Title>Capt.</Title>
+      <Text>FitzRoy Hubert, 'Member, Royal Victorian Order .-</Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +628,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gadie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Anthony, T.D., J.P., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Anthony</Forenames>
+      <Text>, T.D., J.P., Knight</Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>

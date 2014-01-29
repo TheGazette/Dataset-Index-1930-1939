@@ -547,8 +547,6 @@
       <Forenames>G. P. D.</Forenames>
       <PageNumber>864</PageNumber>
     </MainItem>
-    <SubCategoryTitle>Bland, F. D. ..</SubCategoryTitle>
-    <SubCategoryTitle>Blatch, H. E. ..</SubCategoryTitle>
     <SubItem>
       <Text>
         <PageNumber>680</PageNumber>
@@ -638,7 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosanquet</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +826,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J —</Text>
+      <Forenames>J</Forenames>
+      <Text>—</Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +995,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broadbent</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1017,7 +1016,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodrick</Key>
-      <Text>G. S</Text>
+      <Text>.G. S</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1086,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,7 +1176,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J „</Text>
+      <Forenames>J</Forenames>
+      <Text>„</Text>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1479,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>2172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1685,7 +1685,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Hon. G</Text>
+      <Title>Hon.</Title>
+      <Forenames>G</Forenames>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>

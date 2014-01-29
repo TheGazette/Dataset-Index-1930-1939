@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meraj-Ud-</Key>
-      <Forenames>Din</Forenames>
+      <Title>Din .</Title>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +82,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milford</Key>
-      <Text>, R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>6081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +104,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, -A. M</Text>
+      <Text>-A. M</Text>
       <PageNumber>5667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +323,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moysey</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>4477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ormerod</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,14 +680,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Parbury</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5732</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pares</Key>
-      <Text>, 8</Text>
+      <Text>8</Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parrington</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -769,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Patey</Key>
-      <Text>, R, R. L</Text>
+      <Forenames>R</Forenames>
+      <Text>, R. L</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1112,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Raywood</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1443,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V: C</Text>
+      <Forenames>V</Forenames>
+      <Text>: C</Text>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1467,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>T, M. S</Text>
+      <Forenames>T</Forenames>
+      <Text>, M. S</Text>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowland</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>4654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1823,7 +1827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandbach</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6082</PageNumber>
     </MainItem>
   </ItemGroup>

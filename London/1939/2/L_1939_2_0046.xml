@@ -17,7 +17,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, H.R.H. the Duke of</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of</Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +829,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>, N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1131,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Agnew</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>4351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1176,7 +1177,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>K E</Text>
+      <Forenames>K</Forenames>
+      <Text>E</Text>
       <PageNumber>4353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashburton</Key>
-      <Text>, Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>

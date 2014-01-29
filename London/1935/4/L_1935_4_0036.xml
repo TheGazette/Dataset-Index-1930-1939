@@ -12,7 +12,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>, the Lady Majorie, Order of Mercy</Text>
+      <Text>the Lady Majorie, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +161,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,8 +290,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Richard Lionel, M.P. for Cam. bridge</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Richard Lionel, M.P. for Cam. bridge</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twyford</Key>
-      <Text>, ' Harry Edwar.d Augustus, Knight</Text>
+      <Text>' Harry Edwar.d Augustus, Knight</Text>
       <PageNumber>6207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>, . Edward Redston, Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>. Edward Redston, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +513,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wentworth-Brown</Key>
-      <Text>, Mrs., Bar, Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Bar, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,8 +604,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickham</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Thomas Ruscombe, M.V.O., M.P. for Taunton</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Thomas Ruscombe</Forenames>
+      <Text>, M.V.O., M.P. for Taunton</Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>, Col. the Rt. Hon. Clive, Baron, G.C.B., G. C.V:0., C.S.I., Private Secretary to H.M. the King and Keeper of H.M. Privy Purse</Text>
+      <Title>Col.</Title>
+      <Text>the Rt. Hon. Clive, Baron, G.C.B., G. C.V:0., C.S.I., Private Secretary to H.M. the King and Keeper of H.M. Privy Purse</Text>
       <PageNumber>7224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,8 +759,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Arnold Talbot, K.C.I.E., C.S.I.. C.M.G., D.S.O., M.P. for Hitchin</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Arnold Talbot</Forenames>
+      <Text>, K.C.I.E., C.S.I.. C.M.G., D.S.O., M.P. for Hitchin</Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,7 +790,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>

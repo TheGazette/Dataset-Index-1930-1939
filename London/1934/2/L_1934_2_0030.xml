@@ -29,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan-Owen</Key>
-      <Text>Maj.-Oen. Llewellyn Isaac Gethin, C.M.G., C.B.E., D.S.O., Companion, Order of the . Bath</Text>
+      <Title>Maj.</Title>
+      <Text>-Oen. Llewellyn Isaac Gethin, C.M.G., C.B.E., D.S.O., Companion, Order of the . Bath</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>Maj. (QuarterMaster) Frederick Montague Augustus, M.B.E., Officer, Order of the British Empire</Text>
+      <Title>Maj. (QuarterMaster)</Title>
+      <Forenames>Frederick Mon-</Forenames>
+      <Text>tague Augustus, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>Alice Mable, Mrs., J.P., Commander, Order of the British Empire</Text>
+      <Text>. Alice Mable, Mrs., J.P., Commander, Order of the British Empire</Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,8 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullen</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Leslie Miltiades, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Leslie Mil-</Forenames>
+      <Text>tiades, D.S.O., Companion, Order of St. Michael and St. George</Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,8 +135,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Munroe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Hon. Hugh Edwin. O.B.E., V.D., M.D., L.R.C.P.&amp;S. Ed., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. the Hon.</Title>
+      <Forenames>Hugh Edwin</Forenames>
+      <Text>. O.B.E., V.D., M.D., L.R.C.P.&amp;S. Ed., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +206,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Forenames>Cpt</Forenames>
-      <Text>. (Dep. Commissary) . Eugene William, Member, Order of the, British . Empire</Text>
+      <Title>Cpt. (Dep. Commissary)</Title>
+      <Text>. Eugene William, Member, Order of the, British . Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>NormahyoWrrnt</Key>
-      <Text>' Off., Class II, Quart.-Sgta /.Thomas, Member, Order of the British (Empire</Text>
+      <Text>.' Off., Class II, Quart.-Sgta /.Thomas, Member, Order of the British (Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunan</Key>
-      <Text>Maj., William, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Title>Maj.</Title>
+      <Text>, William, M.D., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>Col. the Earl of, O.B.E., P.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>Col.</Title>
+      <Text>the Earl of, O.B.E., P.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,8 +372,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Packe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick Edward, M.V.O., O.B.E., Gentleman Usher in Ordinary to H.M. The King</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick Edward</Forenames>
+      <Text>, M.V.O., O.B.E., Gentleman Usher in Ordinary to H.M. The King</Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +398,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>George. Member, Order of the British Empire</Text>
+      <Text>. George. Member, Order of the British Empire</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>Robert, J.P. D.L., Knight .'</Text>
+      <Text>. Robert, J.P. D.L., Knight .'</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,8 +504,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Quart.) John, Member, Order of the British.Empire</Text>
+      <Title>Lt. (Quart.)</Title>
+      <Forenames>John</Forenames>
+      <Text>, Member, Order of the British.Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,8 +554,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Alfred Steele, Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Alfred Steele</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>

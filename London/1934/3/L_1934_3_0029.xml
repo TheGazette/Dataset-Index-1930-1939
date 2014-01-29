@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whorton</Key>
-      <Text>, A. A</Text>
+      <Text>., A. A</Text>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildt</Key>
-      <Text>J. H</Text>
+      <Text>. J. H</Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountain</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>J. M</Text>
+      <Text>. J. M</Text>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drayson</Key>
-      <Text>Fitz A</Text>
+      <Text>. Fitz A</Text>
       <PageNumber>5527</PageNumber>
       <PageNumber>5527</PageNumber>
     </MainItem>
@@ -629,7 +629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>M</Text>
+      <Text>. M</Text>
       <PageNumber>4343</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -673,7 +673,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Text>K. F</Text>
+      <Text>. K. F</Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Text>W. F</Text>
+      <Text>. W. F</Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>J. S</Text>
+      <Text>. J. S</Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +933,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>B. L</Text>
+      <Text>. B. L</Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,14 +978,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>B. C. T</Text>
+      <Text>. B. C. T</Text>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pocock</Key>
-      <Text>J. G</Text>
+      <Text>. J. G</Text>
       <PageNumber>4342</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1000,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ouinan</Key>
-      <Text>E. P</Text>
+      <Text>. E. P</Text>
       <PageNumber>4342</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1052,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roughton</Key>
-      <Text>F. A. G</Text>
+      <Text>. F. A. G</Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1075,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>G. P</Text>
+      <Text>. G. P</Text>
       <PageNumber>4343</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1141,7 +1141,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>R, F</Text>
+      <Forenames>R</Forenames>
+      <Text>, F</Text>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1197,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ajaib</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Attar</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balwant</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bikram</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6104</PageNumber>
     </MainItem>
   </ItemGroup>

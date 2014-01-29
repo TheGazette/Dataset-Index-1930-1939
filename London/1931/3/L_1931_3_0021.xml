@@ -56,8 +56,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gihnour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon. Sir John, Bt., D. S.O., Minister of Agriculture and Fisheries</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon. Sir John, Bt., D. S.O., Minister of Agriculture and Fisheries</Text>
       <PageNumber>5616</PageNumber>
       <PageNumber>5617</PageNumber>
     </MainItem>
@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Homester</Key>
-      <Text>, the Rt. Hon. the Earl of, Trustee of the British Museum</Text>
+      <Text>the Rt. Hon. the Earl of, Trustee of the British Museum</Text>
       <PageNumber>5338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,8 +219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ironside</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir William Edmund, K.C.B., C.M.G., D.S.O., Lieutenant of the Tower of London</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir William Edmund, K.C.B., C.M.G., D.S.O., Lieutenant of the Tower of London</Text>
       <PageNumber>4540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>, iRt. Hon. Sir Donald, K.B.E., President of the Board of Education</Text>
+      <Text>iRt. Hon. Sir Donald, K.B.E., President of the Board of Education</Text>
       <PageNumber>5616</PageNumber>
       <PageNumber>5617</PageNumber>
     </MainItem>
@@ -431,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marriott</Key>
-      <Text>, . Cyril Herbert Alfred, H.M. Vice-Consul at Panama</Text>
+      <Text>. Cyril Herbert Alfred, H.M. Vice-Consul at Panama</Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ormsby-Gore</Key>
-      <Text>, Maj. the Rt. Hon. William George Arthur, PostmasterGeneral</Text>
+      <Title>Maj.</Title>
+      <Text>the Rt. Hon. William George Arthur, PostmasterGeneral</Text>
       <PageNumber>5827</PageNumber>
       <PageNumber>5899</PageNumber>
     </MainItem>

@@ -25,14 +25,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenzie</Key>
-      <Text>, T&gt;. P</Text>
+      <Forenames>T</Forenames>
+      <Text>&gt;. P</Text>
       <PageNumber>3228</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackey</Key>
-      <Text>, VV. A</Text>
+      <Text>VV. A</Text>
       <PageNumber>2649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +78,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Text>, C B</Text>
+      <Forenames>C</Forenames>
+      <Text>B</Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +89,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>D : McLeod, G. S</Text>
+      <Forenames>D</Forenames>
+      <Text>: McLeod, G. S</Text>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,14 +104,15 @@
   <ItemGroup>
     <MainItem>
       <Key>McQuat</Key>
-      <Text>. J. T. ..:</Text>
+      <Text>J. T. ..:</Text>
       <PageNumber>2738</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacPhail</Key>
-      <Text>, I&gt;. C</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;. C</Text>
       <PageNumber>2580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +134,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitrand-Tiiterton</Key>
-      <Text>, D M</Text>
+      <Forenames>D</Forenames>
+      <Text>M</Text>
       <PageNumber>3406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,14 +149,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Malley</Key>
-      <Text>, A.E. ..: ... ..,</Text>
+      <Text>A.E. ..: ... ..,</Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>2973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>,.!. ...T</Text>
+      <Text>.!. ...T</Text>
       <PageNumber>2787</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayne</Key>
-      <Text>, .G...H1.... ..;</Text>
+      <Text>.G...H1.... ..;</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mill</Key>
-      <Text>.-S. F, . '</Text>
+      <Text>-S. F, . '</Text>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>, SirG. F</Text>
+      <Text>SirG. F</Text>
       <PageNumber>3657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +413,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>, J i</Text>
+      <Forenames>J</Forenames>
+      <Text>i</Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murdoch</Key>
-      <Text>,. R. D.. .... -</Text>
+      <Text>. R. D.. .... -</Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>. Hon. A. J. G. M. .:</Text>
+      <Text>Hon. A. J. G. M. .:</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Needham</Key>
-      <Text>,. J. P</Text>
+      <Text>. J. P</Text>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>,.Sir ,L&gt; Nj, Bt.&gt;</Text>
+      <Text>.Sir ,L&gt; Nj, Bt.&gt;</Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakden</Key>
-      <Text>, L, Ai ... ... , ,</Text>
+      <Forenames>L</Forenames>
+      <Text>, Ai ... ... , ,</Text>
       <PageNumber>2579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce-Serocold</Key>
-      <Text>, W::.-</Text>
+      <Text>W::.-</Text>
       <PageNumber>2579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>, D-. H. :. :</Text>
+      <Text>D-. H. :. :</Text>
       <PageNumber>2494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,14 +902,6 @@
       <PageNumber>3228</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Picton, T. S. ... .:. 3841 Piggott, J.-E. ...;2973 Plummer, A. A. ... .85^9 Pole, R. M. G. .;:. dee Pollard, W. C. ..</SubCategoryTitle>
-  <SubCategoryTitle>Pollock, C. B. R</SubCategoryTitle>
-  <SubCategoryTitle>.I. 2805 Ponsonby, E. G. V ,.</SubCategoryTitle>
-  <SubCategoryTitle>Pontifex, R. H. ' ..</SubCategoryTitle>
-  <SubCategoryTitle>Potter. F. H</SubCategoryTitle>
-  <SubCategoryTitle>Pratt, E. J</SubCategoryTitle>
-  <SubCategoryTitle>Prentis, J. A. ..</SubCategoryTitle>
-  <SubCategoryTitle>___ ___ J. B: ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>JPtetty</Key>
@@ -922,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>, K-. G</Text>
+      <Text>K-. G</Text>
       <PageNumber>3408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +932,6 @@
       <PageNumber>2304</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Randall, C. F. ..^ .</SubCategoryTitle>
-  <SubCategoryTitle>Ratciiffe, J. A. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -968,12 +965,13 @@
       <PageNumber>3071</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>-:'</KeyDitto>
-  <SubCategoryTitle>Rhind, W: A. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Richards</Key>
-      <Forenames>A. S.</Forenames>
+      <Key>
+        <KeyDitto>-:'</KeyDitto>
+      </Key>
+      <Forenames>R</Forenames>
+      <Text>«yiiolds,F. A.Aij.V___ ___ — ___ ___ P. K. B. .u ___ ___ Rhind, W: A. ... ;. Rhodes, A.' V. ... r.iiPicardo, F. G.W^..r Richards, A. S</Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1143,6 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___ ..</KeyDitto>
-  <SubCategoryTitle>J. J. F. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1172,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryeland</Key>
-      <Text>, B,</Text>
+      <Forenames>B</Forenames>
+      <Text>,</Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,8 +1204,6 @@
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
-  <SubCategoryTitle>Schooling, J. D</SubCategoryTitle>
-  <SubCategoryTitle>Schwalm, R. St.G. C</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>
@@ -1242,14 +1238,8 @@
       <PageNumber>4078</PageNumber>
     </SubItem>
   </ItemGroup>
-  <SubCategoryTitle>Sfearle, A. R. I</SubCategoryTitle>
-  <SubCategoryTitle>Seaton, G: M. .„' .;</SubCategoryTitle>
   <SubCategoryTitle>Sfoarman 'C. A</SubCategoryTitle>
-  <SubCategoryTitle>Sharp, J. H. „: ..</SubCategoryTitle>
   <SubCategoryTitle>Sharpe, K.O. ..</SubCategoryTitle>
-  <SubCategoryTitle>Shaw, J. W</SubCategoryTitle>
-  <SubCategoryTitle>—P. W. ... ...</SubCategoryTitle>
-  <SubCategoryTitle>Shepherd, O. H. S</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>jSnortt</Key>

@@ -123,7 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cussen</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +349,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bush</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +884,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J_J Q</Text>
+      <Forenames>J</Forenames>
+      <Text>_J Q</Text>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>

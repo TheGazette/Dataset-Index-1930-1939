@@ -63,17 +63,16 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.XM. (Qm.) Arthur Richard, Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>XM. (Qm.) Arthur Richard, Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Title>Warnt. Off. Coy.</Title>
-      <Forenames>Sgt</Forenames>
-      <Text>.-Maj. Cecil Leonard, Member, Order of the British Empire</Text>
+      <Title>Warnt. Off. Coy. Sgt.</Title>
+      <Text>-Maj. Cecil Leonard, Member, Order of the British Empire</Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,8 +243,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Paine</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Douglas Duke, D.S.O., V.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Douglas</Forenames>
+      <Text>Duke, D.S.O., V.D., Officer, Order of the British Empire</Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +273,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Sir (Samuel) Ernest, Bt., J.P., Baron</Text>
+      <Title>Sir (Samuel)</Title>
+      <Forenames>Ernest</Forenames>
+      <Text>, Bt., J.P., Baron</Text>
       <PageNumber>3799</PageNumber>
       <PageNumber>4296</PageNumber>
     </MainItem>
@@ -324,8 +326,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Stewart Bleakley Agnew, C.S.I., CLE., Knight Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Stewart Bleakley Agnew</Forenames>
+      <Text>, C.S.I., CLE., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Penny</Key>
-      <Text>Sir (Frederick) George, M.P., Baronet,</Text>
+      <Title>Sir (Frederick)</Title>
+      <Forenames>George</Forenames>
+      <Text>, M.P., Baronet,</Text>
       <PageNumber>3800</PageNumber>
       <PageNumber>4123</PageNumber>
     </MainItem>

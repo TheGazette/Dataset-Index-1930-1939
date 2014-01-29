@@ -538,7 +538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beswick</Key>
-      <Text>,. L</Text>
+      <Text>. L</Text>
       <PageNumber>5480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +859,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolland</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1034,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5982</PageNumber>
     </MainItem>
   </ItemGroup>

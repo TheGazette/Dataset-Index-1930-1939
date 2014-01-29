@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillyer</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hollis</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mainprise-King</Key>
-      <Text>,' T</Text>
+      <Text>' T</Text>
       <PageNumber>1167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>, M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,7 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton-S</Key>
-      <Text>.tewart, I. O. de W</Text>
+      <Text>tewart, I. O. de W</Text>
       <PageNumber>981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1275,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>, w</Text>
+      <Text>w</Text>
       <PageNumber>1660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherston</Key>
-      <Text>, 0. P</Text>
+      <Text>0. P</Text>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stainforth</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>1471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twiss</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,7 +1831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>979</PageNumber>
     </MainItem>
   </ItemGroup>

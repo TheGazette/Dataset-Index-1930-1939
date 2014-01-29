@@ -970,14 +970,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,8 +1209,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardwicke</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Earl of</Text>
+      <Title>Rt. Hon. Earl</Title>
+      <Text>of</Text>
       <PageNumber>1210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1305,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1548</PageNumber>
       <PageNumber>1929</PageNumber>
     </MainItem>
@@ -1399,7 +1399,6 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ...</KeyDitto>
-  <SubCategoryTitle>D. W. ..</SubCategoryTitle>
   <KeyDitto>___ ___ ___ ...</KeyDitto>
   <KeyDitto>___ ___ ...</KeyDitto>
   <KeyDitto>___ ___ ...</KeyDitto>
@@ -1648,10 +1647,8 @@
       <PageNumber>286</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
-    <SubCategoryTitle>
-      <Text>Hon. J. B. G</Text>
-    </SubCategoryTitle>
     <SubItem>
+      <Text>Hon. J. B. G</Text>
       <PageNumber>2169</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -196,7 +196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fawkes</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>6501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fazil</Key>
-      <Text>, 1</Text>
+      <Text>1</Text>
       <PageNumber>8178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Firmin</Key>
-      <Text>, LI. G</Text>
+      <Text>LI. G</Text>
       <PageNumber>8307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardner</Key>
-      <Text>, C E</Text>
+      <Forenames>C</Forenames>
+      <Text>E</Text>
       <PageNumber>8180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gow</Key>
-      <Text>, j. A</Text>
+      <Text>j. A</Text>
       <PageNumber>6198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1248,7 +1249,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddington</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>7528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1769,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heywood-Lonsdale</Key>
-      <Text>, R H</Text>
+      <Forenames>R</Forenames>
+      <Text>H</Text>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -171,8 +171,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Daukes</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Clejidon Turberville, C.I.E., H.M. Envoy Extraordinary and Minister Plenipotentiary at the Court of Nepal</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Clejidon Turberville</Forenames>
+      <Text>, C.I.E., H.M. Envoy Extraordinary and Minister Plenipotentiary at the Court of Nepal</Text>
       <PageNumber>3300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>Hon. Montague Charles, C. V.O., O.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Text>. Hon. Montague Charles, C. V.O., O.B.E., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +622,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>Lord, Steward and Bailiff of the Chiltern Hundreds</Text>
+      <Title>Lord</Title>
+      <Text>, Steward and Bailiff of the Chiltern Hundreds</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>

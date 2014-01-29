@@ -54,8 +54,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Roy Kyffin, M.B., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Roy Kyffin</Forenames>
+      <Text>, M.B., Officer, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +79,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maynard</Key>
-      <Text>, Col. (temp. Brig.) Francis Herbert, C.B., M.C., Distinguisher Service Order</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Francis Herbert</Forenames>
+      <Text>, C.B., M.C., Distinguisher Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,8 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray-Lyon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. David Murray, D.S.O., M.C., Bar to. Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>David Murray</Forenames>
+      <Text>, D.S.O., M.C., Bar to. Distinguished Service Order</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +184,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noyes</Key>
-      <Text>, Col. (temp. Brig.) Cyril Dupre, M.C., Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Cyril Dupre</Forenames>
+      <Text>, M.C., Companion, Order of the Indian Empire</Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,8 +208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Penney</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Ronald Campbell, O.B.E., M.C., Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Ronald Campbell</Forenames>
+      <Text>, O.B.E., M.C., Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,8 +234,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Plowden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Bryan Edward Chicheley, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Bryan Edward Chicheley</Forenames>
+      <Text>, Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +252,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rawson</Key>
-      <Text>, Col. (temp. Brig.) Creswell Duffield, D.S.O., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Creswell Duffield</Forenames>
+      <Text>, D.S.O., Commander, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennell</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, G.C.B., G.C.M.G., G.C.V.O., Member of Council of British School at Rome</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, G.C.B., G.C.M.G., G.C.V.O., Member of Council of British School at Rome</Text>
       <PageNumber>6508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,8 +303,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Henry Everton, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Henry Everton</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridgeman</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -851,7 +862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gort</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct .</Title>
       <PageNumber>7917</PageNumber>
     </MainItem>
   </ItemGroup>

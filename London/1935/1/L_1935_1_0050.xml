@@ -191,7 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Close</Key>
-      <Text>, R* A</Text>
+      <Forenames>R</Forenames>
+      <Text>* A</Text>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinson</Key>
-      <Text>, CP</Text>
+      <Text>CP</Text>
       <PageNumber>1985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>, (F. G</Text>
+      <Text>(F. G</Text>
       <PageNumber>1636</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -344,7 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Culley</Key>
-      <Text>, iR. H</Text>
+      <Text>iR. H</Text>
       <PageNumber>1635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>, C J. R. ^</Text>
+      <Forenames>C</Forenames>
+      <Text>J. R. ^</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalip</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodkins</Key>
-      <Text>, C M</Text>
+      <Forenames>C</Forenames>
+      <Text>M</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougherty-Delmege</Key>
-      <Text>, C H</Text>
+      <Forenames>C</Forenames>
+      <Text>H</Text>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +637,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durnford</Key>
-      <Text>, CM. P. ...</Text>
+      <Text>CM. P. ...</Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gerrard</Key>
-      <Text>, IR. J</Text>
+      <Text>IR. J</Text>
       <PageNumber>1470</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -1158,7 +1162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurbachan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanmer</Key>
-      <Text>, (R. G</Text>
+      <Text>(R. G</Text>
       <PageNumber>1470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1256,21 +1260,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Hari</Key>
-      <Forenames>Sinha</Forenames>
+      <Title>Sinha .</Title>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harnarain</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, N, M</Text>
+      <Forenames>N</Forenames>
+      <Text>, M</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,7 +1324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haynes</Key>
-      <Text>, w! F</Text>
+      <Text>w! F</Text>
       <PageNumber>304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1548,8 +1553,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hushyar</Key>
-      <Forenames>Singh</Forenames>
-      <Text>..:</Text>
+      <Title>Singh .</Title>
+      <Text>.:</Text>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1757,7 +1762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kehar</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1273</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Krishnamoorthy</Key>
-      <Text>, Y; V</Text>
+      <Forenames>Y</Forenames>
+      <Text>; V</Text>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1946,7 +1952,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lazenby</Key>
-      <Text>, C S</Text>
+      <Forenames>C</Forenames>
+      <Text>S</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>

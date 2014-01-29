@@ -396,7 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tremlett</Key>
-      <Text>E: W</Text>
+      <Forenames>E</Forenames>
+      <Text>: W</Text>
       <PageNumber>895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>J. P</Text>
+      <Text>. J. P</Text>
       <PageNumber>1260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +804,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitford</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,6 +1227,7 @@
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>LIEUTENANCIES OF COUNTIES,</CategoryTitle>
   <SectionTitle>Lieutenants</SectionTitle>
   <ItemGroup>
     <MainItem>
@@ -1379,7 +1381,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rutland</Key>
-      <Text>Brig.-General Reginald St. George Gorton, C.B;, C.M.G</Text>
+      <Title>Brig.</Title>
+      <Text>-General Reginald St. George Gorton, C.B;, C.M.G</Text>
       <PageNumber>2009</PageNumber>
     </MainItem>
   </ItemGroup>

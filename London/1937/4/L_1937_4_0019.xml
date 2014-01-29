@@ -12,8 +12,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William Henry Goldney, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Henry Goldney</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>7734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,8 +61,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bond</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (now Col.) Richard Lawrence, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col. (now Col.)</Title>
+      <Forenames>Richard Lawrence</Forenames>
+      <Text>, D.S.O., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>7733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,16 +143,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Brownlow</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Cecil Alexander Little, Bar to Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Cecil Alexander Little</Forenames>
+      <Text>, Bar to Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Geoffrey, M.C., Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Geoffrey</Forenames>
+      <Text>, M.C., Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,24 +163,25 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.^Col; Robert Mason, M.C., Distinguished Service Order</Text>
+      <Title>Lt.</Title>
+      <Text>^Col; Robert Mason, M.C., Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Buist</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Colin, M.V.O., Extra Equerry to His Majesty</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Colin, M.V.O., Extra Equerry to His Majesty</Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. (local Col.) Noel Louis St. Pierre, Distinguished Service Order</Text>
+      <Title>Lt.-Col. (local Col.)</Title>
+      <Forenames>Noel Louis St</Forenames>
+      <Text>. Pierre, Distinguished Service Order</Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +195,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Text>, Col. (local Brig.) George Osborne De Renzy, O.B.E., M.C, Commander, Order of the British Empire</Text>
+      <Title>Col. (local Brig.)</Title>
+      <Forenames>George Osborne De Renzy</Forenames>
+      <Text>, O.B.E., M.C, Commander, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,16 +239,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldwell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. William George Alexander, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William George Alexander</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Collingridge</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Hugh Vivian, Officer, Order of British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Hugh Vivian</Forenames>
+      <Text>, Officer, Order of British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +370,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Farfan</Key>
-      <Text>, Col. (temp. Brig.) Arthur Joseph Thomas, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Arthur Joseph Thomas</Forenames>
+      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,8 +612,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Basil Ivor, M.C, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Basil Ivor</Forenames>
+      <Text>, M.C, Distinguished Service Order</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +646,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Key</Key>
-      <Text>, Maj. &amp; Bt. Lt.-Col. (now Lt.-Col.) Berthold Wells, M.C., Distinguished Service Order</Text>
+      <Title>Maj.</Title>
+      <Text>&amp; Bt. Lt.-Col. (now Lt.-Col.) Berthold Wells, M.C., Distinguished Service Order</Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -689,8 +702,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McCaskill</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Kenneth Douglas Fraser, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Kenneth Douglas Fraser</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>

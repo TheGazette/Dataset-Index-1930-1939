@@ -223,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Busby</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +397,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coates</Key>
-      <Text>J; M. E.. B</Text>
+      <Forenames>J</Forenames>
+      <Text>; M. E.. B</Text>
       <PageNumber>468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Habibullah</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>A V</Text>
+      <Forenames>A</Forenames>
+      <Text>V</Text>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1408,7 +1410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howell</Key>
-      <Text>F. W. H</Text>
+      <Text>. F. W. H</Text>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,7 +1476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Husnain</Key>
-      <Text>M ,</Text>
+      <Forenames>M</Forenames>
+      <Text>,</Text>
       <PageNumber>1851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1604,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>E: ..;</Text>
+      <Forenames>E</Forenames>
+      <Text>: ..;</Text>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>

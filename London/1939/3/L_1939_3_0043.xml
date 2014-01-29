@@ -430,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coynu</Key>
-      <Text>,J</Text>
+      <Text>J</Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cranley</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1371,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,7 +1470,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5404</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1480,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,7 +1615,7 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,7 +1624,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H C. A</Text>
+      <Forenames>H</Forenames>
+      <Text>C. A</Text>
       <PageNumber>4758</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greeves</Key>
-      <Text>,S</Text>
+      <Text>S</Text>
       <PageNumber>5408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>, OH</Text>
+      <Text>OH</Text>
       <PageNumber>5408</PageNumber>
       <PageNumber>5408</PageNumber>
     </MainItem>
@@ -62,7 +62,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughes</Key>
-      <Text>, F: E. B</Text>
+      <Forenames>F</Forenames>
+      <Text>: E. B</Text>
       <PageNumber>5408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>, OR</Text>
+      <Text>OR</Text>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bratton</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,7 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deep</Key>
-      <Forenames>Chand</Forenames>
+      <Title>Chand .</Title>
       <PageNumber>5218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -896,7 +897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downie</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>6285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hawke</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heydeman</Key>
-      <Text>, OA</Text>
+      <Text>OA</Text>
       <PageNumber>5407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1306,7 +1307,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Holden</Key>
-      <Text>, O B. V</Text>
+      <Forenames>O</Forenames>
+      <Text>B. V</Text>
       <PageNumber>4571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,7 +1643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lochan</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McEwan</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,7 +1741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McPoland</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>

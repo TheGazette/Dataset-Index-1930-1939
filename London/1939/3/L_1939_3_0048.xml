@@ -666,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>, D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +750,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,7 +871,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>5923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1074,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamblin</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,7 +1133,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1142,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Rev</Forenames>
-      <Text>. J</Text>
+      <Title>Rev.</Title>
+      <Forenames>J</Forenames>
       <PageNumber>4763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hankey</Key>
-      <Text>,. W. B. Alers</Text>
+      <Text>. W. B. Alers</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harcus</Key>
-      <Text>,. T. E</Text>
+      <Text>. T. E</Text>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1433,7 +1433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1515,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harlech</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5320</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -22,8 +22,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. Walter Robert, D.D., granted the Deanery of the Cathedral Church of Saint Paul in London</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. Walter Robert, D.D., granted the Deanery of the Cathedral Church of Saint Paul in London</Text>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland</Key>
-      <Text>, the Rt. Hon. Sir Francis Dyke, Bart., Forestry Commissioner</Text>
+      <Text>the Rt. Hon. Sir Francis Dyke, Bart., Forestry Commissioner</Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armitage</Key>
-      <Text>, .. Mrs. Order of Mercy</Text>
+      <Text>.. Mrs. Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Title>Major</Title>
-      <Forenames>General</Forenames>
+      <Forenames>Major-General</Forenames>
       <Text>the Rt. Hon. the Earl of, E.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., A.D.C., LL.D., Chancellor of the Order of St. Michael and St. George</Text>
       <PageNumber>7154</PageNumber>
     </MainItem>
@@ -176,7 +175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Text>, Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Text>, Miss, Order of Mercy ,</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy ,</Text>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Courthope</Key>
-      <Text>,' Sir George Loyd, Bart., M.C., Forestry Commissioner</Text>
+      <Text>' Sir George Loyd, Bart., M.C., Forestry Commissioner</Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +352,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Derbyshire</Key>
-      <Text>,' Harold, M.C., K.C., knighted</Text>
+      <Text>' Harold, M.C., K.C., knighted</Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dyson</Key>
-      <Text>, Lady, Order of Mercy</Text>
+      <Title>Lady</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>

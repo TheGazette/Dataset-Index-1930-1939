@@ -83,7 +83,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gall</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garmoyle</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glass</Key>
-      <Text>H. P. L</Text>
+      <Text>. H. P. L</Text>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grose</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hailey</Key>
-      <Text>J. M</Text>
+      <Text>. J. M</Text>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,7 +1639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Impson</Key>
-      <Text>H: J</Text>
+      <Forenames>H</Forenames>
+      <Text>: J</Text>
       <PageNumber>2467</PageNumber>
     </MainItem>
   </ItemGroup>

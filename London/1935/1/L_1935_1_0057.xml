@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, \V. B</Text>
+      <Text>\V. B</Text>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newall</Key>
-      <Text>, 0. L. N</Text>
+      <Text>0. L. N</Text>
       <PageNumber>384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>, CM</Text>
+      <Text>CM</Text>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, OF</Text>
+      <Text>OF</Text>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,14 +921,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>, K, A</Text>
+      <Forenames>K</Forenames>
+      <Text>, A</Text>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stones</Key>
-      <Text>, EL</Text>
+      <Text>EL</Text>
       <PageNumber>220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wanliss</Key>
-      <Text>, E: O</Text>
+      <Forenames>E</Forenames>
+      <Text>: O</Text>
       <PageNumber>1733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,14 +1546,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>, the Rt. Hon. the Earl of Elgin and Kincardine, K.T., C.M.G</Text>
+      <Text>the Rt. Hon. the Earl of Elgin and Kincardine, K.T., C.M.G</Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peebles</Key>
-      <Text>, the Rt. Hon. Viscount Blibank</Text>
+      <Text>the Rt. Hon. Viscount Blibank</Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>

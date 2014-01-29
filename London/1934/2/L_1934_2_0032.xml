@@ -35,7 +35,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shuttleworth</Key>
-      <Text>Col. (temp. Brig.) Betham Wilkins, Companion, Order of the Batih</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Betham Wilkins</Forenames>
+      <Text>, Companion, Order of the Batih</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,8 +227,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Vincent Percy, R.E. (Retd,), Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Vincent Percy</Forenames>
+      <Text>, R.E. (Retd,), Officer, Order of the British Empire</Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +334,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spiring</Key>
-      <Text>Col. {temp. Brig.) Frederick Gordon, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Col.</Title>
+      <Text>{temp. Brig.) Frederick Gordon, C.M.G., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +358,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stack</Key>
-      <Text>Maj. and Ordnance Mech. Eng. 2nd class, William Auchinleck, MJ.I.Mech.E., Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>and Ordnance Mech. Eng. 2nd class, William Auchinleck, MJ.I.Mech.E., Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,16 +374,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Stair</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Earl of, D.S.O., Ensign, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>The</Forenames>
+      <Text>Earl of, D.S.O., Ensign, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. the Rt. Hon. Sir George Frederick, G.C.I.E., C.M.G., Knight Grand Commander, Order of the Star of India</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>the Rt. Hon. Sir George Frederick, G.C.I.E., C.M.G., Knight Grand Commander, Order of the Star of India</Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Text>Charles James Gerrard, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>. Charles James Gerrard, O.B.E., Commander, Order of the British Empire</Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,8 +675,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorns</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Nathaniel William Benjamin, D.S.O., M.C., Commander, Order' of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Nathaniel William Benjamin</Forenames>
+      <Text>, D.S.O., M.C., Commander, Order' of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>

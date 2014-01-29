@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borrett</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1072</PageNumber>
       <PageNumber>1072</PageNumber>
     </MainItem>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boucher</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brecknock</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>1639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +602,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J A.'</Text>
+      <Forenames>J</Forenames>
+      <Text>A.'</Text>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +750,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>E; M</Text>
+      <Forenames>E</Forenames>
+      <Text>; M</Text>
       <PageNumber>613</PageNumber>
       <PageNumber>1214</PageNumber>
     </MainItem>
@@ -756,7 +759,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>C —</Text>
+      <Forenames>C</Forenames>
+      <Text>—</Text>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1011,7 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadbury-Brown</Key>
-      <Text>H: T</Text>
+      <Forenames>H</Forenames>
+      <Text>: T</Text>
       <PageNumber>1390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1560,7 +1565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>^J. R. O</Text>
+      <Text>.^J. R. O</Text>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1720,8 @@
       <Key>
         <KeyDitto>___ — ___ ___ ___</KeyDitto>
       </Key>
-      <Text>I O</Text>
+      <Forenames>I</Forenames>
+      <Text>O</Text>
       <PageNumber>688</PageNumber>
       <PageNumber>760</PageNumber>
     </MainItem>
@@ -1759,7 +1765,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>H. L</Text>
+      <Text>. H. L</Text>
       <PageNumber>1932</PageNumber>
     </MainItem>
   </ItemGroup>

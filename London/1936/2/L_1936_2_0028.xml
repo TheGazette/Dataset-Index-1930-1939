@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brind</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-General Sir John Edward Spencer, K.B.E., C. B., O.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-General Sir John Edward Spencer, K.B.E., C. B., O.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,8 +19,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brisbane</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj.-Instr. John, Member, Order of the British Empire</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj.-Instr. John, Member, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,9 +55,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Batty.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>. Maj. . Ernest, Member, Order of the British Empire</Text>
+      <Title>Batty. Sergt.</Title>
+      <Text>Maj. . Ernest, Member, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +267,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Cadell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Patrick Hamilton, Distinguished Service Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Pat-</Forenames>
+      <Text>rick Hamilton, Distinguished Service Order</Text>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +328,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpenter</Key>
-      <Forenames>Regtl</Forenames>
-      <Text>. Qrmr.Sergt. Norman, Member, Order of the British Empire</Text>
+      <Title>Regtl. Qrmr.</Title>
+      <Text>Sergt. Norman, Member, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,8 +417,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherry</Key>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Asst. Instr. in Gunnery, Ernest John, Member, Order of the British Empire</Text>
+      <Title>Sergt.</Title>
+      <Text>-Maj. Asst. Instr. in Gunnery, Ernest John, Member, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,25 +503,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Clyde</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Lord, Member and Chairman, Board of Trustees, National Library of Scotland</Text>
+      <Title>Rt. Hon. Lord</Title>
+      <Text>, Member and Chairman, Board of Trustees, National Library of Scotland</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cockill</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel William Baron, T.D., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel William Baron, T.D., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Title>Batty.</Title>
-      <Forenames>Sergt</Forenames>
-      <Text>.-Maj. Arthur Robert, Member,' -Order of the British Empire</Text>
+      <Title>Batty. Sergt.</Title>
+      <Text>-Maj. Arthur Robert, Member,' -Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +535,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>Colonel (temp. Brigadier) Lionel Peter, C.B., D.S.O., O.B.E., A.D.C., Companion, Order of the' Star of India</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>Lionel Peter</Forenames>
+      <Text>, C.B., D.S.O., O.B.E., A.D.C., Companion, Order of the' Star of India</Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>

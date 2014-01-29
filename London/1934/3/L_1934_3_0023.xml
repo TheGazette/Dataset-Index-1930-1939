@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,8 @@
       <Key>
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
-      <Text>R C</Text>
+      <Forenames>R</Forenames>
+      <Text>C</Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malhar</Key>
-      <Text>T. B. J</Text>
+      <Text>. T. B. J</Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Text>E. H</Text>
+      <Text>. E. H</Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mapleson</Key>
-      <Text>O. H</Text>
+      <Text>. O. H</Text>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathisen</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -878,7 +879,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Merrell</Key>
-      <Text>R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -894,7 +896,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,7 +910,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meynell</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +934,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>E. C</Text>
+      <Text>. E. C</Text>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MillsA</Key>
-      <Text>M</Text>
+      <Text>. M</Text>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -980,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>5521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>M. F</Text>
+      <Text>.M. F</Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moubray</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1263,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Navlor</Key>
-      <Text>S 5344</Text>
+      <Forenames>S</Forenames>
+      <Text>5344</Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1415,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Niedermayer</Key>
-      <Text>E. J</Text>
+      <Text>. E. J</Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutley</Key>
-      <Text>E'</Text>
+      <Forenames>E</Forenames>
+      <Text>'</Text>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1796,14 +1800,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawle</Key>
-      <Text>R, W. D</Text>
+      <Forenames>R</Forenames>
+      <Text>, W. D</Text>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>G. Le *</Text>
+      <Text>. G. Le *</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>

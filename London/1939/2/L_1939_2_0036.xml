@@ -149,8 +149,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hood</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col &amp; Bt. Col. (temp. Col.) Alexander, M.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Col &amp; Bt. Col. (temp. Col.) Alexander, M.D., Commander, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,8 +165,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hope</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur Henry Cecil, T.D., Officer, Order' of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur Henry Cecil</Forenames>
+      <Text>, T.D., Officer, Order' of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +190,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Houldsworth</Key>
-      <Text>, Capt. (Lt.-Col. T.A.) Henry Walter, M.C., one of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Title>Capt. (Lt.-Col. T.A.)</Title>
+      <Forenames>Henry Walter</Forenames>
+      <Text>, M.C., one of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,8 +305,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Ord. Executive Offr. 3rd CI.) Alfred John Matthew, Member, Order of the British Empire</Text>
+      <Title>Lt. (Ord. Executive Offr. 3rd CI.)</Title>
+      <Forenames>Alfred John Matthew</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,15 +421,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Drummond, M.C, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Drum-</Forenames>
+      <Text>mond, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Inskip</Key>
-      <Text>, Col. (temp. Brig.) Roland Debenham, CLE., D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Roland Debenham</Forenames>
+      <Text>, CLE., D.S.O., M.C., Companion, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +515,9 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Text>, Capt. (Qrmr.) Thomas, Member, Order of the British Empire</Text>
+      <Title>Capt. (Qrmr.)</Title>
+      <Forenames>Thomas</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +674,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W, Member, Herring Industry Advisory Council</Text>
+      <Forenames>W</Forenames>
+      <Text>, Member, Herring Industry Advisory Council</Text>
       <PageNumber>3547</PageNumber>
     </MainItem>
   </ItemGroup>

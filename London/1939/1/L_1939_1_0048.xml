@@ -664,7 +664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sudeley</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>607</PageNumber>
       <PageNumber>679</PageNumber>
     </MainItem>
@@ -703,7 +703,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sumpter</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Syddall</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes-Wrighti</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,7 +901,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>864</PageNumber>
       <PageNumber>1137</PageNumber>
     </MainItem>
@@ -1137,7 +1137,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorp</Key>
-      <Text>F:</Text>
+      <Forenames>F</Forenames>
+      <Text>:</Text>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tufnell</Key>
-      <Text>T I2II Tullis, R</Text>
+      <Forenames>T</Forenames>
+      <Text>I2II Tullis, R</Text>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1637,7 +1639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Verschoyle-Campbell</Key>
-      <Text>W H. McN</Text>
+      <Forenames>W</Forenames>
+      <Text>H. McN</Text>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>

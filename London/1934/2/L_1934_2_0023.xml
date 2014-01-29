@@ -131,7 +131,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkeley</Key>
-      <Text>(George Harold Arthur), Comyns, M.A., M.D., M.C, (F.R.C.P., F.R.G.S., F.C.O.G., M.M.S:A., Knight</Text>
+      <Title>(George Harold Arthur)</Title>
+      <Text>, Comyns, M.A., M.D., M.C, (F.R.C.P., F.R.G.S., F.C.O.G., M.M.S:A., Knight</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +206,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Reginald, T.D., J.P., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Reginald</Forenames>
+      <Text>, T.D., J.P., Knight</Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,8 +303,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Boustead</Key>
-      <Forenames>Cpt</Forenames>
-      <Text>. and Bvt. Maj. (local Lt.-Col.) John Edmund Hugh, M.C, Officer, Order of the British Empire</Text>
+      <Title>Cpt. and Bvt. Maj. (local Lt.-Col.)</Title>
+      <Forenames>John Ed-</Forenames>
+      <Text>mund Hugh, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +402,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Brawn</Key>
-      <Text>Capt. (local Maj.) John Agutta, Officer, . Order or the British Empire</Text>
+      <Title>Capt. (local Maj.)</Title>
+      <Forenames>John Agutta</Forenames>
+      <Text>, Officer, . Order or the British Empire</Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>

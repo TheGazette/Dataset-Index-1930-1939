@@ -479,7 +479,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tehri</Key>
-      <Text>(Garhwal), H.H. Raja Sir Narendra Shah, Raja of</Text>
+      <Title>(Garhwal), H.H.</Title>
+      <Forenames>Raja</Forenames>
+      <Text>Sir Narendra Shah, Raja of</Text>
       <PageNumber>2883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +565,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1025,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,7 +1506,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby-Osborne</Key>
-      <Text>D A</Text>
+      <Forenames>D</Forenames>
+      <Text>A</Text>
       <PageNumber>3110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>3186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,7 +1582,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingfield-Stratford</Key>
-      <Text>M :..v</Text>
+      <Forenames>M</Forenames>
+      <Text>:..v</Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>

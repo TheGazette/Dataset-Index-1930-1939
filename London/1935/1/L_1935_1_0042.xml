@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lander</Key>
-      <Text>,. F. J</Text>
+      <Text>. F. J</Text>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lesslie</Key>
-      <Text>,. W. H. B</Text>
+      <Text>. W. H. B</Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>, Viscount</Text>
+      <Title>Viscount .</Title>
       <PageNumber>1020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +611,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J :</Text>
+      <Forenames>J</Forenames>
+      <Text>:</Text>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macleod</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +787,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1467</PageNumber>
       <PageNumber>2126</PageNumber>
     </MainItem>
@@ -801,7 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMillan</Key>
-      <Text>, .G. H. A</Text>
+      <Text>.G. H. A</Text>
       <PageNumber>1981</PageNumber>
       <PageNumber>1982</PageNumber>
     </MainItem>
@@ -1121,14 +1122,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mellor</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1905</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Meredith</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,7 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mews</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1250,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P P</Text>
+      <Forenames>P</Forenames>
+      <Text>P</Text>
       <PageNumber>695</PageNumber>
       <PageNumber>698</PageNumber>
     </MainItem>
@@ -1331,7 +1333,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>301</PageNumber>
       <PageNumber>548</PageNumber>
     </MainItem>
@@ -1530,7 +1532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Text>,' F</Text>
+      <Text>' F</Text>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1567,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1581,7 +1583,7 @@
     <KeyDitto>—</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W. K.</Text>
+      <Text>W. K</Text>
       <PageNumber>1556</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1922,7 +1924,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>, Duke of</Text>
+      <Title>Duke</Title>
+      <Text>of</Text>
       <PageNumber>694</PageNumber>
       <PageNumber>1807</PageNumber>
     </MainItem>

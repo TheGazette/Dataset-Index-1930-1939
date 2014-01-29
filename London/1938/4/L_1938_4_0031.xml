@@ -801,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welply</Key>
-      <Text>, RWelsh, W. M. M. O'D</Text>
+      <Text>RWelsh, W. M. M. O'D</Text>
       <PageNumber>6690</PageNumber>
       <PageNumber>6888</PageNumber>
     </MainItem>
@@ -1401,7 +1401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarborough</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>8180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,7 +1530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>7268</PageNumber>
       <PageNumber>7997</PageNumber>
     </MainItem>
@@ -1573,7 +1574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frere</Key>
-      <Text>, JG</Text>
+      <Text>JG</Text>
       <PageNumber>6635</PageNumber>
     </MainItem>
   </ItemGroup>

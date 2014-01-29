@@ -75,7 +75,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowring</Key>
-      <Text>, Lieut.-Colonel William, M.B.E., E.D., Member of Legislative Council of Barbados</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel William, M.B.E., E.D., Member of Legislative Council of Barbados</Text>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +246,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Carrington</Key>
-      <Text>, Lady, Lady-inWaiting to H.RiH. Princess Royal</Text>
+      <Title>Lady, Lady</Title>
+      <Forenames>Waiting</Forenames>
+      <Text>to H.RiH. Princess Royal</Text>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Courtauld</Key>
-      <Text>,. William Julien, Baronet</Text>
+      <Text>. William Julien, Baronet</Text>
       <PageNumber>434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +401,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Text>, the Rt. Hon. Herbert, O.B.E., Baron Glentoran of Ballyalloly</Text>
+      <Text>the Rt. Hon. Herbert, O.B.E., Baron Glentoran of Ballyalloly</Text>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +667,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>, Lieut.-Colonel John Arthur, Knight Grand Commander, Order of the Indian Empire</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel John Arthur, Knight Grand Commander, Order of the Indian Empire</Text>
       <PageNumber>4652</PageNumber>
     </MainItem>
     <SubItem>

@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +60,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4422</PageNumber>
       <PageNumber>5600</PageNumber>
     </MainItem>
@@ -448,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Usman</Key>
-      <Forenames>Mohamad</Forenames>
+      <Title>Mohamad .</Title>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +581,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J&gt;. G. M</Text>
+      <Forenames>J</Forenames>
+      <Text>&gt;. G. M</Text>
       <PageNumber>4422</PageNumber>
       <PageNumber>5600</PageNumber>
     </MainItem>
@@ -665,7 +666,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Copcutt</Key>
-      <Text>E, E</Text>
+      <Forenames>E</Forenames>
+      <Text>, E</Text>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +978,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darke</Key>
-      <Text>R, B</Text>
+      <Forenames>R</Forenames>
+      <Text>, B</Text>
       <PageNumber>5185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1062,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade-Fetherstonhaugh</Key>
-      <Text>Hon. Sir H '</Text>
+      <Title>Hon. Sir</Title>
+      <Forenames>H</Forenames>
+      <Text>'</Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,7 +1093,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Preece</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1119,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1206,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1371,7 +1376,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>Hon. G, H. E</Text>
+      <Title>Hon.</Title>
+      <Forenames>G</Forenames>
+      <Text>, H. E</Text>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>

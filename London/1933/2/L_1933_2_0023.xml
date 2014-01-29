@@ -123,14 +123,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Victoria</Key>
-      <Text>(Mahe), Consul of Norway at, Percival Victor Hunt</Text>
+      <Title>(Mahe)</Title>
+      <Text>, Consul of Norway at, Percival Victor Hunt</Text>
       <PageNumber>4123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Text>H.R.H. the Prince of: Council, Members: Fortescue, the Earl ;</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Prince of: Council, Members: Fortescue, the Earl ;</Text>
       <PageNumber>3094</PageNumber>
     </MainItem>
     <SubItem>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Treasury</Key>
-      <Text>(cont.): Appointment, Sir Henry Cautley, Bart., K.C., Steward and Bailiff, of the Manor of Northstead</Text>
+      <Title>(cont.)</Title>
+      <Text>: Appointment, Sir Henry Cautley, Bart., K.C., Steward and Bailiff, of the Manor of Northstead</Text>
       <PageNumber>4224</PageNumber>
     </MainItem>
     <SubItem>
@@ -128,6 +129,7 @@
       <PageNumber>5657</PageNumber>
     </SubItem>
   </ItemGroup>
+  <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Costley-White</Key>
@@ -177,6 +179,7 @@
       <PageNumber>6135</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbiss</Key>
@@ -302,7 +305,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Forenames>Major-General The Bit</Forenames>
+      <Title>Major</Title>
+      <Forenames>General The Bit</Forenames>
       <Text>. Hon. The Earl of K.G., G.C.B.. G.C.M.G., G.C.V.O., D.S.O., Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>

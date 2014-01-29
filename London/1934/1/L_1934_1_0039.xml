@@ -33,7 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petre</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillipps</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +92,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Piekard</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +243,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H, T</Text>
+      <Forenames>H</Forenames>
+      <Text>, T</Text>
       <PageNumber>1346</PageNumber>
       <PageNumber>1346</PageNumber>
     </MainItem>
@@ -394,7 +395,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinn</Key>
-      <Text>E, J</Text>
+      <Forenames>E</Forenames>
+      <Text>, J</Text>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rampur</Key>
-      <Text>H.H. the Nawab of</Text>
+      <Title>H.H.</Title>
+      <Text>the Nawab of</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigby</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>1346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1232,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scobie</Key>
-      <Text>R MacK</Text>
+      <Forenames>R</Forenames>
+      <Text>MacK</Text>
       <PageNumber>540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,7 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>149</PageNumber>
       <PageNumber>150</PageNumber>
     </MainItem>
@@ -1594,7 +1598,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>D: R</Text>
+      <Forenames>D</Forenames>
+      <Text>: R</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1631,7 +1636,8 @@
       <Key>
         <KeyDitto>___ — ___ ___</KeyDitto>
       </Key>
-      <Text>P:S. C</Text>
+      <Forenames>P</Forenames>
+      <Text>:S. C</Text>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1734,7 +1740,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>N: 'E. '... . Southwell, T: E</Text>
+      <Forenames>N</Forenames>
+      <Text>: 'E. '... . Southwell, T: E</Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1782,7 +1789,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>G: N. B. ... ' ... '</Text>
+      <Forenames>G</Forenames>
+      <Text>: N. B. ... ' ... '</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1885,7 +1893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Starordale</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>1002</PageNumber>
       <PageNumber>1002</PageNumber>
     </MainItem>

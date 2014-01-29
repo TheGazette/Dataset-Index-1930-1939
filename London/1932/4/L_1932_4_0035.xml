@@ -61,7 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salmond</Key>
-      <Text>J. S. C</Text>
+      <Text>.J. S. C</Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +404,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tillard</Key>
-      <Text>A. T</Text>
+      <Text>. A. T</Text>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>8032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Masterman</Key>
-      <Text>T. K</Text>
+      <Text>. T. K</Text>
       <PageNumber>8133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -797,7 +797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>6991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Castens</Key>
-      <Text>G: W. E.'</Text>
+      <Forenames>G</Forenames>
+      <Text>: W. E.'</Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>J. G</Text>
+      <Text>. J. G</Text>
       <PageNumber>6992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1029,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwyther</Key>
-      <Text>A,. H</Text>
+      <Forenames>A</Forenames>
+      <Text>,. H</Text>
       <PageNumber>6556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elder</Key>
-      <Text>W. G. C</Text>
+      <Text>. W. G. C</Text>
       <PageNumber>7085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ravenscroft</Key>
-      <Text>V; D</Text>
+      <Forenames>V</Forenames>
+      <Text>; D</Text>
       <PageNumber>7833</PageNumber>
     </MainItem>
   </ItemGroup>

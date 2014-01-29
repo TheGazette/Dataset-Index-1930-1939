@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sorel-Cameron</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>, AV. J. L '</Text>
+      <Text>AV. J. L '</Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,14 +179,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stutchbury</Key>
-      <Text>, AV. J</Text>
+      <Text>AV. J</Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sulis</Key>
-      <Text>, AV. D</Text>
+      <Text>AV. D</Text>
       <PageNumber>7232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swain</Key>
-      <Text>, 0. B</Text>
+      <Text>0. B</Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,14 +360,14 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ——</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>, AV. G</Text>
+      <Text>AV. G</Text>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,14 +402,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd-White</Key>
-      <Text>,-(R. N</Text>
+      <Text>-(R. N</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tollemache</Key>
-      <Text>, L\ H. G</Text>
+      <Forenames>L</Forenames>
+      <Text>\ H. G</Text>
       <PageNumber>7028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vincent</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>7028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,14 +581,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Walter</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>, AV. L</Text>
+      <Text>AV. L</Text>
       <PageNumber>7922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins-Lewis</Key>
-      <Text>, AV. H. D</Text>
+      <Text>AV. H. D</Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +738,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>R, D</Text>
+      <Forenames>R</Forenames>
+      <Text>, D</Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +769,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>7417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -995,7 +997,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ayr</Key>
-      <Text>, 2nd Lt. John CrichtonStuart (Earl of Dumfries)</Text>
+      <Title>2nd Lt.</Title>
+      <Forenames>John CrichtonStuart</Forenames>
+      <Text>(Earl of Dumfries)</Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1049,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Text>, Brig.-General Ernest Richard, C.B.E., D.S.O</Text>
+      <Title>Brig.</Title>
+      <Text>-General Ernest Richard, C.B.E., D.S.O</Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1082,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingles</Key>
-      <Text>, Brig.-General John Darnley, C.M.G., D.S.O</Text>
+      <Title>Brig.</Title>
+      <Text>-General John Darnley, C.M.G., D.S.O</Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lang</Key>
-      <Text>,. E. V</Text>
+      <Text>. E. V</Text>
       <PageNumber>5677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -874,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lilly</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +914,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1082,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J; A</Text>
+      <Forenames>J</Forenames>
+      <Text>; A</Text>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1125,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Loveridge</Key>
-      <Text>, C; E</Text>
+      <Forenames>C</Forenames>
+      <Text>; E</Text>
       <PageNumber>5025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1398,7 +1400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McClosky</Key>
-      <Text>, F: L. St. J</Text>
+      <Forenames>F</Forenames>
+      <Text>: L. St. J</Text>
       <PageNumber>5108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,7 +1498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macduff</Key>
-      <Text>, Earl! of</Text>
+      <Title>Earl</Title>
+      <Text>! of</Text>
       <PageNumber>5396</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKenzie</Key>
-      <Text>, GD</Text>
+      <Text>GD</Text>
       <PageNumber>5979</PageNumber>
     </MainItem>
   </ItemGroup>

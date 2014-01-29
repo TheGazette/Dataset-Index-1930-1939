@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="022" pageID="https://www.thegazette.co.uk/id/London/index/year/1932/volume/2/page/022" pagePDF="https://www.thegazette.co.uk/London/index/year/1932/volume/2/page/022" pageRDF="https://www.thegazette.co.uk/London/index/year/1932/volume/2/page/022?view=linked-data" type="index" volume="2" year="1932">
-  <SubCategoryTitle>'Maj. C. W. ..</SubCategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Office</Key>
-      <Text>(cont,).:. List of officers and men .whose names brought to notice for distinguished services (cont.): Wylly, Col. G. G. E., V.C., D.S.O., A.D.C</Text>
+      <Title>(cont,)</Title>
+      <Text>.:. List of officers and men .whose names brought to notice for distinguished services (cont.): Wylly, Col. G. G. E., V.C., D.S.O., A.D.C</Text>
       <PageNumber>2959</PageNumber>
     </MainItem>
     <SubItem>
@@ -233,7 +233,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adair</Key>
-      <Text>Capt. (loc. Lt.-Col.) Desmond Harry, Officer, Order of the British Em-' ' pire</Text>
+      <Title>Capt. (loc. Lt.-Col.)</Title>
+      <Forenames>Desmond Harry</Forenames>
+      <Text>, Officer, Order of the British Em-' ' pire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,8 +267,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Albutt</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Qr.-Mr.) William Henry, D.C.M., Member, Order of the British Empire</Text>
+      <Title>Lt. (Qr.-Mr.)</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>

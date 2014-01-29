@@ -3,7 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
-      <Text>, Major (Coramy.) Robert, Officer, Order of the British Empire</Text>
+      <Title>Major (Coramy.)</Title>
+      <Forenames>Robert</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marling</Key>
-      <Text>, Lady, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lady</Title>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +270,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, Colonel (temporary Brigadier) Arthur Mordaunt, D.S.O., Companion; Order of the Bath</Text>
+      <Title>Colonel (temporary Brigadier)</Title>
+      <Forenames>Arthur Mor-</Forenames>
+      <Text>daunt, D.S.O., Companion; Order of the Bath</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,8 +308,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John Malcolm, O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John Mal-</Forenames>
+      <Text>colm, O.B.E., M.C., Commander, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,8 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Morison</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, M.B., Companion, Order of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, M.B., Companion, Order of the Indian Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,8 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paddon</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Colonel Stanley Somerset Wreford, CLE], Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Colonel Stanley Somerset Wreford, CLE], Knight</Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>

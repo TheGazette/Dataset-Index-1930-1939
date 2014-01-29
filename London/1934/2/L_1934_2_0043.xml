@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>T: A</Text>
+      <Forenames>T</Forenames>
+      <Text>: A</Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
@@ -342,7 +343,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R F P</Text>
+      <Forenames>R</Forenames>
+      <Text>F P</Text>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yonge</Key>
-      <Text>f D Yorke, P. R</Text>
+      <Text>. f D Yorke, P. R</Text>
       <PageNumber>3660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1414,7 +1416,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott-Young</Key>
-      <Text>E, C</Text>
+      <Forenames>E</Forenames>
+      <Text>, C</Text>
       <PageNumber>3907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1450,7 +1453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howson</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharratt</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Venables</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1623,7 +1626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,7 +1751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creffield</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,7 +1802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,7 +1861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edward-Collins</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3030</PageNumber>
     </MainItem>
   </ItemGroup>

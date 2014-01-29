@@ -68,7 +68,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Basing</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +272,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bonshor</Key>
-      <Text>, 0. L</Text>
+      <Text>0. L</Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +662,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>N '</Text>
+      <Forenames>N</Forenames>
+      <Text>'</Text>
       <PageNumber>8206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collis</Key>
-      <Text>. A. G. D</Text>
+      <Text>A. G. D</Text>
       <PageNumber>7357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -955,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Downe</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1125,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>G\ C. ,</Text>
+      <Forenames>G</Forenames>
+      <Text>\ C. ,</Text>
       <PageNumber>7534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrar</Key>
-      <Text>,.F. W</Text>
+      <Text>.F. W</Text>
       <PageNumber>7159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fincastle</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>8206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,14 +1590,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. D. P. S</Text>
+      <Text>D. P. S</Text>
       <PageNumber>7613</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, LA</Text>
+      <Text>LA</Text>
       <PageNumber>7764</PageNumber>
     </MainItem>
   </ItemGroup>

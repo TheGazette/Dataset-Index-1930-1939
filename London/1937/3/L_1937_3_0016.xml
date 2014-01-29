@@ -137,7 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forester</Key>
-      <Text>, the Lady Victoria, Extra Woman of the Bedchamber to Her Majesty Queen Mary</Text>
+      <Text>the Lady Victoria, Extra Woman of the Bedchamber to Her Majesty Queen Mary</Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,8 +153,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Frederick</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Edward Boscawen, Ensign, Yeoman of the Guard</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Edward Boscawen</Forenames>
+      <Text>, Ensign, Yeoman of the Guard</Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,8 +352,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John James, V.D., Knighthood</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John James</Forenames>
+      <Text>, V.D., Knighthood</Text>
       <PageNumber>4514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +387,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kilmorey</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Captain the Earl of, P.C., O.B.E., R.M.V.R., Vice-Admiral of the Province of Ulster</Text>
+      <Title>Rt. Hon. Captain</Title>
+      <Text>the Earl of, P.C., O.B.E., R.M.V.R., Vice-Admiral of the Province of Ulster</Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,8 +420,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Langmaid</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas John Robert, M.C., Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas John Robert</Forenames>
+      <Text>, M.C., Commander, Royal Victorian Order</Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>

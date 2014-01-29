@@ -12,16 +12,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bransden</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Joseph</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Joseph</Forenames>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crowhurst</Key>
-      <Title>Maj.</Title>
-      <Forenames>Cecil</Forenames>
+      <Title>Maj. Cecil.</Title>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>Maj.. Devonshire Penrose Hawkes</Text>
+      <Title>Maj.</Title>
+      <Text>. Devonshire Penrose Hawkes</Text>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +75,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>Maj. (Qr.-Mr.) Robert</Text>
+      <Title>Maj. (Qr.-Mr.)</Title>
+      <Forenames>Robert</Forenames>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,24 +100,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Millar</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Miskin</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Christopher Harold</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Christopher Harold</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harold Arthur ... :</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harold Arthur</Forenames>
+      <Text>... :</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,29 +133,31 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>Capt. &amp; Bt. Col. Philip Henry</Text>
+      <Title>Capt.</Title>
+      <Text>&amp; Bt. Col. Philip Henry</Text>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Topping</Key>
-      <Title>Maj.</Title>
-      <Forenames>Andrew</Forenames>
+      <Title>Maj. Andrew .</Title>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>Capt. (Qr.-Mr.) Robert James</Text>
+      <Title>Capt. (Qr.-Mr.)</Title>
+      <Forenames>Robert James</Forenames>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitmore</Key>
-      <Text>Maj. . Reginald Lawrence</Text>
+      <Title>Maj.</Title>
+      <Text>. Reginald Lawrence</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffat</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahmad</Key>
-      <Forenames>Din</Forenames>
+      <Title>Din .</Title>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +847,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Attar</Key>
-      <Forenames>Singh</Forenames>
-      <Text>... .:</Text>
+      <Title>Singh .</Title>
+      <Text>.. .:</Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +862,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banarsi</Key>
-      <Forenames>Das</Forenames>
+      <Title>Das .</Title>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bhavanatha</Key>
-      <Forenames>Jha</Forenames>
+      <Title>Jha .</Title>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,7 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bur</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaman</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1290,8 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>P: R</Text>
+      <Forenames>P</Forenames>
+      <Text>: R</Text>
       <PageNumber>6629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edris</Key>
-      <Forenames>Nadir</Forenames>
+      <Title>Nadir .</Title>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1414,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>E: W</Text>
+      <Forenames>E</Forenames>
+      <Text>: W</Text>
       <PageNumber>8036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Godsland</Key>
-      <Text>C H. ' ..:</Text>
+      <Forenames>C</Forenames>
+      <Text>H. ' ..:</Text>
       <PageNumber>8337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,7 +1584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamid</Key>
-      <Text>Khan, A.'</Text>
+      <Text>.Khan, A.'</Text>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>

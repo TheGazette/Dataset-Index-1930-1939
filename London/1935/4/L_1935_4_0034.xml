@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Hon. Glyn Keith Murray, D.S.O., M.P. for Croydon, North</Text>
+      <Title>Lt.-Col. The Hon.</Title>
+      <Forenames>Glyn Keith Murray</Forenames>
+      <Text>, D.S.O., M.P. for Croydon, North</Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,8 +50,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. John, M.P. for East Ham, North</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>John</Forenames>
+      <Text>, M.P. for East Ham, North</Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>, . Sir Frederick, Bart., M.P. for Leyton, East</Text>
+      <Text>. Sir Frederick, Bart., M.P. for Leyton, East</Text>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +175,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,8 +208,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Thomas Cecil Russell, C.B.E., M.P. for Ayr</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Thomas Cecil Russell</Forenames>
+      <Text>, C.B.E., M.P. for Ayr</Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
   </ItemGroup>

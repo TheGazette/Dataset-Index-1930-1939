@@ -11,9 +11,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Title>Reg.</Title>
-      <Forenames>St</Forenames>
-      <Text>.-Maj. Alfred John, M.M., Member, Order of the British Empire</Text>
+      <Title>Reg. St.</Title>
+      <Text>-Maj. Alfred John, M.M., Member, Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>Earl of, O.B.E:; . Member . of Committee of the Privy Council on Official Roll of Baronets</Text>
+      <Title>Earl</Title>
+      <Text>of, O.B.E:; . Member . of Committee of the Privy Council on Official Roll of Baronets</Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,8 +113,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Christopher Percy, O.B.E., Companion, Order of Saint . . Michael and Saint George</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Christopher Percy</Forenames>
+      <Text>, O.B.E., Companion, Order of Saint . . Michael and Saint George</Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +162,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>Miss ' Rosalind, , A.R.R.C,. Dame Commander, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Text>' Rosalind, , A.R.R.C,. Dame Commander, Order of the British Empire</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +224,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Papineau</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Denis Benjamin, A.D.C., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Denis Ben-</Forenames>
+      <Text>jamin, A.D.C., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +310,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Parvin</Key>
-      <Text>Maj. (Qr.-Mr.) Christopher, M.O., Officer, Order of the British Empire</Text>
+      <Title>Maj. (Qr.-Mr.)</Title>
+      <Forenames>Chris-</Forenames>
+      <Text>topher, M.O., Officer, Order of the British Empire</Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,16 +389,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Peacock</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Gerald Eustace, M.R.O.P., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Gerald Eustace</Forenames>
+      <Text>, M.R.O.P., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peake</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frederick Gerard, .' C.B.E., . Commander, Order of St. .John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frederick Gerard</Forenames>
+      <Text>, .' C.B.E., . Commander, Order of St. .John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +461,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Penton</Key>
-      <Text>Col. (temp. Brig.) ' Bertie Cyril, D.S.O., Companion, Order of the ___ Bath ... r ... . ;</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Text>' Bertie Cyril, D.S.O., Companion, Order of the ___ Bath ... r ... . ;</Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,9 +562,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilcher</Key>
-      <Title>Reg.</Title>
-      <Forenames>Qr</Forenames>
-      <Text>.-Mr.-Sgt. . Bob, Member,' Order of the British Empire</Text>
+      <Title>Reg. Qr.</Title>
+      <Text>-Mr.-Sgt. . Bob, Member,' Order of the British Empire</Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,8 +611,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitt-Taylor</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Walter William, C.B., C.M.G., D.S.O., Lieutenant of' ' H.M. Tower of London</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Walter William, C.B., C.M.G., D.S.O., Lieutenant of' ' H.M. Tower of London</Text>
       <PageNumber>3702</PageNumber>
     </MainItem>
   </ItemGroup>

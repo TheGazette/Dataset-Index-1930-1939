@@ -161,7 +161,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,14 +263,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Grindley</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grylls</Key>
-      <Text>W. M</Text>
+      <Text>. W. M</Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harnarain</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +905,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +996,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritam</Key>
-      <Forenames>Nath</Forenames>
+      <Title>Nath .</Title>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1031,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rae</Key>
-      <Text>J '</Text>
+      <Forenames>J</Forenames>
+      <Text>'</Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ruffell</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>W. M. E</Text>
+      <Text>. W. M. E</Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,7 +1620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baklhsh</Key>
-      <Text>I</Text>
+      <Forenames>I</Forenames>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1675,7 +1676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brebner</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>5526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,7 +1843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurbuxsh</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5121</PageNumber>
       <PageNumber>5401</PageNumber>
     </MainItem>

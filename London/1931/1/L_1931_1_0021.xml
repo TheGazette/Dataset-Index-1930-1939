@@ -176,8 +176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Forenames>Very Rev</Forenames>
-      <Text>. Hewlett, M.A., B.Sc, D.D., to the Deanery of the Cathedral and Metropolitan Church of Christ, Canterbury</Text>
+      <Forenames>Very</Forenames>
+      <Text>Rev. Hewlett, M.A., B.Sc, D.D., to the Deanery of the Cathedral and Metropolitan Church of Christ, Canterbury</Text>
       <PageNumber>2134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,8 +193,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perowne</Key>
-      <Forenames>Right Rev</Forenames>
-      <Text>. Dr. Arthur William Thomson, recommended for election as Bishop of the See of Worcester</Text>
+      <Forenames>Right</Forenames>
+      <Text>Rev. Dr. Arthur William Thomson, recommended for election as Bishop of the See of Worcester</Text>
       <PageNumber>1002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,6 +225,7 @@
       <PageNumber>2060</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>CIVIL PROMOTIONS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Abbay</Key>
@@ -281,8 +282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Alsagoff</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (acting Oa,pt.) Syed Salleh, Member, Order of the British Empire</Text>
+      <Title>Lt. (acting Oa,pt.)</Title>
+      <Forenames>Syed Salleh</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +361,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Asser</Key>
-      <Text>, Col. (temp. Brig.) Verney, C.M.G., D.S.O., Companion, Order of the Bath Atchia, Goolam Mahomed Dawjee, Member of Council of Government of Mauritius</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Verney</Forenames>
+      <Text>, C.M.G., D.S.O., Companion, Order of the Bath Atchia, Goolam Mahomed Dawjee, Member of Council of Government of Mauritius</Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>

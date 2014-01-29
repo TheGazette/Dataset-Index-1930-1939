@@ -29,7 +29,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Treasury</Key>
-      <Text>(cont.): Widows, Orphans, and Old Age Contributory Pensions Act, 1936. (See that title.) Trunk Roads Act, 1936. (See under Transport, Ministry of.) Tylers and Bricklayers Company, petition for Supplementary Charter</Text>
+      <Title>(cont.)</Title>
+      <Text>: Widows, Orphans, and Old Age Contributory Pensions Act, 1936. (See that title.) Trunk Roads Act, 1936. (See under Transport, Ministry of.) Tylers and Bricklayers Company, petition for Supplementary Charter</Text>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,6 +129,7 @@
       <Text>Oversea Voluntary Contributors</Text>
       <PageNumber>6214</PageNumber>
     </SubItem>
+    <CategoryTitle>Claims and Payment ... 6900</CategoryTitle>
     <SubItem>
       <Text>Collection of Contributions</Text>
       <PageNumber>7269</PageNumber>
@@ -157,6 +159,7 @@
       <PageNumber>7184</PageNumber>
     </MainItem>
   </ItemGroup>
+  <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Blackie</Key>
@@ -299,8 +302,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alan St. George, Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alan St</Forenames>
+      <Text>. George, Officer, Order of the British Empire</Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>

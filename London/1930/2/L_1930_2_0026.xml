@@ -223,7 +223,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Routley</Key>
-      <Text>Capt. (Quartermr.) William, D.C.M., Officer, Order of the British Empire</Text>
+      <Title>Capt. (Quartermr.)</Title>
+      <Forenames>William</Forenames>
+      <Text>, D.C.M., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +312,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Geoffrey Percival, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Geoffrey Percival</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Seaton</Key>
-      <Text>Maj. (Quartermr.) William, M.C., D.C.M., Member, Order of the British Empire</Text>
+      <Title>Maj. (Quartermr.)</Title>
+      <Forenames>William</Forenames>
+      <Text>, M.C., D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,8 +419,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sevmour</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. James Alfred, T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>James Alfred</Forenames>
+      <Text>, T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,8 +445,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpe</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Local Capt.) Horace Edmund. Member, Order of the British Empire</Text>
+      <Title>Lt. (Local Capt.)</Title>
+      <Forenames>Horace Edmund</Forenames>
+      <Text>. Member, Order of the British Empire</Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,9 +556,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smales</Key>
-      <Title>Maj. and Brevet</Title>
-      <Forenames>Lt</Forenames>
-      <Text>.001. William Clayton, D. S.O., R.A.M.C, Officer, Order of the British Empire</Text>
+      <Title>Maj. and Brevet Lt.</Title>
+      <Text>001. William Clayton, D. S.O., R.A.M.C, Officer, Order of the British Empire</Text>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,8 +582,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smiles</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Walter Dorling, CLE., D.S.O., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Walter Dorl-</Forenames>
+      <Text>ing, CLE., D.S.O., Knight</Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +641,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (local Maj.) John Warner, Officer, Order of the British Empire</Text>
+      <Title>Lt. (local Maj.)</Title>
+      <Forenames>John Warner</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +671,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Snell</Key>
-      <Text>, mander, Order of the British Empire</Text>
+      <Text>mander, Order of the British Empire</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -519,7 +519,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>, Duke of</Text>
+      <Title>Duke</Title>
+      <Text>of</Text>
       <PageNumber>1262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patrick</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +966,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peploe</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1133,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,7 +1819,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,7 +1828,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>590</PageNumber>
     </MainItem>
   </ItemGroup>

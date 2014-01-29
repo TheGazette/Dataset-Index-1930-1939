@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browning</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>61</PageNumber>
       <PageNumber>917</PageNumber>
     </MainItem>
@@ -599,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carnock</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ohandos-Pole</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +899,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>J! G.W</Text>
+      <Forenames>J</Forenames>
+      <Text>! G.W</Text>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cree</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crouch</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1618,7 +1619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daphne</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>1429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,14 +1838,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2191</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dearden</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1894,7 +1895,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devlin-Hamilton</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>

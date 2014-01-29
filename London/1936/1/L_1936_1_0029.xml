@@ -191,8 +191,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. Douglas Hammersley, Member, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. Douglas Hammersley, Member, Royal Victorian Order</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +385,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Text>, H.R.H. the Duke of, K.G., K.T., G.C.M.G., G. C.V.O., Royal Victorian Chain</Text>
+      <Title>H.R.H.</Title>
+      <Text>the Duke of, K.G., K.T., G.C.M.G., G. C.V.O., Royal Victorian Chain</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>,Major Albert, M.C, Unofficial Member, Legislative Council, Tanganyika Territory</Text>
+      <Text>Major Albert, M.C, Unofficial Member, Legislative Council, Tanganyika Territory</Text>
       <PageNumber>377</PageNumber>
     </MainItem>
   </ItemGroup>

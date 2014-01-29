@@ -70,7 +70,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestman</Key>
-      <Text>, Maj .-Gen. John Hedley Thornton, C.B.E., D. S.O., M.C., Companion, Order of the Bath</Text>
+      <Title>Maj .</Title>
+      <Text>-Gen. John Hedley Thornton, C.B.E., D. S.O., M.C., Companion, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,15 +291,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayleigh</Key>
-      <Text>, Lord, Sc.D., F.R.S., Member of Imperial College of Science and Technology</Text>
+      <Title>Lord, Sc.</Title>
+      <Forenames>D.</Forenames>
+      <Text>, F.R.S., Member of Imperial College of Science and Technology</Text>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Raymont</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (E) Frederick John, Member, Order of the British Empire</Text>
+      <Title>Lt. (E)</Title>
+      <Forenames>Frederick John</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +332,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Alfred Howard, T.D., M.Eng., A.M.I.E.E., Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Alfred Howard</Forenames>
+      <Text>, T.D., M.Eng., A.M.I.E.E., Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,16 +361,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Readman</Key>
-      <Text>, Maj. &amp; Bt. Lt.-Col. Edgar Piatt, Officer, Order of the British Empire</Text>
+      <Title>Maj.</Title>
+      <Text>&amp; Bt. Lt.-Col. Edgar Piatt, Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reason</Key>
-      <Title>Warrt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>. CI. II (R.Q.M.S.) William James, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (R.Q.M.S.) William James, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,8 +404,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Evan Thomas, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Evan Thomas</Forenames>
+      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richard</Key>
-      <Text>. Frederick Lubovius, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>Frederick Lubovius, M.B., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +600,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Qrmr.) Thomas Graham, D.C.M., Member, Order of the British Empire</Text>
+      <Title>Maj. (Qrmr.)</Title>
+      <Forenames>Thomas Graham</Forenames>
+      <Text>, D.C.M., Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +611,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (temp. Brig.) William Henry, D.S.O., O.B.E., M.C, Companion, Order of the Indian Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>William Henry</Forenames>
+      <Text>, D.S.O., O.B.E., M.C, Companion, Order of the Indian Empire</Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +630,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. (Commy.) Bertram James, Member, Order of the British Empire</Text>
+      <Title>Maj. (Commy.)</Title>
+      <Forenames>Bertram James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, ' Alfred' . Theodore Vaughan, . C.B:,. CB.E., Commander, Order of the British Empire</Text>
+      <Text>' Alfred' . Theodore Vaughan, . C.B:,. CB.E., Commander, Order of the British Empire</Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +688,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Victor Owen, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Victor Owen</Forenames>
+      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,15 +716,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>, \ The Hon. Percival Halse, B.C.L., Knight Commander, Order of the British Empire</Text>
+      <Text>\ The Hon. Percival Halse, B.C.L., Knight Commander, Order of the British Empire</Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Romer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Frank, M.R.C.S., L.R.C.P., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frank</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>

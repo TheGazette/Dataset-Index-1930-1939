@@ -3,8 +3,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Harry Edward de Robillard, D.S.O., M.C., Officer, Order of the British. Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Harry Edward</Forenames>
+      <Text>de Robillard, D.S.O., M.C., Officer, Order of the British. Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,15 +107,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Wieck</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. George Frederick Gardells, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>George Frederick Gardells</Forenames>
+      <Text>, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>Col. the Rt. Hon. Clive, Baron, G.C.B., G.C.V.O., C.S.I., Royal Victorian Chain</Text>
+      <Title>Col.</Title>
+      <Text>the Rt. Hon. Clive, Baron, G.C.B., G.C.V.O., C.S.I., Royal Victorian Chain</Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,16 +293,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. William John Adlam, M.V.O., C.G.M., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. William John Adlam, M.V.O., C.G.M., Officer, Order of the British Empire</Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willmer</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. and Brevet Col. Harvey Thew, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col. and Brevet Col.</Title>
+      <Forenames>Harvey Thew</Forenames>
+      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,9 +353,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., CI. II, C.S.M. Frederick Lloyd, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, CI. II, C.S.M. Frederick Lloyd, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +427,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Maj. Gen. Roger Cochrane, C.B., D.S.O., M.C., Knight Commander, Order of the Bath</Text>
+      <Title>Maj.</Title>
+      <Text>Gen. Roger Cochrane, C.B., D.S.O., M.C., Knight Commander, Order of the Bath</Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,8 +554,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Hall, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Hall</Forenames>
+      <Text>, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarnell</Key>
-      <Text>Davies, Robert, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>.Davies, Robert, M.B.E., Officer, Order of the British Empire</Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>King, His Majesty</Text>
+      <Title>King</Title>
+      <Text>, His Majesty</Text>
       <PageNumber>3073</PageNumber>
       <PageNumber>3296</PageNumber>
       <PageNumber>3297</PageNumber>
@@ -755,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>R.H. The Princess Beatrice</Text>
+      <Text>.R.H. The Princess Beatrice</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>

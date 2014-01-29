@@ -75,7 +75,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>, H, B</Text>
+      <Forenames>H</Forenames>
+      <Text>, B</Text>
       <PageNumber>5062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Text>, C: R. ... Wyatt, E. R. C</Text>
+      <Forenames>C</Forenames>
+      <Text>: R. ... Wyatt, E. R. C</Text>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahluwalia</Key>
-      <Text>. D. N</Text>
+      <Text>D. N</Text>
       <PageNumber>5369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boulton</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jilani</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackeown</Key>
-      <Text>,. E. 'A. Y</Text>
+      <Text>. E. 'A. Y</Text>
       <PageNumber>5501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,14 +445,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Text>. Salamat Ullah</Text>
+      <Text>Salamat Ullah</Text>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Narain</Key>
-      <Text>, S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sangham</Key>
-      <Forenames>Lai</Forenames>
+      <Title>Lai .</Title>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +600,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vance</Key>
-      <Text>, R L</Text>
+      <Forenames>R</Forenames>
+      <Text>L</Text>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1065,7 +1068,7 @@
   <ItemGroup>
     <MainItem>
       <Key>PerciVal</Key>
-      <Text>,. P. R. P... ___ ___</Text>
+      <Text>. P. R. P... ___ ___</Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1089,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spreckley</Key>
-      <Text>, 'H. M</Text>
+      <Text>'H. M</Text>
       <PageNumber>4702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1189,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>, IN. A. C</Text>
+      <Text>IN. A. C</Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,7 +1231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malleson</Key>
-      <Text>.R. St. A</Text>
+      <Text>R. St. A</Text>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,14 +1302,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Alison</Key>
-      <Text>, Sir A</Text>
+      <Title>Sir</Title>
+      <Forenames>A</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bolitho</Key>
-      <Text>. W. A. A,</Text>
+      <Text>W. A. A,</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1324,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookshank</Key>
-      <Text>. R</Text>
+      <Text>R</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morant</Key>
-      <Text>. E-L</Text>
+      <Text>E-L</Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shoppee</Key>
-      <Text>, ZD. C. G</Text>
+      <Text>ZD. C. G</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>

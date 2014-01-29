@@ -44,8 +44,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gadie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Anthony, T.D., Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Anthony</Forenames>
+      <Text>, T.D., Knight</Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,8 +138,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Grace</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Humphrey Gilbert, M.C., one of H.M. Body Guard of the Honourable Corps of Gentleman-at-Arms</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Humphrey Gilbert</Forenames>
+      <Text>, M.C., one of H.M. Body Guard of the Honourable Corps of Gentleman-at-Arms</Text>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +256,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Headlam</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Cuthbert Morley, D.S.O., O.B.E., T.D., Baronet</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Cuthbert Morley</Forenames>
+      <Text>, D.S.O., O.B.E., T.D., Baronet</Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,8 +495,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacAndrew</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cbl. Charles Glen, Knight</Text>
+      <Title>Lt.</Title>
+      <Text>-Cbl. Charles Glen, Knight</Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>, WSng-Cdr. P«rcy Eric, A.F.C, Member, Royal Victorian Order</Text>
+      <Text>WSng-Cdr. P«rcy Eric, A.F.C, Member, Royal Victorian Order</Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>

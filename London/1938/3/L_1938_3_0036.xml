@@ -36,7 +36,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stoddart</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stratheden</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +467,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +490,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temple</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1018,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1466,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>A F</Text>
+      <Forenames>A</Forenames>
+      <Text>F</Text>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitelaw</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +703,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R A. C</Text>
+      <Forenames>R</Forenames>
+      <Text>A. C</Text>
       <PageNumber>5500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1020,7 +1021,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dougall</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1063,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunderdale</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eeles</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>. R. C</Text>
+      <Text>R. C</Text>
       <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilson</Key>
-      <Text>,0. I</Text>
+      <Text>0. I</Text>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1554,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewitt</Key>
-      <Text>, F, P</Text>
+      <Forenames>F</Forenames>
+      <Text>, P</Text>
       <PageNumber>5303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,7 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Text>. C. V</Text>
+      <Text>C. V</Text>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>

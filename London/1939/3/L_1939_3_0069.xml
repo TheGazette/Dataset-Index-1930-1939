@@ -531,7 +531,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>,. A. E. F</Text>
+      <Text>. A. E. F</Text>
       <PageNumber>6116</PageNumber>
     </MainItem>
     <SubItem>
@@ -1489,7 +1489,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Text>, F, G</Text>
+      <Forenames>F</Forenames>
+      <Text>, G</Text>
       <PageNumber>6649</PageNumber>
     </MainItem>
     <SubItem>

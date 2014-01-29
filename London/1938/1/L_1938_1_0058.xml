@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clough</Key>
-      <Text>, G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>, E I. V. T</Text>
+      <Forenames>E</Forenames>
+      <Text>I. V. T</Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durrant</Key>
-      <Text>,, N. S</Text>
+      <Text>, N. S</Text>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Text>.. B. P. S</Text>
+      <Text>. B. P. S</Text>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +642,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gopal</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,14 +786,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurdial</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Guthrie</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1849</PageNumber>
       <PageNumber>1849</PageNumber>
     </MainItem>
@@ -984,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hook</Key>
-      <Text>. H</Text>
+      <Text>H</Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingall</Key>
-      <Text>,. F. H. B</Text>
+      <Text>. F. H. B</Text>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,14 +1433,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumsden</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>1085</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>. G. M</Text>
+      <Text>G. M</Text>
       <PageNumber>739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1545,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maharaj</Key>
-      <Forenames>Naharsinhji</Forenames>
+      <Title>Naharsinhji .</Title>
       <PageNumber>740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1688,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammed</Key>
-      <Forenames>Yousuf</Forenames>
+      <Title>Yousuf .</Title>
       <PageNumber>1673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,7 +1749,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morton</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>593</PageNumber>
     </MainItem>
   </ItemGroup>

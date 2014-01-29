@@ -176,7 +176,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +313,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon. Sir k</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Text>k</Text>
       <PageNumber>6083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +633,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lanark</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles Joseph Edmondstoune Cranstoun, D. S.O., T.D., J.P., D.L</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles Joseph Edmondstoune</Forenames>
+      <Text>Cranstoun, D. S.O., T.D., J.P., D.L</Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,12 +723,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Francis Garden . Poole, D.S.O., O.B.E</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Francis Garden</Forenames>
+      <Text>. Poole, D.S.O., O.B.E</Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>ADVERTISEMENTS</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Altfuldisch</Key>

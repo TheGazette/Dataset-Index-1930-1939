@@ -731,7 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedford</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bingham</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>5016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1393,7 +1393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boase</Key>
-      <Text>G: O</Text>
+      <Forenames>G</Forenames>
+      <Text>: O</Text>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>

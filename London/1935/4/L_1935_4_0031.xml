@@ -130,7 +130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Drury</Key>
-      <Text>, Miss, Order of Mercy</Text>
+      <Title>Miss</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eales</Key>
-      <Text>,' John Frederick, M:P. . for Erdington</Text>
+      <Text>' John Frederick, M:P. . for Erdington</Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Text>, . John Francis, M.P..for Kettering</Text>
+      <Text>. John Francis, M.P..for Kettering</Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +343,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elphinstone</Key>
-      <Text>, Capt. Lord, Kt., Captain General, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
+      <Title>Capt. Lord, Kt., Captain</Title>
+      <Text>General, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
       <PageNumber>7751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,8 +486,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Comdr. Reginald Thomas Herbert, M.P. for ^ Nuneaton</Text>
+      <Title>Lt.</Title>
+      <Text>-Comdr. Reginald Thomas Herbert, M.P. for ^ Nuneaton</Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,9 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Title>Col. The Rt. Hon. Sir</Title>
-      <Forenames>John</Forenames>
-      <Text>. G.C.V.O., D.S.O., M.P. for Pollok</Text>
+      <Title>Col. The Rt. Hon. Sir John.</Title>
+      <Text>G.C.V.O., D.S.O., M.P. for Pollok</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>, the Rt. Hon. William George Arthur Ormsby, M.P. for Stafford</Text>
+      <Text>the Rt. Hon. William George Arthur Ormsby, M.P. for Stafford</Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +794,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>, Mrs., Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8116</PageNumber>
     </MainItem>
   </ItemGroup>

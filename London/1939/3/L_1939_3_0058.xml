@@ -434,7 +434,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>P:</Text>
+      <Forenames>P</Forenames>
+      <Text>:</Text>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +546,8 @@
       <Key>
         <KeyDitto>___ ___ ___ :</KeyDitto>
       </Key>
-      <Text>W —</Text>
+      <Forenames>W</Forenames>
+      <Text>—</Text>
       <PageNumber>5321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +688,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>F, T. —</Text>
+      <Forenames>F</Forenames>
+      <Text>, T. —</Text>
       <PageNumber>5753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1085,7 +1088,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Provan</Key>
-      <Text>, DC</Text>
+      <Text>DC</Text>
       <PageNumber>6647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rankin</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,7 +1573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rathcreedan</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>3403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1738,7 +1741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rear</Key>
-      <Text>,' A. C</Text>
+      <Text>' A. C</Text>
       <PageNumber>6244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2059,7 +2062,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reinhold</Key>
-      <Text>, D; R. M</Text>
+      <Forenames>D</Forenames>
+      <Text>; R. M</Text>
       <PageNumber>4840</PageNumber>
       <PageNumber>6053</PageNumber>
     </MainItem>

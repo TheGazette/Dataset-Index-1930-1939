@@ -36,7 +36,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pender</Key>
-      <Text>Brevet Colonel William: Stanhope, M.B.E., Companion, Order of the Indian Empire</Text>
+      <Title>Brevet</Title>
+      <Text>Colonel William: Stanhope, M.B.E., Companion, Order of the Indian Empire</Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>Lieut.-Colonel William Henry Evered, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.</Title>
+      <Text>-Colonel William Henry Evered, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,8 +200,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poyntz</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. ^Colonel Hugh Stainton, D.S.O., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>^Colonel Hugh Stainton, D.S.O., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +282,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinan</Key>
-      <Text>Colonel (temp. Brigadier) Edward Pellew, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Colonel (temp. Brigadier)</Title>
+      <Forenames>Edward Pellew</Forenames>
+      <Text>, O.B.E., Companion, Order of the Bath</Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raghunandan</Key>
-      <Text>P r a s h a d Singh, Raja, Knight</Text>
+      <Forenames>P</Forenames>
+      <Text>r a s h a d Singh, Raja, Knight</Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +611,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knight</Forenames>
+      <Title>Knight .</Title>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,8 +630,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>. Colonel James Ronald, M.C., Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>Colonel James Ronald, M.C., Officer, Order of the British Empire</Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +648,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D u g a r d, Member, Order of the British Empire</Text>
+      <Forenames>D</Forenames>
+      <Text>u g a r d, Member, Order of the British Empire</Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>

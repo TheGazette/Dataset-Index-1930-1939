@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ilahi</Key>
-      <Forenames>Bakhsh</Forenames>
+      <Title>Bakhsh .</Title>
       <PageNumber>4974</PageNumber>
       <PageNumber>4974</PageNumber>
     </MainItem>
@@ -32,7 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jaswant</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackie</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Forenames>Akram</Forenames>
+      <Title>Akram .</Title>
       <PageNumber>5121</PageNumber>
       <PageNumber>5401</PageNumber>
     </MainItem>
@@ -273,7 +273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohd</Key>
-      <Text>Muzaffar ud Din Chughtai</Text>
+      <Text>. Muzaffar ud Din Chughtai</Text>
       <PageNumber>5121</PageNumber>
       <PageNumber>5401</PageNumber>
     </MainItem>
@@ -306,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Text>W. S</Text>
+      <Text>. W. S</Text>
       <PageNumber>4523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Narain</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prasad</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>5266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sangham</Key>
-      <Forenames>Lai</Forenames>
+      <Title>Lai .</Title>
       <PageNumber>5121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +504,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sendak</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Layton</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +720,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade-Fetherstonhaugh</Key>
-      <Text>Hon. Sir H</Text>
+      <Title>Hon. Sir</Title>
+      <Forenames>H</Forenames>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +802,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFarlan</Key>
-      <Text>R, S</Text>
+      <Forenames>R</Forenames>
+      <Text>, S</Text>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,7 +832,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacFarlan</Key>
-      <Text>R,. S</Text>
+      <Forenames>R</Forenames>
+      <Text>,. S</Text>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Text>E, R. D</Text>
+      <Forenames>E</Forenames>
+      <Text>, R. D</Text>
       <PageNumber>5191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,14 +991,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bleacklev</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thackara</Key>
-      <Text>L,</Text>
+      <Forenames>L</Forenames>
+      <Text>,</Text>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>A. C</Text>
+      <Text>. A. C</Text>
       <PageNumber>5758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>iFoster-Brown</Key>
-      <Text>R S</Text>
+      <Forenames>R</Forenames>
+      <Text>S</Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>

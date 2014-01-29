@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denton-Thompson</Key>
-      <Text>, . Merrick Arnold Bardsley, H.M. Consul at Pernambuco</Text>
+      <Text>. Merrick Arnold Bardsley, H.M. Consul at Pernambuco</Text>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>,' William Reid, R.A., Knight Commander, Royal Victorian Order</Text>
+      <Text>' William Reid, R.A., Knight Commander, Royal Victorian Order</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,15 +144,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Dugan</Key>
-      <Text>, H.E. Maj .-General Sir Winston, K.C.M.G.. C.B., D.S.O., Knight of .' Grace, Order of St. John .. of Jerusalem '</Text>
+      <Title>H.E. Maj .</Title>
+      <Text>-General Sir Winston, K.C.M.G.. C.B., D.S.O., Knight of .' Grace, Order of St. John .. of Jerusalem '</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Duggan</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Jamshedji Nasarvanji, C.I.E., O.B.E., L.M. and S., F.C.P.S. (Bombay), D.O. ... Oxon), Knight</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Jamshedji Nasarvanji</Forenames>
+      <Text>, C.I.E., O.B.E., L.M. and S., F.C.P.S. (Bombay), D.O. ... Oxon), Knight</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +177,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Eames</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Charles William, D.S.O., T.D., M.D., M.R.C.S., Serving Brother, . Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Charles William</Forenames>
+      <Text>, D.S.O., T.D., M.D., M.R.C.S., Serving Brother, . Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>, .William Stanley, C. M.G., O.B.E., H.M. Consul-General at Strasbourg</Text>
+      <Text>.William Stanley, C. M.G., O.B.E., H.M. Consul-General at Strasbourg</Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +241,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Elkins</Key>
-      <Text>, Col. (temp. Brig.) William Henry Pferingcr, D. S.O., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>William Henry Pferingcr</Forenames>
+      <Text>, D. S.O., Commander, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,8 +383,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenner</Key>
-      <Forenames>Lt</Forenames>
-      <Text>. (Asst. Commissary) Claude Harry. Member, Order of the British Empire</Text>
+      <Title>Lt. (Asst. Commissary)</Title>
+      <Forenames>Claude Harry</Forenames>
+      <Text>. Member, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,8 +409,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Donald Movie, Companion, Order of the Indian. Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Donald Movie</Forenames>
+      <Text>, Companion, Order of the Indian. Empire</Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +462,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>, Maj.-&lt;Gen. George, C. B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Maj.</Title>
+      <Text>-&lt;Gen. George, C. B.E., D.S.O., Companion, Order of the Bath</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fosbury</Key>
-      <Text>, Maj. (Commissary) John, Member, Order .of the British. Empire</Text>
+      <Title>Maj. (Commissary)</Title>
+      <Forenames>John</Forenames>
+      <Text>, Member, Order .of the British. Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +631,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Furse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Sir William Thomas, K.C.B., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Sir William Thomas, K.C.B., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,8 +655,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaboury</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Arthur, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Arthur</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,8 +672,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. The Viscount, O.B.E., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>The</Forenames>
+      <Text>Viscount, O.B.E., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
     <SubItem>

@@ -47,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dormer</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +181,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Text>S, T</Text>
+      <Forenames>S</Forenames>
+      <Text>, T</Text>
       <PageNumber>540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +479,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Paithfull</Key>
-      <Text>C: K. T</Text>
+      <Forenames>C</Forenames>
+      <Text>: K. T</Text>
       <PageNumber>1230</PageNumber>
       <PageNumber>1230</PageNumber>
     </MainItem>
@@ -1010,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gawith</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gill</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1164,7 +1167,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>H.R.H. Duke of</Text>
+      <Title>H.R.H. Duke</Title>
+      <Text>of</Text>
       <PageNumber>540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,7 +1242,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Q</Text>
+      <Forenames>Q</Forenames>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1323,7 +1327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gough</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1341,7 +1345,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>608</PageNumber>
       <PageNumber>608</PageNumber>
     </MainItem>

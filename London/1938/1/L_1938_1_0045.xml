@@ -470,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cliff-McCulloch</Key>
-      <Text>. E. M. W</Text>
+      <Text>E. M. W</Text>
       <PageNumber>587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -909,14 +909,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Coverdale</Key>
-      <Text>, T, G</Text>
+      <Forenames>T</Forenames>
+      <Text>, G</Text>
       <PageNumber>667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cowdy</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +965,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Craig</Key>
-      <Text>, I). E</Text>
+      <Forenames>I</Forenames>
+      <Text>). E</Text>
       <PageNumber>1671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronin</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1083,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowsley</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darwell</Key>
-      <Text>. T. H</Text>
+      <Text>T. H</Text>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Day</Key>
-      <Text>. W. R</Text>
+      <Text>W. R</Text>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dormer</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1715,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dove</Key>
-      <Text>,.A. J. H</Text>
+      <Text>.A. J. H</Text>
       <PageNumber>35</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,7 +1782,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drew</Key>
-      <Text>,.G. S</Text>
+      <Text>.G. S</Text>
       <PageNumber>589</PageNumber>
     </MainItem>
   </ItemGroup>

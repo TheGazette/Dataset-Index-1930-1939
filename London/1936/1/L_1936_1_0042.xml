@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quilliam</Key>
-      <Text>, CD</Text>
+      <Text>CD</Text>
       <PageNumber>1164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rolls</Key>
-      <Text>, ,S. P. A</Text>
+      <Text>,S. P. A</Text>
       <PageNumber>1382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>, S. M</Text>
+      <Text>S. M</Text>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,8 +599,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Routh</Key>
-      <Forenames>It</Forenames>
-      <Text>. M</Text>
+      <Title>It.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,14 +699,14 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, M. J</Text>
+      <Text>Aubyn, M. J</Text>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. George, F. F. B</Text>
+      <Text>George, F. F. B</Text>
       <PageNumber>975</PageNumber>
       <PageNumber>1164</PageNumber>
     </MainItem>
@@ -839,7 +839,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>532</PageNumber>
       <PageNumber>909</PageNumber>
     </MainItem>
@@ -902,7 +902,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Seton-Browne</Key>
-      <Text>, C L</Text>
+      <Forenames>C</Forenames>
+      <Text>L</Text>
       <PageNumber>1740</PageNumber>
       <PageNumber>1899</PageNumber>
     </MainItem>
@@ -1025,7 +1026,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherman</Key>
-      <Text>, C J. C</Text>
+      <Forenames>C</Forenames>
+      <Text>J. C</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1188,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sly</Key>
-      <Text>, H R</Text>
+      <Forenames>H</Forenames>
+      <Text>R</Text>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1290,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K P</Text>
+      <Forenames>K</Forenames>
+      <Text>P</Text>
       <PageNumber>1308</PageNumber>
       <PageNumber>1308</PageNumber>
     </MainItem>
@@ -1362,14 +1366,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Southern</Key>
-      <Text>, R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southev</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1444,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spooner</Key>
-      <Text>, C O</Text>
+      <Forenames>C</Forenames>
+      <Text>O</Text>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stalkartt</Key>
-      <Text>, C M. B</Text>
+      <Forenames>C</Forenames>
+      <Text>M. B</Text>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,7 +1766,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokes</Key>
-      <Text>, C E. N</Text>
+      <Forenames>C</Forenames>
+      <Text>E. N</Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1776,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>E L</Text>
+      <Forenames>E</Forenames>
+      <Text>L</Text>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1853,14 +1863,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>, C A</Text>
+      <Forenames>C</Forenames>
+      <Text>A</Text>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Strong</Key>
-      <Text>, 0. C</Text>
+      <Text>0. C</Text>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>

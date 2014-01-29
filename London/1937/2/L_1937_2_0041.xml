@@ -58,9 +58,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nightingirl</Key>
-      <Title>Wt.</Title>
-      <Forenames>Offr</Forenames>
-      <Text>., Frederick, Member, Order of the British Empire</Text>
+      <Title>Wt. Offr.</Title>
+      <Text>, Frederick, Member, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Text>Capt. the Rt. Hon. Bernard Marmaduke, Duke of, Knight of the Most Noble Order or the Garter</Text>
+      <Title>Capt.</Title>
+      <Text>the Rt. Hon. Bernard Marmaduke, Duke of, Knight of the Most Noble Order or the Garter</Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +132,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nujgent</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Terence Edmund Gascoigne, M.V.O., M.C., Commander, Royal Victorian Order</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Terence Edmund Gascoigne</Forenames>
+      <Text>, M.V.O., M.C., Commander, Royal Victorian Order</Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>

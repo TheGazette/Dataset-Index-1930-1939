@@ -353,14 +353,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,14 +374,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cattanach</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leggat</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,14 +444,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pope</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowland</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>7256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crellin</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -747,7 +747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7255</PageNumber>
       <PageNumber>7256</PageNumber>
     </MainItem>
@@ -1023,7 +1023,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Text>J B. de W</Text>
+      <Forenames>J</Forenames>
+      <Text>B. de W</Text>
       <PageNumber>7255</PageNumber>
       <PageNumber>7256</PageNumber>
     </MainItem>
@@ -1213,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,7 +1273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilberforce</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1352,7 +1353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batterbury</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,14 +1597,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bye</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>8328</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>W B</Text>
+      <Forenames>W</Forenames>
+      <Text>B</Text>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>8328</PageNumber>
     </MainItem>
   </ItemGroup>

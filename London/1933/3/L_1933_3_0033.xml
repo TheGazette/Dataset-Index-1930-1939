@@ -81,7 +81,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitelaw</Key>
-      <Text>, R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,7 +1086,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elworthy</Key>
-      <Text>, 8. C</Text>
+      <Text>8. C</Text>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1233,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>, C F. S</Text>
+      <Forenames>C</Forenames>
+      <Text>F. S</Text>
       <PageNumber>5953</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1308,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>, C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,7 +1424,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>K Green, J. H</Text>
+      <Forenames>K</Forenames>
+      <Text>Green, J. H</Text>
       <PageNumber>6119</PageNumber>
     </MainItem>
   </ItemGroup>

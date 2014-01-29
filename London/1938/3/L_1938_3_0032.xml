@@ -508,7 +508,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>P = M</Text>
+      <Forenames>P</Forenames>
+      <Text>= M</Text>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunburnholme</Key>
-      <Text>Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,7 +1455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nunneley</Key>
-      <Text>D; C. W</Text>
+      <Forenames>D</Forenames>
+      <Text>; C. W</Text>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,7 +1880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxley</Key>
-      <Text>T. F. v</Text>
+      <Text>. T. F. v</Text>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>

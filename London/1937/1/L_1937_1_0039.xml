@@ -419,16 +419,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Studd</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col Roy Farquhar, M.C., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Title>Lt.</Title>
+      <Text>-Col Roy Farquhar, M.C., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Suhrawardy</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Sir Hassan, O.B.E., M.D., F.R.C.S.I., Associate Commander, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. Sir</Title>
+      <Forenames>Hassan</Forenames>
+      <Text>, O.B.E., M.D., F.R.C.S.I., Associate Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>

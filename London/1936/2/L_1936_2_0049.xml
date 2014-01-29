@@ -325,7 +325,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, N</Text>
+      <Forenames>J</Forenames>
+      <Text>, N</Text>
       <PageNumber>2456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Somerville</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprawson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2455</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -775,7 +776,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stair</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,14 +791,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanger</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2699</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>3228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +974,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Suddes</Key>
-      <Text>R, P. E</Text>
+      <Forenames>R</Forenames>
+      <Text>, P. E</Text>
       <PageNumber>2897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1075,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>3524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,7 +1160,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1359,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Truman</Key>
-      <Text>E,. K</Text>
+      <Forenames>E</Forenames>
+      <Text>,. K</Text>
       <PageNumber>3150</PageNumber>
     </MainItem>
   </ItemGroup>

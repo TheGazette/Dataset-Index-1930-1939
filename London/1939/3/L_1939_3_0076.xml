@@ -17,7 +17,6 @@
       <PageNumber>575</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>NAVAL NURSING SERVICE</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Arthur</Key>
@@ -629,7 +628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildman-Lushington</Key>
-      <Text>, C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>6193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +666,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AUingham</Key>
-      <Text>, HP</Text>
+      <Text>HP</Text>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +687,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Text>, K</Text>
+      <Forenames>K</Forenames>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +848,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansfield</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>6129</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1541,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J: R-</Text>
+      <Forenames>J</Forenames>
+      <Text>: R-</Text>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>

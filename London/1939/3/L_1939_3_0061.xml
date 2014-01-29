@@ -33,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson-Smith</Key>
-      <Text>, A: '</Text>
+      <Forenames>A</Forenames>
+      <Text>: '</Text>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +260,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T; G</Text>
+      <Forenames>T</Forenames>
+      <Text>; G</Text>
       <PageNumber>5749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +300,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>A: D</Text>
+      <Forenames>A</Forenames>
+      <Text>: D</Text>
       <PageNumber>6245</PageNumber>
       <PageNumber>6245</PageNumber>
     </MainItem>
@@ -308,7 +311,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A: F</Text>
+      <Forenames>A</Forenames>
+      <Text>: F</Text>
       <PageNumber>5546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +321,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>A: G</Text>
+      <Forenames>A</Forenames>
+      <Text>: G</Text>
       <PageNumber>4837</PageNumber>
       <PageNumber>5681</PageNumber>
     </MainItem>
@@ -381,7 +386,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>D:</Text>
+      <Forenames>D</Forenames>
+      <Text>:</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +416,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>F: S. ' ...'</Text>
+      <Forenames>F</Forenames>
+      <Text>: S. ' ...'</Text>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -763,7 +770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sone</Key>
-      <Text>, -T. E. ... . ... G.</Text>
+      <Text>-T. E. ... . ... G.</Text>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +840,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southward</Key>
-      <Text>, E: N</Text>
+      <Forenames>E</Forenames>
+      <Text>: N</Text>
       <PageNumber>4757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,14 +951,15 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>H, S</Text>
+      <Forenames>H</Forenames>
+      <Text>, S</Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sprigge</Key>
-      <Text>,S. J. R. ... ... .;:</Text>
+      <Text>S. J. R. ... ... .;:</Text>
       <PageNumber>4925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1127,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanford</Key>
-      <Text>, J, K</Text>
+      <Forenames>J</Forenames>
+      <Text>, K</Text>
       <PageNumber>5683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1170,8 @@
       <Key>
         <KeyDitto>— ___</KeyDitto>
       </Key>
-      <Text>R: K.'</Text>
+      <Forenames>R</Forenames>
+      <Text>: K.'</Text>
       <PageNumber>5848</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1468,7 +1479,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>G ' H</Text>
+      <Forenames>G</Forenames>
+      <Text>' H</Text>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1644,7 +1656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stidston-Broadbent</Key>
-      <Text>,, ,C. W</Text>
+      <Text>, ,C. W</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

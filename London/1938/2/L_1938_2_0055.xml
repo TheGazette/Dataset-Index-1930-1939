@@ -201,7 +201,6 @@
     <KeyDitto>___ ___ . ..</KeyDitto>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
-    <SubCategoryTitle>J! L. ... ..</SubCategoryTitle>
     <KeyDitto>___ ___ ...</KeyDitto>
     <KeyDitto>___ ___ ...</KeyDitto>
     <SubItem>
@@ -212,7 +211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>J C. F. LI</Text>
+      <Forenames>J</Forenames>
+      <Text>C. F. LI</Text>
       <PageNumber>4172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +266,6 @@
     <KeyDitto>___ ___ ..</KeyDitto>
     <KeyDitto>___ ___ ___ ..</KeyDitto>
     <KeyDitto>___ ___ ..</KeyDitto>
-    <SubCategoryTitle>J. N. B. ..</SubCategoryTitle>
     <KeyDitto>___ ___ ..</KeyDitto>
     <KeyDitto>___ ___ . .</KeyDitto>
     <KeyDitto>___ ___ ___ ..</KeyDitto>
@@ -1235,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harriss</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>2157</PageNumber>
       <PageNumber>2158</PageNumber>
     </MainItem>
@@ -1243,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harrison</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>2157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>4086</PageNumber>
       <PageNumber>4087</PageNumber>
     </MainItem>

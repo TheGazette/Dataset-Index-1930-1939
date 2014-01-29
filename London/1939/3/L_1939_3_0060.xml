@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>, Hon., L. O,</Text>
+      <Title>Hon.</Title>
+      <Text>, L. O,</Text>
       <PageNumber>5989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +13,8 @@
       <Key>
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
-      <Text>P, C. E</Text>
+      <Forenames>P</Forenames>
+      <Text>, C. E</Text>
       <PageNumber>5406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +186,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sadler</Key>
-      <Text>,. E. C. K</Text>
+      <Text>. E. C. K</Text>
       <PageNumber>5210</PageNumber>
       <PageNumber>5210</PageNumber>
     </MainItem>
@@ -502,7 +504,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>5547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +536,7 @@
       <Key>
         <KeyDitto>___ ___ ___ '.</KeyDitto>
       </Key>
-      <Text>V</Text>
+      <Forenames>V</Forenames>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +609,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>J, C</Text>
+      <Forenames>J</Forenames>
+      <Text>, C</Text>
       <PageNumber>4761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scanlan</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -660,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarsdale</Key>
-      <Forenames>Visct</Forenames>
+      <Title>Visct.</Title>
       <PageNumber>6492</PageNumber>
       <PageNumber>6492</PageNumber>
     </MainItem>
@@ -711,14 +714,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Schroter</Key>
-      <Text>, E:</Text>
+      <Forenames>E</Forenames>
+      <Text>:</Text>
       <PageNumber>6065</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Schulman</Key>
-      <Text>, H; E. '</Text>
+      <Forenames>H</Forenames>
+      <Text>; E. '</Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -765,7 +770,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D '</Text>
+      <Forenames>D</Forenames>
+      <Text>'</Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1304,7 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharp</Key>
-      <Text>,. E. C</Text>
+      <Text>. E. C</Text>
       <PageNumber>5751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpley</Key>
-      <Text>,-R. ... . —</Text>
+      <Text>-R. ... . —</Text>
       <PageNumber>4575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,7 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherlock</Key>
-      <Text>, 'R</Text>
+      <Text>'R</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,7 +1794,8 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Text>T: L</Text>
+      <Forenames>T</Forenames>
+      <Text>: L</Text>
       <PageNumber>6408</PageNumber>
     </MainItem>
   </ItemGroup>

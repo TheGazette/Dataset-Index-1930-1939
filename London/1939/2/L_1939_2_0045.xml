@@ -28,9 +28,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittingham</Key>
-      <Title>Warrt. Offr.</Title>
-      <Forenames>Cl</Forenames>
-      <Text>. II (C.S.M.) Leslie Abner, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr. Cl.</Title>
+      <Text>II (C.S.M.) Leslie Abner, Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,8 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wickins</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. George Cradock, T.D., Commander, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. George Cradock, T.D., Commander, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,14 +97,18 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>Col. (Hon. Brig.) John Shann, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Title>Col. (Hon. Brig.)</Title>
+      <Forenames>John Shann</Forenames>
+      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Text>, Col. (temp. Brig.) Harry, D.S.O., M.C., T.D., Commander, Order of the British Empire</Text>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Harry</Forenames>
+      <Text>, D.S.O., M.C., T.D., Commander, Order of the British Empire</Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,8 +164,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Gen. Guy Charles, C.B., C.M.G., D.S.O:, Knight Commander, Order of the Bath</Text>
+      <Title>Lt.</Title>
+      <Text>-Gen. Guy Charles, C.B., C.M.G., D.S.O:, Knight Commander, Order of the Bath</Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +174,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>Capt. ( Inspr. of R.E. Machy.) Harold Ernest, Member, Order of the British Empire</Text>
+      <Title>Capt. ( Inspr. of R.E. Machy.)</Title>
+      <Forenames>Harold Ernest</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,8 +434,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wycisk</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. &amp; Bt. Col. Godfrey Charles, T.D., Officer, Order ' of . the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Text>&amp; Bt. Col. Godfrey Charles, T.D., Officer, Order ' of . the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>, P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>3972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +730,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurney</Key>
-      <Text>, L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>4153</PageNumber>
     </MainItem>
   </ItemGroup>

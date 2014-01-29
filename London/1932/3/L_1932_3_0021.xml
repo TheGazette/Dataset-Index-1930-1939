@@ -51,7 +51,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhohhe</Key>
-      <Text>,' I. W. F</Text>
+      <Text>' I. W. F</Text>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +183,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowke</Key>
-      <Text>,' R. H. S</Text>
+      <Text>' R. H. S</Text>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +354,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>. G. TJ</Text>
+      <Text>G. TJ</Text>
       <PageNumber>4560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +480,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Halliday</Key>
-      <Text>, R,. J. R</Text>
+      <Forenames>R</Forenames>
+      <Text>,. J. R</Text>
       <PageNumber>4704</PageNumber>
     </MainItem>
   </ItemGroup>

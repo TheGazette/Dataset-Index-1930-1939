@@ -213,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,14 +699,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Battersby</Key>
-      <Text>C W</Text>
+      <Forenames>C</Forenames>
+      <Text>W</Text>
       <PageNumber>3501</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Battiscombe</Key>
-      <Text>C R</Text>
+      <Forenames>C</Forenames>
+      <Text>R</Text>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +722,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumont-Nesbitt</Key>
-      <Text>F G</Text>
+      <Forenames>F</Forenames>
+      <Text>G</Text>
       <PageNumber>3348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,7 +1271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campion</Key>
-      <Text>J&gt;. J. M</Text>
+      <Forenames>J</Forenames>
+      <Text>&gt;. J. M</Text>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>

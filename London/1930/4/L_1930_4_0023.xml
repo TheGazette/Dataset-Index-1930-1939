@@ -108,7 +108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdy</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +712,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>J Bannerman, D. A. H</Text>
+      <Forenames>J</Forenames>
+      <Text>Bannerman, D. A. H</Text>
       <PageNumber>7176</PageNumber>
     </MainItem>
   </ItemGroup>

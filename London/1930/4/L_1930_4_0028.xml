@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wren</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underhill</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdare</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>7058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,28 +274,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Afbson</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>8387</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Acton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Adamson</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,14 +332,14 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>6320</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Allan</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>8000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allenby</Key>
-      <Text>Viscount</Text>
+      <Title>Viscount</Title>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +428,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>S °</Text>
+      <Forenames>S</Forenames>
+      <Text>°</Text>
       <PageNumber>258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>V W</Text>
+      <Forenames>V</Forenames>
+      <Text>W</Text>
       <PageNumber>7579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Annandale</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnott</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,14 +498,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashley</Key>
-      <Text>Lord</Text>
+      <Title>Lord</Title>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>7768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,14 +754,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellamy</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>7058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>7058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennette</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -907,7 +909,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>7578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1011,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R B</Text>
+      <Forenames>R</Forenames>
+      <Text>B</Text>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,14 +1040,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Breadalbane</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>8388</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brent</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>6019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1210,7 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>D; E</Text>
+      <Forenames>D</Forenames>
+      <Text>; E</Text>
       <PageNumber>6403</PageNumber>
       <PageNumber>6841</PageNumber>
     </MainItem>
@@ -1313,7 +1318,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Oave-Orme</Key>
-      <Text>R, W</Text>
+      <Forenames>R</Forenames>
+      <Text>, W</Text>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,7 +1577,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalhousie</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,7 +1672,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dent</Key>
-      <Text>W, H. N</Text>
+      <Forenames>W</Forenames>
+      <Text>, H. N</Text>
       <PageNumber>7891</PageNumber>
       <PageNumber>8258</PageNumber>
     </MainItem>

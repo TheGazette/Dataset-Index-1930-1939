@@ -647,7 +647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ede</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>5189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +885,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greene</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,7 +922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>5189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1047,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1126,14 +1126,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Howse</Key>
-      <Text>R D</Text>
+      <Forenames>R</Forenames>
+      <Text>D</Text>
       <PageNumber>4605</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Howson</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1373,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lalla</Key>
-      <Forenames>Rawat</Forenames>
+      <Title>Rawat .</Title>
       <PageNumber>6144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1607,7 +1608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>5611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Menard</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milman</Key>
-      <Text>D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>5479</PageNumber>
     </MainItem>
   </ItemGroup>

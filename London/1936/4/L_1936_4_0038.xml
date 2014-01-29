@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sivewright</Key>
-      <Text>,' R. H. V</Text>
+      <Text>' R. H. V</Text>
       <PageNumber>8007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Melville</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thaxter</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>8367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colston</Key>
-      <Text>, F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7571</PageNumber>
     </MainItem>
   </ItemGroup>

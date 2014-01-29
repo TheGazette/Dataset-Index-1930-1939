@@ -80,7 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>, ' Staff Serg.-Maj. Richard Bird, Member, Order of the British Empire</Text>
+      <Text>' Staff Serg.-Maj. Richard Bird, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>, . Maj. Grahame, Officer, . .Order . of. the British Empire</Text>
+      <Text>. Maj. Grahame, Officer, . .Order . of. the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,15 +319,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Cdr. William John Adlam, C.G.M., Member, Royal Victorian Order</Text>
+      <Title>Lt.</Title>
+      <Text>-Cdr. William John Adlam, C.G.M., Member, Royal Victorian Order</Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>.O'Connor, Mrs. Hyacinth, Officer, Order of St. John of Jerusalem</Text>
+      <Text>O'Connor, Mrs. Hyacinth, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,8 +378,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wodehouse</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Robert Elmer, O.B.E., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Robert Elmer</Forenames>
+      <Text>, O.B.E., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,8 +450,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Forenames>Lt</Forenames>
-      <Text>.-Col. Macleod, Companion, Order.of the Indian Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Macleod</Forenames>
+      <Text>, Companion, Order.of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +476,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>, H:R.H. the Duke of, K.G., K.T., G.C.M.G., G. C.V.O., Knight of the Order of Saint Patrick</Text>
+      <Forenames>H</Forenames>
+      <Text>:R.H. the Duke of, K.G., K.T., G.C.M.G., G. C.V.O., Knight of the Order of Saint Patrick</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
     <SubItem>
@@ -715,7 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burrowes</Key>
-      <Text>, A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>, W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>1657</PageNumber>
     </MainItem>
   </ItemGroup>

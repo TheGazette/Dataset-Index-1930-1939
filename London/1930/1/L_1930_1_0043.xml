@@ -59,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +136,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yadunath</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,14 +258,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Biiitendra</Key>
-      <Forenames>Basu</Forenames>
+      <Title>Basu .</Title>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chandra</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +472,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nath</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>1147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newcomb</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prasad</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,14 +591,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sen</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shanker</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +873,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smyth</Key>
-      <Text>S K</Text>
+      <Forenames>S</Forenames>
+      <Text>K</Text>
       <PageNumber>1220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,14 +913,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>F R</Text>
+      <Forenames>F</Forenames>
+      <Text>R</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Berthon</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1055,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1241,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borrett</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,14 +1278,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Frederick</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grantham</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1370,7 +1372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1414,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Liddicoat</Key>
-      <Text>N</Text>
+      <Forenames>N</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

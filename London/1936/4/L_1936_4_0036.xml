@@ -311,7 +311,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarborough</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>8123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ashfield</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddington</Key>
-      <Text>, Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>7738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +561,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardee</Key>
-      <Text>, Lord</Text>
+      <Title>Lord .</Title>
       <PageNumber>7821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jephson</Key>
-      <Text>, j. A. H</Text>
+      <Text>j. A. H</Text>
       <PageNumber>7128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1183,7 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdul</Key>
-      <Forenames>Rahman</Forenames>
+      <Title>Rahman .</Title>
       <PageNumber>6436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Afif</Key>
-      <Forenames>Khan</Forenames>
+      <Title>Khan .</Title>
       <PageNumber>7349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaman</Key>
-      <Forenames>Singh</Forenames>
+      <Title>Singh .</Title>
       <PageNumber>7821</PageNumber>
     </MainItem>
   </ItemGroup>

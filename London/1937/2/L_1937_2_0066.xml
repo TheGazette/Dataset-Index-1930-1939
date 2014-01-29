@@ -111,7 +111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McManus</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quayle</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckley</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>3752</PageNumber>
       <PageNumber>3923</PageNumber>
     </MainItem>
@@ -497,7 +497,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Text>H.R.H. Duke .of</Text>
+      <Title>H.R.H. Duke .</Title>
+      <Text>of</Text>
       <PageNumber>3432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +648,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>Hon. M</Text>
+      <Title>Hon.</Title>
+      <Forenames>M</Forenames>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -778,7 +780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austin</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -813,7 +815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>2379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baron</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1037,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>D&lt; H</Text>
+      <Forenames>D</Forenames>
+      <Text>&lt; H</Text>
       <PageNumber>3250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,7 +1098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bicknell</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>3251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,7 +1540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bundock</Key>
-      <Text>E. W</Text>
+      <Text>. E. W</Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>

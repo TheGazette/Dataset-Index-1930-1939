@@ -528,7 +528,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alvey</Key>
-      <Text>, W: E</Text>
+      <Forenames>W</Forenames>
+      <Text>: E</Text>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +602,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>S</Text>
+      <Forenames>S</Forenames>
       <PageNumber>3708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1019,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
-      <Text>,' J. K. ... .'</Text>
+      <Text>' J. K. ... .'</Text>
       <PageNumber>4359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1121,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1130,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>4354</PageNumber>
     </MainItem>
   </ItemGroup>
