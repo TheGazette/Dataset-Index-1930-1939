@@ -195,7 +195,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden and Seaford, Lady. C.B.E, Commander, Order of St. John of Jerusalem</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>and Seaford, Lady. C.B.E, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +284,9 @@
       </Key>
       <Title>Hon.</Title>
       <Forenames>Wilfrid Selwyn Kent</Forenames>
-      <Text>, M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +432,9 @@
       <Key>Innes-Ker</Key>
       <Title>Lt.-Col. Lord</Title>
       <Forenames>Alastair Robert</Forenames>
-      <Text>, D.S.O, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +469,9 @@
       <Key>Jackson</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, M.A, . M.B, M.P, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +660,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Walter Burford</Forenames>
-      <Text>, C.M.G., M.B, Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +699,9 @@
     <MainItem>
       <Key>Johore</Key>
       <Forenames>H. H. Ibrahim</Forenames>
-      <Text>, Sultan of, G.C.M.G., K.B.E, Hon. Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>

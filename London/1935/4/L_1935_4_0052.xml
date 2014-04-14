@@ -343,7 +343,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bees</Key>
-      <Text>. H. G</Text>
+      <Forenames>H. G</Forenames>
       <PageNumber>7416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. G. F</Text>
+      <Forenames>G. F</Forenames>
       <PageNumber>6974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Albrow</Key>
-      <Text>. H. V</Text>
+      <Forenames>H. V.</Forenames>
       <PageNumber>7513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allison</Key>
-      <Text>. D. B</Text>
+      <Forenames>D. B.</Forenames>
       <PageNumber>7169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. G. D</Text>
+      <Forenames>G. D.</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +685,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barraclough</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +715,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrington</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'B. S</Text>
+      <Forenames>M. O'B</Forenames>
+      <Text>. S</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -939,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boffee</Key>
-      <Text>. N. M</Text>
+      <Forenames>N. M</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1012,7 +1012,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brackenridge</Key>
-      <Text>. G. K</Text>
+      <Forenames>G. K</Forenames>
       <PageNumber>7169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,21 +1094,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>6474</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>. R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bromwich</Key>
-      <Text>. H. F</Text>
+      <Forenames>H. F.</Forenames>
       <PageNumber>7336</PageNumber>
       <PageNumber>7337</PageNumber>
     </MainItem>
@@ -1116,7 +1116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brookes</Key>
-      <Text>. W. D</Text>
+      <Forenames>W. D.</Forenames>
       <PageNumber>6475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,21 +1171,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Bugge</Key>
-      <Text>. F. H</Text>
+      <Forenames>F. H .</Forenames>
       <PageNumber>6303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bullock</Key>
-      <Text>. H. V</Text>
+      <Forenames>H. V</Forenames>
       <PageNumber>7957</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Running</Key>
-      <Text>. R, J</Text>
+      <Forenames>R</Forenames>
+      <Text>, J</Text>
       <PageNumber>7957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1199,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burling</Key>
-      <Text>. E. J. P</Text>
+      <Forenames>E. J. P</Forenames>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,9 +1742,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. R. F</Text>
+      <Key>de Freitas</Key>
+      <Forenames>W. A. A.</Forenames>
+      <PageNumber>6142</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>A. R. F.</Forenames>
       <PageNumber>6474</PageNumber>
       <PageNumber>6475</PageNumber>
       <PageNumber>6977</PageNumber>

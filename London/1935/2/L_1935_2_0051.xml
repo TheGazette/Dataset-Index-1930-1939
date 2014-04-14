@@ -264,7 +264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>E. F</Text>
+      <Forenames>E. F.</Forenames>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,8 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,14 +769,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>K. M</Text>
+      <Forenames>K. M</Forenames>
       <PageNumber>3050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lewis-Barned</Key>
-      <Forenames>De S. H.</Forenames>
+      <Title>De S.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>3049</PageNumber>
       <PageNumber>3864</PageNumber>
     </MainItem>
@@ -939,7 +939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lorimer</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,7 +1062,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McBride</Key>
-      <Text>T. T</Text>
+      <Forenames>T. T.</Forenames>
       <PageNumber>2318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1097,7 +1097,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>C. S</Text>
+      <Forenames>C. S.</Forenames>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McGildowny</Key>
-      <Text>H. O</Text>
+      <Forenames>H. O</Forenames>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,14 +1186,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mcintosh</Key>
-      <Text>A. D</Text>
+      <Forenames>A. D.</Forenames>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackenzie</Key>
-      <Text>C. B</Text>
+      <Forenames>C. B</Forenames>
       <PageNumber>2317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,7 +1229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>A. G. L</Text>
+      <Forenames>A. G. L</Forenames>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McMurtrie</Key>
-      <Text>G. D. J</Text>
+      <Forenames>G. D. J</Forenames>
       <PageNumber>2440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1301,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Man</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M</Forenames>
       <PageNumber>3049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1374,7 +1374,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners-Smith</Key>
-      <Text>L. C,</Text>
+      <Forenames>L. C</Forenames>
+      <Text>,</Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>J. F. C</Text>
+      <Forenames>J. F. C.</Forenames>
       <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>

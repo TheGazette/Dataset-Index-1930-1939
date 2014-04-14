@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Pincent</Key>
       <Forenames>Ellen Frances</Forenames>
-      <Text>, Mrs., C.B.E., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,12 @@
       <Key>PiponVice-</Key>
       <Title>Admiral</Title>
       <Forenames>James Murray</Forenames>
-      <Text>, C.B., C.M.G., M.V.O., O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,8 +44,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plender</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Commander, Order of St. John of Jerusalem</Text>
+      <Title>The Lady, Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,14 +53,17 @@
     <MainItem>
       <Key>Plummer</Key>
       <Forenames>Wilfrid Henry Coates</Forenames>
-      <Text>, O.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Forenames>The Countess</Forenames>
+      <Title>The</Title>
+      <Forenames>Countess</Forenames>
       <Text>of, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
@@ -137,7 +147,10 @@
     <MainItem>
       <Key>Popham</Key>
       <Forenames>Henry Bradshaw</Forenames>
-      <Text>, C.M.G., M.B.E., Governor and Commander-in-Chief, Windward Islands and Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +159,9 @@
       <Key>Porter</Key>
       <Title>Lt.-Col. and Brevet Col.</Title>
       <Forenames>Edward John William</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +170,9 @@
       <Key>Pott</Key>
       <Title>Miss</Title>
       <Forenames>Gladys Sydney</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +216,9 @@
     <MainItem>
       <Key>Pratt</Key>
       <Forenames>Eldon</Forenames>
-      <Text>, M.D., M.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +245,10 @@
       <Key>Preston</Key>
       <Title>Col.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, M.C., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +295,10 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>John Hedley Thornton</Forenames>
-      <Text>, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +314,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Princess</Key>
-      <Text>'Royal, H.R.H., Dame Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +365,10 @@
       <Key>Purdon</Key>
       <Title>Col.</Title>
       <Forenames>William Brooke</Forenames>
-      <Text>, D.S.O., O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +376,9 @@
     <MainItem>
       <Key>Pye</Key>
       <Forenames>David Randall</Forenames>
-      <Text>, M.A., Sc.D., M.I.M.E., F.R.A.E.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +411,9 @@
     <MainItem>
       <Key>Rackham</Key>
       <Forenames>Bernard</Forenames>
-      <Text>, F.S.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +433,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, K.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +476,11 @@
     <MainItem>
       <Key>Ramsay</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral The Hon. Sir Alexander Robert Maule, K.C.V.O., C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +489,9 @@
       <Key>Rankin</Key>
       <Title>Sqdn.</Title>
       <Forenames>Leader Archi-</Forenames>
-      <Text>bald James, A.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +499,9 @@
     <MainItem>
       <Key>Raper</Key>
       <Forenames>Horace Walter</Forenames>
-      <Text>, O.B.E., Nominated Unofficial Member, Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +526,9 @@
       <Key>Rea</Key>
       <Title>Sir</Title>
       <Forenames>Walter Russell</Forenames>
-      <Text>, Bt., Baron Rea of Eskdale 3P75</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +536,9 @@
     <MainItem>
       <Key>Read</Key>
       <Forenames>Alexander Llewellyn</Forenames>
-      <Text>, M.V.O., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +579,9 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>George Thomas</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +600,10 @@
       <Key>Reilly</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Bernard Rawdon</Forenames>
-      <Text>, K.C.M.G., CLE., O.B.E., Governor and Commander-in-Chief, Colony and Protectorate of Aden</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +670,10 @@
     <MainItem>
       <Key>Richardson</Key>
       <Forenames>Air Commodore Albert Victor John</Forenames>
-      <Text>, O.B.E., M.B., B.Ch., D.P.H., K.H.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>

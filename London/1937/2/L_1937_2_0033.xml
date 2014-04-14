@@ -28,8 +28,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Alfred Englefield, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Alfred Englefield</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +43,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Alfred William</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +76,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Owain</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +117,9 @@
       <Key>Evetts</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>John Fullerton</Forenames>
-      <Text>, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +143,10 @@
     <MainItem>
       <Key>Exeter</Key>
       <Forenames>William Thomas Brown-</Forenames>
-      <Text>low, Marquess of, C.M.G., T.D., Knight of the Most Noble Order of the Garter</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +180,10 @@
       <Key>Faulkner</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, C.B., C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +208,9 @@
       <Key>Ferguson</Key>
       <Title>Sir</Title>
       <Forenames>Henry Lindo</Forenames>
-      <Text>, C. M.G., M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +218,9 @@
     <MainItem>
       <Key>Fergusson</Key>
       <Forenames>John Donald Bal-</Forenames>
-      <Text>four, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +237,9 @@
       <Key>Fetherston-Godley</Key>
       <Title>Maj.</Title>
       <Forenames>Francis William Crewe</Forenames>
-      <Text>, O.B.E., D. L., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -227,7 +249,9 @@
       <Key>Fettes</Key>
       <Title>Maj.</Title>
       <Forenames>David</Forenames>
-      <Text>, M.B., F.R.C.S., Edin., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +287,11 @@
     <MainItem>
       <Key>Finlayson</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Robert Gordon, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +301,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Sydney Walter</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem ... Fisk, Ernest Thomas, A.M.I.E. (Aust.), Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,15 +332,20 @@
       <Key>Forbes</Key>
       <Title>Col. The Hon.</Title>
       <Forenames>Bertram Aloysius</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Wilbraham Tennyson Randle. C.B., Nominated Member, Executive Council of Malta</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Wilbraham Tennyson Randle</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +378,9 @@
       <Key>Forster</Key>
       <Title>Sir</Title>
       <Forenames>Samuel John</Forenames>
-      <Text>, O.B.E., Unofficial Member of Legislative Council of the Gambia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +389,9 @@
       <Key>Fosbury</Key>
       <Title>Maj. (Commissary)</Title>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +400,9 @@
       <Key>Fowle</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Trenchard Craven William</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +427,9 @@
     <MainItem>
       <Key>Foxon</Key>
       <Forenames>George Thomas</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +437,11 @@
     <MainItem>
       <Key>Frankau</Key>
       <Forenames>Claude H. S.</Forenames>
-      <Text>, C.B.E., D.S.O., F.R.C.S., L.R.C.P., Member of Civil Consulting Staff of Osborne Convalescent Home for Officers</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +449,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>Alexander Murdoch</Forenames>
-      <Text>, O.B.E., Nominated Member, Legislative Council of Saint Vincent</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +462,9 @@
       </Key>
       <Title>Professor</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, M.D., F.R.C.P., Member of Civil Consulting Staff of Osborne Convalescent Home for Officers</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +476,9 @@
       <PageNumber>3094</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Gainer, Donald St. Clair, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </SubItem>
     <SubItem>
@@ -433,7 +486,9 @@
       <PageNumber>4007</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Gamon, Cyril Frederick, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </SubItem>
     <SubItem>

@@ -50,8 +50,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. V. St. J</Forenames>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +556,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blum</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de M</Text>
+      <Forenames>G. M. de M</Forenames>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +912,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Forenames>E. T. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>E. T. St. M</Forenames>
       <PageNumber>1637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodrick</Key>
-      <Text>.G. S</Text>
+      <Forenames>G. S.</Forenames>
       <PageNumber>681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1164,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. J. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,8 +1290,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>N. L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>N. L. St. P</Forenames>
       <PageNumber>1387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,8 +1789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>D.</Forenames>
-      <Text>de M</Text>
+      <Forenames>D. de M</Forenames>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hume</Key>
-      <Text>. J. L</Text>
+      <Forenames>J. L.</Forenames>
       <PageNumber>4601</PageNumber>
       <PageNumber>4602</PageNumber>
       <PageNumber>5032</PageNumber>
@@ -227,8 +227,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. W. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. W. F. de V</Forenames>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,8 +264,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>5029</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +362,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey</Key>
-      <Text>de Burgh, U. F</Text>
+      <Forenames>de Burgh</Forenames>
+      <Text>, U. F</Text>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>T.</Forenames>
-      <Text>de F</Text>
+      <Forenames>T. de F</Forenames>
       <PageNumber>5028</PageNumber>
       <PageNumber>5415</PageNumber>
     </MainItem>
@@ -1879,8 +1877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. M. St. G</Forenames>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>

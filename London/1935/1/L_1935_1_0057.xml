@@ -104,8 +104,7 @@
       <Key>
         <KeyDitto>___ -— ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>H. N. St. V</Forenames>
       <PageNumber>385</PageNumber>
       <PageNumber>1385</PageNumber>
     </MainItem>
@@ -142,8 +141,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. A</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. A .</Forenames>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,8 +612,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Noble, C</Text>
+      <Key>St. Noble</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selbv</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>2058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +724,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skene</Key>
-      <Text>.N.R. M.'</Text>
+      <Forenames>N.R. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>1732</PageNumber>
       <PageNumber>1733</PageNumber>
     </MainItem>
@@ -1126,8 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vintras</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de T</Text>
+      <Forenames>R. E. de T</Forenames>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whillier</Key>
-      <Text>. A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,7 +1545,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fife</Key>
-      <Text>the Rt. Hon. the Earl of Elgin and Kincardine, K.T., C.M.G</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,7 +1562,12 @@
     <MainItem>
       <Key>Suffoflk</Key>
       <Forenames>George Edward John Mowbray</Forenames>
-      <Text>, Earl of Strad broke, K.C.M.G., C.B., O.V.O., C.B.E., V.D., T.D. ,,</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1582,7 +1588,10 @@
       <Key>Durham</Key>
       <Title>Colonel</Title>
       <Forenames>Leonard Ropner</Forenames>
-      <Text>, M.O., T.D., M.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>1732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,7 +1599,9 @@
     <MainItem>
       <Key>Lanark</Key>
       <Forenames>County</Forenames>
-      <Text>of: Boyd, Col. James, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>1096</PageNumber>
     </MainItem>
     <SubItem>
@@ -1639,6 +1650,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>2057</PageNumber>
       </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___</PageNumber>

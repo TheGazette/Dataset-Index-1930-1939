@@ -17,8 +17,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. V</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. V.</Forenames>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,8 +1249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigg</Key>
-      <Forenames>O. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>O. St. J</Forenames>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,15 +1258,16 @@
       <Key>Pigot</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Forenames>D. F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. F. St. J</Forenames>
       <PageNumber>8107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,8 +1437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Playford</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>C. St. Q</Forenames>
       <PageNumber>8109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Text>B. A</Text>
+      <Forenames>B. A.</Forenames>
       <PageNumber>8255</PageNumber>
     </MainItem>
   </ItemGroup>

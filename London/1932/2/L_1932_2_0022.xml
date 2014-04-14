@@ -4,7 +4,11 @@
     <MainItem>
       <Key>Office</Key>
       <Title>(cont,)</Title>
-      <Text>.:. List of officers and men .whose names brought to notice for distinguished services (cont.): Wylly, Col. G. G. E., V.C., D.S.O., A.D.C</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C</Honour>
+      </Text>
       <PageNumber>2959</PageNumber>
     </MainItem>
     <SubItem>
@@ -209,8 +213,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercorn</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., K.P., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +265,9 @@
     <MainItem>
       <Key>Ainscough</Key>
       <Forenames>Thomas Martland</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -269,7 +277,9 @@
       <Key>Albutt</Key>
       <Title>Lt. (Qr.-Mr.)</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +296,11 @@
       <Key>Alexander</Key>
       <Title>Major</Title>
       <Forenames>James Ulick Francis Canning</Forenames>
-      <Text>, M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>

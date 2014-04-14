@@ -41,7 +41,9 @@
       <Key>Harwood</Key>
       <Title>Capt.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Member, Fifth ' Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +51,9 @@
     <MainItem>
       <Key>Hasan</Key>
       <Forenames>Suhrawardy</Forenames>
-      <Text>, Lt.-Col., O.B.E., D.P.H., F.R.C.S.I., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +103,9 @@
     <MainItem>
       <Key>Helm</Key>
       <Forenames>Alexander Knox</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +132,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +167,10 @@
     <MainItem>
       <Key>Hetherington</Key>
       <Forenames>Roger Gaskell</Forenames>
-      <Text>, O.B.E., M.Inst.C.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +178,9 @@
     <MainItem>
       <Key>Hickman</Key>
       <Title>Lt.</Title>
-      <Text>-Cblonel Henry Temple Devereux, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +233,9 @@
     <MainItem>
       <Key>Hitchcock</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Basil Ferguson Burnett, C.B., D.S.O^ Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +259,9 @@
     <MainItem>
       <Key>Hodson</Key>
       <Forenames>Christopher</Forenames>
-      <Text>, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +319,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden and Sea ford, The Lady, C.B.E. Officer, Order of St. John of Jerusalem</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +330,10 @@
     <MainItem>
       <Key>Howarth</Key>
       <Forenames>Edward Goldie</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,14 +375,17 @@
     <MainItem>
       <Key>Humphries</Key>
       <Title>Albert.</Title>
-      <Text>O.B.E., M.Inst.C.E., M.I.Mech.E., M.I.S.I.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>Lt. Qr.-Mr. James Henry, Member, Order of the British Empire</Text>
+      <Title>Lt. Qr.</Title>
+      <Text>-Mr. James Henry, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +419,9 @@
     <MainItem>
       <Key>Hurd</Key>
       <Forenames>Percy Angier</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -421,7 +449,12 @@
       <Key>Hutchison</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, K.C.M.G., C.B., D.S.O., M.P., Baron ... a</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>567</PageNumber>
     </MainItem>
     <SubItem>
@@ -432,7 +465,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hyde</Key>
-      <Text>Rev. Robert Robertson, Member fourth class, Royal Victorian Order</Text>
+      <Title>Rev.</Title>
+      <Forenames>Robert Robertson</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +484,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ironside</Key>
-      <Text>Rpdvers Noel, M.B., M.R.C.P., Officer, Order . of St. John of Jerusalem</Text>
+      <Forenames>Rpdvers Noel</Forenames>
+      <Text>, M.B., M.R.C.P., Officer, Order . of St. John of Jerusalem</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +581,11 @@
     <MainItem>
       <Key>Jeffreys</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir George Darell, K.C.V.O., C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +659,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Miss Gwendoline Maud, A;R.R.C, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Gwendoline Maud</Forenames>
+      <Text>, A;R.R.C, Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +671,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James Stuart</Forenames>
-      <Text>, M.B.E.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +696,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kaing</Key>
-      <Text>Walter, Member, Order of the British Empire</Text>
+      <Forenames>Walter</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>

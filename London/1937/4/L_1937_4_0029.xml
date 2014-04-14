@@ -477,7 +477,9 @@
       <Key>Carlile</Key>
       <Title>Sir</Title>
       <Forenames>E. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,9 +1641,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Pontet</Forenames>
-      <Text>, G. H. S. .. -</Text>
+      <Key>Du Pontet</Key>
+      <Forenames>G. H. S.</Forenames>
+      <Text>.. -</Text>
       <PageNumber>7660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,14 +1941,17 @@
       <Key>Falkiner</Key>
       <Title>Sir</Title>
       <Forenames>T. E. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7265</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>de Salis, E. W</Text>
+      <Forenames>de Salis</Forenames>
+      <Text>, E. W</Text>
       <PageNumber>6615</PageNumber>
     </MainItem>
   </ItemGroup>

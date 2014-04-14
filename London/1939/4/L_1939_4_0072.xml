@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>D. N</Text>
+      <Forenames>D. N</Forenames>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +207,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Martin, T. B</Text>
+      <Forenames>Martin</Forenames>
+      <Text>, T. B</Text>
       <PageNumber>7878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +635,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>D.</Forenames>
-      <Text>de W</Text>
+      <Forenames>D. de W</Forenames>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,8 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>K.</Forenames>
-      <Text>de L</Text>
+      <Forenames>K. de L</Forenames>
       <PageNumber>7711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +899,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, F. J</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>8466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1258,7 +1257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldwell</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1301,9 @@
       <Key>Culme-Seymour</Key>
       <Title>Sir</Title>
       <Forenames>M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>

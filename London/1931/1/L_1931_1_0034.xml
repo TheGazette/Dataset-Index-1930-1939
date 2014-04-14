@@ -106,9 +106,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Bern M. E.</Forenames>
+      <Key>Du Bern</Key>
+      <Forenames>M. E.</Forenames>
       <PageNumber>1645</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>E. H .</Forenames>
+      <PageNumber>2137</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -427,7 +434,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquhar</Key>
-      <Text>J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Festing</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W .</Forenames>
       <PageNumber>833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +584,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fingall</Key>
-      <Text>Earl of</Text>
+      <Title>Earl</Title>
+      <Text>of</Text>
       <PageNumber>677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -687,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flint</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L</Forenames>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,8 +743,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. O. A. W</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>O. A. W</Forenames>
       <PageNumber>746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frith</Key>
-      <Text>O. T</Text>
+      <Forenames>O. T</Forenames>
       <PageNumber>1535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,8 +1701,7 @@
       <Key>
         <KeyDitto>___ ___ —___</KeyDitto>
       </Key>
-      <Forenames>N. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>N. O'D</Forenames>
       <PageNumber>1939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,14 +1811,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gutteridge</Key>
-      <Text>M. H. C</Text>
+      <Forenames>M. H. C.</Forenames>
       <PageNumber>1451</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gwatkin</Key>
-      <Text>N. W</Text>
+      <Forenames>N. W.</Forenames>
       <PageNumber>2062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1846,7 +1853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddock</Key>
-      <Text>W. W</Text>
+      <Forenames>W. W.</Forenames>
       <PageNumber>2136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,7 +1861,9 @@
     <MainItem>
       <Key>Haigh</Key>
       <Forenames>J. D</Forenames>
-      <Text>Bt. Hall, Sir D. M. B.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1451</PageNumber>
       <PageNumber>1452</PageNumber>
     </MainItem>
@@ -1888,7 +1897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Halsey</Key>
-      <Text>R. M. R</Text>
+      <Forenames>R. M. R.</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>

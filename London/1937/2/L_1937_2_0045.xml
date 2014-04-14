@@ -25,7 +25,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Strathmore</Key>
-      <Text>and Kinghorne, Nine Cecilia, Countess of, Dame Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +36,9 @@
       <Key>Streeton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gilbert</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +47,9 @@
       <Key>Strevens</Key>
       <Title>Miss</Title>
       <Forenames>Irene</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +66,9 @@
       <Key>Strickland</Key>
       <Title>Paymr.</Title>
       <Forenames>Rear-</Forenames>
-      <Text>Admiral Arthur Foster, O. B. E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +87,10 @@
       <Key>Strohmenger</Key>
       <Title>Sir</Title>
       <Forenames>Ernest John</Forenames>
-      <Text>, K.B.E., C.B., Knight Grand Cross, Order of the</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -87,7 +98,9 @@
     <MainItem>
       <Key>Strong</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, . British Order of the 3°9i Empire Ernest, Strudwicke, Walter Member, M.C., A.C.A., British Order of the 3°</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>93</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +116,9 @@
     <MainItem>
       <Key>Sullivan</Key>
       <Forenames>Basil Martin</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +223,9 @@
     <MainItem>
       <Key>Tasker</Key>
       <Forenames>Theodore James</Forenames>
-      <Text>, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +241,9 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>Elizabeth Best</Forenames>
-      <Text>, Mrs., M.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +263,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Harry Willoughby Oddin</Forenames>
-      <Text>, O.B.E., A.C.G.I., A.M.I.C.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +276,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, D.S.O., M.D., V.H.S., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +348,9 @@
       <Key>Tegart</Key>
       <Title>Sir</Title>
       <Forenames>Charles Augustus</Forenames>
-      <Text>, C.S.I., CLE., M.V.O., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +358,9 @@
     <MainItem>
       <Key>Tengku</Key>
       <Forenames>Mohamed</Forenames>
-      <Text>, M.B.E., Unofficial Member, Federal Council of the Federated Malay States</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +378,9 @@
       <Key>Tennyson-Smith</Key>
       <Title>Maj.</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +396,9 @@
     <MainItem>
       <Key>Testa</Key>
       <Forenames>Paul</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +439,9 @@
     <MainItem>
       <Key>Thorn</Key>
       <Forenames>John Bain</Forenames>
-      <Text>, M.D.. Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +451,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Gibb</Forenames>
-      <Text>, E.S.O., M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +472,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Godfrey John Vig-</Forenames>
-      <Text>ncles, Bt , K.C.V.O., C.S.I., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
     <SubItem>
@@ -502,7 +541,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Leonard Rhys</Forenames>
-      <Text>, D.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +561,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Prof.</Title>
-      <Text>DArcy Wentworth, C.B., D.Litt., D.Sc., LL.D., F.R.S., F.R.S.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -587,7 +630,9 @@
     <MainItem>
       <Key>Titman</Key>
       <Forenames>George Alfred</Forenames>
-      <Text>, M.V.O., Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +641,9 @@
       <Key>Tizard</Key>
       <Title>Sir</Title>
       <Forenames>Henry Thomas</Forenames>
-      <Text>, K.C.B., A.F.C, F.R.S., Development Commissioner</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +651,10 @@
     <MainItem>
       <Key>Tolerton</Key>
       <Forenames>Robert Hill</Forenames>
-      <Text>, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +713,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Tower</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Francis Thomas Butler, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Francis Thomas Butler</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +734,9 @@
     <MainItem>
       <Key>Trebilcock</Key>
       <Forenames>Karl Hosking</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>

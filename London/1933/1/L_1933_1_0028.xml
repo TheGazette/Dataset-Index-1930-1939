@@ -21,7 +21,9 @@
       <Key>Willmot</Key>
       <Title>Colonel</Title>
       <Forenames>Frederick Charles</Forenames>
-      <Text>, M.D., D.P.H., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,10 @@
       <Key>Wilson</Key>
       <Title>Sir</Title>
       <Forenames>Horace John</Forenames>
-      <Text>, K.C.B., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +85,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhall</Key>
-      <Forenames>Lieutenant-Com-</Forenames>
-      <Text>mander Eric Langton, Member 4th Class, Royal Victorian Order</Text>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +96,9 @@
     <MainItem>
       <Key>Woolcock</Key>
       <Forenames>William James</Forenames>
-      <Text>TJglow, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +113,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Worthington</Key>
-      <Text>Evans, Gertrude, Lady, Officer, Order of St. John of Jerusalem ... Wray,. Brigadier-General John Cecil, C.B., C.M.G., C.V.O., T.D.. Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +133,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wyse</Key>
-      <Text>, Richard, M.B.E., M.D., Serving Brother, Order of</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +144,9 @@
     <MainItem>
       <Key>Yates</Key>
       <Forenames>Walter Baldwyn</Forenames>
-      <Text>, C.B.E., Officer, Order of</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +282,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. John</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,6 +321,13 @@
       <Key>Crozier</Key>
       <Forenames>B. B</Forenames>
       <PageNumber>1178</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -966,8 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -92,7 +92,9 @@
       <Key>Orton</Key>
       <Title>Rev.</Title>
       <Forenames>Herbert Wood-</Forenames>
-      <Text>ford, M.C., B.A., appointed to the living of Saint George, Kenwyn</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +144,9 @@
     <MainItem>
       <Key>Austin</Key>
       <Forenames>Harold Bruce Gardiner</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +155,10 @@
       <Key>Balfour</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, Bt., K.B.E.. Baron Riverdale of Sheffield</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +166,9 @@
     <MainItem>
       <Key>Bannerman</Key>
       <Forenames>Charles Edward Woolhouse</Forenames>
-      <Text>, O.B.E., Puisne Judge of the Supreme Court, Gold Coast Colony ... '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +177,9 @@
       <Key>Barcroft</Key>
       <Title>Prof.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, C.B.E., M.A., F.R.S., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +187,9 @@
     <MainItem>
       <Key>Bateman</Key>
       <Forenames>Charles Harold</Forenames>
-      <Text>, M.C., Acting Counsellor at H.M. Embassy at Bagdad</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +213,9 @@
     <MainItem>
       <Key>Board</Key>
       <Forenames>William John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +232,9 @@
       <Key>Bourdillon</Key>
       <Title>Sir Bernard.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, K.G.M.G., K.B.E., Governor and Commanderin-Chief of the Colony and Protectorate of Nigeria</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +243,11 @@
       <Key>Bowly</Key>
       <Title>Col.</Title>
       <Forenames>William Arthur</Forenames>
-      <Text>. Travell,. O.B.E., . M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +255,11 @@
     <MainItem>
       <Key>Boyd</Key>
       <Forenames>Harry Robert</Forenames>
-      <Text>, C.V.O., C.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +267,12 @@
     <MainItem>
       <Key>Brind</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir John Edward Spencer, K.B.E., C.B., C.M.G., D.S.O., Lieutenant of H.M. Tower of London</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +288,14 @@
     <MainItem>
       <Key>Brooke-Popham</Key>
       <Forenames>Air ChiefMarshal</Forenames>
-      <Text>Sir Henrv Robert Moore, K.C.B., C.M.G., D. S.O., A.F.C., A.D.C., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +320,10 @@
     <MainItem>
       <Key>Cadogan</Key>
       <Forenames>Hon</Forenames>
-      <Text>, Sir Alexander Montagu George, K.C.M.G., C.B., H.M. Ambassador Extraordinary and Plenipotentiary to China</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +331,10 @@
     <MainItem>
       <Key>Calvert</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Thomas Frederick Parker^ D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +343,9 @@
       <Key>Calwell</Key>
       <Title>Capt.</Title>
       <Forenames>John Young</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +362,9 @@
       <Key>Chadwick</Key>
       <Title>Sir</Title>
       <Forenames>Robert Burton</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +372,10 @@
     <MainItem>
       <Key>Codling</Key>
       <Forenames>William Richard</Forenames>
-      <Text>, C.B:, C.V.O., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,14 +383,22 @@
     <MainItem>
       <Key>Connaught</Key>
       <Forenames>H.R.</Forenames>
-      <Text>IL Prince Arthur of; K.G., K.T., G.C.M.G., G.C.V.O C.B., High or Capital Steward of the Borough of Reading</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cork</Key>
-      <Text>and Orrery, Adm. William Henry Dudley, Earl of, K.C.B., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +429,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>and Balcarres, Rt. Hon, the Earl of, K.T., Chairman, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>4241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +466,9 @@
       <Key>Dew</Key>
       <Title>Maj.</Title>
       <Forenames>Joseph Turner</Forenames>
-      <Text>, M.B.E., V.D., Unofficial Member, Executive Council of the Presidency of Antigua</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +476,9 @@
     <MainItem>
       <Key>Eccles</Key>
       <Forenames>Lancelot William Gregory</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +494,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>Charles</Forenames>
-      <Text>, ' C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>

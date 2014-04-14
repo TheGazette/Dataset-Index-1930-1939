@@ -6,7 +6,10 @@
     <MainItem>
       <Key>Mackay</Key>
       <Forenames>Neil</Forenames>
-      <Text>, Member, Herring Industry Board 6271 Mackilligin, Robert Springett, O.B.E., M.C., Nominated Official Member, Legislative Council, Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7345</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee ... §185</CategoryTitle>
@@ -20,7 +23,10 @@
     <MainItem>
       <Key>Nugent</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel T. E. G., M.V.O., M.C., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6606</PageNumber>
       <PageNumber>8366</PageNumber>
     </MainItem>
@@ -56,7 +62,11 @@
       <Key>Peirse</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Richard Edmund Charles</Forenames>
-      <Text>, D.S.O., A.F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
     <CategoryTitle>. Claims Committee ... 8185</CategoryTitle>
@@ -69,7 +79,9 @@
     <MainItem>
       <Key>Quirey</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B.E., Member of Railway Rates Tribunal</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +90,9 @@
       <Key>Rae</Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, K.B.E., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +109,9 @@
       <Key>Richardson</Key>
       <Title>Sir</Title>
       <Forenames>Albion Herbert Henry</Forenames>
-      <Text>, C.B.E., K.C., Recorder of the City of Nottingham</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +136,11 @@
       <Key>Ross</Key>
       <Title>Major Sir</Title>
       <Forenames>Ronald Deane</Forenames>
-      <Text>, Bt., M.C., M.P., Recorder of Sunderland</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +149,9 @@
       <Key>Ryan</Key>
       <Title>Sir</Title>
       <Forenames>Andrew</Forenames>
-      <Text>, K.B.E., O.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiarpr at Durazzo</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>6607</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
@@ -151,7 +173,10 @@
       <Key>Schuster</Key>
       <Title>Sir</Title>
       <Forenames>Claud</Forenames>
-      <Text>, G.C.B., C.V.O., K.C., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +185,10 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>Russell</Forenames>
-      <Text>, K.C.B., C. S.I., I.S.O., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +196,9 @@
     <MainItem>
       <Key>Sebastian</Key>
       <Forenames>Erroll Graham</Forenames>
-      <Text>, D. S.O., H.M. Consul at Athens</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +257,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>Findlater</Forenames>
-      <Text>, G. C.I.E., K.C.B., C.S.I., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +268,9 @@
       <Key>Stirton</Key>
       <Title>Rev.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.V.O., DD., Extra Chaplain to His Majesty in Scotland</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +286,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>Most Noble George Granville</Forenames>
-      <Text>, Duke of, K.T., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>6833</PageNumber>
     </MainItem>
     <SubItem>
@@ -272,7 +308,9 @@
       <Key>Templer</Key>
       <Title>Capt. and Bt. Maj.</Title>
       <Forenames>Gerald Walter Robert</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
@@ -285,7 +323,9 @@
     <MainItem>
       <Key>Thomson</Key>
       <Forenames>John Campbell</Forenames>
-      <Text>, M.B.E., H.M. Consul at Washington</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +358,9 @@
       <Key>Waldron</Key>
       <Title>Colonel</Title>
       <Forenames>William James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +379,9 @@
       <Key>Whitson</Key>
       <Title>Sir</Title>
       <Forenames>Thomas B.</Forenames>
-      <Text>, D.L., LL.D., F.R.S.E., J.P., Chairman, Herring Industry Board</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>6271</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
@@ -371,7 +415,9 @@
       <Key>Wollaston</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, K.C.V.O., Member of Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +425,10 @@
     <MainItem>
       <Key>Wright</Key>
       <Title>Squad.</Title>
-      <Text>-Leader John Allan Cecil, A.F.C., T.D., Member of Parliament for Erdington</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6760</PageNumber>
     </MainItem>
   </ItemGroup>

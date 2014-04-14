@@ -149,8 +149,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de M</Text>
+      <Forenames>P. de M</Forenames>
       <PageNumber>4570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +820,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. L. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,8 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brandon</Key>
-      <Forenames>H. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. B. St. G</Forenames>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,7 +1303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brightman</Key>
-      <Text>. M. R. C</Text>
+      <Forenames>M. R. C.</Forenames>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1787,7 +1787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bujnowski</Key>
-      <Text>. R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>5204</PageNumber>
     </MainItem>
   </ItemGroup>

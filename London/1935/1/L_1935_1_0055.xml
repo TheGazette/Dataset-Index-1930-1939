@@ -381,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CrozierR</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>1806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rilatt</Key>
-      <Text>. E. S. ... '</Text>
+      <Forenames>E. S.</Forenames>
+      <Text>... '</Text>
       <PageNumber>768</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warman</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1146,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bellman</Key>
-      <Text>. K. B. ... Bennett-Jones, D. R</Text>
+      <Forenames>K. B.</Forenames>
+      <Text>... Bennett-Jones, D. R</Text>
       <PageNumber>1981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1175,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butcher</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H.</Forenames>
       <PageNumber>1092</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,6 +1225,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>C. P.</Forenames>
+      <PageNumber>135</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edridge</Key>
       <Forenames>H. H.</Forenames>
       <PageNumber>1807</PageNumber>
@@ -1266,7 +1275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inman</Key>
-      <Text>. P. M</Text>
+      <Forenames>P. M.</Forenames>
       <PageNumber>1632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1346,7 +1355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unsworth</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>2055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1486,7 +1495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avent</Key>
-      <Text>. M. T</Text>
+      <Forenames>M. T.</Forenames>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,7 +1597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>. D. M. '</Text>
+      <Forenames>D. M.</Forenames>
+      <Text>'</Text>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,7 +1653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beckwith</Key>
-      <Text>. W. F</Text>
+      <Forenames>W. F.</Forenames>
       <PageNumber>384</PageNumber>
       <PageNumber>1732</PageNumber>
     </MainItem>
@@ -1674,7 +1684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bicknell</Key>
-      <Text>. L. C</Text>
+      <Forenames>L. C .</Forenames>
       <PageNumber>549</PageNumber>
     </MainItem>
   </ItemGroup>

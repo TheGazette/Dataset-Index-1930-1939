@@ -132,17 +132,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beer</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Beer</Key>
+      <Forenames>G. R</Forenames>
       <PageNumber>8161</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Bruyne</Forenames>
-      <Text>, H. B. A</Text>
+      <Key>De Bruyne</Key>
+      <Forenames>H. B. A.</Forenames>
       <PageNumber>7253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,17 +160,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Frece</Forenames>
-      <Text>, C. A</Text>
+      <Key>de Fonblanque</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>8165</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Frece</Key>
+      <Forenames>C. A.</Forenames>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freitas</Forenames>
-      <Text>, A. J. S</Text>
+      <Key>De Freitas</Key>
+      <Forenames>A. J. S.</Forenames>
       <PageNumber>7254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,50 +188,122 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jonge</Forenames>
-      <Text>, G. S</Text>
+      <Key>de Gex</Key>
+      <Forenames>G. F.</Forenames>
+      <PageNumber>6778</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>C. E. M.</Forenames>
+      <PageNumber>8091</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Jonge</Key>
+      <Forenames>G. S.</Forenames>
       <PageNumber>8167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Jongh</Forenames>
-      <Text>, A. A</Text>
+      <Key>De Jongh</Key>
+      <Forenames>A. A.</Forenames>
       <PageNumber>8579</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rinzy</Forenames>
-      <Text>, N. L. C</Text>
+      <Key>de Mare</Key>
+      <Forenames>I. R.</Forenames>
+      <PageNumber>8024</PageNumber>
+      <PageNumber>8090</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mey</Key>
+      <Forenames>J. P. F. R.</Forenames>
+      <PageNumber>8536</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>F. G.</Forenames>
+      <PageNumber>8536</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pinna</Key>
+      <Forenames>G. A.</Forenames>
+      <PageNumber>8576</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pinto</Key>
+      <Forenames>L. H</Forenames>
+      <PageNumber>7253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>E. G</Forenames>
+      <PageNumber>7566</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>8023</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Rinzy</Key>
+      <Forenames>N. L. C.</Forenames>
       <PageNumber>7624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rougemont</Forenames>
-      <Text>, R. C. I</Text>
+      <Key>De Rougemont</Key>
+      <Forenames>R. C. I</Forenames>
       <PageNumber>8022</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vail</Forenames>
-      <Text>, E. S</Text>
+      <Key>de Segesser</Key>
+      <Forenames>J.</Forenames>
+      <PageNumber>6859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Vail</Key>
+      <Forenames>E. S</Forenames>
       <PageNumber>8540</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, J. G</Text>
+      <Key>De Vine</Key>
+      <Forenames>J. G</Forenames>
       <PageNumber>7025</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Forenames>C. M.</Forenames>
+      <PageNumber>7953</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -669,8 +744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dennys</Key>
-      <Forenames>V. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>V. E. St. G</Forenames>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>

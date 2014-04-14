@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Wodehouse</Key>
       <Forenames>Robert Elmer</Forenames>
-      <Text>, O.B.E., M.D Commander, Order or St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +48,9 @@
     <MainItem>
       <Key>Womersley</Key>
       <Forenames>Walter James</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +67,9 @@
       <Key>Woods</Key>
       <Title>Col.</Title>
       <Forenames>Harold Edwin Manthorpe</Forenames>
-      <Text>, O.B.E., Commercial Secretary, First Grade, attached to H.M. Embassy at Angora</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +102,9 @@
     <MainItem>
       <Key>Woolley</Key>
       <Forenames>Charles Campbell</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +112,9 @@
     <MainItem>
       <Key>Wormald</Key>
       <Forenames>Walter</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +122,10 @@
     <MainItem>
       <Key>Worrall</Key>
       <Title>Bvt.</Title>
-      <Text>-Col. Percy Reginald, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +143,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Owen</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +153,9 @@
     <MainItem>
       <Key>Wynnes</Key>
       <Forenames>James Cumming</Forenames>
-      <Text>, M.B.E., F.R.I.B.A., Officer, Order of , the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,14 +199,18 @@
         <KeyDitto>—— ___</KeyDitto>
       </Key>
       <Forenames>Mark Aitchison</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Younger</Key>
-      <Text>of Leckie, Lt.-Col. Viscount, D.S.O., Brigadier, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +218,9 @@
     <MainItem>
       <Key>Yusuf</Key>
       <Forenames>Hajjar</Forenames>
-      <Text>, M.D., Honorary Member,. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Archibald</Key>
-      <Text>. S. C. M</Text>
+      <Forenames>S. C. M.</Forenames>
       <PageNumber>2859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,16 +738,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>3582</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>2789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,8 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de R</Text>
+      <Forenames>H. E. de R</Forenames>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>

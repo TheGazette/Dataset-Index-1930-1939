@@ -19,7 +19,9 @@
     <MainItem>
       <Key>Ray</Key>
       <Forenames>Reginald Percy</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +61,11 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>David Douglas</Forenames>
-      <Text>, J.P., D.L., M.P., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>907</PageNumber>
     </MainItem>
@@ -88,7 +94,9 @@
     <MainItem>
       <Key>Rex</Key>
       <Forenames>Charles Edwin Harris</Forenames>
-      <Text>, D.C.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +123,9 @@
       <Key>Rich</Key>
       <Title>Hon. Sir</Title>
       <Forenames>George Edward</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>729</PageNumber>
     </MainItem>
@@ -125,7 +135,9 @@
       <Key>Richards</Key>
       <Title>Gunr.</Title>
       <Forenames>Edgar Elgar</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +213,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Archibald Thomas Ayres</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +259,10 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Alfred Theodore Vaughan</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +308,9 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>J. Paterson</Forenames>
-      <Text>, M.S., F.R.C.S., Member of the Consulting Staff, King Edward VII Convalescent Home for Officers, Osborne</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +370,10 @@
       <Key>Samways</Key>
       <Title>Paym. Lt.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, M.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +407,10 @@
     <MainItem>
       <Key>Sargent</Key>
       <Forenames>Orme Garton</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +434,9 @@
     <MainItem>
       <Key>Savery</Key>
       <Forenames>Frank</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +461,9 @@
     <MainItem>
       <Key>Scarles</Key>
       <Forenames>Edward John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1160</PageNumber>
     </MainItem>
@@ -485,7 +514,9 @@
     <MainItem>
       <Key>Seth</Key>
       <Forenames>Sukhlall Karnani</Forenames>
-      <Text>, Rai Bahadur, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +556,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Herbert St</Forenames>
-      <Text>. Clair, Member, Order of the British Empire</Text>
+      <Forenames>Herbert St. Clair</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
     <SubItem>

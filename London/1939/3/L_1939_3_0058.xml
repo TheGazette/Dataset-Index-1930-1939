@@ -249,7 +249,9 @@
       <Key>Pole</Key>
       <Title>Sir</Title>
       <Forenames>J. G. Carew</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4754</PageNumber>
       <PageNumber>6111</PageNumber>
     </MainItem>
@@ -415,8 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Portnell</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1472,7 +1473,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6186</PageNumber>
       <PageNumber>6646</PageNumber>
     </MainItem>

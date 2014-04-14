@@ -266,7 +266,9 @@
       <Key>
         <KeyDitto>—</KeyDitto>
       </Key>
-      <Text>r___ ___ J., D.C.M</Text>
+      <Text>
+        <Honour>D.C.M</Honour>
+      </Text>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,8 +890,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Messenger</Key>
-      <Forenames>W.</Forenames>
-      <Text>de L. M</Text>
+      <Forenames>W. de L</Forenames>
+      <Text>. M</Text>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1460,8 +1462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullens</Key>
-      <Forenames>G. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>G. J. de W</Forenames>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1871,7 +1872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutting</Key>
-      <Text>. J. V. F</Text>
+      <Forenames>J. V. F</Forenames>
       <PageNumber>711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1884,36 +1885,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, L. M</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>L. M</Forenames>
       <PageNumber>1644</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, E. J</Text>
+      <Key>O'Conor</Key>
+      <Forenames>E. J</Forenames>
       <PageNumber>2088</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. J. W</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. J. W</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. C</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. C</Forenames>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, A. J. G. D</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>A. J. G. D</Forenames>
       <PageNumber>1331</PageNumber>
     </MainItem>
   </ItemGroup>

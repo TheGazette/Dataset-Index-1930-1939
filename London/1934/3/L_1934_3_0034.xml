@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>. D. C</Text>
+      <Forenames>D. C</Forenames>
       <PageNumber>5119</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Flynn</Key>
-      <Text>. R. S</Text>
+      <Forenames>R. S .</Forenames>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. K. A</Text>
+      <Forenames>K. A</Forenames>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsley</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W</Forenames>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bea</Key>
-      <Text>.man, W. B</Text>
+      <Text>man, W. B</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D .</Forenames>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,21 +1067,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Blair</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C .</Forenames>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>. C</Text>
+      <Forenames>C .</Forenames>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Blomfield</Key>
-      <Text>. O. H. D</Text>
+      <Forenames>O. H. D.</Forenames>
       <PageNumber>5907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,15 +1095,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Boston</Key>
-      <Text>. F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boult</Key>
-      <Forenames>N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>N. de W</Forenames>
       <PageNumber>4233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BrotJherhood</Key>
-      <Text>. W. R</Text>
+      <Forenames>W. R.</Forenames>
       <PageNumber>4902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. H. M. K</Text>
+      <Forenames>H. M. K.</Forenames>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,7 +1403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, C. M!</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, C. M!</Text>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clapp</Key>
-      <Text>. O. W</Text>
+      <Forenames>O. W</Forenames>
       <PageNumber>4234</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1546,7 +1546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Text>. R. J</Text>
+      <Forenames>R. J</Forenames>
       <PageNumber>5194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1702,7 +1702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Craigeii</Key>
-      <Text>. J. S. J</Text>
+      <Forenames>J. S. J</Forenames>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1752,7 +1752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cundell</Key>
-      <Text>. L. S</Text>
+      <Forenames>L. S</Forenames>
       <PageNumber>5057</PageNumber>
     </MainItem>
   </ItemGroup>

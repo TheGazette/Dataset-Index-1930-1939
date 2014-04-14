@@ -443,7 +443,9 @@
       <Key>Muntz</Key>
       <Title>Sir</Title>
       <Forenames>G. P. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. G</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. G</Text>
       <PageNumber>7638</PageNumber>
     </MainItem>
   </ItemGroup>

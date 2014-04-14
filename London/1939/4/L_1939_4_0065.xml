@@ -355,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heilbrun</Key>
-      <Text>L. B. O</Text>
+      <Forenames>L. B. O.</Forenames>
       <PageNumber>7258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1329,9 @@
       <Key>Jarvis</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8314</PageNumber>
     </MainItem>
   </ItemGroup>

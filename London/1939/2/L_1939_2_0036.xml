@@ -56,7 +56,10 @@
       <Key>Hodgson</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>MacLeod, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,8 +83,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holland</Key>
-      <Title>St.</Title>
-      <Forenames>Clair Cecil</Forenames>
+      <Forenames>St. Clair Cecil</Forenames>
       <Text>, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
@@ -134,7 +136,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Vyvyan</Forenames>
-      <Text>, M.V.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +154,10 @@
     <MainItem>
       <Key>Hood</Key>
       <Title>Lt.</Title>
-      <Text>-Col &amp; Bt. Col. (temp. Col.) Alexander, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +174,9 @@
       <Key>Hope</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur Henry Cecil</Forenames>
-      <Text>, T.D., Officer, Order' of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +201,9 @@
       <Key>Houldsworth</Key>
       <Title>Capt. (Lt.-Col. T.A.)</Title>
       <Forenames>Henry Walter</Forenames>
-      <Text>, M.C., one of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +285,9 @@
     <MainItem>
       <Key>Huggins</Key>
       <Forenames>John</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +295,9 @@
     <MainItem>
       <Key>Hughes</Key>
       <Forenames>Sydney Herbert George</Forenames>
-      <Text>, C-B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +313,10 @@
     <MainItem>
       <Key>Humphrys</Key>
       <Forenames>Herbert John</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +388,10 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.D., CM., LL.D., D.Sc, F.R.C.P.Ed., Baronet</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +407,9 @@
     <MainItem>
       <Key>Illingworth</Key>
       <Forenames>Charles Frederick William</Forenames>
-      <Text>, M.D., Ch.B., F.R.C.S.E., Regius Professor of Surgery, Glasgow University</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +455,11 @@
       <Key>Inskip</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Roland Debenham</Forenames>
-      <Text>, CLE., D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +468,11 @@
       <Key>Ironside</Key>
       <Title>H.E.</Title>
       <Forenames>General</Forenames>
-      <Text>Sir William Edmund, K.B.E., C.M.G., D.S.O., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +488,9 @@
     <MainItem>
       <Key>Ismay</Key>
       <Forenames>George</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +592,9 @@
       <Key>Jeans</Key>
       <Title>Capt.</Title>
       <Forenames>Francis William Hugh</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +629,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, M.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +668,9 @@
       <Key>Jerman</Key>
       <Title>Maj.</Title>
       <Forenames>Reginald Herbert</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +679,12 @@
       <Key>Jess</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Carl Heman</Forenames>
-      <Text>, C.M.G., C.B.E., D.S.O., Companion, Order of the Bath ;</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +709,11 @@
       <Key>Johnson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Dudley Graham</Forenames>
-      <Text>, V.C, D.S.O., M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +802,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Evan Davies</Forenames>
-      <Text>, Bt., LL.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>

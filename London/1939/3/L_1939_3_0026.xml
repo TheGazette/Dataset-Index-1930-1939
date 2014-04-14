@@ -938,10 +938,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Domenico</Forenames>
-      <Text>, G. E</Text>
+      <Key>de Brett</Key>
+      <Forenames>E. S .</Forenames>
+      <PageNumber>5979</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Domenico</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>5843</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>5543</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jersey</Key>
+      <Forenames>D. S.</Forenames>
+      <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -953,10 +973,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Ritter</Forenames>
-      <Text>, R. B</Text>
+      <Key>De Ritter</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>5919</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>P .</Forenames>
+      <PageNumber>5919</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend-Fenton</Key>
+      <Forenames>J. D. L.</Forenames>
+      <PageNumber>5312</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1111,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devenish</Key>
-      <Text>. A. D. E</Text>
+      <Forenames>A. D. E.</Forenames>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,7 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Text>. J. de G</Text>
+      <Forenames>J. de G</Forenames>
       <PageNumber>5915</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -427,7 +427,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Text>de Carteret, G</Text>
+      <Forenames>de Carteret</Forenames>
+      <Text>, G</Text>
       <PageNumber>2803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,8 +1002,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Naylor</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>2160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,8 +1192,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, A</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>A.</Forenames>
       <PageNumber>4162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1231,7 +1231,9 @@
       <Key>Orde</Key>
       <Title>Sir</Title>
       <Forenames>S. A. Campbell</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1979,8 +1981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rideal</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. St. C</Forenames>
       <PageNumber>3446</PageNumber>
     </MainItem>
   </ItemGroup>

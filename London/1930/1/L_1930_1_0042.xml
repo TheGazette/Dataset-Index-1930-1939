@@ -80,8 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldman-Monk</Key>
-      <Forenames>M. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. E. de B</Forenames>
       <PageNumber>655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +375,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>E. O</Text>
+      <Forenames>E. O</Forenames>
       <PageNumber>210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyle</Key>
-      <Text>N. M. W</Text>
+      <Forenames>N. M. W.</Forenames>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh</Key>
-      <Text>C. M</Text>
+      <Forenames>C. M.</Forenames>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +630,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>O. E. B</Text>
+      <Forenames>O. E. B.</Forenames>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,8 +708,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marindin</Key>
-      <Forenames>F. J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>F. J. de V</Forenames>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,15 +1048,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doneven, E. H</Text>
+      <Key>O'Doneven</Key>
+      <Forenames>E. H</Forenames>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan P</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>P</Forenames>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1069,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, J. M. W</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>J. M. W</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,7 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>F. W. J</Text>
+      <Forenames>F. W. J</Forenames>
       <PageNumber>654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sexton</Key>
-      <Text>C. B</Text>
+      <Forenames>C. B</Forenames>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>

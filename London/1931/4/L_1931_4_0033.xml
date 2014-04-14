@@ -893,8 +893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'B. E. ff</Text>
+      <Forenames>D. O'B</Forenames>
+      <Text>. E. ff</Text>
       <PageNumber>6464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1270,9 @@
       <Key>Campbell</Key>
       <Title>Sir</Title>
       <Forenames>C. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1279,8 +1281,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>D. St. A</Forenames>
       <PageNumber>7986</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chatfield</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L</Forenames>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>

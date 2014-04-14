@@ -39,7 +39,9 @@
       <Key>Lawrance</Key>
       <Title>Major</Title>
       <Forenames>Arthur Salis-</Forenames>
-      <Text>bury, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +96,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>of Fareham, Rt. Hon. Viscount, G.C.B., G.C.S.I., G.B.E., Member, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +139,12 @@
     <MainItem>
       <Key>Leslie</Key>
       <Forenames>Lieutenant-General</Forenames>
-      <Text>Sir Walter Stewart, K.B.E., C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +185,9 @@
       <Key>Llewellyn</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.C.V.O Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +195,9 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel and Brevet Colonel John Willatt, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +205,9 @@
     <MainItem>
       <Key>Lodge</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B., Commissioner for H.M. Government under Nauru Island Agreement Act</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +247,9 @@
     <MainItem>
       <Key>Lucking</Key>
       <Forenames>Ernest Harry</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Or-</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +267,9 @@
       <Key>Lumley-Smith</Key>
       <Title>Major</Title>
       <Forenames>Thomas Gabriel Lumley</Forenames>
-      <Text>, D.S.O., F.S.A., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +297,10 @@
       <Key>McConaghy</Key>
       <Title>Colonel</Title>
       <Forenames>John Gerald</Forenames>
-      <Text>, D.S.O. M.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O. M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +325,9 @@
       <Key>MacDougall</Key>
       <Title>Major</Title>
       <Forenames>John</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire ,</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +369,9 @@
       <Key>Mackay</Key>
       <Title>Captain</Title>
       <Forenames>Richard Johnstone</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +380,9 @@
       <Key>Mackereth</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gilbert</Forenames>
-      <Text>, M.C., H.M. Consul at Addis Ababa</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +409,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, D.S.O., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +421,9 @@
       <Key>MacLaren</Key>
       <Title>Colonel The Hon.</Title>
       <Forenames>Murray</Forenames>
-      <Text>, C.M.G., V.D., M.D M.R.C.S., LL.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +431,9 @@
     <MainItem>
       <Key>McMullen</Key>
       <Forenames>Alexander Percy</Forenames>
-      <Text>, M.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +498,9 @@
       <Key>Maffey</Key>
       <Title>Sir</Title>
       <Forenames>John Loader</Forenames>
-      <Text>, K.C.V.O., C.S.I., C.I.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +585,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Maude Leslie</Forenames>
-      <Text>, R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +595,9 @@
     <MainItem>
       <Key>Martyn</Key>
       <Forenames>Henry Linnington</Forenames>
-      <Text>, O.V.O., F.R.C.S. Knight Commander of the Victorian Order</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +614,9 @@
     <MainItem>
       <Key>Matthews</Key>
       <Forenames>William Thomas</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +633,12 @@
       <Key>Maxwell</Key>
       <Title>Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., T.D., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +666,9 @@
     <MainItem>
       <Key>Maycock</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, M.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>

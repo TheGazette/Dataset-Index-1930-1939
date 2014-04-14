@@ -6,7 +6,10 @@
     <MainItem>
       <Key>Airlie</Key>
       <Forenames>David Lyulph Gore Wolseley</Forenames>
-      <Text>, Earl of, K.C.V.O., M.C., Lord Chamberlain to Her Majesty</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,7 +18,11 @@
       <Key>Alexander</Key>
       <Title>Major</Title>
       <Forenames>James Ulick Francis Canning</Forenames>
-      <Text>, C.M.G., C.V.O., O.B.E., Keeper of the Privy Purse</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1405</PageNumber>
     </MainItem>
     <SubItem>
@@ -27,7 +34,9 @@
     <MainItem>
       <Key>Allendale</Key>
       <Forenames>Went</Forenames>
-      <Text>worth Henry Canning, Viscount, M.C., Lord in Waiting to His Majesty</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +60,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Alexander Greig</Forenames>
-      <Text>, M.D., F.R.C.P., Physician in Scotland to H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +92,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +105,9 @@
       </Key>
       <Title>The Rev.</Title>
       <Forenames>Frederick Ingall</Forenames>
-      <Text>, C.M.G., M.A., Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +122,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Text>/ Canon Leonard Martin, M.C., M.A:, Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +170,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>John Bernard</Forenames>
-      <Text>, M.V.O., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +180,9 @@
     <MainItem>
       <Key>Archer</Key>
       <Forenames>Paul</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +206,9 @@
     <MainItem>
       <Key>Arkwright</Key>
       <Forenames>Joseph Arthur</Forenames>
-      <Text>, M.D., B.Ch., F.R.C.P., M.R.C.S., F.R.S., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -213,7 +236,9 @@
       <Key>Arthur</Key>
       <Title>Col.</Title>
       <Forenames>Charles Gordon</Forenames>
-      <Text>, M.C., V.D., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +280,13 @@
     <MainItem>
       <Key>Athlone</Key>
       <Title>Major-Gen.</Title>
-      <Text>the Rt. Hon. Alexander Augustus Frederick William Alfred George, Earl of, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., Constable and Governor, Windsor Castle</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +295,11 @@
       <Key>Aubrey-Fletcher</Key>
       <Title>Major Sir</Title>
       <Forenames>Henry Lancelot</Forenames>
-      <Text>, Bt., D.S.O., M.V.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +315,9 @@
     <MainItem>
       <Key>Ayre</Key>
       <Forenames>Amos Lowrey</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -298,7 +335,9 @@
       <Key>Babington</Key>
       <Title>Miss</Title>
       <Forenames>Margaret Agnes</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem ... Badenoch, Alexander Cameron, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,8 +382,14 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The Very</Forenames>
-      <Text>Rev. Albert Victor, K.C.V.O., D.D., Domestic Chaplain, Windsor Castle Baines, Wilfred Earl, Serving Brother, Order of St. John of Jerusalem Baldwin, Miss Ellen Kate, Serving Sister, Order of St. John of Jerusalem ... Balfour, Captain The Hon. James Moncrieff, O.B.E., F.S.A., Officer, Order of St. John of Jerusalem ... Banham, Walter, Officer, Order of St. John of Jerusalem ... Bannerman, Lieut.-Col. Sir Arthur DArcy Gordon, Bt., K.C.V.O., C.I.E., Extra Gentleman Usher to His Majesty</Text>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +398,14 @@
       <Key>Barbour</Key>
       <Title>Captain</Title>
       <Forenames>George Richard</Forenames>
-      <Text>, A.D.C., Serving Brother, Order of St. John of Jerusalem Barker, Major-General Michael George Henry, D.S.O., Companion, Order of the Bath Barlow, Capt. Lance Mount, M.C., Officer, Order of the British Empire Barnes, Frederick Richard Cavendish, Serving Brother, Order of St. John of Jerusalem Barnett, Colonel George Henry, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +415,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lionel David</Forenames>
-      <Text>, Litt.D., Companion, Order .of the Bath Barrington-Ward, Sir Lancelot Edward, K.C.V.O., M.B., F.R.C.S., Surgeon, H.M. Household Barron, Georga Moncrieff, M.B., Ch.M., F.R.A.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>

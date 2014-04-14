@@ -367,6 +367,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. A.</Forenames>
+      <PageNumber>3230</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dearberg</Key>
       <Forenames>L. E. A.</Forenames>
       <PageNumber>2457</PageNumber>
@@ -1751,8 +1758,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Forenames>B. R. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>B. R. O'B</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>

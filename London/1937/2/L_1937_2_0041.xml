@@ -22,9 +22,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Surgeon</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Percival Thomas, C.B., M.R.C.S., L.R.C.P., Commander, Order of St. John of Jerusalem</Text>
+      <Title>Surgeon Rear-Admiral</Title>
+      <Forenames>Percival Thomas</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +37,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Stephen Charles Phillip</Forenames>
-      <Text>, D.S.O., Commander. Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,8 +112,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norway</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>Queen of, Dane Grand Cross, Royal Victorian Orde.-</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The Queen of, Dane Grand Cross, Royal Victorian Orde.-</Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +138,11 @@
       <Key>Nujgent</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Terence Edmund Gascoigne</Forenames>
-      <Text>, M.V.O., M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,8 +157,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, Lt. (Local Capt.) Dennis John Edwin, Member, Order of the British Empire</Text>
+      <Key>O'Flynn</Key>
+      <Title>Lt. (Local Capt.)</Title>
+      <Forenames>Dennis John Edwin</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +195,9 @@
     <MainItem>
       <Key>Ogilvie-Forbes</Key>
       <Forenames>George Arthur Drostan</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,8 +236,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loghlin, Blanche, Mrs., Member, Order of the British Empire</Text>
+      <Key>O'Loghlin</Key>
+      <Forenames>Blanche</Forenames>
+      <Text>, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +247,10 @@
       <Key>Olver</Key>
       <Title>Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B., C.M.G., F.R.C.V.S.,F.N.I., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +261,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Robert William Hugh</Forenames>
-      <Text>, Bt., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +278,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Norman</Forenames>
-      <Text>McLeod, Officer, Order of St. John of Jerusalem ... ... Pearce, Mrs. Isabella Barclay, Serving Sister, Order of St. John of Jerusalem ... Pearce, John Seymour, M.C., Member, Order of the 3855 British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3093</PageNumber>
     </MainItem>
     <SubItem>
@@ -269,7 +289,9 @@
       <PageNumber>3750</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Phillips, Capt. Tom Spencer Vaughan, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </SubItem>
   </ItemGroup>

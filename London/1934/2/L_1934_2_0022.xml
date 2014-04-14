@@ -14,7 +14,9 @@
       <Key>Crawley</Key>
       <Title>Rev.</Title>
       <Forenames>Arthur Stafford</Forenames>
-      <Text>, M.C., M.A., granted Canonry in Church or Free Chapel of St. George in the Castle of Windsor</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +113,9 @@
     <MainItem>
       <Key>Abbiss</Key>
       <Forenames>George</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +140,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Hamid</Forenames>
-      <Text>, Khan Bahadur Dewan, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +214,9 @@
     <MainItem>
       <Key>Ainsworth</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, Richard, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +227,11 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ralph Bignell</Forenames>
-      <Text>, O.B.E., D.S.O., K.H.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +256,9 @@
       <Key>Alexander</Key>
       <Title>Rev. Canon</Title>
       <Forenames>Sidney Arthur</Forenames>
-      <Text>, C.V.O., M.A., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,14 +269,19 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ulick</Forenames>
-      <Text>, C.V.O., . O.B.E., Companion, .Order, of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2703</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ali</Key>
-      <Text>bin . Salim, Sheikh, K.B.E., Nominated Unofficial Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +306,11 @@
     <MainItem>
       <Key>Allenby</Key>
       <Forenames>Field Marshal Edmund Henry Hynman</Forenames>
-      <Text>, Viscount, G.C.B., G.C.M.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +336,9 @@
       <Key>Anderson</Key>
       <Title>Sir</Title>
       <Forenames>Alan Garrett</Forenames>
-      <Text>, K.B.E., KnightGrand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +359,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Maxwell Henry Maxwell</Forenames>
-      <Text>, C.B.E., R.N., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +411,9 @@
       <Key>Anwyl-Passingham</Key>
       <Title>Col.</Title>
       <Forenames>Augustus Mervyn Owen</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +422,11 @@
       <Key>Archibald</Key>
       <Title>Maj.</Title>
       <Forenames>Robert George</Forenames>
-      <Text>, C.M.G., D.S.O., M.D., R.A.M.C (Retd.), Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +458,9 @@
     <MainItem>
       <Key>Ashworth</Key>
       <Forenames>HenryTweedale</Forenames>
-      <Text>, M.M., Member, Order of the British-Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +475,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Atkinson</Key>
-      <Text>... Lt.-Col Eric Garnett,.. Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +503,9 @@
       <Key>Aykroyd</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +513,9 @@
     <MainItem>
       <Key>Babington</Key>
       <Forenames>Air Commodore John Tremayne</Forenames>
-      <Text>, D.S.O., Commander, Order of 'the British Empire ...,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +523,9 @@
     <MainItem>
       <Key>Badeley</Key>
       <Forenames>Henry John Fanshawe</Forenames>
-      <Text>, C.B.E., Clerk of Parliaments</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +549,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>Charles Henry Collins</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +613,9 @@
     <MainItem>
       <Key>Banting</Key>
       <Forenames>Frederick Grant</Forenames>
-      <Text>, D.Sc., LL.D., M.D., MJR.C.S., L.R.C.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +639,10 @@
     <MainItem>
       <Key>Barlerin</Key>
       <Forenames>Jean Marie Claude</Forenames>
-      <Text>, M.V.O. (Fifth Class), Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +658,11 @@
     <MainItem>
       <Key>Bartholomew</Key>
       <Title>Lt.</Title>
-      <Text>Gen. William Henry, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +678,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Barton</Key>
-      <Text>.Sir Sidney, K.C.V.O., K.B.E., C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the Emperor of Ethiopia, and ConsulGeneral for Ethiopia</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>

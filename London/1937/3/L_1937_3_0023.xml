@@ -297,7 +297,9 @@
       <Key>Pigott-Brown</Key>
       <Title>Sir</Title>
       <Forenames>J. H.V</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prevost</Key>
-      <Forenames>A.</Forenames>
-      <Text>de T</Text>
+      <Forenames>A. de T</Forenames>
       <PageNumber>4418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,14 +1268,16 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. George, A. J</Text>
+      <Forenames>George</Forenames>
+      <Text>, A. J</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, F. O</Text>
+      <Forenames>John</Forenames>
+      <Text>, F. O</Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,8 +1559,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. H. de B</Forenames>
       <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>

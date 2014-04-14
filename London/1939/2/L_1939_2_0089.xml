@@ -405,7 +405,9 @@
       <Key>MacRobert</Key>
       <Title>Sir</Title>
       <Forenames>R. A</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malins</Key>
-      <Text>W. E. V</Text>
+      <Forenames>W. E. V</Forenames>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>

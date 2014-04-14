@@ -213,8 +213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harmsworth</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. J. P</Text>
+      <Forenames>C. A. St. J</Forenames>
+      <Text>. P</Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,8 +250,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Harris-St</Key>
-      <Text>. John, B. J</Text>
+      <Key>Harris-St. John</Key>
+      <Forenames>B. J.</Forenames>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>. D. W</Text>
+      <Forenames>D. W .</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1114,8 +1114,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. B.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. B. de M</Forenames>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,7 +1128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hurndall</Key>
-      <Text>. F. B</Text>
+      <Forenames>F. B.</Forenames>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1174,7 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Huthwaite</Key>
-      <Text>. M. P</Text>
+      <Forenames>M. P.</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inglis</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R.</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,14 +1227,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Inigo-Jones</Key>
-      <Text>. O. M. Innes, R. G. B</Text>
+      <Forenames>O. M. Innes</Forenames>
+      <Text>, R. G. B</Text>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Inskip</Key>
-      <Text>. R. D</Text>
+      <Forenames>R. D.</Forenames>
       <PageNumber>613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1767,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Text>. H. W</Text>
+      <Forenames>H. W.</Forenames>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,7 +1795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>. H. R</Text>
+      <Forenames>H. R .</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,7 +1811,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerrison</Key>
-      <Text>. A. V</Text>
+      <Forenames>A. V.</Forenames>
       <PageNumber>1021</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ...</KeyDitto>
@@ -1857,7 +1857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kineston</Key>
-      <Text>. P. D</Text>
+      <Forenames>P. D.</Forenames>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>

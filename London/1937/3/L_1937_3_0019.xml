@@ -656,8 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +788,9 @@
       <Key>Cholmeley</Key>
       <Title>Sir</Title>
       <Forenames>H. J. F. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colman</Key>
-      <Text>. R. L. P</Text>
+      <Forenames>R. L. P</Forenames>
       <PageNumber>5442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>. M. A. L</Text>
+      <Forenames>M. A. L.</Forenames>
       <PageNumber>5835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1625,7 +1626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Darling</Key>
-      <Text>. D L</Text>
+      <Forenames>D</Forenames>
+      <Text>L</Text>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,10 +1732,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. M 466S de Courcy, G. L</Text>
+      <Key>de Buriatte</Key>
+      <Forenames>E. A</Forenames>
+      <PageNumber>5441</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Butts</Key>
+      <Forenames>F. M</Forenames>
+      <Text>466S de Courcy, G. L</Text>
       <PageNumber>5901</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Heidenstam</Key>
+      <Forenames>R. U. G.</Forenames>
+      <PageNumber>5631</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1745,15 +1761,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, J. B. ... de Rutzen, J. F. F. de Rutzen</Text>
+      <Key>De Pree</Key>
+      <Forenames>J. B.</Forenames>
+      <Text>... de Rutzen, J. F. F. de Rutzen</Text>
       <PageNumber>4252</PageNumber>
     </MainItem>
     <SubItem>
       <Text>. Baron</Text>
       <PageNumber>5512</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, -</Text>
+      <PageNumber>5178</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vere</Key>
+      <Forenames>G.R. J.</Forenames>
+      <PageNumber>4345</PageNumber>
+    </MainItem>
   </ItemGroup>
 </Index>
 

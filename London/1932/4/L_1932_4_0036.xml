@@ -125,8 +125,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. H</Forenames>
       <PageNumber>7178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Argles</Key>
-      <Text>. L. W. L</Text>
+      <Forenames>L. W. L.</Forenames>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,8 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beal</Key>
-      <Forenames>C. E. S. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. E. S. B. St. G</Forenames>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>..-John, S. A. G</Text>
+      <Text>.-John, S. A. G</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,10 +638,9 @@
       <Forenames>A</Forenames>
       <PageNumber>7833</PageNumber>
     </MainItem>
-    <SubSectionTitle>
-      <Text>Senior Masters</Text>
-    </SubSectionTitle>
+    <SubSectionTitle>Senior Masters</SubSectionTitle>
     <SubItem>
+      <Text>Senior Masters.</Text>
       <PageNumber>6249</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -680,7 +678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyland</Key>
-      <Text>., F. J</Text>
+      <Text>, F. J</Text>
       <PageNumber>6334</PageNumber>
     </MainItem>
   </ItemGroup>

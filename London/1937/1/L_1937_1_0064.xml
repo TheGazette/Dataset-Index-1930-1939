@@ -120,7 +120,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>.D.C. to The King and Air Vice Marshal, Gloucester, H.R.H. the Duke of</Text>
+      <Text>
+        <Honour>D.C.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,7 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anness</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H</Forenames>
       <PageNumber>1646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,8 +1739,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -28,8 +28,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,15 +1126,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P</Forenames>
       <PageNumber>821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, M. J</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>M. J</Forenames>
       <PageNumber>1818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,16 +1158,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J .</Forenames>
       <PageNumber>54</PageNumber>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N.</Forenames>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,15 +1180,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, W. J</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>W. J</Forenames>
       <PageNumber>604</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, ;J</Text>
+      <Key>O'Dwyer</Key>
+      <Text>;J</Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,15 +1239,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. J</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley-Keyes, H. J. K</Text>
+      <Key>O'Malley-Keyes</Key>
+      <Forenames>H. J. K.</Forenames>
       <PageNumber>733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1817,14 +1816,16 @@
       <Key>Pigott-Brown</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pike</Key>
-      <Text>V. J</Text>
+      <Forenames>V. J</Forenames>
       <PageNumber>308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1861,7 +1862,9 @@
       <Key>Pole</Key>
       <Title>Sir</Title>
       <Forenames>J. G. Carew</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>

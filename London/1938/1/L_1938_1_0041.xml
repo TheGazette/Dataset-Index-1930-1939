@@ -85,7 +85,10 @@
     <MainItem>
       <Key>Tasker</Key>
       <Forenames>Theodore James</Forenames>
-      <Text>, CLE., O.B.E., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +105,9 @@
       <Key>Taylor</Key>
       <Title>Alexander .</Title>
       <Forenames>Thomson</Forenames>
-      <Text>, O.B.E., J.P., Knight Commander, . Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +123,11 @@
     <MainItem>
       <Key>Telfer-Smollett</Key>
       <Title>Col. (temp. Brig.) (local Maj.-Gen.)</Title>
-      <Text>, . Alexander Patrick Drummond, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +160,11 @@
     <MainItem>
       <Key>Thorn</Key>
       <Forenames>John Gibb</Forenames>
-      <Text>, D.S.O., M.C., Knighted</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,137 +175,175 @@
       <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>George Ross</Forenames>
-      <Text>, Companion, Order of St. Michael . and St. George</Text>
+    <SubItem>
+      <Text>George Ross, Companion, Order of St. Michael . and St. George</Text>
       <PageNumber>5</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Hugh</Forenames>
-      <Text>fcloyd, C.V.O., Companion, Order of St. Michael and St. George</Text>
-      <PageNumber>6</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>-—___ ___</KeyDitto>
+        <KeyDitto>-—</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>,Ivor Broadbent, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1069</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Thomas Morris</Forenames>
-      <Text>, Member, Order of the British Empire ... ... ... Ji Thompson, Alexander Hamilton, L.Litt, F.B.A., F.S.A., Commander, Order of the British Empire</Text>
+      <Key>Thompson</Key>
+      <Forenames>Alexander Hamil-</Forenames>
+      <Text>ton, L.Litt, F.B.A., F.S.A., Commander, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Regtl. Sgt. Maj.</Title>
-      <Forenames>John Anson</Forenames>
-      <Text>, Member, Order of the British Empire</Text>
+    <SubItem>
+      <Text>Regtl. Sgt. Maj. John Anson, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Title>Mrs.</Title>
-      <Forenames>Mary Whaley</Forenames>
-      <Text>, Serving Sister, Order of St. John of Jerusalem</Text>
-      <PageNumber>30</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Evelyn Claude Ogilvie, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Evelyn Claude Ogilvie</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Sir</Title>
-      <Forenames>Francis Vernon</Forenames>
-      <Text>, Baronet</Text>
+    <SubItem>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1068</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Margaret</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire</Text>
-      <PageNumber>13</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thorne</Key>
       <Forenames>John Anderson</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Philip</Forenames>
-      <Text>, Member, Order of the British Empire Toller, William Stark, O.B.E., H.M. Consul-General in China Tomlinson, George, Member of Parliament for Faroworth ... ... ... Toogood, Maj. Cyril George, D.S.O., Companion, Order of the Indian Empire ... Tothill, John Douglas, D.Sc, Companion, Order of St. Michael and St. George ... Townsend, Capt. George John William, M.B.E., Member, Royal Victorian Order ... Trentham, Everard Noel Rye, Companion, Order of St. Michael and St. George ... Tribe, Frank Newton, C.B.E., Companion, Order of the Bath Trinchinopoly Rangasami Kumaru, Associate Serving Brother, Order of St. John of Jerusalem Trubshaw, Miss Gwendoline Joyce, C.B.E., Dams Commander, Order of the British Empire ... ... Trusted, Harry Herbert, Knight</Text>
-      <PageNumber>3</PageNumber>
+      <Key>Thurston</Key>
+      <Title>Col.</Title>
+      <Forenames>Lionel Victor</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Myrtle Ruth Mar-</Forenames>
-      <Text>garet, Serving Sister, Order of St. John of Jerusalem ... ... Tulloh, The Revd. Alexander, M.A., Officer; Order of the British Empire ... ... Turbett, Ivam Joliffe Tufnell, H.M. Counsel ' for Sierra Leone ... ... ... Turner, Engr. Rear-Admiral Laurence, Companion, Order of the Bath ... ... Tyas, Miss Isabelle Dora, Member, Order of the British Empire ... U Tin Gvi, A.T.M., Officer, Order of the British Empire Udipi Rama Rau, Rao Sahib Dr., Associate Officer, Order of St. John of Jerusalem ... ... ... Uloth, Miss Maud, Serving Sister, Order of St. John of Jerusalem ... Underhill, Capt. George, D.S.C, Officer, Order of the British Empire ... Van de Linde, Henry Arthur, F. C.A., Officer, Order of the British Empire ... ... Vansittart, Sir Robert Gilbert, G. C.M.G., K.C.B., M.V.O., Knight Grand Cross, Order of the Bath ... ... ... Vaskess, . Henry Harrison, Officer, Order of the British 29 Empire</Text>
+      <Key>Tibbs</Key>
+      <Forenames>Gunner Francis Charles</Forenames>
+      <Text>, Member, Order of the British Empire ... ... Tinley, Comdr. Charles Bourdas, Officer, Order of the British Empire ... Tod, Gwendoline Elizabeth, Mrs. Thomas, Member, Order of the British Empire Todd, Frank Henry, H.M. ViceConsul at Casablanca</Text>
+      <PageNumber>2085</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Todhunter</Key>
+      <Title>Sir</Title>
+      <Forenames>Charles George</Forenames>
+      <Text>, K.C.S.I., Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>29</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Toller</Key>
+      <Forenames>William Stark</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>1841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tomlinson</Key>
+      <Forenames>George</Forenames>
+      <Text>, Member of Parliament for Faroworth</Text>
+      <PageNumber>661</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Toogood</Key>
+      <Title>Maj.</Title>
+      <Forenames>Cyril George</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>63</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Tucker</Key>
+      <Forenames>Robert Ernest</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>288</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Turner</Key>
+      <Title>Engr. Rear-Admiral</Title>
+      <Forenames>Laurence</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vaughan</Key>
+      <Title>Miss</Title>
+      <Forenames>Cicely Alice Mary</Forenames>
+      <Text>, Member, Order of the 8 British Empire</Text>
+      <PageNumber>12</PageNumber>
+    </MainItem>
     <SubItem>
-      <Text>___ ___ ___ John Hugh, Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>Vipan, Alfred, Companion, Order of the Indian Empire Virlley, Amarchand Sharma, Member, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Wardill, Alderman William . Edwin, J.P., Commander, Order of the British Empire</Text>
+      <PageNumber>9</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>John Hugh, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>2084</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ Frederick Arthur, J.P., Officer, Order of the British Empire</Text>
+      <Text>Frederick Arthur, J.P., Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

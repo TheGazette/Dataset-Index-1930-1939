@@ -366,7 +366,9 @@
     <MainItem>
       <Key>Vice</Key>
       <Forenames>Bute</Forenames>
-      <Text>, Colonel Sir Colin William MacRae, C.V.O., C.B.E ...-</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +397,9 @@
       <Key>Cardigan</Key>
       <Title>Sir</Title>
       <Forenames>George Arthur Harford</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,17 +454,33 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <PageNumber>7050</PageNumber>
+        <Honour>M.C.</Honour>
+        <PageNumber>7050</PageNumber>
+        <Honour>O.B.E.</Honour>
         <PageNumber>7050</PageNumber>
         <PageNumber>7050</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <PageNumber>7050</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <PageNumber>7050</PageNumber>
+        <Honour>T.D.</Honour>
+        <PageNumber>7050</PageNumber>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>7050</PageNumber>
         <PageNumber>7050</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>7050</PageNumber>
+        <Honour>O.B.E.</Honour>
         <PageNumber>7050</PageNumber>
-        <PageNumber>7050</PageNumber>
-        <PageNumber>7050</PageNumber>
-        <PageNumber>7050</PageNumber>
-        <PageNumber>7050</PageNumber>
-        <PageNumber>7050</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>7050</PageNumber>
         <PageNumber>7050</PageNumber>
       </Text>
@@ -472,14 +492,20 @@
       <Key>Leicester</Key>
       <Title>Major</Title>
       <Forenames>John Ellis Viccars</Forenames>
-      <Text>, D.S.O., O.B.E., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Boss</Key>
-      <Text>and Cromarty, Capt. Sir Hector David Mackenzie, Bt., M.C</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,18 +516,26 @@
       <PageNumber>7228</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Somerleyton, Maj. Francis Savile, Baron, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7228</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>: Humphreys, Col. Humphrey Francis, O.B.E., M.C., T.D., K.H.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>K.H.P</Honour>
+      </Text>
       <PageNumber>7418</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>7418</PageNumber>
       </Text>
       <PageNumber>7418</PageNumber>
@@ -511,7 +545,9 @@
     <MainItem>
       <Key>Worcester</Key>
       <Forenames>County</Forenames>
-      <Text>of : . Chichester, Lt. .Col. Walter Raleigh, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>8357</PageNumber>
     </MainItem>
     <SubItem>

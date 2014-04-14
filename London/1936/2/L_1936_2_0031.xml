@@ -29,7 +29,10 @@
       <Key>Harding</Key>
       <Title>Major (Qr.-Mr.)</Title>
       <Forenames>Charles</Forenames>
-      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +73,11 @@
     <MainItem>
       <Key>Harper-Nelson</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel John Joseph, O.B.E., M.O., M.D., F.R.C.S. (Edin.), Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +111,10 @@
     <MainItem>
       <Key>Hartley</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel (Hon. Colonel) Donald Reginald Cavendish, D.S.O., E.D., A.D.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +132,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +270,9 @@
     <MainItem>
       <Key>Heathcote-Smith</Key>
       <Forenames>Clifford Edward</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +308,10 @@
       </Key>
       <Title>Captain</Title>
       <Forenames>Sidney</Forenames>
-      <Text>, M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +371,11 @@
     <MainItem>
       <Key>Hildyard</Key>
       <Title>Lieut.-Gen.</Title>
-      <Text>. Sir Reginald J.T., K.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief,! Bermudas or Somers Islands ... -</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +435,10 @@
       <Key>Hoare</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Samuel John Gurney</Forenames>
-      <Text>, Bt., G. C.S.I., G.B.E., C.U.G., First Lord of the Admiralty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>3751</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +454,9 @@
     <MainItem>
       <Key>Hogg</Key>
       <Title>Gilbert.</Title>
-      <Text>. Pitcairn,; CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +464,9 @@
     <MainItem>
       <Key>Holland</Key>
       <Forenames>Henry Tristram</Forenames>
-      <Text>, C.I.E., M.B., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +483,9 @@
     <MainItem>
       <Key>Holman</Key>
       <Forenames>Adrian</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,8 +500,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Forenames>Brigadier-General Archibald Fraser</Forenames>
-      <Text>, C.B., C.M.G., O.V.O., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Title>Brigadier-</Title>
+      <Forenames>General Archibald Fraser</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +532,9 @@
       <Key>Horwich</Key>
       <Title>Colonel</Title>
       <Forenames>David</Forenames>
-      <Text>, O.B.E., B.D., M.R.C.S., L.R.C.P., Associate Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +543,9 @@
       <Key>Howard</Key>
       <Title>Mrs.</Title>
       <Forenames>Alice</Forenames>
-      <Text>, A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +563,9 @@
     <MainItem>
       <Key>Horwell</Key>
       <Forenames>John Edward</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +581,9 @@
     <MainItem>
       <Key>Hubbard</Key>
       <Forenames>Skipper</Forenames>
-      <Text>Lt. James William, R.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +592,9 @@
       <Key>Hudson</Key>
       <Title>Capt.</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +634,9 @@
     <MainItem>
       <Key>Huntingfield</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, the Lord, K.C.M.G., .Knight of Grace; Order of. St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +652,9 @@
     <MainItem>
       <Key>Hussein</Key>
       <Forenames>Fakhri Khalidi</Forenames>
-      <Text>, M.D., Associate Officer, Order of St. John of Jerusalem -</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +713,10 @@
       <Key>Iredell</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Alfred William</Forenames>
-      <Text>, M.R.C.S., L.R.C.P., K.H.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>K.H.P.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>

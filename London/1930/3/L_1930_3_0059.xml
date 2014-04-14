@@ -2,6 +2,13 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="059" pageID="https://www.thegazette.co.uk/id/London/index/year/1930/volume/3/page/059" pagePDF="https://www.thegazette.co.uk/London/index/year/1930/volume/3/page/059" pageRDF="https://www.thegazette.co.uk/London/index/year/1930/volume/3/page/059?view=linked-data" type="index" volume="3" year="1930">
   <ItemGroup>
     <MainItem>
+      <Key>Solomon</Key>
+      <Forenames>Samuel Philip</Forenames>
+      <PageNumber>5780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Southgate</Key>
       <Forenames>Walter Henry</Forenames>
       <PageNumber>5538</PageNumber>
@@ -108,8 +115,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stenhouse</Key>
-      <Forenames>David</Forenames>
-      <Text>... ..,</Text>
+      <Title>David .</Title>
+      <Text>.. ..,</Text>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>5920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubbings</Key>
-      <Forenames>Gabriel</Forenames>
+      <Title>Gabriel .</Title>
       <PageNumber>4459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tennnnt</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>4544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,15 +904,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Topping</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5261</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tottenham</Key>
-      <Forenames>Sarah</Forenames>
-      <Text>de Cliffe</Text>
+      <Forenames>Sarah de Cliffe</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tucker</Key>
-      <Forenames>Anne</Forenames>
+      <Title>Anne .</Title>
       <PageNumber>5655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>4995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicars</Key>
-      <Forenames>Hedley</Forenames>
+      <Title>Hedley .</Title>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,14 +1218,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakeman</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>5785</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wakeman-Newport</Key>
-      <Forenames>Louisa</Forenames>
+      <Title>Louisa .</Title>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,7 +1288,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>4327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1672,7 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westrup</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,7 +1837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Widdowson</Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>4321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilden</Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>5654</PageNumber>
     </MainItem>
   </ItemGroup>

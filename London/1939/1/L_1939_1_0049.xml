@@ -203,7 +203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webster</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R.</Forenames>
       <PageNumber>2091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whyte</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +498,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. R. R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. R. R. St. G</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,8 +1086,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>60</PageNumber>
       <PageNumber>286</PageNumber>
     </MainItem>
@@ -1276,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beck</Key>
-      <Text>. M. G</Text>
+      <Forenames>M. G.</Forenames>
       <PageNumber>1847</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,8 +1446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomb</Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,8 +1539,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G Skeen, A</Text>
+      <Forenames>H. St. G Skeen</Forenames>
+      <Text>, A</Text>
       <PageNumber>1139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,7 +1596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. R. S. M</Text>
+      <Forenames>R. S. M.</Forenames>
       <PageNumber>686</PageNumber>
     </MainItem>
   </ItemGroup>

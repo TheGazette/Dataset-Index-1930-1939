@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Gibb</Key>
       <Forenames>Allan</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Forenames>William Kenrick</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +69,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Gladstone</Forenames>
-      <Text>, I.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +80,9 @@
       <Key>Giles</Key>
       <Title>Capt.</Title>
       <Forenames>Alan Stewart</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +93,10 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>God-</Forenames>
-      <Text>frey Morgan, M.C., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +147,9 @@
       <Key>Goodley</Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +166,9 @@
       <Key>Gordon</Key>
       <Title>Capt.</Title>
       <Forenames>Douglas</Forenames>
-      <Text>McKenzie, M.C., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +179,9 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>Rupert Montgomery</Forenames>
-      <Text>, M.D., D.Sc, M.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +207,9 @@
     <MainItem>
       <Key>Gotts</Key>
       <Forenames>John Benjamin</Forenames>
-      <Text>, O.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +227,12 @@
       <Key>Gowrie</Key>
       <Title>Brig.-Gen. Rt. Hon.</Title>
       <Forenames>Alexander Gore Arkwright</Forenames>
-      <Text>, Lord, V.C., G.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +241,9 @@
       <Key>Graham</Key>
       <Title>Maj.</Title>
       <Forenames>Duncan Archi-</Forenames>
-      <Text>bald, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +269,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Frederick Geddes</Forenames>
-      <Text>, O.B.E., Nominated Unofficial Member of the Legislative . Council of Colony of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3350</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +280,9 @@
       <Key>Gray</Key>
       <Title>Capt. (Qrmr.)</Title>
       <Forenames>Arthur Ernest</Forenames>
-      <Text>, , M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +352,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Michael Arthur</Forenames>
-      <Text>, M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +389,9 @@
       <Key>Greer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Garnet</Forenames>
-      <Text>, M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +415,9 @@
     <MainItem>
       <Key>Grimston</Key>
       <Forenames>Robert Villiers</Forenames>
-      <Text>, M.P., Vice-Chancellor of His Majesty's Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +484,11 @@
       <Key>Gwatkin</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +497,11 @@
       <Key>Hacking</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Douglas Hewitt</Forenames>
-      <Text>, O.B.E., M.P., Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3685</PageNumber>
     </MainItem>
   </ItemGroup>

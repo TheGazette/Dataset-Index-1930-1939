@@ -1301,8 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Inniss</Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. R. de L</Forenames>
       <PageNumber>3388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1599,8 +1598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jefferies</Key>
-      <Forenames>C. G. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>C. G. St. D</Forenames>
       <PageNumber>2923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1839,7 +1837,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joly</Key>
-      <Text>de Lotbinere, H</Text>
+      <Forenames>de Lotbinere</Forenames>
+      <Text>, H</Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>

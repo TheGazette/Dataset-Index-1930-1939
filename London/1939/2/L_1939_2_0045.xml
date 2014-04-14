@@ -45,7 +45,10 @@
     <MainItem>
       <Key>Wickins</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. George Cradock, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +91,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>F.</Forenames>
-      <Text>, M.B.E., Member, White Fish Industry Joint Council</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +104,11 @@
       </Key>
       <Title>Col. (Hon. Brig.)</Title>
       <Forenames>John Shann</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +117,11 @@
       <Key>Willans</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Harry</Forenames>
-      <Text>, D.S.O., M.C., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +158,9 @@
       </Key>
       <Title>Comdr.</Title>
       <Forenames>George Davies</Forenames>
-      <Text>, D.S.O., Companion, Order of. St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +170,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>George Harry</Forenames>
-      <Text>, M.V.O., Member 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +183,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Guy Charles, C.B., C.M.G., D.S.O:, Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +207,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Herbert Geraint</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +221,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Walter John</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +255,10 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>Christopher James</Forenames>
-      <Text>, M.C., M.D., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +279,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, O.B.E., Member, Executive Council of Cyprus</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +299,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>James Arthur</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +333,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Richard Henry</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +386,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Robert Stanford</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +422,9 @@
       <Key>Woollcombe</Key>
       <Title>Maj.</Title>
       <Forenames>Malcolm Louis</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +473,10 @@
     <MainItem>
       <Key>Wycisk</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Godfrey Charles, T.D., Officer, Order ' of . the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +484,9 @@
     <MainItem>
       <Key>Yencken</Key>
       <Forenames>Arthur Ferdinand</Forenames>
-      <Text>, M.C., Acting Counsellor of Embassy at H.M. Embassy in Spain</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Forenames>D.</Forenames>
-      <Text>de S</Text>
+      <Forenames>D. de S</Forenames>
       <PageNumber>3884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,6 +860,13 @@
       <Key>Davies</Key>
       <Forenames>E. F.</Forenames>
       <PageNumber>2588</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. P. G</Forenames>
+      <PageNumber>2918</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1148,7 +1197,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3472</PageNumber>
     </MainItem>
   </ItemGroup>

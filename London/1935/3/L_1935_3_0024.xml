@@ -682,7 +682,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mill</Key>
-      <Text>.ington, L</Text>
+      <Text>ington, L</Text>
       <PageNumber>4259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,8 +1228,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, M. N</Text>
+      <Key>O'Brien</Key>
+      <Forenames>M. N</Forenames>
       <PageNumber>5108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,15 +1251,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J</Forenames>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. A.</Forenames>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1272,29 +1272,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, F. J</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>F. J</Forenames>
       <PageNumber>6006</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, D. B</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>D. B</Forenames>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gradv, G. V. De C. (the O'Grady)</Text>
+      <Key>O'Gradv</Key>
+      <Forenames>G. V. De C</Forenames>
+      <Text>. (the O'Grady)</Text>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, C. E</Text>
+      <Key>O'Hara</Key>
+      <Forenames>C. E.</Forenames>
       <PageNumber>5741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Olivier</Key>
-      <Text>. C. H. A</Text>
+      <Forenames>C. H. A.</Forenames>
       <PageNumber>5595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1942,7 +1943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pringle</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C</Forenames>
       <PageNumber>5533</PageNumber>
     </MainItem>
   </ItemGroup>

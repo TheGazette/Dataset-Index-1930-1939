@@ -42,8 +42,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, W. H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>W. H</Forenames>
       <PageNumber>1687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toyne</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>S. St. G</Forenames>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,6 +1456,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. J</Forenames>
+      <PageNumber>2120</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>T. P.</Forenames>
+      <PageNumber>234</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denholm</Key>
       <Forenames>G. H.</Forenames>
       <PageNumber>2119</PageNumber>
@@ -1569,9 +1582,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, J. F. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>J. F. H.</Forenames>
       <PageNumber>526</PageNumber>
       <PageNumber>676</PageNumber>
     </MainItem>

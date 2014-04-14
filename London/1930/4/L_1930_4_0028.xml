@@ -879,7 +879,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>7692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,7 +925,9 @@
       <Key>Blaker</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,6 +1638,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brisay</Key>
+      <Forenames>A. C. D.</Forenames>
+      <PageNumber>6840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>K. H.</Forenames>
+      <PageNumber>6096</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>R. P .</Forenames>
       <PageNumber>6249</PageNumber>
@@ -1757,6 +1773,13 @@
       <Key>Drybrough</Key>
       <Forenames>D .</Forenames>
       <PageNumber>7768</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cross</Key>
+      <Forenames>E. H .</Forenames>
+      <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

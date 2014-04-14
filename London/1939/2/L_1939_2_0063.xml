@@ -421,8 +421,10 @@
     <MainItem>
       <Key>Haggerston</Key>
       <Title>Sir</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>de M. Bt</Text>
+      <Forenames>H. C. de M</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>

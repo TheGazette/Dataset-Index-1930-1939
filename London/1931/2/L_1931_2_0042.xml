@@ -104,7 +104,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McQuat</Key>
-      <Text>J. T. ..:</Text>
+      <Forenames>J. T.</Forenames>
+      <Text>..:</Text>
       <PageNumber>2738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Malley</Key>
-      <Text>A.E. ..: ... ..,</Text>
+      <Text>
+        <Honour>A.E.</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +523,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Napier</Key>
-      <Text>Hon. A. J. G. M. .:</Text>
+      <Title>Hon.</Title>
+      <Forenames>A. J. G. M.</Forenames>
+      <Text>.:</Text>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +586,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>.Sir ,L&gt; Nj, Bt.&gt;</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,15 +625,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dell, D. J</Text>
+      <Key>O'Dell</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>3072</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J .</Forenames>
       <PageNumber>4158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,8 +857,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>B.</Forenames>
-      <Text>de H. ^</Text>
+      <Forenames>B. de H</Forenames>
+      <Text>. ^</Text>
       <PageNumber>2420</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -52,7 +52,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Male</Key>
-      <Text>!., Sir E. W. St. Lo, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,8 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>D. St. L</Forenames>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>

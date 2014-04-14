@@ -101,8 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doherty</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>T. O'C</Forenames>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farmbrough</Key>
-      <Text>. C. S</Text>
+      <Forenames>C. S</Forenames>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +521,9 @@
       <Key>Ford</Key>
       <Title>Sir</Title>
       <Forenames>P. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1108,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guestj-Hon</Key>
-      <Text>.-I. G--</Text>
+      <Text>-I. G--</Text>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harker</Key>
-      <Text>. G. D</Text>
+      <Forenames>G. D</Forenames>
       <PageNumber>845</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,7 +1286,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hartington</Key>
-      <Text>. Maro,. of</Text>
+      <Forenames>Maro</Forenames>
+      <Text>,. of</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1301,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harwood</Key>
-      <Text>. H. M: C</Text>
+      <Forenames>H. M</Forenames>
+      <Text>: C</Text>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1923,7 +1926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jameson</Key>
-      <Text>. I; S. ... ... '</Text>
+      <Forenames>I</Forenames>
+      <Text>; S. ... ... '</Text>
       <PageNumber>844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2006,7 +2010,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>. D. F</Text>
+      <Forenames>D. F</Forenames>
       <PageNumber>775</PageNumber>
     </MainItem>
   </ItemGroup>

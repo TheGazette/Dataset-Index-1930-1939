@@ -16,7 +16,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinidad</Key>
-      <Text>and Tobago, Legislative Council of, Nominated Official Member, Edward Jocelyn Wortley, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +26,9 @@
     <MainItem>
       <Key>Tunis</Key>
       <Forenames>H.M. Consul-General</Forenames>
-      <Text>at, Ernest Gabriel Lomas, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +164,9 @@
     <MainItem>
       <Key>York</Key>
       <Title>Duke</Title>
-      <Text>of, Assistant Private Secretary and Equerry to, Commander Harold Gordon Campbell, D.S.O., .R.N. (Retd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +186,9 @@
     <MainItem>
       <Key>Yugoslavia</Key>
       <Title>Orders. (See under Foreign Orders.)</Title>
-      <Text>___ ___ ___ ___ ___ ___ Barry, Rev. Frank Russell, D.S.O., M.A., Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>

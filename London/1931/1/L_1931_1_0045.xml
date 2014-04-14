@@ -82,8 +82,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, D. P</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +360,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Text>J. P. A</Text>
+      <Forenames>J. P. A.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mundy-Cox</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>1127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lithgow</Key>
-      <Text>O. M</Text>
+      <Forenames>O. M.</Forenames>
       <PageNumber>377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,8 +730,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Ford, D</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>D.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkinson</Key>
-      <Text>M. W</Text>
+      <Forenames>M. W.</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamlyn</Key>
-      <Text>H. P</Text>
+      <Forenames>H. P.</Forenames>
       <PageNumber>1365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +865,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>1534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +951,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joy</Key>
-      <Text>P. T</Text>
+      <Forenames>P. T</Forenames>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,8 +1278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>M. N.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. N. de C</Forenames>
       <PageNumber>832</PageNumber>
     </MainItem>
   </ItemGroup>

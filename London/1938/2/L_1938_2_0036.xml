@@ -23,7 +23,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>Albert George</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,11 @@
       <Key>Mitchiner</Key>
       <Title>Col.</Title>
       <Forenames>Philip Henry</Forenames>
-      <Text>, T.D., M.D., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
     <MainItem>
       <Key>Montagu-Douglas-</Key>
       <Forenames>Scott</Forenames>
-      <Text>, Lt.-Col. Lord Francis George, D.S.O., Unofficial Member of the Executive Council of the Colony of Kenya</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +97,11 @@
     <MainItem>
       <Key>Moriteith</Key>
       <Forenames>David Taylor</Forenames>
-      <Text>^ C.V.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +117,9 @@
     <MainItem>
       <Key>Montgomery</Key>
       <Forenames>Harold Robert</Forenames>
-      <Text>, C.M.G., Nominated Unofficial Member of the Legislative Council of Kenya Colony</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2708</PageNumber>
     </MainItem>
     <SubItem>
@@ -164,7 +178,9 @@
       <Key>Morris</Key>
       <Title>Maj.</Title>
       <Forenames>Cyril Clarke Boville</Forenames>
-      <Text>, M.C., M.I.Mech.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +269,11 @@
     <MainItem>
       <Key>Moxon</Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Knight 3686 Nicholson, Sydney Hugo, Moylan, Sir John FitzGerald, M.V.O., D.Mus., F.R.C.O., C. B., C.B.E., Officer, Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +282,11 @@
       <Key>Muir</Key>
       <Title>Col.</Title>
       <Forenames>John Balderstone</Forenames>
-      <Text>, (Eng.), Companion, Order D. S.O., T.D., D.L., Comof the Indian Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +356,9 @@
     <MainItem>
       <Key>Myers</Key>
       <Forenames>Albert Robert</Forenames>
-      <Text>, O.B.E., Oakley, Robert O'Field, Officer, F.S.I., A.R.I.B.A., ComOrder of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +402,9 @@
       <Key>Nicholl</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>HazelPanton</Forenames>
-      <Text>, Albert Colonridge, ton Robsdn, C.B.E., Com. Member, Order of the panion, Order of the Bath 3688 British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>

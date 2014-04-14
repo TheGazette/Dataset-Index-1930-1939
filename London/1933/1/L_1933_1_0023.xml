@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Griffin</Key>
       <Forenames>Charles Norman</Forenames>
-      <Text>, M.D., Official Member of the Executive Council of Dominica</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>300</PageNumber>
     </MainItem>
     <SubItem>
@@ -49,7 +51,9 @@
     <MainItem>
       <Key>Hall</Key>
       <Forenames>Duncan Hamilton</Forenames>
-      <Text>, I.S.O., Nominated Member of' the Legislative Council of Jamaica</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>1358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +70,10 @@
       <Key>Halliday</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Lewis Stratford Tollemache</Forenames>
-      <Text>, V.C., K.C.B., R.M., Gentleman Usher to the Sword of State</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,9 +98,14 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Capt.</Title>
-      <Forenames>The</Forenames>
-      <Text>Lord Claud Nigel, C.M.G., D.S.O., M.V.O., Commander, . Royal Victorian Order</Text>
+      <Title>Capt. The Lord</Title>
+      <Forenames>Claud Nigel</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +138,9 @@
     <MainItem>
       <Key>Hannay</Key>
       <Forenames>Jane Ewing</Forenames>
-      <Text>, Mrs., O.B.E., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +164,11 @@
     <MainItem>
       <Key>Harington</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Charles Harington, G.B.E., K.C.B., D.S.O., D.O.L., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +202,10 @@
       <Key>Harvey</Key>
       <Title>Sir</Title>
       <Forenames>Ernest Musgrave</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>522</PageNumber>
     </MainItem>
@@ -218,8 +239,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Henson</Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. Herbert Hensley, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>Her-</Forenames>
+      <Text>bert Hensley, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,8 +272,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Richard Augustus Sandys, C.B.E., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Richard Augustus Sandys</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +286,9 @@
       <Key>Hobday</Key>
       <Title>Professor</Title>
       <Forenames>Frederick Thomas George</Forenames>
-      <Text>, C.M.G., F.R.C.V.S., F.R.S.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -292,9 +320,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Home</Key>
-      <Title>Brigadier</Title>
+      <Title>Brigadier-</Title>
       <Forenames>General Archibald Fraser</Forenames>
-      <Text>, C.B., C.M.G., D.S.O. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O. Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +334,9 @@
     <MainItem>
       <Key>Hooper</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +345,11 @@
       <Key>Horder</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Jeeves</Forenames>
-      <Text>, Bt., K.C.V.O., M.D., B. Sc, F.R.C.P., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>521</PageNumber>
     </MainItem>
@@ -329,7 +367,9 @@
     <MainItem>
       <Key>Howorth</Key>
       <Forenames>Rupert Beswicke</Forenames>
-      <Text>, O.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +377,9 @@
     <MainItem>
       <Key>Hubback</Key>
       <Forenames>John Austen</Forenames>
-      <Text>,. Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +387,10 @@
     <MainItem>
       <Key>Huddlesion</Key>
       <Forenames>Arthur James Croft</Forenames>
-      <Text>, C.M.G., O.B.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -362,7 +407,9 @@
     <MainItem>
       <Key>Hyat</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Khan Bahadur Captain Sardar Sikandar, M.B.E., Knight Commander, Order of -the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +435,9 @@
       <Key>Jackson</Key>
       <Title>Miss</Title>
       <Forenames>Alice</Forenames>
-      <Text>' Mabel. Erskine, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +447,9 @@
         <KeyDitto>___ ——.</KeyDitto>
       </Key>
       <Forenames>Edward St</Forenames>
-      <Text>. John, O.B.E., K.C., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1356</PageNumber>
     </MainItem>
@@ -409,7 +460,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>John Peter Todd</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -447,14 +500,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas G</Forenames>
-      <Text>w y n fab, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jammu</Key>
-      <Text>and Kashmir, Colonel His Highness Maharaja Sir Hari Singh, Indar Mahindar Bahadur Sipari-Sult-anat, G.O.I.E., K.O.V.O., A.D.C., Maharaja of, Knight Grand Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +530,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Uchtred Eyre</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order Konkotih Ramunni Menon Avargal, M. R. Ryi Diwan Bahadur, Knight Kuli Khan, Khan Bahadur, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
     <SubItem>

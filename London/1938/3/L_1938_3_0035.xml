@@ -190,7 +190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sclater</Key>
-      <Text>. R. O</Text>
+      <Forenames>R. O.</Forenames>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,8 +213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>5018</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +243,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>,Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +509,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shacklock</Key>
-      <Text>. W. G</Text>
+      <Forenames>W. G.</Forenames>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,8 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheil</Key>
-      <Forenames>F. P. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>F. P. St. M</Forenames>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,8 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>S. St. D</Forenames>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,8 +1020,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,7 +1346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smithwick</Key>
-      <Forenames>J. S. De C.</Forenames>
+      <Forenames>J. S. De C</Forenames>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1725,8 +1723,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stamp</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord</Text>
+      <Title>The Lord .</Title>
       <PageNumber>4679</PageNumber>
     </MainItem>
   </ItemGroup>

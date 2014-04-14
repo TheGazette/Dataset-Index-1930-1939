@@ -532,7 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frend</Key>
-      <Text>R. W</Text>
+      <Forenames>R. W .</Forenames>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,7 +958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grigg</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>1516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,7 +1721,9 @@
       <Key>Hutchison</Key>
       <Title>Sir</Title>
       <Forenames>E. A. O.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>593</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hills</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E.</Forenames>
       <PageNumber>4720</PageNumber>
       <PageNumber>5666</PageNumber>
     </MainItem>
@@ -388,8 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurn</Key>
-      <Forenames>B. B.</Forenames>
-      <Text>von B</Text>
+      <Forenames>B. B. von B</Forenames>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,8 +620,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C</Text>
+      <Forenames>P. de C</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -835,7 +833,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirkbr</Key>
-      <Text>.ide, W</Text>
+      <Text>ide, W</Text>
       <PageNumber>5348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,8 +956,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. W. W.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. W. W. de L</Forenames>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1303,8 +1300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>5198</PageNumber>
     </MainItem>
   </ItemGroup>

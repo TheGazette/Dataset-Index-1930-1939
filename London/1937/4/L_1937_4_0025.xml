@@ -156,8 +156,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tenkins</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>6445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidston</Key>
-      <Text>. A. N. W</Text>
+      <Forenames>A. N. W.</Forenames>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,8 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,8 +618,7 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Sir</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>6372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,8 +1261,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDowel</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>7434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,8 +1319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,8 +1704,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>7517</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -118,8 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>5891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,15 +713,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. D</Forenames>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, E. J</Text>
+      <Key>O'Shea</Key>
+      <Forenames>E. J</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1510,8 +1509,10 @@
     <MainItem>
       <Key>Roche</Key>
       <Title>Sir</Title>
-      <Forenames>A. O</Forenames>
-      <Text>'G., Bt</Text>
+      <Forenames>A. O'G</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5496</PageNumber>
     </MainItem>
   </ItemGroup>

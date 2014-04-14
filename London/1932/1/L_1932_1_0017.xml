@@ -11,7 +11,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>(See under Agriculture and Fisheries, Ministry of.) Turkey, Consul of, at Jerusalem, Ruseni Bey</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Turkey</Forenames>
+      <Text>, Consul of, at Jerusalem, Ruseni Bey</Text>
       <PageNumber>194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +92,9 @@
       <Key>Viscount</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>John Baron Sankey</Forenames>
-      <Text>, G.B.E. (Viscount Sankey of Moreton)</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>703</PageNumber>
     </MainItem>

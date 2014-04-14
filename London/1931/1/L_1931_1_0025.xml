@@ -22,7 +22,9 @@
       <Key>Haggar</Key>
       <Title>Miss</Title>
       <Forenames>Lily</Forenames>
-      <Text>, A.R.R.C., Serving Sister, Order or St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>65</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +42,10 @@
       <Key>Hales</Key>
       <Title>the Rev.</Title>
       <Forenames>John Percy</Forenames>
-      <Text>, D.S.O., T.D., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +78,10 @@
     <MainItem>
       <Key>Hallett</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Theodore John, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +171,9 @@
       <Key>Haughton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Samuel George</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +232,9 @@
     <MainItem>
       <Key>Henry</Key>
       <Forenames>Claud Dawson</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,15 +249,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hereford</Key>
-      <Forenames>The</Forenames>
-      <Text>Viscount, Commander, Order of St. John of Jerusalem</Text>
+      <Title>The Viscount, Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hereford</Key>
-      <Forenames>The Viscountess Ethel Mildred</Forenames>
+      <Title>The Viscountess</Title>
+      <Forenames>Ethel Mildred</Forenames>
       <Text>, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
@@ -254,7 +267,9 @@
     <MainItem>
       <Key>Hewlett</Key>
       <Forenames>William Meyrick</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +278,10 @@
       <Key>Hickling</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Horace Cyril Benjamin</Forenames>
-      <Text>, D.S.O., M.C., Unofficial Member of Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +299,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Arthur William</Forenames>
-      <Text>, C.M.G., Sc.D., F.R.S., Knight Commander. Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +311,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, C.B., Litt.D., LL.D., F.B.A., F.S.A., Director and Principal Librarian of British Museum</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +351,9 @@
       <Key>Hindley</Key>
       <Title>Sir</Title>
       <Forenames>John Scott</Forenames>
-      <Text>, Bt., Baron Hyndley of Meads</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>533</PageNumber>
     </MainItem>
@@ -346,7 +370,11 @@
       <Key>Hobbs</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Reginald Francis Arthur</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +392,9 @@
     <MainItem>
       <Key>Habson</Key>
       <Forenames>Robert Lockhart</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +435,9 @@
     <MainItem>
       <Key>Hopkins</Key>
       <Forenames>John William</Forenames>
-      <Text>, Member, fifth class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +455,10 @@
       <Key>Horsley</Key>
       <Title>Maj.</Title>
       <Forenames>Bernard Hill</Forenames>
-      <Text>, D. S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +520,10 @@
       <Key>Humphry</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Law-</Forenames>
-      <Text>rence, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +540,9 @@
     <MainItem>
       <Key>Hutchings</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, O.B.E., K.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +550,9 @@
     <MainItem>
       <Key>Hutchison</Key>
       <Forenames>John Colville</Forenames>
-      <Text>, O.B.E., Commercial Secretary, Second Grade, H.M. Legation at Peking</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +560,9 @@
     <MainItem>
       <Key>Inman</Key>
       <Forenames>Arnold</Forenames>
-      <Text>, O.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +586,10 @@
     <MainItem>
       <Key>Ismay</Key>
       <Title>Maj. and Brev.</Title>
-      <Text>-Lieut.Col. Hastings Lionel, D. S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <SubItem>
@@ -609,7 +656,11 @@
       <Key>Jarvis</Key>
       <Title>Colonel</Title>
       <Forenames>Alexander</Forenames>
-      <Text>iWteston, C.M.G., M.V.O., T.D., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1363</PageNumber>
     </MainItem>
@@ -637,7 +688,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Alderman William</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -690,7 +743,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P., Lord Privy Seal</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2055</PageNumber>
       <PageNumber>2133</PageNumber>
     </MainItem>

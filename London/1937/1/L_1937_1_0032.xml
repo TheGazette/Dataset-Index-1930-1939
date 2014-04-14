@@ -5,7 +5,11 @@
       <Key>Hall</Key>
       <Title>Surgeon</Title>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Sir Robert William Basil, K.C.B., O.B.E., K.H.P., M.R.C.S., L.R.C.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -26,7 +30,10 @@
       <Key>Halliday</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Lewis Strat-</Forenames>
-      <Text>ford Tollemache, V.C., K.C.B., Gentleman Usher to the Sword of State</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +42,11 @@
       <Key>Halsey</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Lionel</Forenames>
-      <Text>, G . C . M . G : , G.C.V.O., K.C.I.E., C.B., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +90,10 @@
       </Key>
       <Title>Capt. Lord</Title>
       <Forenames>Claud Nigel</Forenames>
-      <Text>, C . M . G ., C : V . O ., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +120,11 @@
       <Key>Hanbury-Williams</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G.C.V.O., K.C.B., C.M.G., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +159,11 @@
     <MainItem>
       <Key>Hardinge</Key>
       <Title>Maj.</Title>
-      <Text>the Rt. Hon. Alexander Henry Louis, C.B., C.V.O., M.C.: Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
     <SubItem>
@@ -171,7 +193,9 @@
     <MainItem>
       <Key>Harper</Key>
       <Forenames>George</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1487</PageNumber>
     </MainItem>
@@ -216,7 +240,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alexander William Montgomery</Forenames>
-      <Text>, M . B . , Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,14 +263,22 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Hodson</Forenames>
-      <Text>, Commander, Order of St. John of Jerusalem ... Hennessy, Sir George Richard James, Bart., O.B.E., Baron Windlesham Of Windlesham</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Henniker</Key>
-      <Text>Heaton, Herbert, C.M.G., Knight Commander, Order of St. Michael and St. George ... Hensman, Mona, Mrs., . Member, Order of the British Empire ... ... ... Herbert, Col. the Hon. George Sidney, T.D., J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>

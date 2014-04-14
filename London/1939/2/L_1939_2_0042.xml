@@ -15,7 +15,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Donald</Forenames>
-      <Text>, T.D., M.B., M.R.C.P., Ed., J.P., . Member, Order of the British Empire'</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +81,9 @@
       <Key>Royds</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edmund</Forenames>
-      <Text>, O.B.E., D.L</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +124,9 @@
     <MainItem>
       <Key>Rutherford</Key>
       <Forenames>Thomas George</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,10 @@
     <MainItem>
       <Key>Sandys</Key>
       <Title>Brigdr.</Title>
-      <Text>-Gen. William Bain Richardson, C.B., C.M.G., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,14 +188,19 @@
       <Key>Saner</Key>
       <Title>Hon. Col.</Title>
       <Forenames>John Arthur</Forenames>
-      <Text>, V.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Saps</Key>
-      <Text>worth, Capt. Charles Howard, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +226,9 @@
     <MainItem>
       <Key>Sarila</Key>
       <Forenames>Raja Mahipal Singh</Forenames>
-      <Text>, Raja of, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +277,9 @@
     <MainItem>
       <Key>Schiff</Key>
       <Forenames>Otto Moritz</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +321,9 @@
       <Key>Schwerdt</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Max-</Forenames>
-      <Text>well Richard, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +342,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Ralph Roylance</Forenames>
-      <Text>, M.C., M.B., B.S., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +377,9 @@
     <MainItem>
       <Key>Self</Key>
       <Forenames>Albert Henry</Forenames>
-      <Text>, C.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +404,10 @@
     <MainItem>
       <Key>Seymour</Key>
       <Forenames>Horace James</Forenames>
-      <Text>, C.M.G., C.V.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +460,9 @@
     <MainItem>
       <Key>Sheehy</Key>
       <Forenames>John Francis</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +471,9 @@
       <Key>Sheldon</Key>
       <Title>Maj.</Title>
       <Forenames>Albert Thomas</Forenames>
-      <Text>, M:M., T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +492,10 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>James Ogilvy</Forenames>
-      <Text>, M.C., T.D., Commander, Order of British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +528,10 @@
     <MainItem>
       <Key>Sherriff</Key>
       <Title>Lt.</Title>
-      <Text>-C61. &amp; Bt. Col. Christopher Bell, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +548,9 @@
     <MainItem>
       <Key>Shields</Key>
       <Forenames>Thomas Drummond</Forenames>
-      <Text>, M.C., M.B., Ch.B., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +568,9 @@
       <Key>Sikkim</Key>
       <Title>H.H.</Title>
       <Forenames>Maharaja</Forenames>
-      <Text>Sir Tashi Namgyal, K.C.I.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +588,12 @@
       <Key>Simpson</Key>
       <Title>Hon. Col. Sir</Title>
       <Forenames>Frank Robert</Forenames>
-      <Text>, Bt., T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +612,9 @@
       <Key>Simson</Key>
       <Title>Capt.</Title>
       <Forenames>Donald Petrie</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +671,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Allan Gordon</Forenames>
-      <Text>, D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +724,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Warrt. Offr.</Title>
-      <Text>CI. II (R.Q.M.S.) Harod Rees, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>

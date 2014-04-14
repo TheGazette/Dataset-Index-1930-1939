@@ -774,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cosby</Key>
-      <Text>N. R. C</Text>
+      <Forenames>N. R. C</Forenames>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,6 +860,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>J. D</Forenames>
+      <PageNumber>8319</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>A. E</Forenames>
       <PageNumber>6429</PageNumber>
@@ -896,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon-Smith</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +925,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dower</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>7956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farquharson</Key>
-      <Text>C. D. F. A</Text>
+      <Forenames>C. D. F. A.</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,14 +1058,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzpatrick</Key>
-      <Text>P. J</Text>
+      <Forenames>P. J</Forenames>
       <PageNumber>7956</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fletcher</Key>
-      <Text>W. T</Text>
+      <Forenames>W. T</Forenames>
       <PageNumber>6428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Furney</Key>
-      <Text>S. K</Text>
+      <Forenames>S. K</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,7 +1100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gatherer</Key>
-      <Text>A. H. N</Text>
+      <Forenames>A. H. N</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,21 +1116,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilchrist</Key>
-      <Text>R, K</Text>
+      <Forenames>R</Forenames>
+      <Text>, K</Text>
       <PageNumber>7283</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillespie</Key>
-      <Text>D. S</Text>
+      <Forenames>D. S.</Forenames>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gillmore-FHis</Key>
-      <Text>P. D</Text>
+      <Forenames>P. D</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Honeyball</Key>
-      <Text>F. R</Text>
+      <Forenames>F. R</Forenames>
       <PageNumber>7454</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,7 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,8 +1530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S.</Forenames>
-      <Text>van B</Text>
+      <Forenames>S. van B</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1624,7 +1631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovat-Fraser</Key>
-      <Text>W. A</Text>
+      <Forenames>W. A</Forenames>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,7 +1744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marindin</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mattocks</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7956</PageNumber>
     </MainItem>
   </ItemGroup>

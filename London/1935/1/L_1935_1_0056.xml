@@ -396,6 +396,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Salie</Key>
+      <Forenames>A. R. F.</Forenames>
+      <PageNumber>220</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>J. W.</Forenames>
       <PageNumber>845</PageNumber>
@@ -1151,7 +1158,9 @@
     <MainItem>
       <Key>Hook</Key>
       <Forenames>S.</Forenames>
-      <Text>... Hope, Sir A. P Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1023</PageNumber>
       <PageNumber>1024</PageNumber>
     </MainItem>
@@ -1490,8 +1499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leach</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. de V</Forenames>
       <PageNumber>2057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1738,8 +1746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>384</PageNumber>
     </MainItem>
   </ItemGroup>

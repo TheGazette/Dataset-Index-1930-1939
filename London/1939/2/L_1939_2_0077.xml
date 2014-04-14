@@ -101,8 +101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>2668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +217,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, G. V. de C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>G. V. de C</Forenames>
       <PageNumber>3713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,8 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>2667</PageNumber>
       <PageNumber>3712</PageNumber>
     </MainItem>
@@ -942,16 +940,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>2478</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carson</Key>
-      <Forenames>J. J. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. J. St. L</Forenames>
       <PageNumber>4258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,6 +1105,13 @@
       <Key>Day</Key>
       <Forenames>A. H</Forenames>
       <PageNumber>3004</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>3003</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1794,7 +1797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Love</Key>
-      <Text>S. W. A</Text>
+      <Forenames>S. W. A.</Forenames>
       <PageNumber>4056</PageNumber>
     </MainItem>
   </ItemGroup>

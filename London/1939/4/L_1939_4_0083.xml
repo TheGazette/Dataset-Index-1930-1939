@@ -970,7 +970,7 @@
     <KeyDitto>___ ___ ___</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>J. S</Text>
+      <Text>J. S.</Text>
       <PageNumber>7966</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1189,8 +1189,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>J. O'C</Forenames>
       <PageNumber>7647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1231,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dash</Key>
-      <Text>wood, Sir J. L., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>

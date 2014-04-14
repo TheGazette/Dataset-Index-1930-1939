@@ -33,8 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>B.</Forenames>
-      <Text>de H</Text>
+      <Forenames>B. de H</Forenames>
       <PageNumber>3650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -598,7 +597,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, T. E</Text>
+      <Forenames>Johnston</Forenames>
+      <Text>, T. E</Text>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +686,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>. G. S</Text>
+      <Forenames>G. S.</Forenames>
       <PageNumber>2288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1000,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens-Glarkson</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D.</Forenames>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1122,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tanner</Key>
-      <Text>. P. H</Text>
+      <Forenames>P. H .</Forenames>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,7 +1184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temp</Key>
-      <Text>.eton, R. A</Text>
+      <Text>eton, R. A</Text>
       <PageNumber>2373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1372,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3018</PageNumber>
     </MainItem>
   </ItemGroup>

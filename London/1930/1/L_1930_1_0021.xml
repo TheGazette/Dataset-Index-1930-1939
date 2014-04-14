@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>S.A. (con*.): Consul General at Vancouver, Ely E. Palmer</Text>
+      <Forenames>S.A.</Forenames>
+      <Text>(con*.): Consul General at Vancouver, Ely E. Palmer</Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
     <SubItem>
@@ -92,7 +93,9 @@
     <MainItem>
       <Key>Virgin</Key>
       <Forenames>Islands</Forenames>
-      <Text>, Executive Council, Official Member, Norman Lockhart Joynt, M.C., M.B</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +150,9 @@
       <PageNumber>1047</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.M.'s Envoy Extraordinary and Minister Plenipotentiary, Nevile M e y r i c k Henderson, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>494</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -162,7 +167,9 @@
     <MainItem>
       <Key>Zanzibar</Key>
       <Forenames>Protectorate</Forenames>
-      <Text>, British Resident, Richard Sims Donkin Rankine, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +283,10 @@
       <Key>Alderson</Key>
       <Title>Sir</Title>
       <Forenames>Edward Hall</Forenames>
-      <Text>, K.B.E., C.B., Clerk of the Parliaments</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +311,9 @@
       <Key>Aman</Key>
       <Title>Major</Title>
       <Forenames>Dudley Leigh</Forenames>
-      <Text>, D.S.C., Baron Marley or. Marley</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +358,10 @@
       <Key>Anthony</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>William Samuel</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath; Aplin, Harold DAuvergne, Companion, Order of St. Michael and St. George ... Argyle, The Hon. Stanley Seymour, M.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>

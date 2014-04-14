@@ -369,7 +369,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>Sir D. G. M</Text>
+      <Title>Sir</Title>
+      <Forenames>D. G. M.</Forenames>
       <PageNumber>1450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>de L</Text>
+      <Forenames>de L</Forenames>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,8 +729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchward</Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de S</Text>
+      <Forenames>P. R. de S</Forenames>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -975,8 +975,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinson</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1399,7 +1399,9 @@
       <Key>Cunyngham</Key>
       <Title>Sir</Title>
       <Forenames>C. K. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,6 +1624,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>E. M</Forenames>
+      <PageNumber>675</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>C. A</Forenames>
+      <PageNumber>1128</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B</Forenames>
+      <PageNumber>458</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Cour, G</Text>
       <PageNumber>745</PageNumber>
@@ -1629,20 +1652,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D</Text>
+      <Key>De Pree</Key>
+      <Forenames>H. D</Forenames>
       <PageNumber>1203</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Rinzy</Forenames>
-      <Text>, N. L. C</Text>
+      <Key>De Rinzy</Key>
+      <Forenames>N. L. C.</Forenames>
       <PageNumber>1203</PageNumber>
       <PageNumber>1535</PageNumber>
       <PageNumber>1535</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Waal</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

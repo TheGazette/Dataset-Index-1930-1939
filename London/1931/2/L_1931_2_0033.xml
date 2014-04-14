@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Travers</Key>
       <Forenames>Walter Lancelot</Forenames>
-      <Text>, C.I.E., O.B.E., M.L.C., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +22,9 @@
     <MainItem>
       <Key>Trubshaw</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +49,10 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Ben</Forenames>
-      <Text>, C.B.E., J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +176,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Verney</Key>
-      <Text>Sir Harry Lloyd, K.C.V.O., Extra Groom in Waiting to H.M. The King</Text>
+      <Title>Sir</Title>
+      <Forenames>Harry Lloyd</Forenames>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +197,9 @@
     <MainItem>
       <Key>Vigor</Key>
       <Forenames>Harold Decimus</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +256,10 @@
     <MainItem>
       <Key>Ward</Key>
       <Forenames>William James</Forenames>
-      <Text>, Officer, Order of the British Empire Watkins, Lt.-Col. Oscar Ferris, C.B.E., D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weekes</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Dean William Haye, Chaplain, Order of St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
@@ -320,7 +337,9 @@
       <Key>Western</Key>
       <Title>Major</Title>
       <Forenames>James William</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +354,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheatley</Key>
-      <Text>Major Henry Harold, O.B.E., M.O., Commander, Order of the British Empire</Text>
+      <Title>Major</Title>
+      <Forenames>Henry Harold</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +366,9 @@
     <MainItem>
       <Key>Whiskard</Key>
       <Forenames>Geoffrey Granville</Forenames>
-      <Text>, C.B., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +444,10 @@
       <Key>Wigram</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Clive</Forenames>
-      <Text>, K.C.V.O., C.B., C.S.I., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +473,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>. Col. Roger, D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,9 +540,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Willingdon</Key>
-      <Title>His Excellency</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of, G.C.S.I., G.C.I.E., G.C.M.G., G.B.E., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>His Excellency The Earl</Title>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +563,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Ernest Salter</Forenames>
-      <Text>Bt., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +573,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +648,9 @@
       <Key>Wollaston</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, M.V.O., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +685,9 @@
       <Key>Woolley</Key>
       <Title>Flight</Title>
       <Forenames>Lieutenant Frank</Forenames>
-      <Text>, D.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -550,8 +550,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy-Applin</Key>
-      <Title>St.</Title>
-      <Forenames>V. J. T.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>J. T.</Forenames>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,15 +801,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, H. E. G</Text>
+      <Key>St. George</Key>
+      <Forenames>H. E. G</Forenames>
       <PageNumber>1468</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Johnston, J. H</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>J. H</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1112,7 +1112,9 @@
       <Key>Sebright</Key>
       <Title>Sir</Title>
       <Forenames>G. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1662,8 +1664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Forenames>G.</Forenames>
-      <Text>de M</Text>
+      <Forenames>G. de M</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>

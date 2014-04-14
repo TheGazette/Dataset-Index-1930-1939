@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowthian</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +116,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mecca</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>3320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,14 +291,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>, McWatters &amp; Burnford</Text>
+      <Text>McWatters &amp; Burnford</Text>
       <PageNumber>2192</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>N</Key>
-      <Text>. N. Motors</Text>
+      <Forenames>N. Motors</Forenames>
       <PageNumber>3037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nelson</Key>
-      <Text>, E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,15 +357,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor Brothers</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Brothers</Forenames>
       <PageNumber>2930</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neilly, H. A. &amp; Co</Text>
+      <Key>O'Neilly</Key>
+      <Forenames>H. A.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>2584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oriel</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant .</Title>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parkinson</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,8 +423,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Peacock</Key>
-      <Forenames>Alexr</Forenames>
-      <Text>. &amp; Sons (Peacock Bros.)</Text>
+      <Title>Alexr.</Title>
+      <Text>&amp; Sons (Peacock Bros.)</Text>
       <PageNumber>3108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -437,7 +438,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perfect</Key>
-      <Forenames>Pasted Cigarette Tube Manufacturing Co</Forenames>
+      <Forenames>Pasted Cigarette Tube Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>3038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,8 +468,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillipson</Key>
-      <Forenames>Geo</Forenames>
-      <Text>. &amp; Sons</Text>
+      <Title>Geo.</Title>
+      <Text>&amp; Sons</Text>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,8 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. and Son</Text>
+      <Title>Wm. and Son .</Title>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>, J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>3037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>S</Key>
-      <Text>. &amp; S</Text>
+      <Text>&amp; S</Text>
       <PageNumber>4046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -751,16 +752,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Machine Tool Co</Forenames>
-      <Text>. Halifax</Text>
+      <Forenames>Machine Tool</Forenames>
+      <Text>Co. Halifax</Text>
       <PageNumber>2346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>Machine Tool Co</Forenames>
-      <Text>. Keighley</Text>
+      <Forenames>Machine Tool</Forenames>
+      <Text>Co. Keighley</Text>
       <PageNumber>2346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1022,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>, Miss, and Miss Hardman</Text>
+      <Title>Miss</Title>
+      <Text>, and Miss Hardman</Text>
       <PageNumber>2473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuckey</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. &amp; Barratt</Text>
+      <Title>Bros.</Title>
+      <Text>&amp; Barratt</Text>
       <PageNumber>3871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,9 +1162,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Drunen</Forenames>
-      <Text>, Frances and A. Hearn</Text>
+      <Key>Van Drunen</Key>
+      <Forenames>Frances</Forenames>
+      <Text>and A. Hearn</Text>
       <PageNumber>3179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1238,8 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. &amp; A. A</Text>
+      <Title>Wm.</Title>
+      <Text>&amp; A. A</Text>
       <PageNumber>2345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allcroft</Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>2196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,14 +1624,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ambrose</Key>
-      <Forenames>Jessie</Forenames>
+      <Title>Jessie .</Title>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>3049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1695,7 +1697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3333</PageNumber>
     </MainItem>
   </ItemGroup>

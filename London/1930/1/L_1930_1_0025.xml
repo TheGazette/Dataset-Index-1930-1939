@@ -13,7 +13,9 @@
       <Key>Graham-Harrison</Key>
       <Title>Sir</Title>
       <Forenames>William Montagu</Forenames>
-      <Text>, K.C.B., King's Counsel</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,10 @@
       <Key>Grant</Key>
       <Title>Col. (tempy. Brigadier)</Title>
       <Forenames>Charles John Cecil</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +44,10 @@
     <MainItem>
       <Key>Grayson</Key>
       <Title>Lt.-Col.</Title>
-      <Text>. Sir Henry Mulleneux, Bt., K.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,7 +75,9 @@
       <Key>Green</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Edward</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +136,9 @@
     <MainItem>
       <Key>Haig</Key>
       <Forenames>Harry Graham</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India Hake, Hall am Brookfield Egmont, Unofficial Member, Federal Council of the Malay States</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +149,12 @@
       </Key>
       <Title>Surg.</Title>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Robert William Basil, O.B.E., M.R;C.S., L.R.C.P., Companion, Order of the Bath Hallett, Maurice Gamier, Companion, Order of the Indian Empire Hallidav, Gen. Lewis Stratford Tollemache, V.C, C.B., R.M., Knight Commander, Order of the Bath Halmshaw, George Walter, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>V.C</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +178,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Text>Maj. The Earl of, K.G., D.S.O., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Title>Maj. The Earl</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +218,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ethel</Forenames>
-      <Text>, Member, , Order of the British . Empire Harrop, Albert Ramah, M.M., Serving Brother, Order of St. Jonn of Jerusalem</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +238,9 @@
     <MainItem>
       <Key>Hassan</Key>
       <Forenames>Khan</Forenames>
-      <Text>, Khan Bahadur Sardar, Companion, Order of the Indian Empire ... Hawkins, Tom Shirley, M.B.E., M.Inst.C.E., Officer, Order of the British Empire ... Hawksworth, Walter, Serving Brother, Order of St. John of Jerusalem ... ... Hazel, Alfred Ernest William, C. B.E., King's Counsel</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +248,9 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>Nevile Meyrick</Forenames>
-      <Text>, C.M.G., Envoy Extraordinary and Minister Plenipotentiary to H.M. the King of Yugoslavia Herbert, Geoffrey Richard Arthur, Second Secretary in M.lYl. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +261,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harry William</Forenames>
-      <Text>, Officer, Order of the British Empire Holland, John Joseph, M.B., Commander, Order of St. John of Jerusalem . ... Hollings, Geoffrey Cecil, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +274,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frank Albert</Forenames>
-      <Text>, Member of the British Empire ... Holmes, Charles Alexander, Nominated Member of Legislative Council of Fiji Home, onaries Cospatriek Archibald, Earl of, T.D., D.L., Knight of the Thistle</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1959</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -29,7 +29,9 @@
     <MainItem>
       <Key>Aga</Key>
       <Forenames>Khan</Forenames>
-      <Text>, H.H. Aga Sultan Sir Mahomed Shah, G.C.S.I., G.C.I.E., G.C.V.O., LL.D., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1323</PageNumber>
     </MainItem>
@@ -106,7 +108,10 @@
       <Key>Allison</Key>
       <Title>Sir</Title>
       <Forenames>Richard John</Forenames>
-      <Text>, C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +128,9 @@
       <Key>Anderson</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Robert Heath</Forenames>
-      <Text>CLE., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +154,9 @@
     <MainItem>
       <Key>Arkwright</Key>
       <Forenames>John Stanhope</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -182,7 +191,10 @@
       <Key>Aske</Key>
       <Title>Sir</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, Bart., T.D., King's Counsel</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +311,9 @@
     <MainItem>
       <Key>Balwant</Key>
       <Forenames>Singh Luri</Forenames>
-      <Text>, Sardar Bahadur, O.B.E., Associate Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +346,9 @@
       <Key>Barnes</Key>
       <Title>Sir</Title>
       <Forenames>Thomas James</Forenames>
-      <Text>, C.B.E., Procurator General</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +389,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Ven</Forenames>
-      <Text>. George Thomas, D.Litt., M.A., Officer, Order of the British Empire</Text>
+      <Title>The Ven.</Title>
+      <Forenames>George Thomas</Forenames>
+      <Text>, D.Litt., M.A., Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>

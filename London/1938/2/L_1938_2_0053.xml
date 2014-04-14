@@ -268,22 +268,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R. A</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>4174</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>3024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,8 +296,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hare, P. E</Text>
+      <Key>O'Hare</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>2861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,8 +317,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, W. S</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>W. S.</Forenames>
       <PageNumber>2333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,8 +501,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parlby</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. H</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. H</Text>
       <PageNumber>3355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,7 +1430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>C. D</Text>
+      <Forenames>C. D .</Forenames>
       <PageNumber>2784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,7 +1480,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>A.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4080</PageNumber>
     </MainItem>
   </ItemGroup>

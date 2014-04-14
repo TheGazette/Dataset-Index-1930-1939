@@ -252,8 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. F. St. G</Forenames>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guest</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,8 +429,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Standley</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bailv</Key>
-      <Text>G. L</Text>
+      <Forenames>G. L</Forenames>
       <PageNumber>6691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +595,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>J. G. B</Text>
+      <Forenames>J. G. B</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,14 +647,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>F. T</Text>
+      <Forenames>F. T</Forenames>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharpev-Schafer</Key>
-      <Text>J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,14 +794,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilde</Key>
-      <Text>J. O. S</Text>
+      <Forenames>J. O. S</Forenames>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilmott</Key>
-      <Text>H. N. C</Text>
+      <Forenames>H. N. C</Forenames>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grove</Key>
-      <Text>G. M. E</Text>
+      <Forenames>G. M. E</Forenames>
       <PageNumber>8125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scrimshaw</Key>
-      <Text>O. T</Text>
+      <Forenames>O. T.</Forenames>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,9 +927,10 @@
       <Text>(temp.)</Text>
       <PageNumber>8126</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Betired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Betired List.</Text>
       <PageNumber>8222</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -942,9 +941,10 @@
       <Forenames>W. J</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>Betired List</SubSubSectionTitle>
+    <SubSubSectionTitle>
+      <Text>Betired List</Text>
+    </SubSubSectionTitle>
     <SubItem>
-      <Text>Betired List.</Text>
       <PageNumber>8050</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1166,8 +1166,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, N. T</Text>
+      <Key>O'Neil</Key>
+      <Forenames>N. T</Forenames>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>

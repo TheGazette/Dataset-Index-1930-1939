@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="054" pageID="https://www.thegazette.co.uk/id/London/index/year/1934/volume/3/page/054" pagePDF="https://www.thegazette.co.uk/London/index/year/1934/volume/3/page/054" pageRDF="https://www.thegazette.co.uk/London/index/year/1934/volume/3/page/054?view=linked-data" type="index" volume="3" year="1934">
-  <CategoryTitle>ADVERTISEMENTS, Claims, &lt;tc</CategoryTitle>
   <ItemGroup>
     <MainItem>
       <Key>Once</Key>
@@ -19,8 +18,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Forenames>Wm</Forenames>
-      <Text>. &amp; Co</Text>
+      <Title>Wm.</Title>
+      <Text>&amp; Co</Text>
       <PageNumber>5291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +40,7 @@
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>V. Electric Paramount Mains Transfer</Text>
+      <Forenames>V. Electric Paramount Mains Transfer</Forenames>
       <PageNumber>6064</PageNumber>
     </MainItem>
     <SubItem>
@@ -147,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>5157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +208,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>H. W, &amp; Company</Text>
+      <Forenames>H. W</Forenames>
+      <Text>, &amp; Company</Text>
       <PageNumber>4927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +283,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raikes</Key>
-      <Forenames>Hire Service Co</Forenames>
+      <Forenames>Hire Service</Forenames>
+      <Text>Co</Text>
       <PageNumber>4545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +337,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridge</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. ... Rivers-Cole &amp; Lewis</Text>
+      <Title>Bros.</Title>
+      <Text>... Rivers-Cole &amp; Lewis</Text>
       <PageNumber>5721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,15 +404,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Hilary School</Text>
+      <Key>St. Hilary</Key>
+      <Forenames>School</Forenames>
       <PageNumber>5216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Salterhebble</Key>
-      <Forenames>Garage</Forenames>
+      <Title>Garage .</Title>
       <PageNumber>4838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Secrett</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +507,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>C. A. &amp; Co</Text>
+      <Forenames>C. A.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>4625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +517,8 @@
       <Key>
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
-      <Forenames>Chas</Forenames>
-      <Text>. H</Text>
+      <Title>Chas.</Title>
+      <Forenames>H</Forenames>
       <PageNumber>4625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sprametals</Key>
-      <Forenames>Manchester</Forenames>
+      <Title>Manchester .</Title>
       <PageNumber>5721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spurrier</Key>
-      <Text>Hylda</Text>
+      <Forenames>Hylda</Forenames>
       <PageNumber>4765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
-      <Forenames>Radios</Forenames>
+      <Title>Radios .</Title>
       <PageNumber>4926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +791,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Triangle</Key>
-      <Forenames>Service Station Co</Forenames>
+      <Forenames>Service Station</Forenames>
+      <Text>Co</Text>
       <PageNumber>5421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -836,7 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turton</Key>
-      <Text>O'Connell &amp; Co. Waving Universal Hair Products</Text>
+      <Forenames>O'Connell</Forenames>
+      <Text>&amp; Co. Waving Universal Hair Products</Text>
       <PageNumber>4546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +991,9 @@
     <MainItem>
       <Key>Woodcock</Key>
       <Forenames>Douglas</Forenames>
-      <Text>, IF.S.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1027,14 +1033,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>4546</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wrigley</Key>
-      <Text>Lord &amp; Gregan</Text>
+      <Title>Lord</Title>
+      <Text>&amp; Gregan</Text>
       <PageNumber>4376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aizlewood</Key>
-      <Forenames>Gertrude</Forenames>
+      <Title>Gertrude .</Title>
       <PageNumber>5788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1160,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alderson</Key>
-      <Forenames>Reginald</Forenames>
+      <Title>Reginald .</Title>
       <PageNumber>6138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1229,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Jonathan</Forenames>
+      <Title>Jonathan .</Title>
       <PageNumber>6007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Amm</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>4276</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Andrews</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>5790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1530,7 +1537,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1551,7 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,7 +1619,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>4275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1628,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>6004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1730,7 +1737,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>5950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1748,14 +1755,16 @@
       <Key>Baron</Key>
       <Title>Sir</Title>
       <Forenames>Louis Bernhard</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barr</Key>
-      <Forenames>Isabel</Forenames>
+      <Title>Isabel .</Title>
       <PageNumber>5867</PageNumber>
     </MainItem>
   </ItemGroup>

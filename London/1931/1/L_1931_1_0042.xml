@@ -279,7 +279,9 @@
     <MainItem>
       <Key>Stimson</Key>
       <Forenames>H. F</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1531,7 +1533,9 @@
     <MainItem>
       <Key>Chetwode</Key>
       <Forenames>P. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1833,7 +1837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>R. H. D</Text>
+      <Forenames>R. H. D</Forenames>
       <PageNumber>234</PageNumber>
       <PageNumber>836</PageNumber>
     </MainItem>
@@ -1848,8 +1852,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>836</PageNumber>
       <PageNumber>836</PageNumber>
     </MainItem>

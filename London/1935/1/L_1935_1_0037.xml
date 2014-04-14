@@ -14,7 +14,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>David Llewellyn</Forenames>
-      <Text>, M.C., F.R.C.S.Ed., L.E.C.P.Ed, LJR.F.P.S., D.P.H Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +60,9 @@
     <MainItem>
       <Key>Willink</Key>
       <Forenames>Henry Urmston</Forenames>
-      <Text>, M.C., King's Counsel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,8 +81,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Forenames>Frank O</Forenames>
-      <Text>'Brien, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Forenames>Frank O'Brien</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +143,11 @@
       <Key>Winterbotham</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Harold St</Forenames>
-      <Text>. John Loyd, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +156,10 @@
       <Key>Wollaston</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, M.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +194,9 @@
       <Key>Woods</Key>
       <Title>Sir</Title>
       <Forenames>Wilfrid Went-</Forenames>
-      <Text>worth, Kt., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +205,9 @@
       <Key>Woolley</Key>
       <Title>Maj.</Title>
       <Forenames>James</Forenames>
-      <Text>, M.B.E., V.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +223,9 @@
     <MainItem>
       <Key>Wynter</Key>
       <Forenames>Derek Edward Hugh</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +280,9 @@
       <Key>Adams</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +472,9 @@
     <MainItem>
       <Key>Carew</Key>
       <Forenames>Pole</Forenames>
-      <Text>, Sir J. G. Bt.'</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,8 +897,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N.</Forenames>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1208,8 +1230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>

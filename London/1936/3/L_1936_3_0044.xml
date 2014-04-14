@@ -296,14 +296,18 @@
     <MainItem>
       <Key>Berkshire</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Sir Edward Arthur Barry, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>and Cromarty, Maj. Charles Lloyd Doveton Monro, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>4509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,21 +315,33 @@
   <ItemGroup>
     <MainItem>
       <Key>Berkshire</Key>
-      <Text>: Ashwanden, Col. Sydney WilliamLouisj D.S.O., T.D., A-.D.Ci</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>5256</PageNumber>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>5256</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>5256</PageNumber>
+        <Honour>Bart</Honour>
       </Text>
       <PageNumber>5256</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>5256</PageNumber>
+        <Honour>C.B.</Honour>
         <PageNumber>5256</PageNumber>
+        <Honour>T.D.</Honour>
         <PageNumber>5256</PageNumber>
       </Text>
       <PageNumber>5256</PageNumber>
@@ -340,7 +356,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5256</PageNumber>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>5256</PageNumber>
     </SubItem>
@@ -370,7 +388,9 @@
       <Key>Dorset</Key>
       <Title>Adml. Sir</Title>
       <Forenames>Arthur Allan Morison Duff</Forenames>
-      <Text>, K.C.B</Text>
+      <Text>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +417,10 @@
       <PageNumber>4421</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>' Mitchell, Lt.-Col. Archibald Maclaine, D.S.O., T.D.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4887</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -409,6 +432,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>6141</PageNumber>
       </Text>
       <PageNumber>6141</PageNumber>
@@ -419,6 +444,8 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
         <PageNumber>5345</PageNumber>
       </Text>
       <PageNumber>5345</PageNumber>
@@ -436,13 +463,18 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>5724</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>5724</PageNumber>
       </Text>
       <PageNumber>5724</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>5724</PageNumber>
       </Text>
       <PageNumber>5724</PageNumber>
@@ -451,7 +483,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>: Beddington, Lt.-Col. Edward Henry Lionel, CiM.G;, D.S.O., MvC</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4748</PageNumber>
     </MainItem>
     <SubItem>
@@ -459,7 +493,9 @@
       <PageNumber>4748</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>McM u 1 1 e n, Lt.-Col. Osmond Robert, C.M.G., T.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4748</PageNumber>
     </SubItem>
     <SubItem>
@@ -467,7 +503,9 @@
       <PageNumber>4748</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wild, Lt.-Col. Wilfrid . Hubert, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4748</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -478,7 +516,10 @@
       <PageNumber>5600</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cook, Maj. Sidney George, .O.B.E., T.D.'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5600</PageNumber>
     </SubItem>
     <SubItem>
@@ -511,7 +552,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>4317</PageNumber>
+        <Honour>K.C.B.</Honour>
       </Text>
       <PageNumber>4317</PageNumber>
     </SubItem>
@@ -521,7 +564,11 @@
       <Key>Stirling</Key>
       <Title>Brevet Col.</Title>
       <Forenames>John</Forenames>
-      <Text>SpencerMuirhead, D.S.O., M.C., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,15 +589,18 @@
       <Key>Westmorland</Key>
       <Title>Maj.</Title>
       <Forenames>Arnold Colin Somervell</Forenames>
-      <Text>, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5256</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral MontaguWilliam . . Warcop Peter Consett,..C.M.G</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>MontaguWilliam</Forenames>
+      <Text>. . Warcop Peter Consett,..C.M.G</Text>
       <PageNumber>5724</PageNumber>
     </MainItem>
   </ItemGroup>

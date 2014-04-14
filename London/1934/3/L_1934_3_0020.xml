@@ -45,8 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bampton</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>N. P. de B</Forenames>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,8 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bernard</Key>
-      <Forenames>R. P. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. P. St. V</Forenames>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bishop</Key>
-      <Text>. W. H. A</Text>
+      <Forenames>W. H. A.</Forenames>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +566,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>. E, B</Text>
+      <Forenames>E</Forenames>
+      <Text>, B</Text>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosanquet</Key>
-      <Text>. N. R. G</Text>
+      <Forenames>N. R. G.</Forenames>
       <PageNumber>5399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>. J. M. K</Text>
+      <Forenames>J. M. K.</Forenames>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -830,14 +829,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryant</Key>
-      <Text>. R, K</Text>
+      <Forenames>R</Forenames>
+      <Text>, K</Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>.ryson, T. W</Text>
+      <Text>ryson, T. W</Text>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calthrop</Key>
-      <Text>. E. E</Text>
+      <Forenames>E. E.</Forenames>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1084,7 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,8 +1233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1659,8 +1658,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Olutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R,</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R,</Text>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,8 +1698,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldwell</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>4814</PageNumber>
       <PageNumber>4972</PageNumber>
     </MainItem>
@@ -1759,7 +1757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Comher-Higgs</Key>
-      <Text>. E. D</Text>
+      <Forenames>E. D</Forenames>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1908,7 +1906,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1967,21 +1967,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowey</Key>
-      <Text>. B. T. V</Text>
+      <Forenames>B. T. V</Forenames>
       <PageNumber>5461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coxwell-RoKers</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>4900</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crnbtree</Key>
-      <Text>. T. H. V</Text>
+      <Forenames>T. H. V</Forenames>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>

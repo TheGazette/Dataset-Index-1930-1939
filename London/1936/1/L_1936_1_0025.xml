@@ -31,7 +31,10 @@
     <MainItem>
       <Key>Binney</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Thomas Hugh, D.S.O., Companion, Order of the Bath Blairy Miss Mary, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +66,9 @@
     <MainItem>
       <Key>Blindell</Key>
       <Forenames>James</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1160</PageNumber>
     </MainItem>
@@ -81,7 +86,9 @@
     <MainItem>
       <Key>Blunt</Key>
       <Forenames>Arthur Powlett</Forenames>
-      <Text>, C.M.G., H.M. ConsulGeneral at Manila</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,14 +104,20 @@
     <MainItem>
       <Key>Bonham-Carter</Key>
       <Title>Lieut.</Title>
-      <Text>General Sir Charles, K.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief of Island of Malta and Dependencies</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2075</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>Gravely, Walter, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +125,12 @@
     <MainItem>
       <Key>Borrett</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Oswald Cuthbert, C.B., C.M.G., C.B.E., D.S.O., H.M. Lieutenant of the Tower of London</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +164,11 @@
     <MainItem>
       <Key>Bowhill</Key>
       <Forenames>Air Marshal Frederick William</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Knight Commander. Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +184,9 @@
     <MainItem>
       <Key>Bowman</Key>
       <Forenames>Humphrey Ernest</Forenames>
-      <Text>, C.B.E., M.A., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +219,9 @@
     <MainItem>
       <Key>Brackenbury</Key>
       <Forenames>Cecil Fabian</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +250,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Godfrey</Forenames>
-      <Text>, Officer, Order of the British Empire ___ ___ James, Member, Order of the British Empire . ___ ___ Lt.-Col. Norman Seddon, T.D., J.P., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +260,11 @@
     <MainItem>
       <Key>Brownrigg</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Wellesley Douglas Studholme, D.S.O., Companion, Order of the Bath Buccleuch and Queensbury, Col. Walter John, Duke of, Knight Grand Cross, Royal Victorian Order ... Buck, Percy Carter, M.A., Mus. Doc, F.R.C.M., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +275,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph</Forenames>
-      <Text>, Member, Order of the British Empire Burns, Alan Cuthbert Maxwell, C.M.G., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
@@ -258,7 +292,9 @@
     <MainItem>
       <Key>Burt</Key>
       <Forenames>Bryce Chudleigh</Forenames>
-      <Text>, CLE., M.B.E., B.Sc. (Lond.), F.C.S., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +302,10 @@
     <MainItem>
       <Key>Bushe</Key>
       <Forenames>Henry Grattan</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +313,9 @@
     <MainItem>
       <Key>Buss</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Stuart Austen, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +323,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Samuel Flowers</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +336,11 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Stephen Sey-</Forenames>
-      <Text>mour, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +357,9 @@
     <MainItem>
       <Key>Cairns</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., M.B., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +377,11 @@
     <MainItem>
       <Key>Calvert</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Thomas Frederick Parker, C.V.O., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +398,10 @@
       <Key>Cameron</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Archibald Rice</Forenames>
-      <Text>, K.C.B., C.M.G., Governor of Edinburgh Castle</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +439,9 @@
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ronald Hugh</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of Saint Michael and Saint George Canning, Albert, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
     <SubItem>
@@ -400,7 +458,9 @@
       <PageNumber>47</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Cassells, Thomas, M.P. vfor Dumbarton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1898</PageNumber>
     </SubItem>
   </ItemGroup>

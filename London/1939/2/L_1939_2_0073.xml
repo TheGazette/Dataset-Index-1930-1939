@@ -841,7 +841,9 @@
     <MainItem>
       <Key>Still</Key>
       <Forenames>E. H</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,8 +1358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taaffe</Key>
-      <Forenames>C. R. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>C. R. O'R</Forenames>
       <PageNumber>4445</PageNumber>
     </MainItem>
   </ItemGroup>

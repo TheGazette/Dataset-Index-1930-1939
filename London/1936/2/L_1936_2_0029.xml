@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Craigie</Key>
       <Forenames>Robert Leslie</Forenames>
-      <Text>, C.B., C.M.G., Knight . Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +47,11 @@
       <Key>Cruise</Key>
       <Title>Sir</Title>
       <Forenames>Richard Robert</Forenames>
-      <Text>, K.C.V.O., F.R.C.S., Knight Grand Cross,. Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +84,9 @@
     <MainItem>
       <Key>Cumberbatch</Key>
       <Forenames>Arthur Noel</Forenames>
-      <Text>, M.B.E., Commercial Secretary at Cairo</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,15 +102,20 @@
     <MainItem>
       <Key>Dain</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalby</Key>
-      <Forenames>Major-General Thomas Gerald</Forenames>
-      <Text>, D.S.O., Com. . panion, Order of the Bath</Text>
+      <Title>Major-</Title>
+      <Forenames>General Thomas Gerald</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +164,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>John Wallace Ord</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +185,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>George Frederick</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +241,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawson</Key>
-      <Text>of Penn, The Rt. Hon. Bertrand Edward, Baron, G.C.V.O., K.C.B.. K.C.M.G:, M.D.j F.R.CP., Viscount</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,8 +266,18 @@
       </Key>
       <Title>Major</Title>
       <Forenames>William</Forenames>
-      <Text>, T.D., Serving Brother, Order of St. John of Jerusa. lem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freitas</Key>
+      <Forenames>Quirino Bonifacio</Forenames>
+      <Text>, M.R.C.S., L.R.C.P., Member, Order of the British Empire</Text>
+      <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -259,10 +290,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Villiers</Key>
+      <Forenames>von Willich</Forenames>
+      <Text>, Johan Stephanus, . Serving Brother, Order of St. John of Jerusalem ... '</Text>
+      <PageNumber>4015</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
-      <Title>Engr.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral. Francis Edward (Retired), Companion, Order of the Bath ' _</Text>
+      <Title>Engr. Rear-Admiral</Title>
+      <Text>. Francis Edward (Retired), Companion, Order of the Bath ' _</Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -290,7 +328,9 @@
       <Key>Dew</Key>
       <Title>Major</Title>
       <Forenames>Joseph Turner</Forenames>
-      <Text>, M.B.E., V.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +354,9 @@
     <MainItem>
       <Key>Dizengoff</Key>
       <Forenames>Meir</Forenames>
-      <Text>, O.B.E., Honorary Commander, . Order of the British Empire ,-</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +386,10 @@
     <MainItem>
       <Key>Dugdale</Key>
       <Forenames>William Francis Stratford</Forenames>
-      <Text>, J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +446,9 @@
     <MainItem>
       <Key>Easter</Key>
       <Forenames>Bertie Harry Michael</Forenames>
-      <Text>, M.B.E., B.A., . Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +473,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Edgell</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral John Augustine, O.B.E., Companion, Order of the Bath 3997, 4C</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>John Augustine</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>89</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,8 +559,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Elibank</Key>
-      <Forenames>The Viscountess</Forenames>
-      <Text>, Dame of Justice, Order of St. John of Jerusalem</Text>
+      <Title>The Viscountess, Dame</Title>
+      <Text>of Justice, Order of St. John of Jerusalem</Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +612,9 @@
     <MainItem>
       <Key>Ezra</Key>
       <Forenames>Alwyn</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +646,9 @@
     <MainItem>
       <Key>Fawdry</Key>
       <Forenames>Wing</Forenames>
-      <Text>Comdr.Thomas, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,14 +664,18 @@
     <MainItem>
       <Key>Fergusson</Key>
       <Title>Lt.</Title>
-      <Text>Colonel Norman Mello, T.D., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fermor</Key>
-      <Text>-Lewis Leigh, O.B:E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +691,9 @@
     <MainItem>
       <Key>Fisher</Key>
       <Forenames>John Campbell</Forenames>
-      <Text>, O.B.E., ' Commander, Order of the British Empire ... ... ;</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>

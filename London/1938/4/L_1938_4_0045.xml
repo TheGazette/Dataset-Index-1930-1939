@@ -477,8 +477,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohvm, T</Text>
+      <Key>O'Shanohvm</Key>
+      <Forenames>T.</Forenames>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1064,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Forenames>I. De J. P.</Forenames>
+      <Forenames>I. De J</Forenames>
+      <Text>. P</Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,9 +1478,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>Rt. Hon. The Earl</Title>
+      <Text>of</Text>
       <PageNumber>8078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1511,8 +1511,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>M. E. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. E. O'B</Forenames>
       <PageNumber>7612</PageNumber>
     </MainItem>
   </ItemGroup>

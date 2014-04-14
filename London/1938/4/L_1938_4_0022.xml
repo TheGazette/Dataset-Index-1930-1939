@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Dimoliue</Key>
       <Title>Lieut.</Title>
-      <Text>Colonel William Alfred, M.C., Nominated Official Member of Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +52,9 @@
       <Key>Eaton</Key>
       <Title>Col.</Title>
       <Forenames>Richard William</Forenames>
-      <Text>, T.D., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
     <MainItem>
       <Key>Elmslie</Key>
       <Forenames>Reginald Cheyne</Forenames>
-      <Text>, O.B.E., F.C.S., Member, Royal Commission on Workmen's Compensation</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +105,9 @@
     <MainItem>
       <Key>Finlay</Key>
       <Forenames>William</Forenames>
-      <Text>Viscount, K.B.E., Lord Justice of Appeal</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>6433</PageNumber>
     </MainItem>
     <SubItem>
@@ -111,7 +119,10 @@
     <MainItem>
       <Key>Fitzmaurice</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.M.G., M.B.E., H.M. ConsulGeneral at Batavia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +154,12 @@
     <MainItem>
       <Key>Gibb</Key>
       <Title>Maj.</Title>
-      <Text>-General Sir Evan, K.B.E., C.B., C.M.G., D.S.O., Member, Herring Industry Board</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +197,9 @@
       <Key>Gordon</Key>
       <Title>The Hon.</Title>
       <Forenames>Thomas Stewart</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +216,9 @@
       <Key>Green</Key>
       <Title>Colonel</Title>
       <Forenames>Michael Arthur</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council, Gold Coast Colony</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +362,11 @@
     <MainItem>
       <Key>Ironside</Key>
       <Forenames>General</Forenames>
-      <Text>Sir William Edmund, G.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief, City and Garrison of Gibraltar</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +392,9 @@
       <Key>Jordan</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>Frederick Richard</Forenames>
-      <Text>. K.C.M.G., Lieutenant-Governor of New South Wales and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +412,9 @@
     <MainItem>
       <Key>Kelshall</Key>
       <Forenames>Thomas Meade</Forenames>
-      <Text>, O.B.E., Nominated Unofficial Member, Legislative Council, Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,14 +430,17 @@
     <MainItem>
       <Key>King</Key>
       <Forenames>Henry Joseph</Forenames>
-      <Text>, O.B.E.. Unofficial Member, Executive Council of City and Garrison of Gibraltar</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>. Edward Thomas, H.M. Consul at Batavia</Text>
+      <Forenames>Edward Thomas</Forenames>
+      <Text>, H.M. Consul at Batavia</Text>
       <PageNumber>7603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +481,9 @@
     <MainItem>
       <Key>Lewin</Key>
       <Forenames>Claude Tohn</Forenames>
-      <Text>, M.C., Nominated Official Member of Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +544,9 @@
       <Key>Macfarlan</Key>
       <Title>The Hon.</Title>
       <Forenames>James Ross</Forenames>
-      <Text>, K.C., LL.B., ' Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +578,9 @@
     <MainItem>
       <Key>Macrae</Key>
       <Forenames>Herbert Alexander</Forenames>
-      <Text>, M.B.E., Commercial Secretary, First Grade, to H.M. Embassy at Tokyo</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +687,9 @@
     <MainItem>
       <Key>Nihill</Key>
       <Forenames>John Harry Barclay</Forenames>
-      <Text>, M.C., Puisne Justice, Supreme Court of Ceylon</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,8 +703,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, Capt. George Eric Maxia, Distinguished Service Order</Text>
+      <Key>O'Donnell</Key>
+      <Title>Capt.</Title>
+      <Forenames>George Eric Maxia</Forenames>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +724,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Roland Giffard</Forenames>
-      <Text>, M.C., K.C, Justice of High Court</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6433</PageNumber>
     </MainItem>
     <SubItem>
@@ -693,7 +738,9 @@
     <MainItem>
       <Key>Ovens</Key>
       <Forenames>Alexander Rutherford</Forenames>
-      <Text>, M.B.E., H.M. ConsulGeneral for Osaka and Kobe</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +772,9 @@
     <MainItem>
       <Key>Patron</Key>
       <Forenames>Francis Joseph</Forenames>
-      <Text>, O.B.E., H.M. Consul at Port Said</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,7 +808,10 @@
       <Key>Rasch</Key>
       <Title>Colonel</Title>
       <Forenames>Guy Elland Carne</Forenames>
-      <Text>, C.V.O., D.S.O., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>

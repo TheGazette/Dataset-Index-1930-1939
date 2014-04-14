@@ -635,7 +635,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lissant</Key>
-      <Text>. P. E. ... T</Text>
+      <Forenames>P. E.</Forenames>
+      <Text>... T</Text>
       <PageNumber>8009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -999,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maude</Key>
-      <Text>. E. F</Text>
+      <Forenames>E. F</Forenames>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millers</Key>
-      <Text>. H. C</Text>
+      <Forenames>H. C</Forenames>
       <PageNumber>7647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,15 +1457,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>8010</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, Lord</Text>
+      <Key>O'Hagan</Key>
+      <Title>Lord .</Title>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>

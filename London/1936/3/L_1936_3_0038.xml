@@ -32,7 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Petty</Key>
-      <Text>W. W</Text>
+      <Forenames>W. W</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reyne</Key>
-      <Text>P. A. R</Text>
+      <Forenames>P. A. R</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,8 +1354,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, R. C</Text>
+      <Key>O'Conor</Key>
+      <Forenames>R. C.</Forenames>
       <PageNumber>4226</PageNumber>
     </MainItem>
   </ItemGroup>

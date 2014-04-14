@@ -373,8 +373,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. D.</Forenames>
       <PageNumber>6649</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
@@ -387,8 +387,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. J.</Forenames>
       <PageNumber>6649</PageNumber>
     </MainItem>
     <SubItem>
@@ -1047,7 +1047,9 @@
       <Key>Ross</Key>
       <Title>Sir</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6648</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -286,8 +286,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,8 +581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,10 +1114,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bunsen</Key>
+      <Forenames>A. G</Forenames>
+      <PageNumber>7855</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Kantzow</Key>
+      <Forenames>J. E</Forenames>
+      <PageNumber>7659</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Pree</Forenames>
       <Text>, H. D</Text>
       <PageNumber>8072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>A. J</Forenames>
+      <PageNumber>8072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <PageNumber>7518</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. W. M</Forenames>
+      <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1801,7 +1834,9 @@
       <Key>Falkiner</Key>
       <Title>Sir</Title>
       <Forenames>T. E. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>

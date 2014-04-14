@@ -199,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Womack</Key>
-      <Text>W. G</Text>
+      <Forenames>W. G.</Forenames>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +690,9 @@
       <Key>Blomefield</Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1052,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darrell</Key>
-      <Text>E. W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>7412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1091,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de L. N</Text>
+      <Forenames>H. de L</Forenames>
+      <Text>. N</Text>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1197,9 @@
       <Key>Domville</Key>
       <Title>Sir</Title>
       <Forenames>G. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,14 +1213,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaldson</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>R. M</Text>
+      <Forenames>R. M.</Forenames>
       <PageNumber>8252</PageNumber>
     </MainItem>
   </ItemGroup>

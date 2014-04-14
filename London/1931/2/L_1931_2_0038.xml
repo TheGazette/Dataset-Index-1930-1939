@@ -12,7 +12,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Text>R. R. M„ ... ...-2735 Osborne, R</Text>
+      <Forenames>R. R. M</Forenames>
+      <Text>„ ... ...-2735 Osborne, R</Text>
       <PageNumber>2493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +58,9 @@
     <KeyDitto>-</KeyDitto>
     <KeyDitto>--</KeyDitto>
     <SubItem>
-      <Text>...-3322 ; Pile,. Sir J, G. Carew, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2735</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -155,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>NortK</Key>
-      <Text>B. s. ::; ..-^.:..-2736 i.. Rayner, T. C .^</Text>
+      <Forenames>B.</Forenames>
+      <Text>s. ::; ..-^.:..-2736 i.. Rayner, T. C .^</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
     <KeyDitto>-</KeyDitto>
@@ -331,7 +335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryder</Key>
-      <Text>L.C. D</Text>
+      <Forenames>L.C. D.</Forenames>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>

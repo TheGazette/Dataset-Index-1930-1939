@@ -544,7 +544,9 @@
       <Key>Byass</Key>
       <Title>Sir</Title>
       <Forenames>G. R. S.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7082</PageNumber>
       <PageNumber>7691</PageNumber>
     </MainItem>
@@ -566,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caird</Key>
-      <Text>. T. S</Text>
+      <Forenames>T. S</Forenames>
       <PageNumber>7083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Calthrop</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de S</Text>
+      <Forenames>J. B. de S</Forenames>
       <PageNumber>6636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,8 +640,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>7435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1002,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chute</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C. R</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. R</Text>
       <PageNumber>7436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,7 +1063,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>, Bt. Clarke, A. B. S</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1254,8 +1254,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>6150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,6 +1309,13 @@
       <Key>Van</Key>
       <Forenames>J. H</Forenames>
       <PageNumber>7661</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Mentz</Key>
+      <Forenames>B</Forenames>
+      <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

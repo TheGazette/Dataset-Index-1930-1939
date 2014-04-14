@@ -4,15 +4,22 @@
     <MainItem>
       <Key>Brind</Key>
       <Title>Lt.</Title>
-      <Text>-General Sir John Edward Spencer, K.B.E., C. B., O.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brink</Key>
-      <Forenames>Major-General Andries Jacob Eksteen</Forenames>
-      <Text>, D.T.D., D. S.O., Knight of Grace, . Order of St. John of Jerusalem</Text>
+      <Title>Major-</Title>
+      <Forenames>General Andries Jacob Eksteen</Forenames>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,8 +34,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Forenames>Lieut-</Forenames>
-      <Text>Colonel Frank, D.S.O., M.O., Officer, Order of St. . John of Jerusalem</Text>
+      <Title>Lieut-Colonel</Title>
+      <Forenames>Frank</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +135,11 @@
       <Key>Bruce</Key>
       <Title>Colonel</Title>
       <Forenames>Gerald Trevor</Forenames>
-      <Text>, C. M.G., D.S.O., T.D., D. L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +150,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, LL.D., D.L., J:P., Member, Board of Trustees, National Library of Scotland</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +170,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +181,9 @@
     <MainItem>
       <Key>Bulkeley</Key>
       <Forenames>George Vicary Owen</Forenames>
-      <Text>, C.B.E., Member, Executive Council of Nigeria</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
     <SubItem>
@@ -174,7 +195,9 @@
     <MainItem>
       <Key>Bullard</Key>
       <Forenames>ReaderWilliam</Forenames>
-      <Text>, C.M.G., CLE., Knight Commander, Order of St. Michael and St.' George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +206,9 @@
       <Key>Burdon</Key>
       <Title>Sir</Title>
       <Forenames>Ernest</Forenames>
-      <Text>, K.C.I.E., C.S.I., I.C.S., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +224,10 @@
     <MainItem>
       <Key>Burt</Key>
       <Forenames>Bryce Chudleigh</Forenames>
-      <Text>, C.I.E., M.B.E., B.Sc, F.C.S., Knighted</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +251,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Nevile Montagu</Forenames>
-      <Text>, C.V.O., Acting Counsellor of Embassy at Tehran</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +264,10 @@
       </Key>
       <Title>Colonel</Title>
       <Forenames>Richard Barry</Forenames>
-      <Text>, C.B.E., M.C.,' Companion,' Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +276,9 @@
       <Key>Butt</Key>
       <Title>Sir</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, Bart., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +304,9 @@
       <Key>Cadell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur Pat-</Forenames>
-      <Text>rick Hamilton, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +314,10 @@
     <MainItem>
       <Key>Caldecott</Key>
       <Forenames>H. E.</Forenames>
-      <Text>Sir Andrew, C.M.G., C.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +384,9 @@
     <MainItem>
       <Key>Cartmel-Robinson</Key>
       <Forenames>Harold Francis</Forenames>
-      <Text>, O.B.E., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +402,9 @@
     <MainItem>
       <Key>Cassells</Key>
       <Forenames>Hugh Hutchison</Forenames>
-      <Text>, M.V.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +413,10 @@
       <Key>Cautley</Key>
       <Title>Sir</Title>
       <Forenames>Henry Strother</Forenames>
-      <Text>, Bt., K.C., M.P., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +425,9 @@
       <Key>Cazenove</Key>
       <Title>Major</Title>
       <Forenames>Arnold</Forenames>
-      <Text>de Lerisson, Member 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +451,9 @@
     <MainItem>
       <Key>Chaudhury</Key>
       <Forenames>Zafrullah Khan</Forenames>
-      <Text>, the Hon., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +502,9 @@
     <MainItem>
       <Key>Clarendon</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, the Earl of, ' ' iG.C.M.G., P.C, Knight of Justice, Order of St. John . of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +531,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Geoffrey Fletcher</Forenames>
-      <Text>, M.C., B.Sc:, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +543,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph Miles</Forenames>
-      <Text>, C.S.I., CLE., O.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +569,10 @@
     <MainItem>
       <Key>Cockill</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel William Baron, T.D., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +597,12 @@
       <Key>Collins</Key>
       <Title>Colonel (temp. Brigadier)</Title>
       <Forenames>Lionel Peter</Forenames>
-      <Text>, C.B., D.S.O., O.B.E., A.D.C., Companion, Order of the' Star of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +610,10 @@
     <MainItem>
       <Key>Colville</Key>
       <Forenames>Lt</Forenames>
-      <Text>&gt;Colonel David John, T.D:, D.L., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +709,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Cork</Key>
-      <Text>and Orrery, Admiral William Henry Dudley, Earl of, G.C.V.O., K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -668,7 +739,9 @@
       <Key>Craig</Key>
       <Title>Major</Title>
       <Forenames>John Cormack</Forenames>
-      <Text>, D. S.O., -M.Inst.C.E., Officer, Order of the . British .Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>

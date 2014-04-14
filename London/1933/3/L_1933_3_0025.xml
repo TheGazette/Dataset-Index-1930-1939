@@ -122,8 +122,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,8 +188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>6285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +197,9 @@
       <Key>Thompson</Key>
       <Title>Sir</Title>
       <Forenames>T. R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. F. J. S</Text>
+      <Forenames>F. J. S.</Forenames>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennell</Key>
-      <Text>. D. G</Text>
+      <Forenames>D. G</Forenames>
       <PageNumber>4965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bevington</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G.</Forenames>
       <PageNumber>5301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -816,7 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borlase</Key>
-      <Text>. A</Text>
+      <Forenames>A</Forenames>
       <PageNumber>4803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Text>. M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,8 +1235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1466,7 +1465,9 @@
       <Key>Croft</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,9 +1796,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, M. H. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>M. H. H.</Forenames>
       <PageNumber>5349</PageNumber>
       <PageNumber>6286</PageNumber>
     </MainItem>

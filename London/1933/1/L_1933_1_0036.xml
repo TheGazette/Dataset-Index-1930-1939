@@ -41,7 +41,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Antrobus</Key>
-      <Forenames>J. A. De R. A.</Forenames>
+      <Forenames>J. A. De R</Forenames>
+      <Text>. A</Text>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +606,9 @@
       <Key>Black</Key>
       <Title>Sir</Title>
       <Forenames>R. A. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B</Forenames>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Breese</Key>
-      <Text>U. J</Text>
+      <Forenames>U. J</Forenames>
       <PageNumber>2042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butohart</Key>
-      <Text>C. G</Text>
+      <Forenames>C. G.</Forenames>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1285,8 +1288,7 @@
     <MainItem>
       <Key>Cayley</Key>
       <Title>Sir</Title>
-      <Forenames>W.</Forenames>
-      <Text>de S</Text>
+      <Forenames>W. de S</Forenames>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1832,6 +1834,13 @@
       <Key>Day</Key>
       <Forenames>E. W .</Forenames>
       <PageNumber>829</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jong</Key>
+      <Forenames>D. F. De J</Forenames>
+      <PageNumber>1861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

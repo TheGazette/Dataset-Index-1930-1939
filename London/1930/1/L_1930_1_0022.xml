@@ -3,7 +3,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Text>, Maj.-Gen. His Excellency The Earl of, K.G., G.C.B., G.C.M.G., G. C.V.O., D.S.O., A.D.C., Bailiff Grand Cross, Order of St, John of Jerusalem</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -19,7 +26,9 @@
     <MainItem>
       <Key>Aveling</Key>
       <Forenames>Arthur Francis</Forenames>
-      <Text>, C.B.E., First Secretary in H. M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +37,9 @@
       <Key>Baddeley</Key>
       <Title>Sir</Title>
       <Forenames>Frank Morrish</Forenames>
-      <Text>, Kt., C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +48,12 @@
       <Key>Badgerow</Key>
       <Title>Sir</Title>
       <Forenames>George Wash-</Forenames>
-      <Text>ington, C.M.G., M.D., F.R.C.S., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +61,9 @@
     <MainItem>
       <Key>Bage</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +99,11 @@
       <Key>Balfour</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Andrew</Forenames>
-      <Text>, LLD., M.D., C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,14 +199,19 @@
       <Key>Barnett</Key>
       <Title>Sir</Title>
       <Forenames>Louie Edward</Forenames>
-      <Text>, C.M.G., M.B., F.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Baron</Key>
-      <Text>; Louis Bernhard, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>796</PageNumber>
     </MainItem>
@@ -216,7 +243,10 @@
       <Key>Pattye</Key>
       <Title>Col. (Tempy. Brigadier)</Title>
       <Forenames>Ivan Urnuston</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +255,11 @@
       <Key>Baxendale</Key>
       <Title>Col.</Title>
       <Forenames>Joseph Fran-</Forenames>
-      <Text>cis Noel, T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +285,9 @@
     <MainItem>
       <Key>Beaufort</Key>
       <Forenames>Henry Hugh Arthur Fitzroy</Forenames>
-      <Text>, Duke of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +384,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>wood, Field Marshal Sir William Riddell, Bt., G. C.B., G.C.M.G., K.C.S.I., CLE., D.S.O., LL.D., Knight Grand Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +426,9 @@
       <Key>Bledisloe</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Baron, K.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>205</PageNumber>
     </MainItem>
     <SubItem>
@@ -441,7 +484,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Peter Ferguson</Forenames>
-      <Text>, Nominated Member of Legislative Council of Fiji... Boyle, Hon. Walter John Hurry, Commander, Order of the British Empire ..: Bradford, Admiral Sir Edward Eden, K.C.B., C.V.O., Knight Grand Cross, Order of the British Empire ... ... ... Branie, Prof. John Samuel Strafford, F.I.C, Commander, Order of the British Empire ... ... Branch, The Ven. Archdeacon Samuel Edmund, M.A., Officer, Order of the British Empire ... Brear, William Charles, Serving Brother, Order of St. John of Jerusalem ... Brett, Henry James, Commercial Secretary, First Grade, to H.M. Legation at Peking</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +495,10 @@
     <MainItem>
       <Key>Brickell</Key>
       <Forenames>Daniel Francis Horse-</Forenames>
-      <Text>man, Member, Order of the British Empire ... . Brine, John, Officer, Order of St. John of Jerusalem ... Broadmead, Philip Mainwaring, M.C, First Secretary in H.M. Diplomatic Service ... .... Brookes, Alfred, Serving Brother, Order of St. John of Jerusalem ... ... Brown, James, O.B.E., M.P., H.M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +507,10 @@
       <Key>Browne</Key>
       <Title>Mrs.</Title>
       <Forenames>Emma Styant</Forenames>
-      <Text>, Serving Sister, Order of St. John of Jerusalem ... Brownlow, Harry Lurgan, F.R.C.S., L.R.C.P., Officer, Order of St. John of Jerusalem ... ... ... Buckland, Herbert, Officer, Order of the British Empire Bulman, Robert Vernon, Officer, Order of St. John of Jerusalem ... ... Burns, Rev. Canon George, O.B.E., Unofficial Member of the Executive Council of Kenya</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +518,9 @@
     <MainItem>
       <Key>Burt</Key>
       <Forenames>Bryce Chudleigh</Forenames>
-      <Text>, M.B.E., B.Sc, Companion, Order of the Indian Empire ... ... ... Busk, Douglas Laird, Third Secretary in H.M. Diplomatic Service ... ... Butement, Mrs. Alice Edith Officer, Order of St. John of Jerusalem Butler, Miss Helen Florence, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
     <KeyDitto>-</KeyDitto>

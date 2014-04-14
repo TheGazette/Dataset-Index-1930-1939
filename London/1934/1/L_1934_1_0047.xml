@@ -353,6 +353,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Soldenhoff</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>1079</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickson</Key>
       <Forenames>A. N</Forenames>
       <PageNumber>1780</PageNumber>
@@ -573,8 +580,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, iS. G</Text>
+      <Key>O'Neill</Key>
+      <Text>iS. G</Text>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,7 +796,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parker</Key>
-      <Text>H. W</Text>
+      <Forenames>H. W</Forenames>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. L. St. J</Forenames>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1494,7 +1500,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -437,7 +437,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +945,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDougall</Key>
-      <Text>E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>3352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,8 +1136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeilly</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>W. St. C</Forenames>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,8 +1210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallock</Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>A. R. de H</Forenames>
       <PageNumber>5719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,8 +1270,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. C.</Forenames>
-      <Text>de R</Text>
+      <Forenames>E. C. de R</Forenames>
       <PageNumber>2155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1336,9 @@
       <Key>Maxwell</Key>
       <Title>Sir</Title>
       <Forenames>A.</Forenames>
-      <Text>, Bt,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>

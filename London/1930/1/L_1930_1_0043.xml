@@ -365,8 +365,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herrick</Key>
-      <Forenames>R.</Forenames>
-      <Text>de S. B</Text>
+      <Forenames>R. de S</Forenames>
+      <Text>. B</Text>
       <PageNumber>1490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,15 +499,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V</Forenames>
       <PageNumber>1966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, D. V</Text>
+      <Key>O'Malley</Key>
+      <Forenames>D. V</Forenames>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rao</Key>
-      <Text>B. M</Text>
+      <Forenames>B. M</Forenames>
       <PageNumber>800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,6 +774,13 @@
     <MainItem>
       <Key>Carslake</Key>
       <Forenames>J. F. B.</Forenames>
+      <PageNumber>13</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Meric</Key>
+      <Forenames>M. J. C.</Forenames>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,16 +1334,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>C. R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. R. St. J</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>H.</Forenames>
-      <Text>du P</Text>
+      <Forenames>H. du P</Forenames>
       <PageNumber>1051</PageNumber>
     </MainItem>
   </ItemGroup>

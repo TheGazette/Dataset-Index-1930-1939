@@ -243,8 +243,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. '</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. '</Text>
       <PageNumber>6217</PageNumber>
       <PageNumber>8404</PageNumber>
     </MainItem>
@@ -442,7 +442,9 @@
       <Key>Acland</Key>
       <Title>Sir</Title>
       <Forenames>W. H. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1622,7 +1624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corsan</Key>
-      <Text>. R. A</Text>
+      <Forenames>R. A.</Forenames>
       <PageNumber>7956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1746,9 @@
     <MainItem>
       <Key>Cuthbert</Key>
       <Forenames>S. J. O. E.</Forenames>
-      <Text>, dAvigdor-Goldsmid, Sir Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,7 +1815,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>. P</Text>
+      <Forenames>P.</Forenames>
       <PageNumber>6301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1831,9 +1835,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, H. G. T</Text>
+      <Key>de Rothschild</Key>
+      <Forenames>E. L.</Forenames>
+      <PageNumber>7417</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sausmarez</Key>
+      <Forenames>H. G. T.</Forenames>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1885,7 +1885,9 @@
       <Key>Sturdee</Key>
       <Title>Sir</Title>
       <Forenames>L. A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2042,8 +2044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>S. O'R</Forenames>
       <PageNumber>8256</PageNumber>
     </MainItem>
   </ItemGroup>

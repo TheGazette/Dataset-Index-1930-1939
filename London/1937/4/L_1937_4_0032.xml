@@ -316,7 +316,9 @@
       <Key>Pile</Key>
       <Title>Sir</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rabbidge</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>G. St. B</Forenames>
       <PageNumber>7266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>. G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +750,9 @@
       <Key>Ritchie</Key>
       <Title>Sir</Title>
       <Forenames>J. E. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,8 +1053,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Barbe, G. F</Text>
+      <Key>St. Barbe</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>6213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,8 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Samwell</Key>
-      <Forenames>H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>H. de L</Forenames>
       <PageNumber>8192</PageNumber>
     </MainItem>
   </ItemGroup>

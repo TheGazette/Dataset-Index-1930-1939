@@ -297,7 +297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves</Key>
-      <Text>H. B. M</Text>
+      <Forenames>H. B. M</Forenames>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willis</Key>
-      <Text>A. S. W</Text>
+      <Forenames>A. S. W</Forenames>
       <PageNumber>6914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynch</Key>
-      <Text>E. FitzH</Text>
+      <Forenames>E.</Forenames>
+      <Text>FitzH</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>H. C. M</Text>
+      <Forenames>H. C. M</Forenames>
       <PageNumber>7373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +573,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Icke</Key>
-      <Text>J. H. T. .;</Text>
+      <Forenames>J. H. T.</Forenames>
+      <Text>.;</Text>
       <PageNumber>7281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adair</Key>
-      <Text>D. H</Text>
+      <Forenames>D. H.</Forenames>
       <PageNumber>6760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +685,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>R,. S</Text>
+      <Forenames>R</Forenames>
+      <Text>,. S</Text>
       <PageNumber>7193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barne</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. E. St. J</Forenames>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaty-Pownall</Key>
-      <Text>C. C</Text>
+      <Forenames>C. C.</Forenames>
       <PageNumber>7697</PageNumber>
     </MainItem>
   </ItemGroup>

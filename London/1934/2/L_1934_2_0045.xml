@@ -278,7 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. W. D. Martin, R</Text>
+      <Forenames>W. D. Martin</Forenames>
+      <Text>, R</Text>
       <PageNumber>3030</PageNumber>
       <PageNumber>3981</PageNumber>
     </MainItem>
@@ -465,8 +466,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J</Forenames>
       <PageNumber>2549</PageNumber>
       <PageNumber>3488</PageNumber>
     </MainItem>
@@ -1682,8 +1683,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. B. de W</Forenames>
       <PageNumber>3488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1717,15 +1717,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, C. R</Text>
+      <Key>O'Brien</Key>
+      <Forenames>C. R .</Forenames>
       <PageNumber>2710</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. L Pahwa, T. R</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. L</Forenames>
+      <Text>Pahwa, T. R</Text>
       <PageNumber>2862</PageNumber>
     </MainItem>
   </ItemGroup>

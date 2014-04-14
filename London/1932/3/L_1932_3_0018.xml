@@ -269,7 +269,9 @@
       <Key>Nutting</Key>
       <Title>Sir</Title>
       <Forenames>H. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,15 +285,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. P. O'Callaghan, R. F. B Oclee, H. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. P. O'Callaghan</Forenames>
+      <Text>, R. F. B Oclee, H. D</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. A</Forenames>
       <PageNumber>4468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +307,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. C</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. C</Forenames>
       <PageNumber>6024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -325,8 +328,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, G. V. De C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>G. V. De C</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,8 +342,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, C. E</Text>
+      <Key>O'Hara</Key>
+      <Forenames>C. E</Forenames>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,8 +384,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, F. D. W</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>F. D. W</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,8 +1907,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>T. L. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>T. L. O'C</Forenames>
       <PageNumber>4659</PageNumber>
     </MainItem>
   </ItemGroup>

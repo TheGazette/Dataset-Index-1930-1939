@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tettenborn</Key>
-      <Forenames>P. A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. A. de G</Forenames>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,33 +677,50 @@
   <ItemGroup>
     <MainItem>
       <Key>Buckingham</Key>
-      <Text>: Bowyer, Capt. Sir George Edward Wentworth, M.O., M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>1805</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Purefoy, Adm. Richard Purefoy, C.B.E., M.V.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>1805</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>: Bentley, Col. Francis Isaac, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>932</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Brown, Brevet Col. Charles, Turner, D.S.O., T.D</Text>
-      <PageNumber>932</PageNumber>
-    </SubItem>
-    <SubItem>
       <Text>
-        <PageNumber>932</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>932</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
         <PageNumber>932</PageNumber>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
+      <PageNumber>932</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <PageNumber>932</PageNumber>
+        <Honour>D. S.O.</Honour>
       </Text>
       <PageNumber>932</PageNumber>
     </SubItem>
@@ -713,29 +729,41 @@
       <PageNumber>932</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stanley, Capt. the Hon. Edward Montagu Cavendish, M.C., M.P.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>932</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>liCicGstsr</Key>
-      <Text>* Gemmell, Lt.-Col. William Alexander Stewart, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>679</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Nutting, Capt. Sir Harold Stansmore, Bart.</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>679</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Montagu Douglas-Scott, Lt.-Col. Lord Herbert Andrew, Q.M.G., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rogere, Maj. Vivian Barry, D.S.O'., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -752,14 +780,17 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>East Riding</Forenames>
-      <Text>, and City and County of Kingston-upon-Hull, Maj. William Henton Carver, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>G. Hatch &lt;fe Company, Limited, notice</Text>
+      <Forenames>G. Hatch</Forenames>
+      <Text>&lt;fe Company, Limited, notice</Text>
       <PageNumber>791</PageNumber>
     </MainItem>
   </ItemGroup>

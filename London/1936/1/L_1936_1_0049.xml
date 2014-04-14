@@ -1101,8 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>G. O.</Forenames>
-      <Text>de R</Text>
+      <Forenames>G. O. de R</Forenames>
       <PageNumber>236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,7 +1117,9 @@
       <Key>Chetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1773,7 +1774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Notley</Key>
-      <Text>T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>1660</PageNumber>
       <PageNumber>1661</PageNumber>
     </MainItem>

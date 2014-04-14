@@ -215,7 +215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunseath</Key>
-      <Text>. D. R</Text>
+      <Forenames>D. R.</Forenames>
       <PageNumber>4653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eve</Key>
-      <Text>. R. A. T</Text>
+      <Forenames>R. A. T</Forenames>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrester</Key>
-      <Text>. B. T. C</Text>
+      <Forenames>B. T. C.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>France</Key>
-      <Text>. E. S. R</Text>
+      <Forenames>E. S. R.</Forenames>
       <PageNumber>5734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,8 +986,10 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Sir</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L , Bt</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillington</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1447,10 @@
     <MainItem>
       <Key>Haggerston</Key>
       <Title>Sir</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>de M., Bt</Text>
+      <Forenames>H. C. de M</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1595,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4555</PageNumber>
       <PageNumber>4555</PageNumber>
     </MainItem>

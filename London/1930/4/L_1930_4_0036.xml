@@ -633,8 +633,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, C. P</Text>
+      <Key>O'Toole</Key>
+      <Forenames>C. P</Forenames>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,7 +1056,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sloman</Key>
-      <Text>L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>6097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1219,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Teacher</Key>
-      <Text>J. A. MacD</Text>
+      <Forenames>J. A.</Forenames>
+      <Text>MacD</Text>
       <PageNumber>6480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,14 +1538,18 @@
     <MainItem>
       <Key>Berwick</Key>
       <Forenames>Charles Cospatrick Archibald Douglas-Home</Forenames>
-      <Text>, Earl of Home, K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>and Newcastle-upon-Tyne, Rt. Hon. Sir Charles Philips Trevelyan, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1558,9 @@
       <Key>Wiltshire</Key>
       <Title>Sir</Title>
       <Forenames>Ernest Salter Wills</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1561,11 +1568,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeenshire</Key>
-      <Text>: Burnett-Stuart. Lt.-Gen. Sir John T., K.B.E., O.B., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7339</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hamilton, Brig.-Gen. John George Harry, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7339</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1589,7 +1602,9 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>Maj. Robert Inigo Tasker, T.D</Text>
+      <Title>Maj.</Title>
+      <Forenames>Robert Inigo Tasker</Forenames>
+      <Text>, T.D</Text>
       <PageNumber>6479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1601,7 +1616,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>6841</PageNumber>
+        <Honour>O.B.E.</Honour>
         <PageNumber>6841</PageNumber>
       </Text>
       <PageNumber>6841</PageNumber>

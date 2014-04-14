@@ -394,8 +394,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, E. G ,</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G</Forenames>
+      <Text>,</Text>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,6 +1362,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Helden</Key>
+      <Forenames>H. W.</Forenames>
+      <PageNumber>4347</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vanderpump</Key>
       <Forenames>F. H.</Forenames>
       <PageNumber>6018</PageNumber>
@@ -1550,8 +1558,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de H</Text>
+      <Forenames>M. de H</Forenames>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>

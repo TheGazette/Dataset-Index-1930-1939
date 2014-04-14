@@ -5,7 +5,9 @@
       <Key>Poyser</Key>
       <Title>Maj.</Title>
       <Forenames>Kenneth Ellis-</Forenames>
-      <Text>ton, . D.S.O., Puisne Justice of the Supreme Court of Ceylon</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Pxeece</Key>
       <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral George, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +42,9 @@
     <MainItem>
       <Key>Rae</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, I.S.O., Clerk of Justiciary in Scotland</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>2117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +70,9 @@
     <MainItem>
       <Key>Rait</Key>
       <Forenames>Robert Sangster</Forenames>
-      <Text>, C. B.E., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -73,7 +81,9 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Chandra</Forenames>
-      <Text>, M.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +91,10 @@
     <MainItem>
       <Key>Ramsden</Key>
       <Forenames>Eugene Joseph Squire Hargreaves</Forenames>
-      <Text>, O.B.E., J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -115,7 +128,10 @@
       <Key>Reed</Key>
       <Title>Col.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, D.S.O., Companion of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +156,12 @@
       <Key>Reid</Key>
       <Title>Col.</Title>
       <Forenames>Alexander Kirk-</Forenames>
-      <Text>wood, D.S.O., M.C., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +186,9 @@
     <MainItem>
       <Key>Rhodes</Key>
       <Forenames>Edward Hugh</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +250,10 @@
       <Key>Ridgeway</Key>
       <Title>Col. (temp. Brigadier)</Title>
       <Forenames>David Graeme</Forenames>
-      <Text>, D. S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +300,11 @@
       <Key>Rodd</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>James Rennell</Forenames>
-      <Text>, G.C.B.,G.C.M.G., G.C.V.O., Baron Rennell of Rodd</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1424</PageNumber>
     </MainItem>
@@ -306,7 +336,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>Mrs. Alice Buckley, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Alice Buckley</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +346,9 @@
     <MainItem>
       <Key>Rosbotham</Key>
       <Forenames>Samuel Thomas</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -339,7 +373,9 @@
     <MainItem>
       <Key>Ruddle</Key>
       <Forenames>Frederick Charles</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +384,9 @@
       <Key>Runciman</Key>
       <Title>Sir</Title>
       <Forenames>Walter</Forenames>
-      <Text>, Bt., J.P., Baron Runciman of Shoreston</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>439</PageNumber>
     </MainItem>
@@ -376,7 +414,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, M.C., Nominated Member of the Legislative Council of Fiji</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +440,10 @@
     <MainItem>
       <Key>Ryce</Key>
       <Forenames>Richard Samuel</Forenames>
-      <Text>M.D., F.R.C.S.,Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +460,11 @@
       <Key>Salmon</Key>
       <Title>Major</Title>
       <Forenames>Isidore</Forenames>
-      <Text>, C.B.E., J.P., D.L., M.P., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -442,7 +489,10 @@
     <MainItem>
       <Key>San</Key>
       <Forenames>Crombie</Forenames>
-      <Text>, Po., C.B.E., M.D., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +533,9 @@
       <Key>Scatterty</Key>
       <Title>Mrs.</Title>
       <Forenames>Agnes</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>

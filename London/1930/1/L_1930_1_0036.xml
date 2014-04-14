@@ -143,7 +143,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, G. J. P</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, G. J. P</Text>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +264,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,8 +284,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>M. de B</Forenames>
       <PageNumber>1144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +409,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheppard</Key>
-      <Text>O. S. G</Text>
+      <Forenames>O. S. G</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +463,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Silver</Key>
-      <Text>H. J. W</Text>
+      <Forenames>H. J. W .</Forenames>
       <PageNumber>1221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skentelbery</Key>
-      <Text>N</Text>
+      <Forenames>N .</Forenames>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +507,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slaney</Key>
-      <Text>J. N</Text>
+      <Forenames>J. N .</Forenames>
       <PageNumber>727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,8 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>G. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. F. St. C</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,8 +989,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surtees</Key>
-      <Forenames>C. V.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. V. de L</Forenames>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1034,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Synnott</Key>
-      <Text>P.F</Text>
+      <Forenames>P.F</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1070,14 +1070,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Taverner</Key>
-      <Text>R. L. ,</Text>
+      <Forenames>R. L.</Forenames>
+      <Text>,</Text>
       <PageNumber>428</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>G. A. D</Text>
+      <Forenames>G. A. D.</Forenames>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,7 +1133,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Templer</Key>
-      <Text>G. W. R,</Text>
+      <Forenames>G. W. R</Forenames>
+      <Text>,</Text>
       <PageNumber>501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thewlis</Key>
-      <Text>F. T</Text>
+      <Forenames>F. T.</Forenames>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>C. S. B</Text>
+      <Forenames>C. S. B.</Forenames>
       <PageNumber>1891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1271,7 +1273,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>A. B</Text>
+      <Forenames>A. B.</Forenames>
       <PageNumber>726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1287,7 +1289,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thornhill</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1603,6 +1605,13 @@
       <Key>Vallance</Key>
       <Forenames>J. I.</Forenames>
       <PageNumber>1577</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Outryve</Key>
+      <Text>dYdewalle, P. F. M. G</Text>
+      <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -72,7 +72,9 @@
       <Key>Amos</Key>
       <Title>Sir</Title>
       <Forenames>Maurice Sheldon</Forenames>
-      <Text>, K.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +83,9 @@
       <Key>Anderson</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +96,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G.C.B., Governor of the Presidency of Fort William in Bengal</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>1133</PageNumber>
     </MainItem>
     <SubItem>
@@ -121,7 +127,10 @@
       <Key>Ashley</Key>
       <Title>Rt. Hon. Lt.-Col.</Title>
       <Forenames>Wilfrid William Ashley</Forenames>
-      <Text>, J.P., D.L., M.P., Baron (Mount Temple of Lee)</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>346</PageNumber>
     </MainItem>
@@ -153,8 +162,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillie</Key>
-      <Forenames>The Very Revd</Forenames>
-      <Text>. Albert Victor, C.V.O., D.D., Knight Commander, Royal Victorian Order</Text>
+      <Title>The</Title>
+      <Forenames>Very Revd</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +175,9 @@
     <MainItem>
       <Key>Bailv</Key>
       <Forenames>Robert Edward Hart-</Forenames>
-      <Text>well, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +185,9 @@
     <MainItem>
       <Key>Baker</Key>
       <Forenames>Edward Charles Stuart</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +198,10 @@
       </Key>
       <Title>Colonel (Temporary Brigadier)</Title>
       <Forenames>Jasper</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +249,9 @@
     <MainItem>
       <Key>Bayley</Key>
       <Forenames>Leonard Bennett</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +268,10 @@
       <Key>Beith</Key>
       <Title>Maj.</Title>
       <Forenames>John Hay</Forenames>
-      <Text>, C.B.E., M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +279,9 @@
     <MainItem>
       <Key>Bell</Key>
       <Forenames>Robert Duncan</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +289,9 @@
     <MainItem>
       <Key>Bellman</Key>
       <Forenames>Charles Harold</Forenames>
-      <Text>, M.B.E., Knight ... -</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1417</PageNumber>
     </MainItem>
@@ -296,7 +325,10 @@
       <Key>Best</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Alexander Vans</Forenames>
-      <Text>, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +352,9 @@
     <MainItem>
       <Key>Bircham</Key>
       <Forenames>Bertram Okeden</Forenames>
-      <Text>, M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -330,7 +364,9 @@
       <Key>Biron</Key>
       <Title>Commander</Title>
       <Forenames>Henry</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +382,9 @@
     <MainItem>
       <Key>Blackmore</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -468,7 +506,9 @@
     <MainItem>
       <Key>Browne</Key>
       <Forenames>Philip Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +518,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Buckston</Forenames>
-      <Text>, F.R.C.S., F.S.A., Knight</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -490,7 +532,16 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Pierson</Forenames>
-      <Text>, Companion, Order of the Indian Empire ... Bull, James Robinson, Officer, Order of the British Empire ... ... ... Bunn, Frederick Charles, Officer, Order of the British Empire ... ... Burn, Dugald Stuart, Companion, Order of the Indian Empire ... ... Burnett of Leys, Major-Gen. Sir James Lauderdale Gilbert, Bt., C.M.G., D.S.O., Companion, Order of the Bath ... Burnett-Stuart, Lt.-Gen. Sir John Thcodosius, K.B.E., C.B., C.M.G., D.S.O., Knight , Commander, Order of the Bath ... Burrows, Roland, King's Counsel</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +550,9 @@
       <Key>Burton</Key>
       <Title>Captain</Title>
       <Forenames>Keith Ernest</Forenames>
-      <Text>, Member, Order of the British Empire ... Bushe, Henry Grattan, C. M.G., Companion, Order of the Bath ... Butler, Edwin John, C.I.E., D. Sc, F.R.S., Companion, Order of St. Michael and St. George Cable, Eric Grant, H.M. Consul at Seattle</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +560,9 @@
     <MainItem>
       <Key>Cahill</Key>
       <Forenames>Joseph Robert</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -521,7 +576,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ronald Ion</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... Campion, Gilbert Francis Montriou, Companion, Order of the Bath Cardew, Maj. Arthur Barrett, M.C., M.B., F.R.C.S.Ed., Officer, Order of St. John of Jerusalem ... ... ... Caroe, Olaf Kirkpatrick, Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -20,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>G. C</Text>
+      <Forenames>G. C .</Forenames>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,8 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Forenames>B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>B. de C</Forenames>
       <PageNumber>501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +270,9 @@
     <MainItem>
       <Key>Meysey-Thompson</Key>
       <Forenames>O.</Forenames>
-      <Text>V.C</Text>
+      <Text>
+        <Honour>V.C</Honour>
+      </Text>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G .</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,8 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Title>St.</Title>
-      <Forenames>L.</Forenames>
+      <Title>St. L.</Title>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +557,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nangle</Key>
-      <Text>F. E Nasmith. R</Text>
+      <Forenames>F. E</Forenames>
+      <Text>Nasmith. R</Text>
       <PageNumber>1311</PageNumber>
       <PageNumber>1312</PageNumber>
     </MainItem>
@@ -586,7 +587,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>M. E</Text>
+      <Forenames>M. E .</Forenames>
       <PageNumber>798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,8 +729,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, It. S. L</Text>
+      <Key>O'Connell</Key>
+      <Title>It.</Title>
+      <Forenames>S. L</Forenames>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -743,15 +745,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. R. C. D</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. R. C. D</Forenames>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, W. L. B</Text>
+      <Key>O'Hara</Key>
+      <Forenames>W. L. B.</Forenames>
       <PageNumber>280</PageNumber>
       <PageNumber>1964</PageNumber>
     </MainItem>
@@ -765,22 +767,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B. J</Forenames>
       <PageNumber>279</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley-Kcyes, H. J. K</Text>
+      <Key>O'Malley-Kcyes</Key>
+      <Forenames>H. J. K.</Forenames>
       <PageNumber>1729</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K. G</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K. G</Forenames>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peck</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>726</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1107,7 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettman</Key>
-      <Text>V. E. C</Text>
+      <Forenames>V. E. C</Forenames>
       <PageNumber>500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillippo</Key>
-      <Text>C. C</Text>
+      <Forenames>C. C</Forenames>
       <PageNumber>1052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1182,7 +1184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Text>A. J. K</Text>
+      <Forenames>A. J. K</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,7 +1195,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pomerey</Key>
-      <Text>de V</Text>
+      <Forenames>de V</Forenames>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1278,7 +1282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potts</Key>
-      <Text>E. T</Text>
+      <Forenames>E. T.</Forenames>
       <PageNumber>649</PageNumber>
       <PageNumber>1144</PageNumber>
       <PageNumber>1145</PageNumber>
@@ -1287,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>E. W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1864,7 +1868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>798</PageNumber>
       <PageNumber>799</PageNumber>
     </MainItem>
@@ -1895,7 +1899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roddy</Key>
-      <Text>P. M</Text>
+      <Forenames>P. M.</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1954,7 +1958,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Romanes</Key>
-      <Text>J. G. P</Text>
+      <Forenames>J. G. P.</Forenames>
       <PageNumber>1577</PageNumber>
     </MainItem>
   </ItemGroup>

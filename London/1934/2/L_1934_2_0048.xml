@@ -773,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowling</Key>
-      <Text>. V. S</Text>
+      <Forenames>V. S.</Forenames>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byng-Hall</Key>
-      <Forenames>D. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>D. O'C</Forenames>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cursham</Key>
-      <Text>. M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,6 +1306,13 @@
       <Key>Dawson</Key>
       <Forenames>H. L.</Forenames>
       <PageNumber>2189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wet</Key>
+      <Forenames>H. W. A. O.</Forenames>
+      <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1517,7 +1523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Evans</Key>
-      <Text>. C. A. H</Text>
+      <Forenames>C. A. H.</Forenames>
       <PageNumber>2189</PageNumber>
       <PageNumber>2190</PageNumber>
     </MainItem>
@@ -1532,8 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. H. de L</Forenames>
       <PageNumber>2471</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -19,7 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Noor</Key>
-      <Text>. Mahomed Hashim bin Mohamed Dali, I.S.O., Nominated Unofficial Member, Legislative Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,10 @@
       <Key>North</Key>
       <Title>Maj. (Qr.-Mr.)</Title>
       <Forenames>Ernest Alfred</Forenames>
-      <Text>, M.C., D.C.M., Member, Order of the British Empire,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +42,11 @@
       <Key>Norton</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edward Felix</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +73,9 @@
       <Key>Nunn</Key>
       <Title>Major</Title>
       <Forenames>Reginald Lewis</Forenames>
-      <Text>, D.S.O., Official Member, Executive Council of the Straits Settlements</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +83,9 @@
     <MainItem>
       <Key>Oakes</Key>
       <Forenames>Harry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,8 +101,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, Miss Thelma Agatha, Member, Order of the British Empire</Text>
+      <Key>O'Dowd</Key>
+      <Title>Miss</Title>
+      <Forenames>Thelma Agatha</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,22 +128,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Owen St. Clair, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary at Budapest</Text>
+      <Key>O'Malley</Key>
+      <Forenames>Owen St</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, Dr. Freeman, Officer, Order of St. John of Jerusalem</Text>
+      <Key>O'Neil</Key>
+      <Title>Dr.</Title>
+      <Forenames>Freeman</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Warrt. Offr. CI. II (Bty. S.M.) James William, Member, Order of the British Empire</Text>
+      <Key>O'Neill</Key>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (Bty. S.M.) James William, Member, Order of the British Empire</Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +223,10 @@
     <MainItem>
       <Key>Overton</Key>
       <Forenames>Arnold Edersheim</Forenames>
-      <Text>, C.M.G., M.C., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +242,9 @@
     <MainItem>
       <Key>Pack</Key>
       <Forenames>Arthur Joseph</Forenames>
-      <Text>, O.B.E., Commercial Secretary, First Grade, to HM. Embassy at Santiago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +301,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pap</Key>
-      <Text>worth, Maj. Kenneth Macaulay, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +311,9 @@
     <MainItem>
       <Key>Paresh</Key>
       <Forenames>Chandra Datta</Forenames>
-      <Text>, M.B., F.R.C.S., Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +322,9 @@
       <Key>Paris</Key>
       <Title>Maj. (local Lt.-Col.)</Title>
       <Forenames>Darell Kilburn</Forenames>
-      <Text>, M.C., Officer, Order of the .British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +332,9 @@
     <MainItem>
       <Key>Park</Key>
       <Forenames>Bertram Charles Percival</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +342,9 @@
     <MainItem>
       <Key>Parkes</Key>
       <Forenames>Bernard</Forenames>
-      <Text>, Member 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +353,9 @@
       <Key>Parkinson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Singleton</Forenames>
-      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +372,11 @@
       <Key>Parsons</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Arthur Broadbent</Forenames>
-      <Text>, K.C.I.E., C.B.E., D.S.O., acting Governor of North West Frontier Province</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +413,9 @@
     <MainItem>
       <Key>Patmore</Key>
       <Forenames>Percy Henry</Forenames>
-      <Text>, M.M.! Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +440,9 @@
     <MainItem>
       <Key>Pattenson</Key>
       <Forenames>Arthur Eric Tylden</Forenames>
-      <Text>, Companion, Order of the Star of India ... „</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +517,9 @@
       <Key>Peake</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Gerald</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +543,9 @@
     <MainItem>
       <Key>Pedley</Key>
       <Forenames>John Edward</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +553,9 @@
     <MainItem>
       <Key>Peel</Key>
       <Forenames>Roland Tennyson</Forenames>
-      <Text>, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +606,9 @@
     <MainItem>
       <Key>Penny</Key>
       <Forenames>James Downing</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +650,9 @@
       <Key>Peterson</Key>
       <Title>Sir</Title>
       <Forenames>Maurice Drummond</Forenames>
-      <Text>, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary in Spain</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +660,9 @@
     <MainItem>
       <Key>Peto</Key>
       <Forenames>Geoffrey Kelsall</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,16 +700,22 @@
       <Key>Phipps</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Eric Clare Edmund</Forenames>
-      <Text>. G.C.M.G., C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pick</Key>
-      <Title>Surgeon</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral B. Pickering, C.B.E., M.R.C.S., L.R.C.P., House Governor and Medical Superintendent, King Edward VII Convalescent Home for Officers, Osborne</Text>
+      <Title>Surgeon Rear-Admiral</Title>
+      <Forenames>B. Pickering</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,8 +730,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilcher</Key>
-      <Forenames>Gonne St</Forenames>
-      <Text>. Clair, M.C., K.C, Deputy Chairman, Somersetshire Quarter Sessions</Text>
+      <Forenames>Gonne St. Clair</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +751,9 @@
     <MainItem>
       <Key>Pile</Key>
       <Forenames>George Laurie</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +770,11 @@
       <Key>Pitkeathly</Key>
       <Title>Sir</Title>
       <Forenames>James Scott</Forenames>
-      <Text>, C.M.G., CI.E:, C.V.O., C. B.E., D.S.O.,. Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +782,10 @@
     <MainItem>
       <Key>Piatt</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. William, D. S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Rodgers</Key>
       <Forenames>David John</Forenames>
-      <Text>; C.B.E., H.M. Consul-General at Barcelona</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +45,9 @@
     <MainItem>
       <Key>Sadd</Key>
       <Forenames>Clarence Thomas Albert</Forenames>
-      <Text>, C.B.E., Member, Royal Commission on Workmen's Compensation „</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +64,11 @@
     <MainItem>
       <Key>Schuster</Key>
       <Forenames>Sii George Ernest</Forenames>
-      <Text>, K.C.S.I., K.C.M.G., C.B.E., M.C., Member of Parliament for Walsall</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +76,9 @@
     <MainItem>
       <Key>Shepherd</Key>
       <Forenames>Francis Michie</Forenames>
-      <Text>, M.B.E., H.M. Consul at Dresden</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +102,9 @@
     <MainItem>
       <Key>Simmonds</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, M.B.E., Commercial Secretary, 2nd Grade, to H.M. Legation at Athens</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +112,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Allan Chalmers</Forenames>
-      <Text>, M.C., Puisne Judge, of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +148,9 @@
     <MainItem>
       <Key>Stable</Key>
       <Forenames>Wintringham Norton</Forenames>
-      <Text>, M.C., K.C., Justice of H.M. Hieh Court</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6631</PageNumber>
     </MainItem>
     <SubItem>
@@ -147,7 +163,11 @@
       <Key>Stanhope</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>James Richard</Forenames>
-      <Text>, Earl, K.G., D.S.O., M.C., First Lord of the Admiralty</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +184,9 @@
     <MainItem>
       <Key>Stevenson</Key>
       <Forenames>Raloh Clarmont Skrine</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +220,9 @@
       <Key>Sutherland</Key>
       <Title>Caot.</Title>
       <Forenames>Tames Bur-</Forenames>
-      <Text>leieh, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,8 +280,18 @@
     <MainItem>
       <Key>Trott</Key>
       <Forenames>William James Howard</Forenames>
-      <Text>, C.B.E., Unofficial Member, Executive Council of tlv; Bermudas or Somers Islands</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6988</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Batenburg</Key>
+      <Forenames>Stafford</Forenames>
+      <Text>, Sydney Lyons, His Majesty's Counsel, Colcny of British Guiana</Text>
+      <PageNumber>7784</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -289,7 +323,9 @@
     <MainItem>
       <Key>Walsh</Key>
       <Forenames>Henry Francis Chester</Forenames>
-      <Text>, O.B.E., H.M. ConsulGeneral at Saigon</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +336,11 @@
       </Key>
       <Title>Colonel</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, D.S.O., O.B.E., M.C., one of H.M. Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7430</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +349,12 @@
       <Key>Ware</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Faoian Arthur Gouldstone</Forenames>
-      <Text>, K.C.V.O., K.B.E., C.B., C.M.G., Grand Officer, Legion of Honour</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baillon</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaumau</Key>
-      <Text>. A. B</Text>
+      <Forenames>A. B.</Forenames>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bettington</Key>
-      <Text>. J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>6197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryant</Key>
-      <Text>. M. M. A</Text>
+      <Forenames>M. M. A.</Forenames>
       <PageNumber>6435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +663,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bury</Key>
-      <Text>. J</Text>
+      <Forenames>J .</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,8 +809,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Rhe-Phillipe</Key>
+      <Forenames>A. T.</Forenames>
+      <PageNumber>8178</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denniston</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G.</Forenames>
       <PageNumber>8177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -965,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>. C. E. M</Text>
+      <Forenames>C. E. M.</Forenames>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,7 +1061,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holmes</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>

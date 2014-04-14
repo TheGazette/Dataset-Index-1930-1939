@@ -5,14 +5,20 @@
       <Key>Fisher</Key>
       <Title>Adm. Sir</Title>
       <Forenames>William Wordsworth</Forenames>
-      <Text>, G.C.B., C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>1 y n n, Charles Joseph, C.M.G., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +43,9 @@
       <Key>Fynn</Key>
       <Title>Hon.</Title>
       <Forenames>Percival Donald Leslie</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +54,9 @@
       <Key>Gadie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Anthony</Forenames>
-      <Text>, T.D., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +91,12 @@
       <Key>Gathorne-Hardy</Key>
       <Title>Gen. the Hon. Sir</Title>
       <Forenames>John Francis</Forenames>
-      <Text>, G. C.B., C.M.G., D.S.O., A.D.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +121,9 @@
       <Key>Gilbertson</Key>
       <Title>Rev.</Title>
       <Forenames>A. D.</Forenames>
-      <Text>, O.B.E., M.A., Honorary Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +132,11 @@
       <Key>Gilmour</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bart D.S.O., M.P., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +144,10 @@
     <MainItem>
       <Key>Gladstone</Key>
       <Forenames>Albert Charles</Forenames>
-      <Text>, M.B.E., J.P.. D.L., Constable of Flint Castle</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>5051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +155,9 @@
     <MainItem>
       <Key>Gow</Key>
       <Forenames>Alexander Edward</Forenames>
-      <Text>, M.D., Physician-in-Ordinary to H.R.H. the Duke of Kent</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +166,9 @@
       <Key>Grace</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Humphrey Gilbert</Forenames>
-      <Text>, M.C., one of H.M. Body Guard of the Honourable Corps of Gentleman-at-Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +208,10 @@
     <MainItem>
       <Key>Grylls</Key>
       <Forenames>Charles John Tench Bedford</Forenames>
-      <Text>, C.B., C.B.E., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +236,9 @@
       <Key>Hall</Key>
       <Title>Prof.</Title>
       <Forenames>Arthur John</Forenames>
-      <Text>, MJL M.D., D.Sc. F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +291,12 @@
       <Key>Headlam</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cuthbert Morley</Forenames>
-      <Text>, D.S.O., O.B.E., T.D., Baronet</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +378,9 @@
     <MainItem>
       <Key>Howes</Key>
       <Forenames>Henry Randolph</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Executive Council of the Presidency of Montserrat</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +396,9 @@
     <MainItem>
       <Key>Humphries</Key>
       <Forenames>Herbert Henry</Forenames>
-      <Text>, C.B.E., M.Inst.C.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +407,9 @@
       <Key>Jackson</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +417,9 @@
     <MainItem>
       <Key>Jamieson</Key>
       <Forenames>Edgar George</Forenames>
-      <Text>, C.B.E., H.M. OonsulGeneral in China</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +451,9 @@
     <MainItem>
       <Key>Kelly</Key>
       <Forenames>David Victor</Forenames>
-      <Text>, M.C., Counsellor of Embassy in H.M. Diplomatic Service ;</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +462,9 @@
       <Key>Killik</Key>
       <Title>Sir</Title>
       <Forenames>Stephen Henry Molyneux</Forenames>
-      <Text>, K.C.V.O., Knight Grand . Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>6067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +472,11 @@
     <MainItem>
       <Key>Knuthsen</Key>
       <Forenames>Louis Francis Roebank</Forenames>
-      <Text>, C.V.O., O.B.E., M.D., Physician in Ordinary to H.R.H. the PrincessRoyal</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +500,9 @@
     <MainItem>
       <Key>Lander</Key>
       <Forenames>Percy</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +510,9 @@
     <MainItem>
       <Key>Learmonth</Key>
       <Forenames>James Rognvald</Forenames>
-      <Text>, Ch.M., F.R.C.S. (Edin.), Honorary Surgeon to H.M. The King in Scotland</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +521,9 @@
       <Key>Lewis</Key>
       <Title>Mr.</Title>
       <Forenames>Justice</Forenames>
-      <Text>(Wilfrid Herbert Poyer), O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +539,10 @@
     <MainItem>
       <Key>Lomax</Key>
       <Forenames>John Garnett</Forenames>
-      <Text>, M.B.E., M.C., Commercial Secretary at H.M. Embassy at Rome</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +551,9 @@
       <Key>Lutyens</Key>
       <Title>Sir</Title>
       <Forenames>Edwin Land-</Forenames>
-      <Text>seer, K.C.I.E., R.A., Member, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>4241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +578,9 @@
     <MainItem>
       <Key>Macaulay</Key>
       <Forenames>Alfred Newton</Forenames>
-      <Text>, T.D., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +589,9 @@
       <Key>McCullagh</Key>
       <Title>Sir</Title>
       <Forenames>Crawford</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +624,9 @@
     <MainItem>
       <Key>MacKinnon</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Lachlan Donald Ian, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +634,9 @@
     <MainItem>
       <Key>Mackintosh</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.C., Counsel to H.M. in Scotland</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +661,10 @@
       <Key>MacRae</Key>
       <Title>Maj.</Title>
       <Forenames>Colin William</Forenames>
-      <Text>, C.V.O., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +680,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Text>WSng-Cdr. P«rcy Eric, A.F.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +690,9 @@
     <MainItem>
       <Key>Mallinson</Key>
       <Forenames>William</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +700,9 @@
     <MainItem>
       <Key>Maltby</Key>
       <Forenames>Air Commodore Paul Copeland</Forenames>
-      <Text>, D.S.O., A.F.C Member, Nominated Council of Malta .'</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +710,9 @@
     <MainItem>
       <Key>Margetson</Key>
       <Forenames>Noel James Linnington</Forenames>
-      <Text>, M.D., Official Member, Executive Council of the Presidency of Montserrat</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +720,9 @@
     <MainItem>
       <Key>Marillier</Key>
       <Forenames>Eric Stanley</Forenames>
-      <Text>, O.B.E., Nominated Member, Legislative Council, Northelrn Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +731,9 @@
       <Key>Marnoch</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.V.O., C.M., Extra Surgeon to H.M. The King in Scotland</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>5591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +742,10 @@
       <Key>May</Key>
       <Title>Sir</Title>
       <Forenames>George Ernest</Forenames>
-      <Text>, Bt., K.B.E., Baron May of Weybridge</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4241</PageNumber>
     </MainItem>
   </ItemGroup>

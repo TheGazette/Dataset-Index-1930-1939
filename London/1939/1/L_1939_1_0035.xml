@@ -23,7 +23,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Pennycook</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Wallace Roderick Duncan</Forenames>
-      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +60,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Col</Forenames>
-      <Text>). William Albert, M.C., M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +86,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Heaton Forbes</Forenames>
-      <Text>, C.M.G., M.I.C.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>
@@ -90,7 +100,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Richard Atkinson</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +121,10 @@
     <MainItem>
       <Key>Rodger</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. William Keir, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +156,9 @@
     <MainItem>
       <Key>Rowatt</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.M., M.I.M.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +182,9 @@
     <MainItem>
       <Key>Rugman</Key>
       <Forenames>Francis Dudley</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +211,9 @@
       <Key>Rylands</Key>
       <Title>Sir</Title>
       <Forenames>William Peter</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>856</PageNumber>
     </MainItem>
@@ -201,7 +222,11 @@
     <MainItem>
       <Key>Ryle</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, Douglas Bland, Member, Order of the British Empire</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, Douglas Bland, Member, Order of the British Empire</Text>
       <PageNumber>19</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +259,9 @@
       <Key>Samson</Key>
       <Title>Sir</Title>
       <Forenames>Edward Marlay</Forenames>
-      <Text>, K.B.E., K.C., Chairman, Pembrokeshire Quarter Sessions</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +294,9 @@
     <MainItem>
       <Key>Savery</Key>
       <Forenames>Frank</Forenames>
-      <Text>, C.B.E., H.M. Consul-General at Warsaw</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +321,9 @@
     <MainItem>
       <Key>Scholes</Key>
       <Forenames>Frank Victor Gordon</Forenames>
-      <Text>, M.D., B.S., D.P.H., Companion, Order of St. Michael and St. George ... Schwind, Doris, Mrs. George, J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +370,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. Robert Wise Richardson, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +393,9 @@
       <Key>Seeds</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary at Moscow</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +419,9 @@
     <MainItem>
       <Key>Sellers</Key>
       <Forenames>Councillor Harold Wadsworth</Forenames>
-      <Text>, Officer, Order of the British Empire Selous, Gerald Holgate, O.B.E., Commercial Secretary, First Grade, to H.M. Embassy at Brussels</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +454,9 @@
       <Key>Seymour</Key>
       <Title>Lady</Title>
       <Forenames>Katharine</Forenames>
-      <Text>, Commander, Royal Victorian Order Shano, Arthur William, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +499,9 @@
     <MainItem>
       <Key>Sheikh</Key>
       <Forenames>Said</Forenames>
-      <Text>bin Ali El-Mugheiri, M.B.E., Honorary Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +529,12 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>George Charles Edward</Forenames>
-      <Text>, O.B.E., T.D., F.R.C.S., Commander, Order, of St. John of Jerusalem Singer, Sqdn. Leader Noel Christie, Distinguished Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>1393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +551,9 @@
     <MainItem>
       <Key>Skiffington</Key>
       <Forenames>Donald Maclean</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire ... ... ... Skinner, Lt.-Comdr. Hugh Charles, Officer, Order of the British Empire ... Slade, George Penkivil, King's Counsel</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>

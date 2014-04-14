@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H.</Forenames>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wylie</Key>
-      <Text>W. P</Text>
+      <Forenames>W. P.</Forenames>
       <PageNumber>3590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +252,9 @@
     <MainItem>
       <Key>Carne</Key>
       <Forenames>Rasch</Forenames>
-      <Text>, Sir F., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2637</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +343,9 @@
       <Key>Mackenzie</Key>
       <Title>Sir</Title>
       <Forenames>V. A. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2402</PageNumber>
     </MainItem>
   </ItemGroup>

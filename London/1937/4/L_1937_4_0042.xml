@@ -623,15 +623,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. S</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. S .</Forenames>
       <PageNumber>7353</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, G. F. P</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>G. F. P .</Forenames>
       <PageNumber>6618</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,8 +644,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady. C. C</Text>
+      <Key>O'Grady</Key>
+      <Forenames>C. C .</Forenames>
       <PageNumber>6082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,15 +688,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. A</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. A .</Forenames>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Roe, R. J. O</Text>
+      <Key>O'Neill-Roe</Key>
+      <Forenames>R. J. O.</Forenames>
       <PageNumber>7352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F .</Forenames>
       <PageNumber>8138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,14 +1867,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, P. C. B</Text>
+      <Forenames>John</Forenames>
+      <Text>, P. C. B</Text>
       <PageNumber>7857</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sales</Key>
-      <Text>. H. E</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>6617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1903,7 +1904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sargent</Key>
-      <Text>. L. N</Text>
+      <Forenames>L. N .</Forenames>
       <PageNumber>8002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1986,7 +1987,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sayers</Key>
-      <Text>. F. I;</Text>
+      <Forenames>F. I</Forenames>
+      <Text>;</Text>
       <PageNumber>7661</PageNumber>
     </MainItem>
   </ItemGroup>

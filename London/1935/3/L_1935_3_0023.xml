@@ -186,7 +186,9 @@
       <Key>Hawley</Key>
       <Title>Sir</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -872,7 +874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ind</Key>
-      <Text>. R. J. W</Text>
+      <Forenames>R. J. W</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1788,8 +1790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Long</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>

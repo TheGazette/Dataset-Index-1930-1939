@@ -95,8 +95,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H. C</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H. C</Forenames>
       <PageNumber>290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>R. J</Text>
+      <Forenames>R. J</Forenames>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,8 +738,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,15 +969,10 @@
       <Forenames>J. B</Forenames>
       <PageNumber>734</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. H .</Forenames>
+    <SubItem>
+      <Text>P. H</Text>
       <PageNumber>290</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <SectionTitle>Paymaster Sub-Lieutenants</SectionTitle>
   <ItemGroup>
@@ -1038,8 +1033,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1227,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Text>E. C</Text>
+      <Forenames>E. C.</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,8 +1237,11 @@
       <Forenames>B. B.</Forenames>
       <PageNumber>2007</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>W. B. 5i</Text>
+      <PageNumber>3</PageNumber>
+    </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Kimpton</Key>

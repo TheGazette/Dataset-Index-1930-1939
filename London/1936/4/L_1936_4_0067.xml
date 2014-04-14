@@ -242,7 +242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burt</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>6392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +271,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cavendish</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>7866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corner</Key>
-      <Forenames>Cafe</Forenames>
+      <Title>Cafe .</Title>
       <PageNumber>8067</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -808,7 +808,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>Miss and . the Misses Moss</Text>
+      <Title>Miss</Title>
+      <Text>and . the Misses Moss</Text>
       <PageNumber>7865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadfield</Key>
-      <Forenames>Dairies</Forenames>
+      <Title>Dairies.</Title>
       <PageNumber>7452</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +874,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>and Dennis '....-' 6393 . Hammond Clark &amp; Daman ... Harding, James Pearsall and</Text>
+      <Text>and Dennis '....-'</Text>
+      <PageNumber>6393</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Hammond</Key>
+      <Forenames>Clark</Forenames>
+      <Text>&amp; Daman ... Harding, James Pearsall and</Text>
       <PageNumber>7369</PageNumber>
     </MainItem>
     <SubItem>
@@ -899,7 +908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors.</Title>
       <PageNumber>8065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,7 +923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Forenames>Joan</Forenames>
+      <Title>Joan .</Title>
       <PageNumber>7684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,8 +938,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Forenames>Bros</Forenames>
-      <Text>.--</Text>
+      <Title>Bros.</Title>
+      <Text>--</Text>
       <PageNumber>6719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -982,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>8386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Homestead</Key>
-      <Forenames>Pottery Co</Forenames>
+      <Forenames>Pottery</Forenames>
+      <Text>Co</Text>
       <PageNumber>7970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Humphries</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>6393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,7 +1211,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joy</Key>
-      <Forenames>Rosamund</Forenames>
+      <Title>Rosamund .</Title>
       <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1237,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingston</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers.</Title>
       <PageNumber>7685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leay</Key>
-      <Text>Glazing Service</Text>
+      <Forenames>Glazing Service</Forenames>
       <PageNumber>7865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,14 +1350,15 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Forenames>Switches</Forenames>
+      <Title>Switches .</Title>
       <PageNumber>8238</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Longbottom</Key>
-      <Text>C, &amp; Co</Text>
+      <Forenames>C</Forenames>
+      <Text>, &amp; Co</Text>
       <PageNumber>7865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,14 +1380,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Maison</Key>
-      <Forenames>Cecile</Forenames>
+      <Title>Cecile .</Title>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maison</Key>
-      <Forenames>Louvre</Forenames>
+      <Title>Louvre .</Title>
       <PageNumber>7685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martins</Key>
-      <Text>(Becontree)</Text>
+      <Title>(Becontree)</Title>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,8 +1545,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Modeline</Key>
-      <Forenames>Display</Forenames>
-      <Text>... '</Text>
+      <Title>Display .</Title>
+      <Text>.. '</Text>
       <PageNumber>7170</PageNumber>
     </MainItem>
   </ItemGroup>

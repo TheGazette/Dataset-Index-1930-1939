@@ -47,7 +47,9 @@
       <PageNumber>3108</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Executive Council, Member, Thomas Meade Kelshall, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>3922</PageNumber>
     </SubItem>
     <SubItem>
@@ -58,11 +60,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Viscounts</Key>
-      <Text>: Baldwin, Rt. Hon. Sir Stanley, K.G., Viscount Corvedale of Corvedale</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>3663</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Davidson, Rt. Hon. Sir John Colin Campbell, G.C.V.O., C.H., C.B., Viscount Davidson of Little Gaddesden</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.H.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3429</PageNumber>
       <PageNumber>4010</PageNumber>
     </SubItem>
@@ -77,6 +85,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
         <PageNumber>3663</PageNumber>
       </Text>
       <PageNumber>3074</PageNumber>
@@ -118,6 +128,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
         <PageNumber>2190</PageNumber>
       </Text>
       <PageNumber>2266</PageNumber>
@@ -127,21 +141,30 @@
     <MainItem>
       <Key>Windward</Key>
       <Forenames>Islands</Forenames>
-      <Text>and Dependencies, Governor and Commander-in-Chief, Henry Bradshaw Popham, C.M.G., M.B.E</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2714</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Workmen</Key>
-      <Text>'s Compensation Act, 1925. (See under Home Office.) Works, First Commissioner of, Rt. Hon. Sir Philip Albert Gustave David Sassoon, Bt., G.B.E., C.M.G</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Zanzibar</Key>
-      <Text>ia.i, Orders. v (See under Fc Foreign Orders, ') Zanzibar —jar Protectorate British Resident, John Hathorn Hall. C.M.G., D.S.O. O.B.E. M.C</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O. O.B.E. M.C</Honour>
+      </Text>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>

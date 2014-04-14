@@ -53,7 +53,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>McKellar, O.B.E., V.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +122,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Henry</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +133,9 @@
       <Key>Rochdale</Key>
       <Title>Hon. Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, Baron, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +144,9 @@
       <Key>Robson</Key>
       <Title>Mrs.</Title>
       <Forenames>Mary Frederica Walters</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +155,9 @@
       <Key>Rodger</Key>
       <Title>Lt.Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.C., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +210,9 @@
       <Key>Ronaldson</Key>
       <Title>Surgeon Capt.</Title>
       <Forenames>James Bruce</Forenames>
-      <Text>, V.D., M.D., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +247,9 @@
       </Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Henry</Forenames>
-      <Text>, CLE., O.B.E., M.B., F.R.C.S.I., I.M.S., Commander, Order ot St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +260,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Hugh Donald</Forenames>
-      <Text>, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +272,9 @@
       <Key>Ross</Key>
       <Title>Professor</Title>
       <Forenames>J. Paterson</Forenames>
-      <Text>, M.S., F.R.C.S., Member of Civil Consulting Staff of Osborne Convalescent Home for Officers</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +284,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>James Stirling</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +374,9 @@
       <Key>Runciman</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.P., Viscount</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3429</PageNumber>
     </MainItem>
     <SubItem>
@@ -366,7 +390,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Alexander West</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -435,8 +461,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, Felix Perceval, Officer, Order of St. John of Jerusalem</Text>
+      <Key>St. Hill</Key>
+      <Forenames>Felix Perceval</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +500,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Roy Dugdale</Forenames>
-      <Text>, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +519,10 @@
     <MainItem>
       <Key>Samarakoon</Key>
       <Forenames>Edwin Richard</Forenames>
-      <Text>de Alwis, Companion, Imperial Service Order ... ... 3rd Samuel, Rt. Hon. Sir Herbert Louis, G.C.B., G.B.E., Viscount Samuel of Mount Carmel and of Toxteth</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
       <PageNumber>3663</PageNumber>
     </MainItem>
@@ -561,7 +594,9 @@
     <MainItem>
       <Key>Sardar</Key>
       <Forenames>Sher Mohammad Khan</Forenames>
-      <Text>, Capt., CLE., M.B.E., M.L.A., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2550</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +605,11 @@
       <Key>Sassoon</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Philip Albert Gustave David</Forenames>
-      <Text>, Bt., G.B.E., C.M.G., First Commissioner of Works</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +701,9 @@
       <Key>Seel</Key>
       <Title>Lt.-Col. and Brevet Col.</Title>
       <Forenames>Ralph Cecil</Forenames>
-      <Text>, M.C, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +727,12 @@
     <MainItem>
       <Key>Sergison-Brooke</Key>
       <Title>Maj.</Title>
-      <Text>-Gen. Bertram Norman, C.B., . C.M.G., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>

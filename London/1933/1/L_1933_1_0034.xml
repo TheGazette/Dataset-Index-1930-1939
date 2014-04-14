@@ -270,8 +270,7 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Title>Sir</Title>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,8 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Forenames>C. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. R. de W</Forenames>
       <PageNumber>741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,8 +679,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +838,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Clair, G. J. P</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, G. J. P</Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +960,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1049,7 +1046,9 @@
       <Key>Seton</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheil</Key>
-      <Forenames>F. P. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>F. P. St. M</Forenames>
       <PageNumber>673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,8 +1361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>1964</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,8 +1629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansfield</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>917</PageNumber>
       <PageNumber>1179</PageNumber>
     </MainItem>
@@ -1766,8 +1762,7 @@
       <Key>
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
-      <Forenames>G. R.</Forenames>
-      <Text>de O</Text>
+      <Forenames>G. R. de O</Forenames>
       <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1854,8 +1849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturm</Key>
-      <Forenames>M. G.</Forenames>
-      <Text>de Ll</Text>
+      <Forenames>M. G. de Ll</Forenames>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>

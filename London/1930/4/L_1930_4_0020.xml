@@ -70,7 +70,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinidad</Key>
-      <Text>and Tobago: Chief Justice of, Charles Frederic Belcher, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>6945</PageNumber>
     </MainItem>
     <SubItem>
@@ -85,7 +87,7 @@
       <PageNumber>6565</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Legislative Council, Unofficial Member, Henry Hamilton Hunter, LL.D.</Text>
+      <Text>Legislative Council, Unofficial Member, Henry Hamilton Hunter, LL.D</Text>
       <PageNumber>6091</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -165,7 +167,7 @@
       <PageNumber>7760</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Roberts, Rev. Charles Frederic, MA., F.S.A.</Text>
+      <Text>Roberts, Rev. Charles Frederic, MA., F.S.A</Text>
       <PageNumber>7760</PageNumber>
     </SubItem>
     <SubItem>
@@ -253,7 +255,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>Rev. Thomas Sherwood, M.A., nominated Bkhop Suffragan of Hulme</Text>
+      <Title>Rev.</Title>
+      <Forenames>Thomas Sherwood</Forenames>
+      <Text>, M.A., nominated Bkhop Suffragan of Hulme</Text>
       <PageNumber>6462</PageNumber>
     </MainItem>
   </ItemGroup>

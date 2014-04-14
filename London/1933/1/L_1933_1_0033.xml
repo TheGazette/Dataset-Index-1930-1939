@@ -43,7 +43,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lytton</Key>
-      <Text>Hon. A. E. J</Text>
+      <Title>Hon.</Title>
+      <Forenames>A. E. J.</Forenames>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +425,9 @@
   <ItemGroup>
     <MainItem>
       <Key>McTaggart</Key>
-      <Text>^Stewart, Sir E. Q. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +621,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Massey</Key>
-      <Text>P. . ... ;</Text>
+      <Forenames>P.</Forenames>
+      <Text>. ... ;</Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Merton</Key>
-      <Text>H. H</Text>
+      <Forenames>H. H .</Forenames>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,7 +1367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,8 +1473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, C. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>C. A.</Forenames>
       <PageNumber>1688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,8 +1487,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donovan, M. J. W...:</Text>
+      <Key>O'Donovan</Key>
+      <Forenames>M. J. W.</Forenames>
+      <Text>..:</Text>
       <PageNumber>1859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,22 +1541,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Lone, R. J</Text>
+      <Key>O'Lone</Key>
+      <Forenames>R. J .</Forenames>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, O. C. Saunders</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>O. C. Saunders</Forenames>
       <PageNumber>129</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley-Keyes, G. J. K</Text>
+      <Key>O'Malley-Keyes</Key>
+      <Forenames>G. J. K.</Forenames>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>

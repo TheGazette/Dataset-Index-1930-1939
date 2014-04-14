@@ -150,8 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilks</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. O</Text>
+      <Forenames>B. St. O</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,6 +379,13 @@
       <Key>Davidson</Key>
       <Forenames>T. J.</Forenames>
       <PageNumber>775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Soldenhoff</Key>
+      <Forenames>R.</Forenames>
+      <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -938,9 +944,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Berry</Forenames>
-      <Text>, T. A. L</Text>
+      <Key>De Berry</Key>
+      <Forenames>T. A. L</Forenames>
       <PageNumber>1809</PageNumber>
     </MainItem>
   </ItemGroup>

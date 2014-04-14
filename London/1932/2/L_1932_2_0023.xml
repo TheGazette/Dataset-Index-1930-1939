@@ -5,7 +5,9 @@
       <Key>Andrews</Key>
       <Title>Capt. (Qr.-Mr.)</Title>
       <Forenames>Albert William</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire'</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Hale Tindal</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,15 +78,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Baden-Powell</Key>
-      <Forenames>Olave St</Forenames>
-      <Text>. Clair, Baroness, Dame Grand Cross, Order of the British Empire</Text>
+      <Forenames>Olave St. Clair</Forenames>
+      <Text>, Baroness, Dame Grand Cross, Order of the British Empire</Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Badham</Key>
-      <Text>Thornhill, Col. George, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +167,10 @@
       <Key>Barker</Key>
       <Title>Lt.-Col. (Qr.-Mr.)</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, M.C., D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +198,9 @@
     <MainItem>
       <Key>Barry</Key>
       <Forenames>Frederick William</Forenames>
-      <Text>, Member fifth class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +259,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>LouisBernhardt George Stephen</Forenames>
-      <Text>, C.B.E., Commercial Counsellor, Peking</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +278,9 @@
       <Key>Beazley</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Walter Edwin</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +348,9 @@
       <Key>Bhopal</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. H. Iftikhar-ul-Mulk Sikandar Saulat Nawab Haji</Forenames>
-      <Text>Sir Muhammad Hamidullah Khan Bahadur, G.C.I.E., OS.I., C.V.O., Nawab of, Knight Grand Commander, the Order of the Star of India</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +425,9 @@
       <Key>Blood</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Bindon</Forenames>
-      <Text>, G.O.B., Knight Grand Cross, Royal Victorian Order ... ... :</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +460,9 @@
       <Key>Bontor</Key>
       <Title>Capt.</Title>
       <Forenames>Algernon Arthur</Forenames>
-      <Text>,' M.C., Member, Order of the British Empire '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +486,9 @@
     <MainItem>
       <Key>Bose</Key>
       <Forenames>Rai Sahib Nelson Charles</Forenames>
-      <Text>, M.B.E., Companion, ' Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3583</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +496,9 @@
     <MainItem>
       <Key>Bottomley</Key>
       <Forenames>Francis Carr</Forenames>
-      <Text>, O.B.E., M.Di, Officer, Order of St; John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +515,10 @@
       <Key>Bourdillon</Key>
       <Title>Sir .</Title>
       <Forenames>Bernard Henry</Forenames>
-      <Text>, K.B.E., C.M.G., Govenor and Commanderin-Chief; Uganda Protectorate</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +526,9 @@
     <MainItem>
       <Key>Bowden</Key>
       <Forenames>Edgar Alfred</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +536,10 @@
     <MainItem>
       <Key>Bowen</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel Hugh Rice, D.S.O.. Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +582,9 @@
       <Key>Bremner</Key>
       <Title>Major</Title>
       <Forenames>Claude Edward Urquhart</Forenames>
-      <Text>, -M.C., H.M. Vice-Consul at Ahwaz . ... ... -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +592,9 @@
     <MainItem>
       <Key>Brenan</Key>
       <Title>John .</Title>
-      <Text>. Fitzgerald, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +610,9 @@
     <MainItem>
       <Key>Brickell</Key>
       <Forenames>Daniel Francis</Forenames>
-      <Text>. Horseman, M.B.E., H.M. Vice-Consul at Piraeus</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +652,10 @@
     <MainItem>
       <Key>Broomhall</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Major William Maurice, M.B.E.; Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +664,10 @@
       <Key>Brough</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alan</Forenames>
-      <Text>, C.M.G., C.B.E,, D-S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>

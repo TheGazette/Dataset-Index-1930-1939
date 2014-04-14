@@ -5,7 +5,9 @@
       <Key>Anderson</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G.C.B., G.C.I.E., Knight Grand Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       <Key>Baker</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Henry Goldney</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +67,10 @@
       <Key>Bond</Key>
       <Title>Lt.-Col. (now Col.)</Title>
       <Forenames>Richard Lawrence</Forenames>
-      <Text>, D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +86,9 @@
     <MainItem>
       <Key>Bottomley</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Norman Howard, CLE., A.FC, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +105,9 @@
     <MainItem>
       <Key>Bowie</Key>
       <Forenames>William Tair</Forenames>
-      <Text>, O.B.E., Unofficial Member, Legislative Council, Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +126,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Michael Herbert Rudolf Knatch-</Forenames>
-      <Text>bull. Baron, G.C.I.E., M.C., Governor of the Presidency of Bengal</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6824</PageNumber>
     </MainItem>
     <SubItem>
@@ -127,7 +140,10 @@
     <MainItem>
       <Key>Bridge</Key>
       <Forenames>J.</Forenames>
-      <Text>' C, C.B.E., F.R.C.S. (Ed.), M.R.C.P. (Ed.), D.P.H., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +152,10 @@
       <Key>Broadbridge</Key>
       <Title>Sir</Title>
       <Forenames>George Thomas</Forenames>
-      <Text>, K.C.V.O., Baronet</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +164,9 @@
       <Key>Brownlow</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cecil Alexander Little</Forenames>
-      <Text>, Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +175,10 @@
       <Key>Bruce</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Geoffrey</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +188,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>^Col; Robert Mason, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +199,9 @@
     <MainItem>
       <Key>Buist</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Colin, M.V.O., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,14 +210,18 @@
       <Key>Bunbury</Key>
       <Title>Lt.-Col. (local Col.)</Title>
       <Forenames>Noel Louis St</Forenames>
-      <Text>. Pierre, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cartmel</Key>
-      <Text>Robinson, Harold Francis, O.B.E., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +230,9 @@
       <Key>Channer</Key>
       <Title>Col. (local Brig.)</Title>
       <Forenames>George Osborne De Renzy</Forenames>
-      <Text>, O.B.E., M.C, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +267,11 @@
       <Key>Coke</Key>
       <Title>Colonel</Title>
       <Forenames>Jacynth</Forenames>
-      <Text>dEwes Fitz Ercald, C.M.G., C.V.O., C.B.E., Inspector under County and Borough Police Act</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +280,9 @@
       <Key>Coldwell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William George Alexander</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +300,9 @@
       <Key>Collins</Key>
       <Title>the Hon.</Title>
       <Forenames>Stephen Ogle Henn</Forenames>
-      <Text>, C.B.E., K.C., Justice of H.M. High Court</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7915</PageNumber>
     </MainItem>
     <SubItem>
@@ -271,7 +314,9 @@
     <MainItem>
       <Key>Cooper</Key>
       <Forenames>Robert William</Forenames>
-      <Text>, M.D., B.S., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +350,9 @@
     <MainItem>
       <Key>Cross</Key>
       <Forenames>Ronald Hibbert</Forenames>
-      <Text>, M.P., Vice-Chamberlain to H.M. Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +385,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Dimoline</Key>
-      <Text>. Lt.-Col. William Alfred, M.C., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William Alfred</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +423,11 @@
       <Key>Farfan</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Arthur Joseph Thomas</Forenames>
-      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +436,10 @@
       <Key>Felix-Williams</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,9 +480,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, Earl of Ulster, K.G., K.T., K.P., G.C.M.G., G.C.V.O., A.D.C., Honorary Colonel of the Ceylon Planters Rifle Corps and Ceylon Light Infantry</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7261</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +504,10 @@
       <Key>Goodman</Key>
       <Title>Major</Title>
       <Forenames>Eric Whitlock</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +541,9 @@
       <Key>Harris</Key>
       <Title>Maj.</Title>
       <Forenames>Lawrence Anstie</Forenames>
-      <Text>, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +552,10 @@
       <Key>Hasted</Key>
       <Title>Maj.</Title>
       <Forenames>William Freke</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,7 +564,10 @@
       <Key>Haughton</Key>
       <Title>Col.</Title>
       <Forenames>S. G. S.</Forenames>
-      <Text>CLE., O.B.E., M.D., Hon. Surgeon to the King</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +584,10 @@
     <MainItem>
       <Key>Hebb</Key>
       <Forenames>J. H.</Forenames>
-      <Text>, C.B., C.B.E., M.B., B.Ch., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +611,9 @@
     <MainItem>
       <Key>Hobson</Key>
       <Forenames>Henry Arthur</Forenames>
-      <Text>, M.B.E., H.M. Consul at Riga</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +621,9 @@
     <MainItem>
       <Key>Hodson</Key>
       <Forenames>Francis</Forenames>
-      <Text>Lord Charlton, M.C., King's Counsel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6507</PageNumber>
     </MainItem>
     <SubItem>
@@ -555,7 +636,10 @@
       <Key>Hope</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>Arthur Oswald James</Forenames>
-      <Text>, M.C., M.P., Treasurer to H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +664,10 @@
       <Key>Hubbard</Key>
       <Title>Rev.</Title>
       <Forenames>Harold Evelyn</Forenames>
-      <Text>, D.S.O., M.C., M.A., Chaplain to H.M. Household</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +692,9 @@
       <Key>Jackson</Key>
       <Title>Sir</Title>
       <Forenames>Wilfred Edward Francis</Forenames>
-      <Text>, K.C.M.G., Governor and Commander? in-Chief, British Guiana</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +703,9 @@
       <Key>Jones</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Basil Ivor</Forenames>
-      <Text>, M.C, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +738,11 @@
     <MainItem>
       <Key>Key</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. (now Lt.-Col.) Berthold Wells, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -679,7 +774,9 @@
     <MainItem>
       <Key>Lees</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. (now Group Capt.) Alan, A.F.C, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +792,9 @@
     <MainItem>
       <Key>Lewin</Key>
       <Forenames>Claude John</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council, Northern Rhodesia -</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7432</PageNumber>
     </MainItem>
   </ItemGroup>

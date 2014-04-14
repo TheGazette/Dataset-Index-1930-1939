@@ -1520,8 +1520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>2251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1764,7 +1764,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>M. J</Text>
+      <Forenames>M. J .</Forenames>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1781,7 +1781,10 @@
     <MainItem>
       <Key>Derby</Key>
       <Forenames>Edward William Spencer</Forenames>
-      <Text>, Duke of Devonshire, M.B.E., T.D</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1790,7 +1793,9 @@
       <Key>Merioneth</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William George Arthur</Forenames>
-      <Text>, Baron Harlech, G.C.M.G</Text>
+      <Text>
+        <Honour>G.C.M.G</Honour>
+      </Text>
       <PageNumber>4169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,7 +1804,9 @@
       <Key>Warwick</Key>
       <Title>Brig.-Gen. Lord</Title>
       <Forenames>Henry Charles Seymour</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1816,10 @@
       <Key>Banff</Key>
       <Title>Col. Sir</Title>
       <Forenames>George William Abercromby</Forenames>
-      <Text>, Bt., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1818,7 +1828,10 @@
       <Key>Dumfries</Key>
       <Title>Col.</Title>
       <Forenames>H.G.</Forenames>
-      <Text>the Duke of Buccleuch and Queensberry, P.C, G.C.V.O., D.L. -</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1828,7 +1841,10 @@
       <Key>Aberdeen</Key>
       <Title>Hon. Col.</Title>
       <Forenames>Robert Bruce</Forenames>
-      <Text>, D.S.O., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>

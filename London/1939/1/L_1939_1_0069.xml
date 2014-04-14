@@ -97,7 +97,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angelo</Key>
-      <Text>. N. L</Text>
+      <Forenames>N. L .</Forenames>
       <PageNumber>467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,14 +564,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Text>. J. W. J</Text>
+      <Forenames>J. W. J.</Forenames>
       <PageNumber>2100</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bateson</Key>
-      <Text>. R. N ... aoio Batey. W</Text>
+      <Forenames>R. N .</Forenames>
+      <Text>.. aoio Batey. W</Text>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Text>. G. E. R</Text>
+      <Forenames>G. E. R.</Forenames>
       <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,9 @@
       <Key>Beit</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1342,7 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braham</Key>
-      <Text>. J. R. D</Text>
+      <Forenames>J. R. D.</Forenames>
       <PageNumber>1771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1409,7 +1412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>2011</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -18,7 +18,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Solicitor</Key>
-      <Text>General, Donald Bradley Somervell, O.B.E., K.C</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +70,9 @@
       <Key>Street</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Philip Whistler</Forenames>
-      <Text>, K.C.M.G., retention of the title of Honourable</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +80,10 @@
     <MainItem>
       <Key>Sudan</Key>
       <Forenames>H.M. High Commis-</Forenames>
-      <Text>sioner, Sir Miles Wedderburn Lampson, K.C.M.G., C.B., M.V.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +127,10 @@
     <MainItem>
       <Key>Tanganyika</Key>
       <Forenames>Territory</Forenames>
-      <Text>, Governor and Commanderin-Chief, Sir Harold Alfred MacMichael, K.C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>

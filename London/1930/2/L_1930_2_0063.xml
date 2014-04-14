@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norrington</Key>
-      <Forenames>Son</Forenames>
+      <Title>Son .</Title>
       <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +89,7 @@
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>M. Marble Company</Text>
+      <Forenames>M. Marble Company</Forenames>
       <PageNumber>3431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettle</Key>
-      <Text>H. A. &amp; Co</Text>
+      <Forenames>H. A.</Forenames>
+      <Text>&amp; Co</Text>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Progressive</Key>
-      <Forenames>Art</Forenames>
+      <Title>Art .</Title>
       <PageNumber>3838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdin</Key>
-      <Text>E</Text>
+      <Forenames>E</Forenames>
       <PageNumber>2204</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,21 +337,23 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>T. H. Coal Company</Text>
+      <Forenames>T. H. Coal Company</Forenames>
       <PageNumber>2676</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rainbow</Key>
-      <Text>C. H. &amp; Son</Text>
+      <Forenames>C. H.</Forenames>
+      <Text>&amp; Son</Text>
       <PageNumber>2092</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramm</Key>
-      <Text>Louis &amp; Sons</Text>
+      <Forenames>Louis</Forenames>
+      <Text>&amp; Sons</Text>
       <PageNumber>2994</PageNumber>
       <PageNumber>3261</PageNumber>
     </MainItem>
@@ -522,7 +525,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John's College</Text>
+      <Forenames>John</Forenames>
+      <Text>'s College</Text>
       <PageNumber>2206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +578,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
+      <Forenames>Fred</Forenames>
+      <Text>&amp; Co</Text>
+      <PageNumber>3522</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shaw</Key>
       <Text>and Mull</Text>
       <PageNumber>2282</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Shefras</Key>
+      <Forenames>A</Forenames>
+      <Text>Olin</Text>
+      <PageNumber>3260</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -694,7 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Speelman</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +780,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockman</Key>
-      <Text>B '</Text>
+      <Forenames>B</Forenames>
+      <Text>'</Text>
       <PageNumber>3523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Venus</Key>
-      <Forenames>Radiophone Co</Forenames>
+      <Forenames>Radiophone</Forenames>
+      <Text>Co</Text>
       <PageNumber>3622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,7 +1242,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wieginton</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>3699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1332,7 +1354,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Text>R, T. W. &amp; H. Weller</Text>
+      <Forenames>R</Forenames>
+      <Text>, T. W. &amp; H. Weller</Text>
       <PageNumber>2582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,7 +1370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>2913</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,7 +1384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>The</Key>
-      <Text>Y Company</Text>
+      <Forenames>Y</Forenames>
+      <Text>Company</Text>
       <PageNumber>3839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson-Gray</Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>3190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1413,7 +1437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adlestone</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1477,21 +1501,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Ames</Key>
-      <Forenames>Josiah</Forenames>
+      <Title>Josiah .</Title>
       <PageNumber>2838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Amos</Key>
-      <Forenames>Francis</Forenames>
+      <Title>Francis .</Title>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>2286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,8 +1636,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Asquith</Key>
-      <Forenames>Elizabeth</Forenames>
-      <Text>...'</Text>
+      <Title>Elizabeth .</Title>
+      <Text>..'</Text>
       <PageNumber>3846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Auchmuty</Key>
-      <Forenames>Margaret</Forenames>
+      <Title>Margaret .</Title>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1715,7 +1739,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Axelrad</Key>
-      <Text>Morris</Text>
+      <Forenames>Morris</Forenames>
       <PageNumber>3270</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,8 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Backhouse</Key>
-      <Title>St.</Title>
-      <Forenames>John Salmon</Forenames>
+      <Forenames>St. John Salmon</Forenames>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>

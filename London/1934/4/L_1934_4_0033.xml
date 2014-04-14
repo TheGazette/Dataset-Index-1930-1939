@@ -38,8 +38,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, O. J. F. L</Text>
+      <Key>St. John</Key>
+      <Forenames>O. J. F. L</Forenames>
       <PageNumber>7531</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,8 +264,9 @@
   <SubSectionTitle>'Surgeon Commander</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rourke, P. J. A., The</Text>
+      <Key>O'Rourke</Key>
+      <Forenames>P. J. A.</Forenames>
+      <Text>, The</Text>
       <PageNumber>8205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,8 +353,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, A. H</Text>
+      <Key>O'Malley</Key>
+      <Forenames>A. H</Forenames>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,8 +980,7 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Title>Lyver.</Title>
+      <Key>De Lyver</Key>
       <Forenames>G. D</Forenames>
       <PageNumber>8205</PageNumber>
     </MainItem>

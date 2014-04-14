@@ -724,8 +724,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. N.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. N. de M</Forenames>
       <PageNumber>2889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1514,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Text>: Carnegy, Brevet Lieut.-Col. Ughtred Elliott Carnegy, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2973</PageNumber>
     </MainItem>
     <SubItem>
@@ -1545,7 +1546,9 @@
       <PageNumber>2737</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Logan-Home, Lieut.-Col. William Miles, M.C.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2737</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1572,7 +1575,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>4179</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>4179</PageNumber>
     </SubItem>
@@ -1589,6 +1595,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
         <PageNumber>3927</PageNumber>
       </Text>
       <PageNumber>3927</PageNumber>

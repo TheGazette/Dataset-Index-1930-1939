@@ -32,7 +32,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Philip Euen</Forenames>
-      <Text>, C.M.G., M.C., Governor and Commander-in-Chief of the Protectorate of Uganda</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +94,9 @@
       <Key>Murray</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Robertson</Forenames>
-      <Text>, C.B.E., Member, Governing Body, School of 'Oriental Studies, London Institution</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +107,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>George Evelyn Pemberton</Forenames>
-      <Text>, K.C.B., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +134,9 @@
       <Key>Nunn</Key>
       <Title>Maj.</Title>
       <Forenames>Reginald Lewis</Forenames>
-      <Text>, D. S.O., Official Member of the Executive Council, Straits Settlements</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +152,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Arthur Maule</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +218,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearce</Key>
-      <Text>. Standen Leonard, C.B.E., D.Sc, Knight</Text>
+      <Forenames>Standen Leonard</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +246,9 @@
       <Key>Playfair</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Patrick Henry Lyon</Forenames>
-      <Text>, C. B., M.C., Commander, Royal Victoria Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +273,9 @@
       <Key>Price-Davies</Key>
       <Title>Col.</Title>
       <Forenames>Charles Stafford</Forenames>
-      <Text>, M.C., Extra Equerry to H.R.H. the Duke of Connaught</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +283,9 @@
     <MainItem>
       <Key>Pugh</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +301,9 @@
     <MainItem>
       <Key>Rae</Key>
       <Forenames>Alexander Montgomery Wilson</Forenames>
-      <Text>, M.D., Ch.B., Member of the Executive Council and Official Member of the Legislative Council of Gambia</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +311,11 @@
     <MainItem>
       <Key>Raikes</Key>
       <Forenames>Commodore Robert Henry Taunton</Forenames>
-      <Text>, D.S.O., A.D.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +323,9 @@
     <MainItem>
       <Key>Raza</Key>
       <Forenames>Ali</Forenames>
-      <Text>, Saiyid, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +333,9 @@
     <MainItem>
       <Key>Rea</Key>
       <Forenames>Walter Russell</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +375,9 @@
     <MainItem>
       <Key>Roberts</Key>
       <Forenames>Charles George Douglas</Forenames>
-      <Text>, M.A., LL.D., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +388,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>George Fossett</Forenames>
-      <Text>, O.B.E., T.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +407,10 @@
       <Key>Rose</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Arthur</Forenames>
-      <Text>, Kt., * D. S.O., Baronet</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +434,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Walter Westley</Forenames>
-      <Text>, C.V.O., R.A., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +452,9 @@
     <MainItem>
       <Key>Sandford</Key>
       <Forenames>Thomas Frederick</Forenames>
-      <Text>, M.B.E., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +497,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Alan Rae</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +525,9 @@
     <MainItem>
       <Key>Spearman</Key>
       <Forenames>Barugh</Forenames>
-      <Text>, O.B.E., M.B., B.Ch., Member of the Executive Council of the Island of Grenada</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +535,9 @@
     <MainItem>
       <Key>Starkey</Key>
       <Forenames>John Ralph</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +561,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Suenson</Key>
-      <Text>Taylor. Alfred Jesse, O.B.E., F.C.I.I., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +587,9 @@
     <MainItem>
       <Key>Tapper</Key>
       <Forenames>Walter John</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +607,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Hugh</Forenames>
-      <Text>,Lloyd, C.V.O., Envoy Extraordinary and Minister Plenipotentiary in Paris</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +636,10 @@
       <Key>Thorold</Key>
       <Title>Rev.</Title>
       <Forenames>Ernest Hay-</Forenames>
-      <Text>ford, C.B., C.B.E., D.D., Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +656,11 @@
     <MainItem>
       <Key>Trenchard</Key>
       <Forenames>Marshal</Forenames>
-      <Text>of the Royal Air Force, Hugh Montague, Baron, G.C.B., ' D.S.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +693,9 @@
     <MainItem>
       <Key>Williams</Key>
       <Forenames>Evan</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4522</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -700,7 +762,10 @@
       <Key>Young</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Edward Hilton</Forenames>
-      <Text>, G.B.E., D.S.O., D. S.C., Baron, Kennet of the Dene</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +786,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.B.E., C.B., H.M. Commismissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5651</PageNumber>
     </MainItem>
   </ItemGroup>

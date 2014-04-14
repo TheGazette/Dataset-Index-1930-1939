@@ -805,10 +805,44 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Domenico</Forenames>
-      <Text>, G. E</Text>
+      <Key>de Clermont</Key>
+      <Forenames>P. H. V.</Forenames>
+      <PageNumber>3885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cresppigny</Key>
+      <Forenames>V. T. C.</Forenames>
+      <PageNumber>4154</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Domenico</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>3705</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rouffignac</Key>
+      <Forenames>C. T.</Forenames>
+      <PageNumber>4245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>J. P. F</Forenames>
+      <PageNumber>3780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. P. G</Forenames>
+      <PageNumber>2996</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -886,8 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Denning</Key>
-      <Forenames>J. H. K.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. K. de W</Forenames>
       <PageNumber>3644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,6 +1172,13 @@
       <Key>Drury</Key>
       <Forenames>H.</Forenames>
       <PageNumber>3779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>E. H</Forenames>
+      <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1744,8 +1784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Simon</Key>
-      <Forenames>C. R. M. D. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>C. R. M. D. O'C</Forenames>
       <PageNumber>4352</PageNumber>
     </MainItem>
   </ItemGroup>

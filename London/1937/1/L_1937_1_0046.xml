@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>. C. G</Text>
+      <Forenames>C. G .</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,8 +280,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibson</Key>
-      <Forenames>A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>A. de V</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,9 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of. Earl of Ulster</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of. Earl of Ulster</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldsbrough</Key>
-      <Text>. H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gribbon</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>N. St. G</Forenames>
       <PageNumber>621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hakewill</Key>
-      <Text>. G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1336,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Hawley</Forenames>
-      <Text>, Sir D. H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1690,7 +1689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hindley</Key>
-      <Text>. G. B. S</Text>
+      <Forenames>G. B. S</Forenames>
       <PageNumber>74</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1974,8 +1973,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hopetoun</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>1824</PageNumber>
     </MainItem>
   </ItemGroup>

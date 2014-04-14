@@ -344,8 +344,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayward</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B. F</Text>
+      <Forenames>H. O'B</Forenames>
+      <Text>. F</Text>
       <PageNumber>1741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +433,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>G. B</Text>
+      <Forenames>G. B.</Forenames>
       <PageNumber>1059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,8 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. St. L</Forenames>
       <PageNumber>1309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,7 +1513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knapton</Key>
-      <Text>W. G. D</Text>
+      <Forenames>W. G. D.</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stotter</Key>
-      <Text>. L. W</Text>
+      <Forenames>L. W .</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
     <SubItem>
@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Strutt</Key>
-      <Text>.A. G</Text>
+      <Forenames>A. G .</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toplis</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>1215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Triggs</Key>
-      <Text>. H. W. G</Text>
+      <Forenames>H. W. G.</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
     <SubItem>
@@ -697,8 +697,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,14 +786,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Tvzack</Key>
-      <Text>. J. E. V</Text>
+      <Forenames>J. E. V.</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Underhill</Key>
-      <Text>. W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,6 +802,13 @@
       <Key>Valentine</Key>
       <Forenames>F. M.</Forenames>
       <PageNumber>689</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Someren</Key>
+      <Forenames>N. A.</Forenames>
+      <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -826,7 +832,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vasse</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,7 +860,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vprnieux</Key>
-      <Text>. C. A</Text>
+      <Forenames>C. A.</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,7 +886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>. S. G</Text>
+      <Forenames>S. G.</Forenames>
       <PageNumber>867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1401,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. C. M ... I</Text>
+      <Forenames>C. M .</Forenames>
+      <Text>.. I</Text>
       <PageNumber>396</PageNumber>
     </MainItem>
   </ItemGroup>

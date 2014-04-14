@@ -31,7 +31,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meek</Key>
-      <Text>. P. L</Text>
+      <Forenames>P. L.</Forenames>
       <PageNumber>5686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,8 +228,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, E. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>E. E .</Forenames>
       <PageNumber>5036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,8 +258,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. .H. S</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J.</Forenames>
+      <Text>.H. S</Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -864,7 +865,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. J. McL. G</Text>
+      <Forenames>J.</Forenames>
+      <Text>McL. G</Text>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,8 +889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>5990</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>K.</Forenames>
-      <Text>de L</Text>
+      <Forenames>K. de L</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1684,8 +1684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renouf</Key>
-      <Forenames>E.</Forenames>
-      <Text>de F</Text>
+      <Forenames>E. de F</Forenames>
       <PageNumber>5675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,7 +1719,9 @@
       <Key>Tyrwhitt</Key>
       <Title>Sir</Title>
       <Forenames>R. Y.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5393</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -550,8 +550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shortt</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steadman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1592,7 +1590,9 @@
       <Key>Ward</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5730</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,7 +23,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Stuart Kelson</Forenames>
-      <Text>, C.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +34,9 @@
     <MainItem>
       <Key>Browne</Key>
       <Forenames>Philip Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +44,9 @@
     <MainItem>
       <Key>Bruce</Key>
       <Forenames>John Charles Bru-</Forenames>
-      <Text>denell, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +63,9 @@
       <Key>Buckmaster</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Stan-</Forenames>
-      <Text>ley Owen, Baron, G.C.V.O., Viscount</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +73,10 @@
     <MainItem>
       <Key>Bullock</Key>
       <Forenames>Christopher Llewel-</Forenames>
-      <Text>lyn; C.B., C.B.E., J.P., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +93,9 @@
       <Key>Burrell</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bart., Member, Board of Trustees for the National Galleries of Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +104,10 @@
       <Key>Cadogan</Key>
       <Title>Hon.</Title>
       <Forenames>Alexander Montague George</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +123,9 @@
     <MainItem>
       <Key>Caldecott</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +145,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Donald Charles</Forenames>
-      <Text>, K.C.M.G., K.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +159,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Donald Charles</Forenames>
-      <Text>, O.M.G., D.S.O., V.D., Knight Commander, . Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +170,9 @@
       <Key>Campbell</Key>
       <Title>Temp. Maj.</Title>
       <Forenames>Ernest Kenneth M.B.</Forenames>
-      <Text>, F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +181,9 @@
       <Key>Canty</Key>
       <Title>Paymr. Lt. (S.)</Title>
       <Forenames>John Patrick</Forenames>
-      <Text>, D.S.M., R.N., Member, Order of -the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +192,9 @@
       <Key>Carey</Key>
       <Title>Capt.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>McLeod, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +202,9 @@
     <MainItem>
       <Key>Carpendale</Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral ^ Charles Douglas, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -199,14 +231,21 @@
       <Key>Cecil</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Evelyn</Forenames>
-      <Text>, G.B.E. (P.O.), Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chaloner</Key>
-      <Text>Lt.-Col. William, O.B.E., T.D., Officer, Order of St. John . of Jerusalem</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>William</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +305,9 @@
       <Key>Christophers</Key>
       <Title>Col.</Title>
       <Forenames>Samuel Rickard</Forenames>
-      <Text>, CLE., O.B.E., M.B., F.R.S., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +316,9 @@
       <Key>Churchman</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Charles</Forenames>
-      <Text>, Bart., Baron Woodbridge of Jriswich</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3567</PageNumber>
       <PageNumber>4036</PageNumber>
     </MainItem>
@@ -284,7 +327,9 @@
     <MainItem>
       <Key>Clapham</Key>
       <Forenames>Alfred William</Forenames>
-      <Text>, O.B.E., F.S.A., Com mander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +380,10 @@
     <MainItem>
       <Key>Colvin</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Ragnar Musgrave, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +399,9 @@
     <MainItem>
       <Key>Connal</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +418,9 @@
       <Key>Conner</Key>
       <Title>Capt.</Title>
       <Forenames>Terence Sey-</Forenames>
-      <Text>mour, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,14 +435,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Constable</Key>
-      <Text>Maxwell Scott, Major General Walter Joseph, C.B., D.S.O., Baronet</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4210</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>Albert Ruskin, C.M.G., O.B.E., M.D., Knight</Text>
+      <Forenames>Albert Ruskin</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +489,9 @@
       <Key>Cope</Key>
       <Title>Sir</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, K.C.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +557,10 @@
     <MainItem>
       <Key>Courtney</Key>
       <Forenames>Air Commodore Christopher Lloyd</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +601,10 @@
       <Key>Critchett</Key>
       <Title>Sir</Title>
       <Forenames>George Mon-</Forenames>
-      <Text>tague, Bart., Member, Fifth Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +646,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>George</Forenames>
-      <Text>, C.S.I., CLE., O.B.E., Member of the Executive Council of the Governor of the North West Frontier Province</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +683,9 @@
     <MainItem>
       <Key>Curtis</Key>
       <Title>Lt.-Col. and Bt.</Title>
-      <Text>-Col. George Reginald, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +693,10 @@
     <MainItem>
       <Key>Curtis-Bennett</Key>
       <Forenames>Francis Noel</Forenames>
-      <Text>, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +728,9 @@
     <MainItem>
       <Key>Da</Key>
       <Forenames>Costa</Forenames>
-      <Text>^ Altamont Ernest, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +747,9 @@
       <Key>Dalrymple</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>Hew Hamilton</Forenames>
-      <Text>, K.C.V.O., Chairman, Board of Trustees for the National Galleries of Scotland</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>

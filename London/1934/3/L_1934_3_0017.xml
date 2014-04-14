@@ -158,7 +158,9 @@
     <MainItem>
       <Key>Aga</Key>
       <Forenames>Khan</Forenames>
-      <Text>, H.H. Aga Sultan Sir Muhammad Shah, G.C.S.I., G.C.I.E., G. C.V.O., Member of H. M. Privy Council</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +177,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Robert Albert</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +212,11 @@
       <Key>Auchinleck</Key>
       <Title>Col. (temp. Brigadier)</Title>
       <Forenames>Claude John Eyre</Forenames>
-      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +233,9 @@
     <MainItem>
       <Key>Bannerman</Key>
       <Forenames>Charles Edward Woolhouse</Forenames>
-      <Text>, O.B.E., Circuit Judge, Ashanti and Northern Territories</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +259,11 @@
     <MainItem>
       <Key>Berkeley</Key>
       <Forenames>George Harold Arthur Corny</Forenames>
-      <Text>ns, M.A. M.D., M.C., F.R.C.P. F.R.C.S., F.C.O.G. M.M.S.A., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +272,10 @@
       <Key>Betterton</Key>
       <Title>Rt.</Title>
       <Forenames>Hon</Forenames>
-      <Text>Sir Henry Bucknall, Bt., C.B.E., Chairman Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +283,9 @@
     <MainItem>
       <Key>Blake</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel George Reginald, T.D., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +317,9 @@
     <MainItem>
       <Key>Burns</Key>
       <Forenames>Alan Cuthbert Max-</Forenames>
-      <Text>well, C.M.G., Governor and Commander-in-Chief, British Honduras</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +328,9 @@
       <Key>Cahn</Key>
       <Title>Sir</Title>
       <Forenames>Julien</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +370,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Cook</Key>
-      <Text>. Edmund Ralph, C.B.E., Knight</Text>
+      <Forenames>Edmund Ralph</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +381,10 @@
     <MainItem>
       <Key>Cornwaliis</Key>
       <Forenames>Fiennes Stanley Wykeham</Forenames>
-      <Text>, Baron, C.B.E.. T.D., Member, Royal Commission on Tithe Rentcharge</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>

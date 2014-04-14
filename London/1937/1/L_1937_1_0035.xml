@@ -13,7 +13,11 @@
       <Key>Mackenzie</Key>
       <Title>Major</Title>
       <Forenames>Douglas William Alexander Dal-</Forenames>
-      <Text>ziel, D.S.O., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
     <SubItem>
@@ -61,7 +65,11 @@
       <Key>Mackenzie</Key>
       <Title>Col. Sir</Title>
       <Forenames>Victor Audley Falconer</Forenames>
-      <Text>, Bt., D.S.O., M.V.O., Extra Groom in Waiting to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,14 +78,18 @@
       <Key>Mackintosh</Key>
       <Title>Sir</Title>
       <Forenames>Ashley Wat-</Forenames>
-      <Text>son, K.C.V.O., M.D., F.R.C.P.E., Extra Physician in Scotland to H.M. Household</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacLean</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Norman. D.D., Chaplain in Scotland, H.M. Household</Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
@@ -85,8 +97,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Macmillan</Key>
-      <Forenames>TheRt</Forenames>
-      <Text>. Hon. Hugh Pattison, Baron, Knight Grand Cross, Royal Victoran Order</Text>
+      <Title>TheRt. Hon.</Title>
+      <Forenames>Hugh Pattison</Forenames>
+      <Text>, Baron, Knight Grand Cross, Royal Victoran Order</Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,14 +107,18 @@
     <MainItem>
       <Key>McNee</Key>
       <Forenames>John William</Forenames>
-      <Text>, D.S.O., M.D., F.R.C.P., Physician in Scotland to H.M. Household</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macnutt</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Frederick Brodie, M.A., Chaplain, H.M. Household</Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
@@ -136,7 +153,10 @@
       <Key>MacRae</Key>
       <Title>Col. Sir</Title>
       <Forenames>Colin Wil-</Forenames>
-      <Text>liam. C.V.O., C.B.E., Lieutenant, Yeoman of the Guard</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +164,9 @@
     <MainItem>
       <Key>Macrae</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +183,10 @@
     <MainItem>
       <Key>McShine</Key>
       <Forenames>Arthur Hutton</Forenames>
-      <Text>, O.B.E., M.D., Member of Executive Council, Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,14 +219,16 @@
     <MainItem>
       <Key>Mair</Key>
       <Forenames>Robert Cumming Thomson</Forenames>
-      <Text>, M.C., M.A., LL.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Maitland</Key>
-      <Forenames>Viscountess</Forenames>
+      <Title>Viscountess</Title>
       <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
@@ -209,7 +236,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Makgill</Key>
-      <Text>Crichton Maitland, Lieut.-Col. Mark Edward, D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +247,10 @@
       <Key>Malkin</Key>
       <Title>Sir</Title>
       <Forenames>Herbert William</Forenames>
-      <Text>, K.C.M.G., C.B., K.C., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +258,9 @@
     <MainItem>
       <Key>Malloch</Key>
       <Forenames>Duncan</Forenames>
-      <Text>, M.C., M.B., Serving Brother, Order of St. John of Jerusalem ... Malton, Alfred, Serving Brother, Order of St. John of Jerusalem ... ... ... Manikji Merwanji Mullna, Khan Bahadur, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +275,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mansel</Key>
-      <Text>Jones, Col. Conwyn, V.C, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +302,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. Capt. Robert, M.D., Officer, Order of St. John of Jerusalem ... Marsland, James Owen, Officer, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,14 +314,18 @@
     <MainItem>
       <Key>Marten</Key>
       <Forenames>Alfred Vigor</Forenames>
-      <Text>, M.V.O., Member, 4th CI. Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Alexander, D.D., LL.D., Chaplain in Scotland, H.M. Household</Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
@@ -298,7 +344,10 @@
     <MainItem>
       <Key>Martin-Smith</Key>
       <Forenames>Frederick Mar-</Forenames>
-      <Text>tin, Serving Brother, Order of St. John of Jerusalem Martyn, Sir Henry Linnington, K.C.V.O., M.B., F.R.C.S., Surgeon Apothecary to the Household at Windsor</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,15 +355,20 @@
     <MainItem>
       <Key>Masefield</Key>
       <Forenames>John</Forenames>
-      <Text>, O.M., D.Litt., Poet Laureate</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Masters</Key>
-      <Forenames>The Very</Forenames>
-      <Text>Rev. Thomas Heywood, C.B.E., M.A., Chaplain, H.M. Household</Text>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +376,9 @@
     <MainItem>
       <Key>Mather</Key>
       <Forenames>William</Forenames>
-      <Text>McKenzie, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +387,9 @@
       <Key>Matheson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>John Sutherland</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem ... ... ... Mathura Prasad Bhola, Rai Bahadur, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +407,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, Knight, Order of St. John of Jerusalem May, John Percy, Serving Brother, Order of St. John of Jerusalem ... ... Meade-Fetherstonhaugh, Admiral the Hon. Sir Herbert, C.B., D.S.O., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +418,9 @@
     <MainItem>
       <Key>Meadon</Key>
       <Forenames>Percival Edward</Forenames>
-      <Text>, C.B.E., M.A., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -387,7 +450,10 @@
       <PageNumber>1408</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Mieville, Sir Eric Charles, K.C.I.E., C.S.I., C.M.G., Assistant Private Secretary to His Majesty</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1405</PageNumber>
     </SubItem>
     <SubItem>
@@ -399,7 +465,11 @@
       <PageNumber>4</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ . John Phimister, O.B.E., M.D., Serving Brother, Order of St. John of Jerusalem ___ ___ Philip Euen, C.M.G. M.C., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>C.M.G. M.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </SubItem>
     <SubItem>
@@ -407,7 +477,10 @@
       <PageNumber>1409</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Monck, John Berkeley, C.M.G., C.V.O., Vice Marshal of the Diplomatic Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </SubItem>
     <SubItem>
@@ -419,7 +492,9 @@
       <PageNumber>693</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ ___ Walter, C.B..E., Unofficial Member, Executive Council of the Bahama Islands</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>482</PageNumber>
     </SubItem>
     <SubItem>

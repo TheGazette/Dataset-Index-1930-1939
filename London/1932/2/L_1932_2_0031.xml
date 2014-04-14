@@ -5,7 +5,9 @@
       <Key>Rodger</Key>
       <Title>Sir</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, O.B.E., Forestry Commissioner</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
     <MainItem>
       <Key>Rose</Key>
       <Forenames>Geoffrey Keith</Forenames>
-      <Text>, M.C., Recorder of Ludlow</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
     <MainItem>
       <Key>Row</Key>
       <Forenames>Paymaster Rear-Adm</Forenames>
-      <Text>. Philip John Hawkins Lander, . Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +104,9 @@
     <MainItem>
       <Key>Rowley</Key>
       <Forenames>Arthur Langford Sholto</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -115,7 +123,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Henry Alexander</Forenames>
-      <Text>, M.B.E., Officer,-Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +168,11 @@
       <Key>Salt</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Harold Fran-</Forenames>
-      <Text>cis, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +209,9 @@
       <Key>Saunders</Key>
       <Title>Maj.</Title>
       <Forenames>Aian</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire '</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +253,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>Charles Winter</Forenames>
-      <Text>, D.F.C., . Officer, Order of the British Empire ,</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +266,11 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Henry Lawrence</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +280,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Col.</Title>
-      <Text>(temp. Brig.) Henry St. George Stewart, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +308,9 @@
     <MainItem>
       <Key>Semper</Key>
       <Forenames>Dudley Henry</Forenames>
-      <Text>, I.S.O.,' Official Member, Legislative Council of Saint Christopher and Nevis</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>2563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shepherd</Key>
-      <Text>Francis Michie, Member, Order' of the British Empire'</Text>
+      <Forenames>Francis Michie</Forenames>
+      <Text>, Member, Order' of the British Empire'</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +427,9 @@
       <Key>Siddeley</Key>
       <Title>John.</Title>
       <Forenames>Davenport</Forenames>
-      <Text>, . C.B.E., F.R.Ae.S!, Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -417,7 +447,11 @@
       <Key>Sinclair</Key>
       <Title>Col.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B., F.R.C.S., M.P., Member of the Geberak Council of Medical Education and Registration of the United' Kingdom</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +459,9 @@
     <MainItem>
       <Key>Sindersbn</Key>
       <Forenames>Harry Chapman</Forenames>
-      <Text>, M.D., Officer,' Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +495,9 @@
       <Key>Smart</Key>
       <Title>Commander</Title>
       <Forenames>Morton</Forenames>
-      <Text>, B.S.O., ' M.D., Commander, Roval Victorian Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +512,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Agnes Rosaline</Forenames>
-      <Text>; Mrs., M.B.E., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +544,9 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Title>Lfr.</Title>
-      <Text>-Col.(Qr.-Mr.) Ernest, M.C., Office^ Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +556,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Mrs</Title>
-      <Text>: Helen Gregory, R.R.C.; Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +639,9 @@
     <MainItem>
       <Key>Stanford</Key>
       <Forenames>John Keith</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,14 +649,18 @@
     <MainItem>
       <Key>Stanley</Key>
       <Forenames>Str Herbert James</Forenames>
-      <Text>, G.C.M.G.,. Knight . of Grace, Order of St. John . of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stanmore</Key>
-      <Text>the Rt. Hon. George Arthur Maurice, Lord, K.C.V.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>3765</PageNumber>
     </MainItem>
@@ -619,7 +669,9 @@
     <MainItem>
       <Key>Stapledon</Key>
       <Forenames>Reginald George</Forenames>
-      <Text>, M.B.E., M.A., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +688,9 @@
       <Key>Steed</Key>
       <Title>Maj. (local Lt.-CoJ.)</Title>
       <Forenames>Frederic Sherman</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +699,9 @@
       <Key>Steel</Key>
       <Title>Major</Title>
       <Forenames>Samuel Strang</Forenames>
-      <Text>, T.D., Forestry Commis. sioner</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +710,9 @@
       <Key>Stern</Key>
       <Title>Sir</Title>
       <Forenames>Edward David</Forenames>
-      <Text>, Bt.j . Associate Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>

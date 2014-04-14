@@ -254,7 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford-St</Key>
-      <Text>. Lawrence, C. H</Text>
+      <Forenames>Lawrence</Forenames>
+      <Text>, C. H</Text>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +640,9 @@
       <Key>Grant</Key>
       <Title>Sir</Title>
       <Forenames>A. L .</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6610</PageNumber>
       <PageNumber>6612</PageNumber>
     </MainItem>
@@ -1061,8 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardie</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>8288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1703,8 +1705,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>T. O'B</Forenames>
       <PageNumber>8437</PageNumber>
     </MainItem>
   </ItemGroup>

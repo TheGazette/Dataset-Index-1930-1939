@@ -994,7 +994,9 @@
       <Key>Byass</Key>
       <Title>Sir</Title>
       <Forenames>G. R. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,7 +1567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charlton</Key>
-      <Text>.^J. R. O</Text>
+      <Text>^J. R. O</Text>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1765,7 +1767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>. H. L</Text>
+      <Forenames>H. L .</Forenames>
       <PageNumber>1932</PageNumber>
     </MainItem>
   </ItemGroup>

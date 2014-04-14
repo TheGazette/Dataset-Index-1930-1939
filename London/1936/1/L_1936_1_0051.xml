@@ -817,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>A. De B.</Forenames>
+      <Forenames>A. De B</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -966,15 +966,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, J</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>1978</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M. M.</Forenames>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1171,8 +1171,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Railton</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. E. M</Text>
+      <Forenames>R. St. E</Forenames>
+      <Text>. M</Text>
       <PageNumber>1659</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,9 @@
       <Key>Rice</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>S. M.</Forenames>
-      <Text>, CLE., C.B.E., Commissioner under Government of India (Family Pension Funds) Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +33,10 @@
       <Key>Robinson</Key>
       <Title>Sir</Title>
       <Forenames>William Arthur</Forenames>
-      <Text>, K.G.C.B., C.B.E., Member, Royal Commission on the Geographical Distribution of the Industrial Population</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +52,10 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>o y d s. Admiral Percy Molyneux Rawson, C.B., C.M.G., Member of Parliament for Kingston-uponToames -</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +63,9 @@
     <MainItem>
       <Key>Saker</Key>
       <Forenames>Squadron Leader Harold John</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +116,9 @@
     <MainItem>
       <Key>Stuart</Key>
       <Forenames>Alexander Moody</Forenames>
-      <Text>, M.C., Member of Executive Council of Antigua</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +162,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, C.B.E., F.I.A., Commissioner under Government of India (Family Pension Funds) Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +173,9 @@
       <Key>Verney</Key>
       <Title>Capt.</Title>
       <Forenames>Gerald Harry George Lloyd</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,15 +200,24 @@
       <Key>Ward</Key>
       <Title>Col. Sir</Title>
       <Forenames>Albert Lambert</Forenames>
-      <Text>, Bt., D.S.O., T.D., M.P., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warr</Key>
-      <Forenames>The Very Revd</Forenames>
-      <Text>. Charles Laing, D.D., Commander, Royal Victorian Order</Text>
+      <Title>The</Title>
+      <Forenames>Very Revd</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +233,9 @@
     <MainItem>
       <Key>Whitley</Key>
       <Forenames>Norman Henry Pownall</Forenames>
-      <Text>, M.C., Chief Justice of H.M. High Court of Uganda</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +244,9 @@
       <Key>Whyte</Key>
       <Title>Sir</Title>
       <Forenames>William Edward</Forenames>
-      <Text>, Kt., O.B.E., Member, Royal Commission on the Geographical Distribution of the Industrial Population</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,14 +273,19 @@
       </Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Leslie O</Forenames>
-      <Text>r m e, G.C.S.I., G.C.I.E., C.M.G., D.S.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wi</Key>
-      <Text>lton, Capt. James MacElmunn, M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +296,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt. ... -</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M .</Forenames>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +737,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. H. M -</Text>
+      <Forenames>H. M</Forenames>
+      <Text>-</Text>
       <PageNumber>5439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +764,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5957</PageNumber>
     </MainItem>
   </ItemGroup>

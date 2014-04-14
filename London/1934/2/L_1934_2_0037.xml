@@ -425,8 +425,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooley</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>4141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howlett</Key>
-      <Text>.L. T</Text>
+      <Forenames>L. T .</Forenames>
       <PageNumber>3906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -802,8 +802,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Joscelyne</Key>
-      <Forenames>G. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. A. St. G</Forenames>
       <PageNumber>3659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lecky</Key>
-      <Text>. M. D</Text>
+      <Forenames>M. D</Forenames>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,8 +1726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRoberts</Key>
-      <Forenames>N.</Forenames>
-      <Text>de P</Text>
+      <Forenames>N. de P</Forenames>
       <PageNumber>3980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1749,7 +1747,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallam</Key>
-      <Text>. R. K</Text>
+      <Forenames>R. K.</Forenames>
       <PageNumber>2939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marsden</Key>
-      <Text>. C. M. .'</Text>
+      <Forenames>C. M.</Forenames>
+      <Text>.'</Text>
       <PageNumber>2389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1948,7 +1947,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Milling</Key>
-      <Text>. J. McM. .. .:</Text>
+      <Forenames>J.</Forenames>
+      <Text>McM. .. .:</Text>
       <PageNumber>2627</PageNumber>
     </MainItem>
   </ItemGroup>

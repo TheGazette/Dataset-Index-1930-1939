@@ -139,7 +139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>.. B. G. T</Text>
+      <Text>. B. G. T</Text>
       <PageNumber>7587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Text>.J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. H. B,</Text>
+      <Forenames>H. B</Forenames>
+      <Text>,</Text>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,8 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roper</Key>
-      <Forenames>A. W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. W. St. J</Forenames>
       <PageNumber>5334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,7 +1297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodyear</Key>
-      <Text>. J. G. '</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>'</Text>
       <PageNumber>7265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. D. S</Text>
+      <Forenames>D. S.</Forenames>
       <PageNumber>8139</PageNumber>
     </MainItem>
   </ItemGroup>

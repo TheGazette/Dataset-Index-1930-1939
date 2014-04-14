@@ -269,7 +269,9 @@
       <Key>Prichard-Jones</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,8 +375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Purcell</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'C. ,</Text>
+      <Forenames>T. O'C</Forenames>
+      <Text>. ,</Text>
       <PageNumber>4835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -811,8 +813,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. W. St</Forenames>
-      <Text>. J. W</Text>
+      <Forenames>R. W. St. J</Forenames>
+      <Text>. W</Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,8 +900,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rideout</Key>
-      <Forenames>E.</Forenames>
-      <Text>de S</Text>
+      <Forenames>E. de S</Forenames>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,8 +1014,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roche</Key>
-      <Text>. D. J. H</Text>
+      <Forenames>D. J. H.</Forenames>
       <PageNumber>5981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,8 +1260,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>5544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,22 +1488,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Hill, M. E</Text>
+      <Key>St. Hill</Key>
+      <Forenames>M. E .</Forenames>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, R. E. T. de R</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T. de R</Forenames>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John-Brooks, J. G</Text>
+      <Key>St. John-Brooks</Key>
+      <Forenames>J. G.</Forenames>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>.H. I</Text>
+      <Forenames>H. I.</Forenames>
       <PageNumber>5920</PageNumber>
     </MainItem>
   </ItemGroup>

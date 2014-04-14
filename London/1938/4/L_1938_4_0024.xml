@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kennedy</Key>
-      <Text>. D. V</Text>
+      <Forenames>D. V.</Forenames>
       <PageNumber>7190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laycock</Key>
-      <Text>. R. E</Text>
+      <Forenames>R. E.</Forenames>
       <PageNumber>8178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,8 +240,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N.</Forenames>
       <PageNumber>6197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,8 +303,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,8 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. L. St. J</Forenames>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnson</Key>
-      <Text>. D. S. W</Text>
+      <Forenames>D. S. W</Forenames>
       <PageNumber>8072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -944,7 +943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prendergast</Key>
-      <Text>. G. I</Text>
+      <Forenames>G. I.</Forenames>
       <PageNumber>6816</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1384,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Text>. Sir R. F., Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>R. F.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7079</PageNumber>
     </MainItem>
   </ItemGroup>

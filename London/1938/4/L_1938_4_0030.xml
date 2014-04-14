@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>QuiPP</Key>
-      <Text>. JT</Text>
+      <Text>JT</Text>
       <PageNumber>7608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +460,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowland</Key>
-      <Text>. E, M</Text>
+      <Forenames>E</Forenames>
+      <Text>, M</Text>
       <PageNumber>6265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,8 +531,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, R. E. T. Salisbury-Jones, A. G</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T. Salisbury-Jones</Forenames>
+      <Text>, A. G</Text>
       <PageNumber>7191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -876,7 +878,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skillen</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R.</Forenames>
       <PageNumber>7607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,8 +1058,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. R. E.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>R. E.</Forenames>
       <PageNumber>8180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swift</Key>
-      <Text>. C. C</Text>
+      <Forenames>C. C .</Forenames>
       <PageNumber>7608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1627,7 +1629,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thackreay</Key>
-      <Text>. M. S</Text>
+      <Forenames>M. S.</Forenames>
       <PageNumber>7786</PageNumber>
     </MainItem>
   </ItemGroup>

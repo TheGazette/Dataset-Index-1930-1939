@@ -3,8 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>K.</Forenames>
-      <Text>de B</Text>
+      <Forenames>K. de B</Forenames>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,6 +533,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, H. A</Text>
+      <PageNumber>134</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deeks</Key>
       <Forenames>E. G.</Forenames>
       <PageNumber>135</PageNumber>
@@ -633,9 +640,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, C. L. E. ... :</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>C. L. E.</Forenames>
+      <Text>... :</Text>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howell</Key>
-      <Text>. F. W. H</Text>
+      <Forenames>F. W. H.</Forenames>
       <PageNumber>1142</PageNumber>
     </MainItem>
   </ItemGroup>

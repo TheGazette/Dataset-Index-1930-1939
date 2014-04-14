@@ -184,8 +184,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>C. E. J.</Forenames>
+      <Title>St. C.</Title>
+      <Forenames>E. J.</Forenames>
       <PageNumber>2593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,7 +1768,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bosweu</Key>
-      <Text>J. P D</Text>
+      <Forenames>J. P</Forenames>
+      <Text>D</Text>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>

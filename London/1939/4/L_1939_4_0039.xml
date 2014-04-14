@@ -452,8 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grylls</Key>
-      <Forenames>H. L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. L. de C</Forenames>
       <PageNumber>6860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,8 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Forenames>W.</Forenames>
-      <Text>de H</Text>
+      <Forenames>W. de H</Forenames>
       <PageNumber>7250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1514,8 +1512,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hancock</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. P. M</Text>
+      <Forenames>W. St. P</Forenames>
+      <Text>. M</Text>
       <PageNumber>8391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,7 +1806,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2057,8 +2057,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>6858</PageNumber>
     </MainItem>
   </ItemGroup>

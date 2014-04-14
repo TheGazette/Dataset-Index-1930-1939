@@ -5,14 +5,18 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>D.C. to The King (Addtl.), Duigan, J. E</Text>
+      <Text>
+        <Honour>D.C.</Honour>
+      </Text>
       <PageNumber>5659</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>A.D.C. to The King: Jodhput, H.H. Raj Rajeshwar Maharajadhiraja Sir TJmed Singh, Bahadur, Maharaja of</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6074</PageNumber>
     </MainItem>
     <SubItem>
@@ -27,7 +31,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>A.D.C. to The King (Extra) : Bikaner, H.H. Maharajadhiraja Raj Rajeshwar Shiromani Maharaja Shri Sir Ganga Singh, Bahadur, Manaraja of</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>6074</PageNumber>
     </MainItem>
     <SubItem>
@@ -243,8 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Floyer</Key>
-      <Forenames>M.</Forenames>
-      <Text>du B</Text>
+      <Forenames>M. du B</Forenames>
       <PageNumber>4745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>P. G. C</Text>
+      <Forenames>P. G. C</Forenames>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1039,6 +1044,13 @@
       <Key>Lampen</Key>
       <Forenames>R. E</Forenames>
       <PageNumber>4885</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. A</Forenames>
+      <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

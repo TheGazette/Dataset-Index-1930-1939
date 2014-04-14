@@ -38,7 +38,10 @@
       <Key>Bumbold</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Horace George Montagu</Forenames>
-      <Text>, Bt., G. C.M.G, M.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +83,9 @@
     <MainItem>
       <Key>Ryall</Key>
       <Forenames>James Edward</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +100,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Jean de Kenty, Rev. Mother Marie, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Forenames>Jean</Forenames>
+      <Text>de Kenty, Rev. Mother Marie, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +135,10 @@
       <Key>Sandiford</Key>
       <Title>Maj.</Title>
       <Forenames>Hugh Arthur</Forenames>
-      <Text>, M.C., M.B., Ch.B., D.Ph., R.A.M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +146,9 @@
     <MainItem>
       <Key>Sanger</Key>
       <Forenames>William</Forenames>
-      <Text>, C.B., Member of the Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +157,11 @@
       <Key>Sangster</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Patrick Barclay</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +190,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Henry Charles</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +201,9 @@
       <Key>Sawles</Key>
       <Title>Cd. Gnr.</Title>
       <Forenames>Henry</Forenames>
-      <Text>D.S.M., R.N., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +246,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>Gillett, Aubrey, F.R.C.S., M.R.C.S., Official Member of the Executive Council . of the Virgin Islands</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +276,12 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Edward</Forenames>
-      <Text>, C.V.O., D.S.O., O.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +356,9 @@
     <MainItem>
       <Key>Shircore</Key>
       <Forenames>Kohn Owen</Forenames>
-      <Text>. C.M.G., M.B., Unofficial Member, Legislative Council, Tanganyika Territory</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +366,9 @@
     <MainItem>
       <Key>Sievwright</Key>
       <Forenames>Andrew George Hume</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +415,12 @@
       <Key>Sinclair-Burgess</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>William Livingstone Hatchwell</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., A.D.C., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -402,7 +437,9 @@
     <MainItem>
       <Key>Smallwood</Key>
       <Forenames>Arthur William</Forenames>
-      <Text>, C.B.E., Member of the Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +448,9 @@
       <Key>Smellie</Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth Laurie</Forenames>
-      <Text>, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +479,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George Stanley</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +499,9 @@
     <MainItem>
       <Key>Sperling</Key>
       <Forenames>Rowland Arthur</Forenames>
-      <Text>. Charles; OB C.M.G., Knight Commander, Order of St. Michael and St. George .... ... ... Spillett, Percy William, Serving Brother, Order of St. John of Jerusalem ... Srinivasa Varadachari, Rao Bahadur, Judge of High Court at Madras</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +510,14 @@
       <Key>Stanhope</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>James Richard</Forenames>
-      <Text>, Earl, D.S.O., M.C., D.L., Knight.of the Order of the Garter ... Stanley, Edward Montagu Cavendish, Lord, M.C., J.P., D.L., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +528,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Alexander</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire ... Still, William, Serving Brother, Order of St. John of Jerusalem ... Stirling-Maxwell, Sir John Maxwell, Bart., K.T., Member of the Royal Commission on Ancient and Historical Monuments and Constructions in Scotland</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Bart</Honour>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +540,11 @@
     <MainItem>
       <Key>Stocker</Key>
       <Forenames>John</Forenames>
-      <Text>, J.P., Officer, Order of the British Empire Stokes, Hopetoun Gabriel C.S.I., C.I.E., Knight Commander, Order ofthe Indian Empire Storthard, Miss Mary Josephine, Officer, Order of the British Empire ... Strachan, Peter Donald, M.D., Order . of the British Empire Subbiah Naidu Veerasamy, Unofficial Member of the ' Federal Council of the Malay States Sueter, Rear-Adm. Murray Fraser, C.B., M.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>

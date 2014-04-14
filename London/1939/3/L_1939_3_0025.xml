@@ -468,8 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>5917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,7 +876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, Chandler, G. F. M</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, Chandler, G. F. M</Text>
       <PageNumber>4569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -924,7 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Charles</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R .</Forenames>
       <PageNumber>4568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,8 +1320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'G</Text>
+      <Forenames>T. O'G</Forenames>
       <PageNumber>4567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,8 +1484,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. F. St. C</Forenames>
       <PageNumber>5314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1830,7 +1828,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J. A.</Forenames>
-      <Text>, Bt.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4565</PageNumber>
     </MainItem>
   </ItemGroup>

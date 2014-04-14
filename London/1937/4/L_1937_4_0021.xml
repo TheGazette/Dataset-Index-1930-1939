@@ -266,8 +266,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley-Keyes, H. J. K</Text>
+      <Key>O'Malley-Keyes</Key>
+      <Forenames>H. J. K.</Forenames>
       <PageNumber>6511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>6307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,8 +396,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, G. J. P</Text>
+      <Key>St. Clair</Key>
+      <Forenames>G. J. P</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welch</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,6 +837,13 @@
   <SubSectionTitle>Electric Lighting School</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>A. J</Forenames>
+      <PageNumber>8072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Groves</Key>
       <Forenames>J. J. D</Forenames>
       <PageNumber>8190</PageNumber>
@@ -860,8 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. F. de V</Forenames>
       <PageNumber>7088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,8 +969,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullbrook-Leggatt</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Q. O</Text>
+      <Forenames>C. St. Q</Forenames>
+      <Text>. O</Text>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,8 +984,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. R. de C</Forenames>
       <PageNumber>7186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1235,8 +1240,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahoney, C. C. Saunders :</Text>
+      <Key>O'Mahoney</Key>
+      <Forenames>C. C. Saunders</Forenames>
+      <Text>:</Text>
       <PageNumber>8136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1375,9 @@
       <Key>Aird</Key>
       <Title>Sir</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>

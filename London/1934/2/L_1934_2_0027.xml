@@ -36,7 +36,9 @@
     <MainItem>
       <Key>Grime</Key>
       <Forenames>Joseph Crookes</Forenames>
-      <Text>, M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +54,9 @@
     <MainItem>
       <Key>Grotrian</Key>
       <Forenames>Herbert Brent</Forenames>
-      <Text>, K.C., J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +96,9 @@
     <MainItem>
       <Key>Hallett</Key>
       <Forenames>Maurice Garnier</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +107,9 @@
       <Key>Hallinan</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas John</Forenames>
-      <Text>, C.B.E., Nominated Member of the Legislative Council of Jamaica</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +133,9 @@
     <MainItem>
       <Key>Hanna</Key>
       <Forenames>Selim Eifendi</Forenames>
-      <Text>, M.B.E., Honorary Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +160,9 @@
       <Key>Hardinge</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Alexander Henry Louis</Forenames>
-      <Text>, C. V.O., M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +179,10 @@
       <Key>Harford</Key>
       <Title>Maj.</Title>
       <Forenames>John Charles</Forenames>
-      <Text>, J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +190,10 @@
     <MainItem>
       <Key>Harman</Key>
       <Title>Lt.</Title>
-      <Text>-Geh. Antony Ernest Wentworth, C.B., D. S.O., . Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +236,9 @@
     <MainItem>
       <Key>Hatton</Key>
       <Title>Maj.</Title>
-      <Text>. Leonard Horace Charles,. M.C., Officer, Order of the British Empire.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +249,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Havard</Forenames>
-      <Text>, Godfrey Thomas, C.M.G., H.M, ConsulGeneral at Beirut</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +268,10 @@
     <MainItem>
       <Key>Hayward</Key>
       <Forenames>John Robert Baxter</Forenames>
-      <Text>, M.B.E., Member 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +297,9 @@
     <MainItem>
       <Key>Hedley</Key>
       <Forenames>Walter</Forenames>
-      <Text>, D.S.O., K.C., Police Court Magistrate ;</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +316,10 @@
       <Key>Henderson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Patrick Hagart</Forenames>
-      <Text>, D.S.O., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +352,9 @@
     <MainItem>
       <Key>Herschell</Key>
       <Title>Lt.</Title>
-      <Text>-Col: Allan, O.B.E., M.C,, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +362,9 @@
     <MainItem>
       <Key>Hewitt</Key>
       <Forenames>Harry Ed</Forenames>
-      <Text>.ward, M.D.. B.S., M.R.C.S., L.R.C.P., D.P.H., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +390,9 @@
     <MainItem>
       <Key>Higham</Key>
       <Forenames>Thomas Edward J.P.</Forenames>
-      <Text>, D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +410,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Mai</Forenames>
-      <Text>:-Gen. Walter Pitts Hendy,C:M.G.,D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +436,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hirst</Key>
-      <Text>. Sir. Hugo, Bt., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +454,9 @@
     <MainItem>
       <Key>Hitchcock</Key>
       <Forenames>Harold George</Forenames>
-      <Text>M.B.E., Officer, Order of the British . Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +470,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hodsoll</Key>
-      <Text>. Wing Cdr. Eric John, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +481,9 @@
       <Key>Hollis</Key>
       <Title>Sir</Title>
       <Forenames>Alfred Claud</Forenames>
-      <Text>, K.C.M.G., C.B.E, Knight Grand Cross, Order of Si. (Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +541,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Horder</Key>
-      <Text>the Lord, K.C.V.O., M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +552,9 @@
     <MainItem>
       <Key>Borne</Key>
       <Forenames>Edward Butler</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative . Council of Kenya</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
     <SubItem>
@@ -514,7 +566,10 @@
     <MainItem>
       <Key>Horton</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>! Max Kennedy, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +604,9 @@
     <MainItem>
       <Key>Hoyland</Key>
       <Forenames>Harold Allan Dilke</Forenames>
-      <Text>, M.B.E., H.M. Consul -at Shiraz</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +614,9 @@
     <MainItem>
       <Key>Hunt</Key>
       <Forenames>William Edgar</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +640,10 @@
     <MainItem>
       <Key>Ibbotson</Key>
       <Title>Capt.</Title>
-      <Text>ArchieWilliam, M.B.E., M.C., .Com-; panion, Order of the In. dian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +659,9 @@
     <MainItem>
       <Key>Irving</Key>
       <Forenames>Miles</Forenames>
-      <Text>, C.I.E., C.B.E., Knight'</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +740,10 @@
     <MainItem>
       <Key>Jeffrey</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, -Order' of the Bath '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>

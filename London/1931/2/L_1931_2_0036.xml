@@ -296,8 +296,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. L. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>G. L. St. A</Forenames>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,9 +334,24 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wytt</Forenames>
-      <Text>, W. H. H. Deane, R. H. E</Text>
+      <Key>de Cetto</Key>
+      <Forenames>V. B. A.</Forenames>
+      <PageNumber>3558</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, J</Text>
+      <PageNumber>4156</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Wytt</Key>
+      <Forenames>W. H. H. Deane</Forenames>
+      <Text>, R. H. E</Text>
       <PageNumber>3070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,6 +535,13 @@
       <Key>Druce</Key>
       <Forenames>W. H .</Forenames>
       <PageNumber>2735</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>H. P.</Forenames>
+      <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -795,7 +816,9 @@
       <Key>Everard</Key>
       <Title>Sir</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1115,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>4078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,8 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmore</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,8 +1867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvest</Key>
-      <Forenames>G. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. A. de V</Forenames>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>

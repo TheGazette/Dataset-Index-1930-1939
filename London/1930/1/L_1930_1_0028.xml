@@ -13,7 +13,11 @@
     <MainItem>
       <Key>Pitkeathly</Key>
       <Forenames>James Scott</Forenames>
-      <Text>, CLE., C.V.O., C.B.E., D.S.O., Companion, Order of ..St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +128,10 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Percy Pollexfen de Blaquiere, K.C.M.G., C.B. D.S.O., . Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B. D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +162,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>The Hon. Patrick William Maule, O.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to Hellenic Republic</Text>
+      <Title>The Hon.</Title>
+      <Forenames>Patrick William Maule</Forenames>
+      <Text>, O.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to Hellenic Republic</Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,8 +204,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Reinold</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Harold Owen, C.V.O., Companion, Order of the Bath Rentoul, Sir Gervais Squire Chittick, King's Counsel</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Harold Owen</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +218,9 @@
       <Key>Richards</Key>
       <Title>Miss</Title>
       <Forenames>Lily</Forenames>
-      <Text>, Officer, Order of the British Empire Richardson, Sir Albion Henry Herbert, C.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +247,10 @@
     <MainItem>
       <Key>Robb</Key>
       <Title>Major</Title>
-      <Text>General Sir Frederick Spencer, K.O.B., K.C.M.G., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +259,9 @@
       <Key>Roberts</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +280,9 @@
       <Key>Robertson</Key>
       <Title>Dr.</Title>
       <Forenames>James Herbert Graham</Forenames>
-      <Text>, C.B.E., V.D., F.R.C.S.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +293,10 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Malcolm Arnold</Forenames>
-      <Text>, K.C.M.G., K.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +343,9 @@
     <MainItem>
       <Key>Rodger</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +379,9 @@
       <Key>Ross</Key>
       <Title>Col.</Title>
       <Forenames>George Whitehill</Forenames>
-      <Text>, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +407,9 @@
     <MainItem>
       <Key>Rowley</Key>
       <Forenames>Arthur Langford Sholto</Forenames>
-      <Text>, C.M.G., H.M. Consul-General in Paris</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +457,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, Lt.-Col. Henry Beauchamp, CLE., C.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +485,9 @@
       <Key>Samuelson</Key>
       <Title>Sir</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, K.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +511,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scarlett</Key>
-      <Text>Peter William Shelly Yorke, Third Secretary in I H.M. Diplomatic Service</Text>
+      <Forenames>Peter William Shelly Yorke</Forenames>
+      <Text>, Third Secretary in I H.M. Diplomatic Service</Text>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>

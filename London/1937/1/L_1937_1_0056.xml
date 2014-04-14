@@ -121,7 +121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +634,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. F</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>793</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,8 +657,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P</Forenames>
       <PageNumber>1750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,8 +696,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. S. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. S. L.</Forenames>
       <PageNumber>1914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>. S. T. J</Text>
+      <Forenames>S. T. J.</Forenames>
       <PageNumber>1495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redsell</Key>
-      <Forenames>A. T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. T. St. G</Forenames>
       <PageNumber>1917</PageNumber>
     </MainItem>
   </ItemGroup>

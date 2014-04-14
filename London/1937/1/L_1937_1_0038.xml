@@ -17,7 +17,9 @@
       </Key>
       <Title>Mrs.</Title>
       <Forenames>Margaret</Forenames>
-      <Text>, Serving Sister, Order of St. John of Jerusalem ... Robins, Lt.-Col. Thomas Ellis, D.S.O., Commander, Order of St. John of Jerusalem Robinson, Frank, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
     <MainItem>
       <Key>Roper</Key>
       <Forenames>Edgar Stanley</Forenames>
-      <Text>, M.V.O., Mus. Bat., Organist and Composer, Chapels Royal</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +82,11 @@
     <MainItem>
       <Key>Ross</Key>
       <Forenames>Donald</Forenames>
-      <Text>; Serving Brother, Order of St. John of Jerusalem Roundway, Brig.-Gen. Edward Murray, Baron, C.M.G., D.S.O., M.V.O., Exon, Yeoman of the Guard</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +125,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Reginald Edmund Maghlin</Forenames>
-      <Text>, C.V.O., C.B.E., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +137,9 @@
     <MainItem>
       <Key>Rycroft</Key>
       <Forenames>John Alfred</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem Ryle, John Alfred, M.D., F.R.C.P., Extra Physician, H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +164,9 @@
     <MainItem>
       <Key>Salmon</Key>
       <Forenames>James Eldon</Forenames>
-      <Text>McCombie, Officer, Order of the British Empire ... Salter, Sir James Arthur, Member of Parliament for Oxford University ... Samuel, Sir Arthur Michael, Bart., Baron, Mancroft of Mancroft</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +174,13 @@
     <MainItem>
       <Key>Sanders</Key>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, J;P., Officer, Order of the British Empire Sanger, William, C.B., Member of Royal Patriotic Fund Corporation ... Sargant, Stanley Richard, Serving Brother, Order of St. John of Jerusalem ... Sargeaunt, Bertram Edward, M.V.O., O.B.E., Officer, Order of St. John of Jerusalem ... Sargent, Orme Garton, C.B., C.M.G., Knight Commander, Order of St. Michael and St. George ... Savery, Samuel Servington, J.P., MP-. Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -169,8 +191,14 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lady Katharine, Woman of the Bedchamber to Her Majesty Shantaram Sakharam Parulkar Rao Saheb, Member, Order of the British Empire ... ... ... Share, Paymaster-Rear-Admiral Sir Hamnet Holditch, K.B.E., C.B., C.V.O., Extra Gentleman Usher to His Majesty ... ... Sharpe, Venerable Ernest Newton, Officer, Order of St. John of Jerusalem ... Sheard, Mrs. Kirstan, Serving Sister, Order Of St. John of Jerusalem ... ... Shebbeare, The Rev. Charles John, M.A., Chaplain, H.M. Household Sheehan, Henry John, C.B.E., Knight</Text>
+      <Title>The Lady</Title>
+      <Forenames>Katharine</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +206,10 @@
     <MainItem>
       <Key>Shelley</Key>
       <Forenames>Kew Edwin</Forenames>
-      <Text>, King's Counsel ... ... ... Sheppard, Canon Hugh Richard Lawrie, D.D., Chaplain, H.M. Household ... ... Sher Mohammad Khan, Capt. Sardar, CLE., M.B.E., Knight Sherbon, William James, Member, Order of the British Empire ... ... ... Sherwin, Col. John Arthur Hopkins, V.D.; M.D., Commander, Order of St. John of Jerusalem... Shilstone, Eustace Maxwell, Member, Order of the 700 British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>700</PageNumber>
     </MainItem>
     <SubItem>
@@ -186,15 +217,21 @@
       <PageNumber>689</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1640</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ ___ Ernest Arthur, M.B.E., 5 . M.I.Min.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>696</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ John Hunter, M.C., Member, Order of the British 3 Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>697</PageNumber>
     </SubItem>
   </ItemGroup>

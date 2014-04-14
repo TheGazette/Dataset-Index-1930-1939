@@ -13,7 +13,10 @@
       <Key>Dorman</Key>
       <Title>Sir</Title>
       <Forenames>Bedford Lockwood</Forenames>
-      <Text>, Bart., O.B.E., Deputy Chairman, North Riding of Yorkshire Quarter Sessions</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +89,11 @@
       <Key>Drew</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>James Syme</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,9 +123,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Title>Surg.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral S. F., O.B.E., M.D., B.S., F.R.C.P., D.P.H., D.T.M, Honorary Surgeon to the King</Text>
+      <Title>Surg. Rear-Admiral</Title>
+      <Forenames>S. F.</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +136,9 @@
     <MainItem>
       <Key>Dunbar</Key>
       <Forenames>Robert</Forenames>
-      <Text>, M.C., Acting Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +156,9 @@
       <Key>Dunn</Key>
       <Title>Lt.</Title>
       <Forenames>Francis Vivian</Forenames>
-      <Text>, A.R.A.M., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +199,9 @@
       <Key>Dykes</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Vivian</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +217,9 @@
     <MainItem>
       <Key>Eastwood</Key>
       <Forenames>Harold</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +252,9 @@
       <Key>Ede</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Bertram</Forenames>
-      <Text>, O.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +289,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Stanley</Forenames>
-      <Text>, C.M.G.; 0;B.E., H.M. ConsulGeneral at Milan</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +322,9 @@
       </Key>
       <Title>Mrs.</Title>
       <Forenames>Mildred May Emily Yate</Forenames>
-      <Text>, M.D., M.R.C.S., Serving Sister, Order of St.. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +334,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>Richard Prior Ferdinand</Forenames>
-      <Text>, D.S.O., Commercial Secretary, Second Grade to H.M. Embassy at Rome</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +353,9 @@
       <Key>Element</Key>
       <Title>Lt. (Qrmr.) (local Captain)</Title>
       <Forenames>Richard</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +371,9 @@
     <MainItem>
       <Key>Ellis</Key>
       <Forenames>Albert Fuller</Forenames>
-      <Text>, C.M.G., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +444,10 @@
     <MainItem>
       <Key>Everard</Key>
       <Forenames>William Lindsay</Forenames>
-      <Text>, J.P., D.L., M.P., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>
@@ -432,7 +465,11 @@
       <Key>Evetts</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>John Fullerton</Forenames>
-      <Text>, C.B.E., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +602,9 @@
       <Key>Flinn</Key>
       <Title>Maj.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, O.B.E., Member, Legislative Council of Island of Barbados</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +612,9 @@
     <MainItem>
       <Key>Flower</Key>
       <Forenames>Cyril Thomas</Forenames>
-      <Text>, F.S.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +641,10 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>Bertram Joseph Tottey</Forenames>
-      <Text>, T.D., D.L., LL.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +688,10 @@
     <MainItem>
       <Key>Foulkes</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. William Allen, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,8 +699,10 @@
     <MainItem>
       <Key>Fox</Key>
       <Title>Maj.</Title>
-      <Forenames>John St</Forenames>
-      <Text>. Vigor, J.P., D.L., Knight</Text>
+      <Forenames>John St. Vigor</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>
@@ -689,8 +738,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Bruce Austin, O.B.E., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Bruce Austin</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +762,10 @@
       <Key>Fraser-Tytler</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Kerr</Forenames>
-      <Text>, C.M.G., M.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -717,7 +773,9 @@
     <MainItem>
       <Key>Frayling</Key>
       <Forenames>Bryan Edwin</Forenames>
-      <Text>, A.R.S.M., M.I.M.M., D.I.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +783,9 @@
     <MainItem>
       <Key>Frazer</Key>
       <Forenames>William Mowll</Forenames>
-      <Text>, M.D., . M.Sc, D.P.H., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,8 +810,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Canon Charles Edward Middleton, M.A., Member, Order of the British Empire</Text>
+      <Title>The Revd. Canon</Title>
+      <Forenames>Charles Edward Middleton</Forenames>
+      <Text>, M.A., Member, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>

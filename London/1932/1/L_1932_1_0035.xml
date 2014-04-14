@@ -582,8 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullens</Key>
-      <Forenames>W. J. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. J. H. de W</Forenames>
       <PageNumber>878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,8 +714,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, J. F</Text>
+      <Key>O'Grady</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>1769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -969,7 +968,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peele</Key>
-      <Forenames>M. C. De C.</Forenames>
+      <Forenames>M. C. De C</Forenames>
       <PageNumber>349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -998,7 +997,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Penrice</Key>
-      <Text>R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pettit</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>349</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1195,7 +1194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>1423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullin</Key>
-      <Text>I). H</Text>
+      <Forenames>I</Forenames>
+      <Text>). H</Text>
       <PageNumber>879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,8 +1480,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L.</Forenames>
-      <Text>de C</Text>
+      <Forenames>L. de C</Forenames>
       <PageNumber>782</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -11,8 +11,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Layton</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Geoffrey, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Geof-</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
     <SubItem>
@@ -65,7 +69,9 @@
     <MainItem>
       <Key>Lewin</Key>
       <Forenames>Claude John</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +97,11 @@
     <MainItem>
       <Key>Lindsay</Key>
       <Title>Major</Title>
-      <Text>General George Mackintosh, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +110,9 @@
       <Key>Lines</Key>
       <Title>Captain</Title>
       <Forenames>Walter Reuben</Forenames>
-      <Text>, Member, 5th CI., Royal Victorian Order ... '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +120,9 @@
     <MainItem>
       <Key>Linlithgow</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, The Marquess of, Kt., G.C.I.E., O.B.E., P.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +131,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The Marchioness</Forenames>
+      <Title>The</Title>
+      <Forenames>Marchioness</Forenames>
       <Text>, Dame of Grace, Order of St. John of Jerusalem</Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
@@ -172,7 +187,9 @@
       </Key>
       <Title>Hon. Colonel</Title>
       <Forenames>Thomas Edward John</Forenames>
-      <Text>, D.L., Companion, Order' of the Bath</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +272,12 @@
     <MainItem>
       <Key>Ludlow</Key>
       <Title>Brigadier</Title>
-      <Text>General Walter Robert, C.B., V.D., T.D., D.L., Honorary Colonel, Knight Commander, Order of the Bath Lumley-Smith, Major Thomas Gabriel Lumley, D.S.O., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +384,9 @@
     <MainItem>
       <Key>McGuire</Key>
       <Forenames>Gilbert</Forenames>
-      <Text>, I.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +428,10 @@
     <MainItem>
       <Key>MacKinnon</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Lachlan Donald Ian, C.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -449,16 +476,20 @@
     <MainItem>
       <Key>MacNalty</Key>
       <Forenames>Arthur Salusbury</Forenames>
-      <Text>, M.D., F.R.C.P., M.R.C.S., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McNeil</Key>
-      <Title>Engr.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Percival Edwin, Companion, Order of the Bath</Text>
+      <Title>Engr. Rear-Admiral</Title>
+      <Forenames>Percival Edwin</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -507,7 +538,9 @@
     <MainItem>
       <Key>Mallet</Key>
       <Forenames>Victor Alexander Louis</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M.Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +566,10 @@
     <MainItem>
       <Key>Mangaldas</Key>
       <Forenames>Vijbhukandas Mehta</Forenames>
-      <Text>, O.B.E., L.M. &amp; S., F.R.C.P., F.C.P.S., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +593,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall-Cornwall</Key>
-      <Forenames>MajorGeneral James Handyside</Forenames>
-      <Text>, C.B.E., D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Title>Major-</Title>
+      <Forenames>General James Handyside</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +617,9 @@
     <MainItem>
       <Key>Mary</Key>
       <Forenames>Her Majesty</Forenames>
-      <Text>Queen, Dame Grand Cross of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +635,9 @@
     <MainItem>
       <Key>Masson</Key>
       <Forenames>George Henry</Forenames>
-      <Text>, M.D., F.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +684,9 @@
     <MainItem>
       <Key>Maxwell</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +697,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John Stirling</Forenames>
-      <Text>, Bart., K.T., Lieutenant, King's Bodyguard for Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +710,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Maxwell Hyslop</Forenames>
-      <Text>, C.B., 'C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +739,9 @@
       <Key>Mellor</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Harry Manners</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +749,9 @@
     <MainItem>
       <Key>Melly</Key>
       <Forenames>Andre John Mesnard</Forenames>
-      <Text>, M.C, F.R.C.S., Albert Medal in Gold</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>

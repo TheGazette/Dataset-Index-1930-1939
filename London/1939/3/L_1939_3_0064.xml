@@ -185,8 +185,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. E. St. J</Forenames>
       <PageNumber>4578</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ —</KeyDitto>
@@ -603,7 +602,9 @@
       <Key>Waterlow</Key>
       <Title>Sir.</Title>
       <Forenames>W. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6408</PageNumber>
       <PageNumber>6410</PageNumber>
       <PageNumber>6493</PageNumber>
@@ -785,7 +786,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.}</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1225,7 +1228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wessel</Key>
-      <Text>. R. L</Text>
+      <Forenames>R. L</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>

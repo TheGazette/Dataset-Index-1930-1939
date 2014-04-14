@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rudd</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>1127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +117,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, Mary Langrish</Text>
+      <Key>St. George</Key>
+      <Forenames>Mary Langrish</Forenames>
       <PageNumber>2049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>, Hon.-Annie Mary</Text>
+      <Title>Hon.</Title>
+      <Text>-Annie Mary</Text>
       <PageNumber>1305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scuffle</Key>
-      <Forenames>Mercy</Forenames>
+      <Title>Mercy .</Title>
       <PageNumber>481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +468,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sellon</Key>
-      <Forenames>Ernest</Forenames>
+      <Title>Ernest .</Title>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,8 +482,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sewell</Key>
-      <Title>Margaret.</Title>
-      <Forenames>Amie</Forenames>
+      <Title>Margaret. Amie.</Title>
       <PageNumber>334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,14 +517,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Sharman</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>1903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sharp</Key>
-      <Forenames>Agnes</Forenames>
+      <Title>Agnes .</Title>
       <PageNumber>1791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +838,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>1709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smardon</Key>
-      <Forenames>Narramore</Forenames>
+      <Title>Narramore .</Title>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +959,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. Annie Gertrude</Text>
+      <Forenames>Annie Gertrude</Forenames>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,7 +1077,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spyer</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>1009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1603,7 +1603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stokoe</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1743,7 +1743,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1856,7 +1856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Symes</Key>
-      <Text>, ClarissaHannah</Text>
+      <Text>ClarissaHannah</Text>
       <PageNumber>1580</PageNumber>
     </MainItem>
   </ItemGroup>

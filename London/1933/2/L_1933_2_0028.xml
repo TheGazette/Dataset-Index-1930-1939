@@ -4,7 +4,12 @@
     <MainItem>
       <Key>Foster</Key>
       <Forenames>Air Comm</Forenames>
-      <Text>. William Foster MacNeece, C.B.E., D.S.O., D.F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +18,10 @@
       <Key>Fotheringham</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>John Taylor</Forenames>
-      <Text>, C.M.G., M.D., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,14 +90,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Frankau</Key>
-      <Text>. Claude H. S., C.B.E., D.S.O., F.E.C.S., L.R.C.P., Member of the Civil Consulting Staff of King Edward . VTI's Hospital, Osborne</Text>
+      <Forenames>Claude H. S.</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>. Prof. F. R., M.D., F.R.C.P., Member of the Civil Consulting Staff of King Edward VII's Hospital, Osborne</Text>
+      <Title>Prof.</Title>
+      <Forenames>F. R.</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +114,9 @@
       <Key>Fraser-Tytler</Key>
       <Title>Maj.</Title>
       <Forenames>William Kerr</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +166,9 @@
       <Key>Furlong</Key>
       <Title>Capt.</Title>
       <Forenames>George Harry Stuart</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +185,9 @@
       <Key>Galizia</Key>
       <Title>Maj.</Title>
       <Forenames>James Alfred</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +238,9 @@
     <MainItem>
       <Key>Garland</Key>
       <Forenames>Charles Henry Jame</Forenames>
-      <Text>, I.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +265,11 @@
       <Key>Gask</Key>
       <Title>Prof.</Title>
       <Forenames>George E.</Forenames>
-      <Text>, C.M.G., D.S.O., F.R.C.S., Member of the Civil Consulting Staff of King Edward VII's Hospital, Osborne</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +302,9 @@
       <Key>Gettins</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Joseph Holmes</Forenames>
-      <Text>, D.S.O., B.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +313,10 @@
       <Key>Gibbs</Key>
       <Title>Maj.</Title>
       <Forenames>Stanley Rider</Forenames>
-      <Text>, M.C., T.D., M.R.C.S., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +332,9 @@
     <MainItem>
       <Key>Gilbert</Key>
       <Forenames>George Julian</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +350,9 @@
     <MainItem>
       <Key>Gilks</Key>
       <Forenames>John Langton</Forenames>
-      <Text>, F.R.C.S., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +368,10 @@
     <MainItem>
       <Key>Gloucester</Key>
       <Title>H.R.H.</Title>
-      <Text>the Duke of, K.G., G.C.V.O., Knight of the Thistle</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +453,9 @@
       <Key>Gorssline</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Raymond Myers</Forenames>
-      <Text>, D.S.O., M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +551,9 @@
       <Key>Griffin</Key>
       <Title>Rev.</Title>
       <Forenames>John Wesley Knox</Forenames>
-      <Text>, D.S.O., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +562,9 @@
       <Key>Griffith</Key>
       <Title>Capt.</Title>
       <Forenames>Gwynne</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +581,12 @@
       <Key>Grigg</Key>
       <Title>Sir</Title>
       <Forenames>Edward William Macleay</Forenames>
-      <Text>, K.C.M.G., K.C.V.O., D.S.O., M.C., Member of Parliament for the Altrincham Division of Chester</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +611,9 @@
       <Key>Gurnell</Key>
       <Title>Eng.</Title>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Thompson, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -577,7 +630,9 @@
     <MainItem>
       <Key>Gye</Key>
       <Forenames>Ernest Frederick</Forenames>
-      <Text>, C.M.G., Minister Plenipotentiary in H.M. Diplomatic Service, and H.M. Oonsul-General at Tangier</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4201</PageNumber>
     </MainItem>
   </ItemGroup>

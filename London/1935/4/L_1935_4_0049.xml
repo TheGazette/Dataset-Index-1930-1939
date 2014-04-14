@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Har</Key>
-      <Text>.wood, G. E</Text>
+      <Text>wood, G. E</Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hepbu</Key>
-      <Text>.ni, T</Text>
+      <Text>ni, T</Text>
       <PageNumber>8358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingram</Key>
-      <Text>. G. E</Text>
+      <Forenames>G. E.</Forenames>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molloy</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -759,8 +759,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. A. C</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J. A. C.</Forenames>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,8 +773,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M. M</Forenames>
       <PageNumber>6219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -884,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plo</Key>
-      <Text>.wden, B. E. C</Text>
+      <Text>wden, B. E. C</Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +997,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Raikes</Key>
-      <Text>. R, F</Text>
+      <Forenames>R</Forenames>
+      <Text>, F</Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>. E. J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>7050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,14 +1154,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. AV. J ..,</Text>
+      <Text>AV. J ..,</Text>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Shearburn</Key>
-      <Text>. F. '</Text>
+      <Forenames>F.</Forenames>
+      <Text>'</Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,8 +1190,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skinner</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1203,7 +1204,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. A</Text>
+      <Forenames>A .</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1286,7 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swann</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,7 +1308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>. D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>8358</PageNumber>
     </MainItem>
   </ItemGroup>

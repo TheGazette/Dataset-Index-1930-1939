@@ -738,7 +738,9 @@
       <Key>Cunyngham</Key>
       <Title>Sir</Title>
       <Forenames>C. K. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,18 +925,58 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blois</Forenames>
-      <Text>, H. C</Text>
+      <Key>De Blois</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, H. G. T</Text>
+      <Key>de Brisay</Key>
+      <Forenames>R. L.</Forenames>
+      <PageNumber>2859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E .</Forenames>
+      <PageNumber>2330</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B .</Forenames>
+      <PageNumber>4171</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rouffignac</Key>
+      <Forenames>C. T .</Forenames>
+      <PageNumber>3352</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sausmarez</Key>
+      <Forenames>H. G. T.</Forenames>
       <PageNumber>3497</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>G. G. R. E.</Forenames>
+      <PageNumber>3977</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Watteville</Key>
+      <Forenames>K. W .</Forenames>
+      <PageNumber>3638</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

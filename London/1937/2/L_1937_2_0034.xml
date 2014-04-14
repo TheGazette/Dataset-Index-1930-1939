@@ -12,7 +12,9 @@
       <Key>Gates</Key>
       <Title>Maj.</Title>
       <Forenames>Herbert George</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +58,10 @@
       <Key>Gepp</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ernest Cyril</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +101,9 @@
     <MainItem>
       <Key>Gibbons</Key>
       <Forenames>Hopeful</Forenames>
-      <Text>, M.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +112,11 @@
       <Key>Gibbs</Key>
       <Title>Col.</Title>
       <Forenames>Lancelot Merivale</Forenames>
-      <Text>, D.S.O., M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +124,9 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>Charles Granville</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -129,8 +142,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilbertson</Key>
-      <Forenames>The Venerable Archdeacon Arthur Deane</Forenames>
-      <Text>, O.B.E.. M.A., K.H.Ch., Companion, Order of the Bath</Text>
+      <Title>The</Title>
+      <Forenames>Venerable Archdeacon Arthur Deane</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,9 +190,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duchess of, Dame Grand Cross, Order of the British Empire</Text>
+      <Title>H.R.H. The Duchess</Title>
+      <Text>of, Dame Grand Cross, Order of the British Empire</Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
     <SubItem>
@@ -187,7 +203,12 @@
     <MainItem>
       <Key>Gloucester</Key>
       <Title>H.R.H.</Title>
-      <Text>the Duke of, K.G., K.T., K.P., G.C.M.G., G.C.V.O., High Steward of the Borough of New Windsor</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>2190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +232,9 @@
     <MainItem>
       <Key>Godley</Key>
       <Forenames>Henry William Francis</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +298,9 @@
     <MainItem>
       <Key>Goodwin</Key>
       <Forenames>Robert Stephen</Forenames>
-      <Text>Duke, O.B.E., Nominated Member, Legislative Council of Antigua</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +320,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>de la Hay, O.B.E., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +332,13 @@
       <Key>Gort</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>John Standish Surtees Prendergast</Forenames>
-      <Text>, Viscount,' V.C, C.B.E., D.S.O., M.V.O., M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +355,10 @@
       <Key>Gossage</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Ernest Leslie</Forenames>
-      <Text>, D.S.O., M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +375,11 @@
     <MainItem>
       <Key>Gough</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. (hon. Gen.) Sir Hubert de la Poer, G.C.M.G., K.C.B., K.C.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,14 +387,24 @@
     <MainItem>
       <Key>Goulden</Key>
       <Forenames>C. B.</Forenames>
-      <Text>, O.B.E., F.R.C.S., Surgeon Oculist to H.M. Queen Mary's Household</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2881</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gowrie</Key>
-      <Text>. Rt. Hon. Alexander Gore Arkwright, Lord, V.C., G.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
+      <Title>Rt. Hon.</Title>
+      <Forenames>Alexander Gore Arkwright</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>3506</PageNumber>
     </MainItem>
@@ -363,7 +414,9 @@
       <Key>Graham</Key>
       <Title>Lady</Title>
       <Forenames>Helen Violet</Forenames>
-      <Text>, Dame Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +434,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Charles Frederick</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +454,9 @@
     <MainItem>
       <Key>Grantham</Key>
       <Title>Wt. Offr.</Title>
-      <Text>CI. II, R.Q.M.S. Harry, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +527,9 @@
       <Key>Green</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Eatough</Forenames>
-      <Text>, M.C., A.M.I.C.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +548,11 @@
       <Key>Green</Key>
       <Title>Col.</Title>
       <Forenames>Leonard</Forenames>
-      <Text>, M.C., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +600,9 @@
       <Key>Greene</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Wilfrid Arthur</Forenames>
-      <Text>, Kt., O.B.E., Keeper to Master of the Rolls and Records</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2713</PageNumber>
     </MainItem>
     <SubItem>
@@ -583,7 +648,9 @@
       <Key>Griffiths</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Cruickshank</Forenames>
-      <Text>, C.M.G., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,8 +732,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gunasekera</Key>
-      <Forenames>Elizabeth Eleanor</Forenames>
-      <Text>de Zoysa Gunetilleke Rajapakse, Mrs. Member, Order of the British Empire</Text>
+      <Forenames>Elizabeth Eleanor de Zoysa Gunetilleke Raja-</Forenames>
+      <Text>pakse, Mrs. Member, Order of the British Empire</Text>
       <PageNumber>3099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +742,9 @@
       <Key>Gwatkin</Key>
       <Title>Maj.</Title>
       <Forenames>Norman Wilm-</Forenames>
-      <Text>hurst, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +752,10 @@
     <MainItem>
       <Key>Gwynne</Key>
       <Forenames>Clement Wansbrough</Forenames>
-      <Text>, CLE., O.B.E.,Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +795,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halifax</Key>
-      <Text>the Rt. Hon. Edward Frederick Lindley, Viscount, K.G., G.C.S.I., G.C.I.E., Lord President of the Council</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>3506</PageNumber>
     </MainItem>
   </ItemGroup>

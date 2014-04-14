@@ -212,6 +212,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Someren</Key>
+      <Forenames>A. B.</Forenames>
+      <PageNumber>620</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Varney</Key>
       <Forenames>A. R.</Forenames>
       <PageNumber>83</PageNumber>
@@ -312,7 +319,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Text>.Sir H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>891</PageNumber>
       <PageNumber>996</PageNumber>
     </MainItem>
@@ -386,8 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>H. J.</Forenames>
-      <Text>de W</Text>
+      <Forenames>H. J. de W</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +538,9 @@
       <Key>Warner</Key>
       <Title>Sir</Title>
       <Forenames>E. C. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,8 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>B.</Forenames>
-      <Text>du B. F:</Text>
+      <Forenames>B. du B</Forenames>
+      <Text>. F:</Text>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wintle</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D</Forenames>
       <PageNumber>483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1454,8 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>1642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,8 +1538,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,7 +1715,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>893</PageNumber>
     </MainItem>
   </ItemGroup>

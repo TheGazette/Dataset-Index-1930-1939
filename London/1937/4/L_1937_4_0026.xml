@@ -153,8 +153,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de F</Text>
+      <Forenames>H. M. de F</Forenames>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,15 +612,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, D. S. S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>D. S. S.</Forenames>
       <PageNumber>6373</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, E. J</Text>
+      <Key>O'Conor</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,22 +661,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. J</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>6896</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley-Keyes, H J. K</Text>
+      <Key>O'Malley-Keyes</Key>
+      <Forenames>H</Forenames>
+      <Text>J. K</Text>
       <PageNumber>6512</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, R. A</Text>
+      <Key>O'Meara</Key>
+      <Forenames>R. A.</Forenames>
       <PageNumber>6614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +782,9 @@
       <Key>Palmer</Key>
       <Title>Sir</Title>
       <Forenames>A. F. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1057,8 +1059,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. M</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. M</Text>
       <PageNumber>6148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,8 +1413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramus</Key>
-      <Forenames>P.</Forenames>
-      <Text>de N</Text>
+      <Forenames>P. de N</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>. H. G</Text>
+      <Forenames>H. G .</Forenames>
       <PageNumber>7517</PageNumber>
     </MainItem>
   </ItemGroup>

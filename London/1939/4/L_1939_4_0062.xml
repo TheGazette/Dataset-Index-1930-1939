@@ -569,8 +569,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bowles</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>7111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brind</Key>
-      <Text>H. G</Text>
+      <Forenames>H. G</Forenames>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +971,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>R.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1848,8 +1849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chepmell</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. de B</Forenames>
       <PageNumber>8173</PageNumber>
     </MainItem>
   </ItemGroup>

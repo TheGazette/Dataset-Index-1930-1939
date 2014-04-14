@@ -1304,8 +1304,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, J. J</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>1059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1536,7 +1536,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>R. B</Text>
+      <Forenames>R. B.</Forenames>
       <PageNumber>310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1745,7 +1745,9 @@
       <PageNumber>535</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1900</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1914,7 +1916,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>

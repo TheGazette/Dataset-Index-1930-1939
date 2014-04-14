@@ -8,7 +8,11 @@
       <PageNumber>3100</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>„ orne, Maj.-Gen. Algernon Philip Yorke, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -51,7 +55,9 @@
     <MainItem>
       <Key>Lascelles</Key>
       <Forenames>Alan Frederick</Forenames>
-      <Text>, C.M.G. M.V.O. M.C., Companion Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G. M.V.O. M.C.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +67,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Francis William</Forenames>
-      <Text>, M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +95,10 @@
       <Key>Lawrance</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Salisbury</Forenames>
-      <Text>, K.B.E. C.M.G., D.S.O., Knight Commander. Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E. C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +153,9 @@
     <MainItem>
       <Key>Leadbitter</Key>
       <Forenames>Eric Cyril Egerton</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +207,10 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>William Clare</Forenames>
-      <Text>, Bt., O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +219,12 @@
       <Key>Legh</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>Piers Walter</Forenames>
-      <Text>, C.M.G., CLE., M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +241,10 @@
       <Key>Leith-Ross</Key>
       <Title>Sir</Title>
       <Forenames>Frederick Wi</Forenames>
-      <Text>l l iam, K.C.B., K.C.M.G., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +306,10 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>tus, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +335,9 @@
     <MainItem>
       <Key>Liddall</Key>
       <Forenames>Walter Sydney</Forenames>
-      <Text>, J.P., M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +354,9 @@
       <Key>Lidierth</Key>
       <Title>Maj.</Title>
       <Forenames>John Eugene</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +381,10 @@
       <Key>Ling</Key>
       <Title>Col. (Hon. . Brig.)</Title>
       <Forenames>Christopher George</Forenames>
-      <Text>, D.S.O., M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +443,11 @@
     <MainItem>
       <Key>Lochhead</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., M.D., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +466,9 @@
       <Key>Lock</Key>
       <Title>Col. (local Maj.-Gen.)</Title>
       <Forenames>Robert Ferguson</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +501,9 @@
     <MainItem>
       <Key>Logue</Key>
       <Forenames>Lionel</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +555,10 @@
       <Key>Loraine</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Percy Lyham</Forenames>
-      <Text>, Bt., K.C.M.G., Knighti Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +567,10 @@
       <Key>Lord</Key>
       <Title>Col.</Title>
       <Forenames>John Ernest Cecil</Forenames>
-      <Text>, C.M.G., D.S.O., V.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +578,9 @@
     <MainItem>
       <Key>Lothian</Key>
       <Forenames>Arthur Cunningham</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +621,9 @@
     <MainItem>
       <Key>Lowther</Key>
       <Forenames>John</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +661,9 @@
       <Key>Lumley-Smith</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas Gabriel Lumley</Forenames>
-      <Text>, D.S.O., F.S.A., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -616,8 +671,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lynn</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Joseph, B. A., D.D., Commander, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Joseph</Forenames>
+      <Text>, B. A., D.D., Commander, Order of the British Empire</Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +700,9 @@
     <MainItem>
       <Key>Macadam</Key>
       <Forenames>Ivison Stevenson</Forenames>
-      <Text>, C. B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +710,10 @@
     <MainItem>
       <Key>Mac</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, Lt.-Col. Sir Charles Glen, T.D., M.P., Officer, Order of St. John of . Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +722,10 @@
       <Key>McCalmont</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Robert Chaine Alexander</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +733,9 @@
     <MainItem>
       <Key>McComas</Key>
       <Forenames>Cyril Henry</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +771,11 @@
       <Key>McCulloch</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Andrew Jameson</Forenames>
-      <Text>, C.B., D.S.O., D.C.M., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,7 +784,9 @@
       <Key>McDonald</Key>
       <Title>Sir</Title>
       <Forenames>James Gordon</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -253,7 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardale</Key>
-      <Text>P. J</Text>
+      <Forenames>P. J.</Forenames>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,6 +289,13 @@
     <MainItem>
       <Key>Cradock-Hartopp</Key>
       <Forenames>K. A.</Forenames>
+      <PageNumber>8104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Longueuill</Key>
+      <Forenames>R. C. G.</Forenames>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +784,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V. G</Text>
+      <Forenames>J. de V</Forenames>
+      <Text>. G</Text>
       <PageNumber>8104</PageNumber>
     </MainItem>
   </ItemGroup>

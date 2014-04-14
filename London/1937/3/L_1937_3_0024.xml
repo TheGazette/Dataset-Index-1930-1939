@@ -572,8 +572,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. M. Du P.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>M. Du P</Forenames>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1058,6 +1058,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Straubenzee</Key>
+      <Forenames>H. H.</Forenames>
+      <PageNumber>5511</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Van</Key>
       <Text>der Gucht, H. B</Text>
       <PageNumber>5443</PageNumber>
@@ -1102,8 +1109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigors</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1795,7 +1801,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>M. O.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4953</PageNumber>
     </MainItem>
   </ItemGroup>

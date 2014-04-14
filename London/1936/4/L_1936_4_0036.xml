@@ -656,6 +656,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bruyne</Key>
+      <Forenames>G .</Forenames>
+      <PageNumber>6279</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>7127</PageNumber>
+      <PageNumber>7128</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dangerfield</Key>
       <Forenames>A. H.</Forenames>
       <PageNumber>7128</PageNumber>
@@ -678,8 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devereux</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>7128</PageNumber>
       <PageNumber>7821</PageNumber>
     </MainItem>
@@ -921,8 +935,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M .</Forenames>
       <PageNumber>7128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1467,8 +1481,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>6614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1576,8 +1589,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>C. O'B</Forenames>
       <PageNumber>6436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1739,8 +1751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faunce</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>6911</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Braddon</Key>
       <Forenames>Paul Dudley</Forenames>
-      <Text>, M.B., F.R.C.S., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +90,10 @@
       <Key>Broadbridge</Key>
       <Title>Sir</Title>
       <Forenames>George Thomas</Forenames>
-      <Text>, Bt., K.C.V.O., Member of Parliament for City of London</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +126,11 @@
       <Key>Brooke</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Geoffry Francis Heremon</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +141,9 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Walter Headfort</Forenames>
-      <Text>, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +170,10 @@
     <MainItem>
       <Key>Browett</Key>
       <Forenames>Leonard</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +223,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Harry Percy</Forenames>
-      <Text>, C.M.G., M.B.E., M.I.E.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +256,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Vera</Forenames>
-      <Text>, Mrs., M.D., B.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +267,11 @@
       <Key>Brown</Key>
       <Title>Sir</Title>
       <Forenames>William BarrowCable</Forenames>
-      <Text>, Eric Grant, Companion, clough, K.C.M.G., C.B. Order of St. Michael and C.B.E., Knight ComSt. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +288,10 @@
     <MainItem>
       <Key>Browning</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. son, Member, Order of the Albert Quintus, T.D., British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +302,9 @@
       </Key>
       <Title>Hon.</Title>
       <Forenames>Jean Hamilton</Forenames>
-      <Text>, Canning, Albert, M.B.E., Extra Woman of the Officer, Order of he British Bedchamber to H.M. Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +329,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Buccleuch</Key>
-      <Text>and Queensberry, Archdeacon Charles Colonel His Grace the Edward, Officer, Order of Duke of, P.C., G.C.V.O., the British Empire</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,14 +361,20 @@
       <PageNumber>2857</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>C.M.G., M.V.O., ComCassels, John William, Officer, mander, Royal Victorian Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burland</Key>
-      <Text>' Alfred Richard, ServK.B.E.: ing Brother, Order of St. King's Counsel</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +399,9 @@
     <MainItem>
       <Key>Busby</Key>
       <Forenames>Robert Lancelot</Forenames>
-      <Text>, M.C., Member, Order of the Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3699</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -302,9 +302,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Buisson</Forenames>
-      <Text>, J. M</Text>
+      <Key>Du Buisson</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>EwinyB</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L .</Forenames>
       <PageNumber>3788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,8 +1080,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grenfell</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>4213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,7 +1654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Irvine</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L.</Forenames>
       <PageNumber>4040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1756,7 +1754,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>4039</PageNumber>
     </MainItem>
   </ItemGroup>

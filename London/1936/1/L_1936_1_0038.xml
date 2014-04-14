@@ -805,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenton</Key>
-      <Text>S</Text>
+      <Forenames>S.</Forenames>
       <PageNumber>1899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,7 +873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Forenames>H. Du P.</Forenames>
+      <Forenames>H. Du P</Forenames>
       <PageNumber>820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Simon</Key>
-      <Text>C. R. M. D. O'C</Text>
+      <Forenames>C. R. M. D. O'C</Forenames>
       <PageNumber>2076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Frankis</Key>
-      <Text>J. E. '</Text>
+      <Forenames>J. E.</Forenames>
+      <Text>'</Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,8 +1380,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Forenames>P.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. de G</Forenames>
       <PageNumber>1819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,7 +1633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbons</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1654,7 +1654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>GibsonA</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>732</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1992,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>J. M</Text>
+      <Forenames>J. M</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>

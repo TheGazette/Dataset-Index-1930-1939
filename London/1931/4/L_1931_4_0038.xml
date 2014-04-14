@@ -82,8 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvest</Key>
-      <Forenames>G. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. A. de V</Forenames>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1258,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Text>R. C Meers, R. A Meggy, E. It</Text>
+      <Forenames>R. C</Forenames>
+      <Text>Meers, R. A Meggy, E. It</Text>
       <PageNumber>7413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1475,15 +1475,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, C. S. F. O'R</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>C. S. F. O'R</Forenames>
       <PageNumber>6466</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, H. C</Text>
+      <Key>O'Kill</Key>
+      <Forenames>H. C .</Forenames>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,7 +1809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reford</Key>
-      <Text>L. B. H</Text>
+      <Forenames>L. B. H.</Forenames>
       <PageNumber>7158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,7 +1851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rintoul</Key>
-      <Text>R. T</Text>
+      <Forenames>R. T .</Forenames>
       <PageNumber>7413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1874,7 +1874,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>J. R</Text>
+      <Forenames>J. R.</Forenames>
       <PageNumber>7413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1890,7 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodgers</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M.</Forenames>
       <PageNumber>7584</PageNumber>
     </MainItem>
   </ItemGroup>

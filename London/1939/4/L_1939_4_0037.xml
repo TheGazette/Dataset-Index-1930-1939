@@ -1214,7 +1214,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaccon</Key>
-      <Text>B</Text>
+      <Forenames>B.</Forenames>
       <PageNumber>8581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaisford-St</Key>
-      <Text>Lawrence, C. H</Text>
+      <Forenames>Lawrence</Forenames>
+      <Text>, C. H</Text>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2048,8 +2049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibb</Key>
-      <Forenames>C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. de W</Forenames>
       <PageNumber>8086</PageNumber>
     </MainItem>
   </ItemGroup>

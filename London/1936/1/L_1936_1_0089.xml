@@ -149,7 +149,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>1104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Ellen</Forenames>
+      <Title>Ellen .</Title>
       <PageNumber>642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +608,7 @@
   <ItemGroup>
     <MainItem>
       <Key>B</Key>
-      <Text>. Benson</Text>
+      <Forenames>Benson</Forenames>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benson</Key>
-      <Text>, B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>Ernest</Forenames>
+      <Title>Ernest .</Title>
       <PageNumber>779</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +705,8 @@
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>. J. Baggott and Son</Text>
+      <Forenames>J. Baggott</Forenames>
+      <Text>and Son</Text>
       <PageNumber>1281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +755,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarkson</Key>
-      <Forenames>Edith</Forenames>
+      <Title>Edith .</Title>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +778,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cohen</Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>. E. Tearle and Co</Text>
+      <Forenames>E. Tearle</Forenames>
+      <Text>and Co</Text>
       <PageNumber>1530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,14 +867,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Erridge</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>1433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Fagin</Key>
-      <Forenames>Jacob</Forenames>
+      <Title>Jacob .</Title>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fa</Key>
-      <Text>.wthrop, Arthur William</Text>
+      <Text>wthrop, Arthur William</Text>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnegan</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>1209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,7 +958,8 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>. Atherton and Co</Text>
+      <Forenames>Atherton</Forenames>
+      <Text>and Co</Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,7 +1047,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Text>late Paul Henry</Text>
+      <Title>late</Title>
+      <Forenames>Paul Henry</Forenames>
       <PageNumber>1432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,28 +1098,30 @@
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. Noller</Text>
+      <Forenames>Noller</Forenames>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. Swiel and Co</Text>
+      <Forenames>Swiel</Forenames>
+      <Text>and Co</Text>
       <PageNumber>351</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. H. Fawthrop</Text>
+      <Forenames>H. Fawthrop</Forenames>
       <PageNumber>1360</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>J</Key>
-      <Text>. H. Gee and Co</Text>
+      <Forenames>H. Gee</Forenames>
+      <Text>and Co</Text>
       <PageNumber>427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Larkin</Key>
-      <Forenames>Irene</Forenames>
+      <Title>Irene .</Title>
       <PageNumber>1112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1259,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maizels</Key>
-      <Forenames>Millinery Co</Forenames>
+      <Forenames>Millinery</Forenames>
+      <Text>Co</Text>
       <PageNumber>1530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,21 +1297,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Obrart</Key>
-      <Forenames>Isaac</Forenames>
+      <Title>Isaac .</Title>
       <PageNumber>1030</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, William Joy Honnor</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>William Joy Honnor</Forenames>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>P</Key>
-      <Text>. Buckle, and Son</Text>
+      <Forenames>Buckle</Forenames>
+      <Text>, and Son</Text>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1354,7 +1362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>. H. N. Cook</Text>
+      <Forenames>H. N. Cook</Forenames>
       <PageNumber>1792</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1382,7 +1390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robert</Key>
-      <Forenames>Taylor</Forenames>
+      <Title>Taylor .</Title>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1534,21 +1542,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Sydney</Key>
-      <Forenames>Haye</Forenames>
+      <Title>Haye .</Title>
       <PageNumber>1113</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tattersall</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Fred</Forenames>
+      <Title>Fred .</Title>
       <PageNumber>581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,23 +1675,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Ansell</Key>
-      <Title>Geo.</Title>
-      <Forenames>Wm</Forenames>
-      <Text>., and Sons</Text>
+      <Title>Geo. Wm.</Title>
+      <Text>, and Sons</Text>
       <PageNumber>352</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barker</Key>
-      <Forenames>Herbert</Forenames>
+      <Title>Herbert .</Title>
       <PageNumber>1114</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Barnes</Key>
-      <Text>, H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>885</PageNumber>
     </MainItem>
   </ItemGroup>

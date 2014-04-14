@@ -30,7 +30,11 @@
     <MainItem>
       <Key>Morgan-Owen</Key>
       <Title>Maj.</Title>
-      <Text>-Oen. Llewellyn Isaac Gethin, C.M.G., C.B.E., D.S.O., Companion, Order of the . Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +60,9 @@
       <Key>Morris</Key>
       <Title>Maj. (QuarterMaster)</Title>
       <Forenames>Frederick Mon-</Forenames>
-      <Text>tague Augustus, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +72,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Joseph</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to La Paz</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +89,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Text>. Alice Mable, Mrs., J.P., Commander, Order of the British Empire</Text>
+      <Forenames>Alice Mable</Forenames>
+      <Text>, Mrs., J.P., Commander, Order of the British Empire</Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +105,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Moynihan</Key>
-      <Text>the Lord, K.C.M.G., C.B., F.R.C.S., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +133,9 @@
       <Key>Mullen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Leslie Mil-</Forenames>
-      <Text>tiades, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +143,10 @@
     <MainItem>
       <Key>Munro</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E.. M.C.. Serving Brother; Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +155,10 @@
       <Key>Munroe</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>Hugh Edwin</Forenames>
-      <Text>. O.B.E., V.D., M.D., L.R.C.P.&amp;S. Ed., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +204,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Narayan</Key>
-      <Text>' Bhanja Deo, The Hon. Raja Rajendra, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +266,11 @@
       <Key>Nicholson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Octavius Henry Lothian</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>NormahyoWrrnt</Key>
-      <Text>.' Off., Class II, Quart.-Sgta /.Thomas, Member, Order of the British (Empire</Text>
+      <Text>' Off., Class II, Quart.-Sgta /.Thomas, Member, Order of the British (Empire</Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +319,9 @@
       <Key>Noyce</Key>
       <Title>Sir</Title>
       <Forenames>Frank</Forenames>
-      <Text>, C.S.I., C.B.E., Knight Commander; Order of the Star of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +329,9 @@
     <MainItem>
       <Key>Nunan</Key>
       <Title>Maj.</Title>
-      <Text>, William, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +340,11 @@
       <Key>Oldfield</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Leopold Charles Louis</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +359,9 @@
     <MainItem>
       <Key>Onslow</Key>
       <Title>Col.</Title>
-      <Text>the Earl of, O.B.E., P.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,8 +375,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, William. Member, Order of the British Empire</Text>
+      <Key>O'Shea</Key>
+      <Title>William.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +404,10 @@
       <Key>Ovey</Key>
       <Title>Sir</Title>
       <Forenames>Esmond</Forenames>
-      <Text>, K.C.M.G., M.V.O., H.M. Ambassador Extraordinary and Plenipotentiary to H.M. the King of the Belgians, and Envoy Extraordinary and Minister Plenipotentiary to H.R.H. the Grand Duchess of Luxemburg</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +416,10 @@
       <Key>Packe</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Edward</Forenames>
-      <Text>, M.V.O., O.B.E., Gentleman Usher in Ordinary to H.M. The King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +443,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>. George. Member, Order of the British Empire</Text>
+      <Title>George.</Title>
+      <Forenames>Member</Forenames>
+      <Text>, Order of the British Empire</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +453,9 @@
     <MainItem>
       <Key>Pape</Key>
       <Forenames>William George</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +464,9 @@
       <Key>Parry</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Cyril Lawes</Forenames>
-      <Text>, M.C., . Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +475,9 @@
       <Key>Parson</Key>
       <Title>Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,15 +492,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Patrick</Key>
-      <Forenames>Paul Joseph Com-</Forenames>
-      <Text>panion, Order of the Star of India</Text>
+      <Forenames>Paul Joseph</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pattinson</Key>
-      <Text>. Robert, J.P. D.L., Knight .'</Text>
+      <Forenames>Robert</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +529,9 @@
     <MainItem>
       <Key>Peacock</Key>
       <Forenames>Edward Robert</Forenames>
-      <Text>, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +557,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Peat</Key>
-      <Text>. Gilbert Bamfylde, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +627,9 @@
       <Key>Phipps</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Eric Clare Edmund</Forenames>
-      <Text>, K.C.M.G., O.V.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +660,9 @@
     <MainItem>
       <Key>Pilling</Key>
       <Forenames>Henry Guy</Forenames>
-      <Text>, C.M.G., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +676,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitkeathly</Key>
-      <Text>. James Scott, C.M.G., CLE., C.V.O., C.B.E., D.S.O., Kniglit</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,14 +689,18 @@
     <MainItem>
       <Key>Pitt</Key>
       <Forenames>Henry Arthur</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Player</Key>
-      <Text>. William John Percy, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>

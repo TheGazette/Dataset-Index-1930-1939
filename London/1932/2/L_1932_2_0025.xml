@@ -13,8 +13,8 @@
     <MainItem>
       <Key>Daunt</Key>
       <Title>Miss</Title>
-      <Forenames>Dorothea O</Forenames>
-      <Text>'Neill, Member, Order of the British.Empire</Text>
+      <Forenames>Dorothea O'Neill</Forenames>
+      <Text>, Member, Order of the British.Empire</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +69,9 @@
       <Key>Davies-Colley</Key>
       <Title>Temp. Maj.</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,7 +135,9 @@
     <MainItem>
       <Key>Day</Key>
       <Forenames>Albert Cecil</Forenames>
-      <Text>, C.M.G., C. B.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,10 +163,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Eric</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>3570</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Grasse</Forenames>
       <Text>, William Bruce Mortimer, Unofficial Member, Legislative Council of Saint Christopher and Nevis</Text>
       <PageNumber>2563</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>St. Yves Daniel</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -229,7 +254,9 @@
       <Key>Dew</Key>
       <Title>Major</Title>
       <Forenames>Joseph Turner</Forenames>
-      <Text>, M.B.E., V.D., Unofficial Member of the Executive Council of the Presidency of Antigua</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +281,11 @@
       <Key>Dick-Cunyngham</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>James Keith</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +310,11 @@
       <Key>Douglas</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Henry Edward Manning</Forenames>
-      <Text>, V.C., C. M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +348,9 @@
     <MainItem>
       <Key>Dreyer</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Frederic Charles, OB., O.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +374,9 @@
     <MainItem>
       <Key>Drysdale</Key>
       <Forenames>Charles Vickery</Forenames>
-      <Text>, 0. B.E., D.Sc, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +392,9 @@
       <Key>Duffy</Key>
       <Title>the Hon. Sir Frank .</Title>
       <Forenames>Gavan</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +403,9 @@
       <Key>Dunedin</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Andrew Graham</Forenames>
-      <Text>, Viscount, G.C.V.O., Crown Office annuity</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>2299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +471,10 @@
     <MainItem>
       <Key>Ellis</Key>
       <Forenames>Robert Geoffrey</Forenames>
-      <Text>, J.P., D. L., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4210</PageNumber>
     </MainItem>
@@ -553,7 +599,9 @@
     <MainItem>
       <Key>Fazl-i-Husain</Key>
       <Forenames>Khan Bahadur Mian</Forenames>
-      <Text>Sir, K.C.I.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +633,13 @@
       <Key>Fergusson</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Bt., G.C.M.G., K.C.B., D.S.O., M.V.O., LL.D., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,7 +690,9 @@
     <MainItem>
       <Key>Fladgate</Key>
       <Forenames>William Francis</Forenames>
-      <Text>, M.P., J.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -646,7 +702,9 @@
       <Key>Fleming</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>George</Forenames>
-      <Text>, D.S.O., Commander,' Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>

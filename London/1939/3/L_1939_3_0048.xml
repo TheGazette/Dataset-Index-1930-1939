@@ -278,8 +278,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grigson</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>P. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>4926</PageNumber>
       <PageNumber>6062</PageNumber>
     </MainItem>
@@ -472,7 +472,9 @@
       <Key>Gunston</Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +653,10 @@
     <MainItem>
       <Key>Haggerston</Key>
       <Title>Sir</Title>
-      <Forenames>H. C.</Forenames>
-      <Text>de M., Bt</Text>
+      <Forenames>H. C. de M</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1060,7 +1064,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ham</Key>
-      <Text>. D. G</Text>
+      <Forenames>D. G</Forenames>
       <PageNumber>6408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1960,8 +1964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvard</Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de J</Text>
+      <Forenames>J. P. de J</Forenames>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>

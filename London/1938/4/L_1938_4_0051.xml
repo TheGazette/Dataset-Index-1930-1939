@@ -184,8 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poison</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>6638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,8 +517,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rayner</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>I. St. J</Forenames>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,8 +644,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C. B</Text>
+      <Forenames>G. St. C</Forenames>
+      <Text>. B</Text>
       <PageNumber>8250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,7 +1213,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F.</Forenames>
       <PageNumber>6822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,15 +1346,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, E. F</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>7922</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, P. C. B</Text>
+      <Key>St. John</Key>
+      <Forenames>P. C. B.</Forenames>
       <PageNumber>6820</PageNumber>
       <PageNumber>7694</PageNumber>
     </MainItem>

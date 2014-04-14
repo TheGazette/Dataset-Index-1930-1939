@@ -91,7 +91,9 @@
     <MainItem>
       <Key>Abbott</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E., H.M. Consul-General at Sao Paulo</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +127,10 @@
       <Key>Allfrey</Key>
       <Title>Capt. and Bvt. Maj.</Title>
       <Forenames>Charles Walter</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +139,9 @@
       <Key>Ash</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Ernest Arthur</Forenames>
-      <Text>, D.S.O., Unofficial Member of the Federal Council of the Federated Malay States</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +213,9 @@
     <MainItem>
       <Key>Black</Key>
       <Forenames>Archibald Campbell</Forenames>
-      <Text>, O.B.E., K.C., Sheriff of Stirling, Dumbarton and Clackmannan</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7279</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +231,9 @@
     <MainItem>
       <Key>Brabourne</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, M.C., Additional Knight Grand Commander Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +258,10 @@
     <MainItem>
       <Key>Breese</Key>
       <Forenames>Air Comm</Forenames>
-      <Text>. Charles . Dempster, A.F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +285,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>Smith, Capt. Walter, O.M.G., M.C., Lieutenant-Governor of the Southern Provinces of Nigeria</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +305,10 @@
       <Key>Butler</Key>
       <Title>Sir</Title>
       <Forenames>Montagu Sherard Dawes</Forenames>
-      <Text>, K.C.S.I., C.B., C. I.E., O.V.O., C.B.E., Lieutenant-Governor of the Isle of Man</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +347,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Gerald</Forenames>
-      <Text>, C.M.G., H.M. Consul-General for the Islands of St. Pierre and Miquelon</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +357,9 @@
     <MainItem>
       <Key>Carr</Key>
       <Forenames>Edward Hallett</Forenames>
-      <Text>, C.B.E., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +367,9 @@
     <MainItem>
       <Key>Cassells</Key>
       <Forenames>Hugh Hutchison</Forenames>
-      <Text>, M.V.O., H.M. Consul at Lyons</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +393,9 @@
     <MainItem>
       <Key>Chilston</Key>
       <Forenames>Aretas</Forenames>
-      <Text>, Viscount, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary at Moscow</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +404,11 @@
       <Key>Clark</Key>
       <Title>Maj.</Title>
       <Forenames>Percy William</Forenames>
-      <Text>, D. S.O., M.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +425,10 @@
       <Key>Clerk</Key>
       <Title>Sir</Title>
       <Forenames>George Russell</Forenames>
-      <Text>, G. C.M.G., C.B., H.M. Ambassador Extraordinary and Plenipotentiary to H.M. the King of the Belgians and H.M. Envoy Extraordinary and Minister Plenipotentiary to H. R.H. the Grand Duchess of Luxemburg</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8219</PageNumber>
     </MainItem>
   </ItemGroup>

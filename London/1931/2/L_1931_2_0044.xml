@@ -311,15 +311,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J .</Forenames>
       <PageNumber>2336</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowda, J. W</Text>
+      <Key>O'Dowda</Key>
+      <Forenames>J. W.</Forenames>
       <PageNumber>3842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prioleau</Key>
-      <Text>O. P. J</Text>
+      <Forenames>O. P. J.</Forenames>
       <PageNumber>3325</PageNumber>
       <PageNumber>3325</PageNumber>
     </MainItem>
@@ -961,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biddulph</Key>
-      <Text>R</Text>
+      <Forenames>R</Forenames>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>

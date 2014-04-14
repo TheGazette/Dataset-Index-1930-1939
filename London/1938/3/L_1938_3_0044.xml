@@ -921,6 +921,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>5482</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dehnys</Key>
       <Forenames>R. E.</Forenames>
       <PageNumber>4885</PageNumber>
@@ -930,8 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devereux</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>5483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +967,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faunce</Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,8 +1196,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macartney</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,8 +1233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallock</Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>A. R. de H</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,8 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton-Stewart</Key>
-      <Forenames>I. C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>I. C. de W</Forenames>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,8 +1332,11 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M., D.S.O</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M.</Forenames>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B</Forenames>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,8 +1501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockwell</Key>
-      <Forenames>G. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. F. St. C</Forenames>
       <PageNumber>5895</PageNumber>
     </MainItem>
   </ItemGroup>

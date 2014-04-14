@@ -5,7 +5,9 @@
       <Key>Dean</Key>
       <Title>Maj.</Title>
       <Forenames>Frederick John</Forenames>
-      <Text>, T.D., Member, Order of the British Empire'</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -16,7 +18,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,10 +35,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Levante</Forenames>
-      <Text>, Miss Fanny Mabel Margaret, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Key>De Levante</Key>
+      <Title>Miss</Title>
+      <Forenames>Fanny Mabel Margaret</Forenames>
+      <Text>, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>4240</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lotbiniere</Key>
+      <Forenames>Henri</Forenames>
+      <Text>de Caila, Member, Order of the British Empire</Text>
+      <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -65,7 +78,9 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Silva</Forenames>
-      <Text>, Arthur Marcelles, F.R.C.S., L.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +116,10 @@
       <Key>Digby</Key>
       <Title>Major (Hon. Colonel, T.A.)</Title>
       <Forenames>Edward Kenelm</Forenames>
-      <Text>, D. S.O., M.C., one of His Majesty's Body Guard of the Honourable Corps of Gentlemen-at-Arms</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,14 +130,18 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>Kenneth Hutchinson</Forenames>
-      <Text>, M.B., B.S., F.R.C.S., L.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>D</Key>
-      <Text>i g g i n s, Maj. (Qrmr.) Frederick James M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +150,9 @@
       <Key>Dimoline</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Alfred</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +176,10 @@
     <MainItem>
       <Key>Dixon</Key>
       <Title>Capt.</Title>
-      <Text>the Rt. Hon. Herbert, O.B.E., M.P., Baron</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +214,9 @@
       <Key>Doggett</Key>
       <Title>Miss</Title>
       <Forenames>Ethel Annie</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +234,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Coote</Forenames>
-      <Text>, M.C., Companion, Order of. the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +244,9 @@
     <MainItem>
       <Key>Dosabhai</Key>
       <Forenames>Framji Panthaki</Forenames>
-      <Text>, M.B.E., Associate Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +264,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George Purves</Forenames>
-      <Text>, M.C., D.Sc, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +301,9 @@
     <MainItem>
       <Key>Downie</Key>
       <Forenames>Harold Frederick</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +321,10 @@
       <Key>Drummond</Key>
       <Title>Col. the Hon.</Title>
       <Forenames>Maurice Charies Andrew</Forenames>
-      <Text>, C.M.G., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +340,11 @@
     <MainItem>
       <Key>Dugan</Key>
       <Title>Maj.</Title>
-      <Text>-General Sir Winston Joseph, K.C.M.G., C.B., D.S.O., Governor of the State of Victoria and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +360,11 @@
     <MainItem>
       <Key>Duke</Key>
       <Forenames>Robert Norman</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +457,10 @@
       <Key>Eady</Key>
       <Title>(Crawfurd)</Title>
       <Forenames>Wilfrid Griffin</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +476,10 @@
     <MainItem>
       <Key>Easterbrook</Key>
       <Title>Qr.</Title>
-      <Text>-Mr. &amp; Hon. Maj. Claude Cadman, D. S.O., M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +503,11 @@
     <MainItem>
       <Key>Edward-Collins</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral George Frederick Basset, C.B., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +582,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Henry Horace Andrews</Forenames>
-      <Text>, D.S.O., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +610,11 @@
       <Key>Errington</Key>
       <Title>Col.</Title>
       <Forenames>Roger</Forenames>
-      <Text>, M.C., T.D., M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,8 +670,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Edward Macey, Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Edward Macey</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +682,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Victor</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>

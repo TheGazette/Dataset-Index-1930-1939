@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Cross</Key>
       <Forenames>Ronald Hibbert</Forenames>
-      <Text>, M.P. for Rotherham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Crossley</Key>
       <Forenames>Anthony Orommelin</Forenames>
-      <Text>, M.P. for Oldham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,10 @@
       <Key>Cruddas</Key>
       <Title>Colonel</Title>
       <Forenames>Bernard</Forenames>
-      <Text>, D.S.O., M.P. for Wansbeck</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +44,9 @@
     <MainItem>
       <Key>Oulverwell</Key>
       <Forenames>Cyril Tom</Forenames>
-      <Text>, M.P. for Bristol, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +55,11 @@
       <Key>Cunliffe-Lister</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, G.B.E., M.C., M.P. for Hendon</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +71,9 @@
     <MainItem>
       <Key>Curry</Key>
       <Forenames>Aaron Charlton</Forenames>
-      <Text>, M.P. for Bishop Auckland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +81,9 @@
     <MainItem>
       <Key>Daggar</Key>
       <Forenames>George</Forenames>
-      <Text>, M.P. for Abertillery</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +92,9 @@
       <Key>Dalkeith</Key>
       <Title>Colonel</Title>
       <Forenames>Walter John Montagu-DouglasScott</Forenames>
-      <Text>, Earl of, M.P. for Roxburgh and Selkirk</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,11 +111,16 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>Rt</Forenames>
-      <Text>; Hon. John Colin Campbell, C.H., C.B., Chancellor of the Duchy of Lancaster</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7311</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Hemel Hempsted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -104,7 +128,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Clement</Forenames>
-      <Text>, M.P. for Montgomery</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +140,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>David Lewis</Forenames>
-      <Text>, M.P. for Pontypridd</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +153,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.P. for Yeovil</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +175,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Rhys John</Forenames>
-      <Text>M.P. for Westhoughton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +186,10 @@
       <Key>Davison</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, K.B.E., M.P. for Kensington, South</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,8 +198,20 @@
       <Key>Dawson</Key>
       <Title>Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, Kt., M.P. for Lewisham, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rothschild</Key>
+      <Forenames>James Armand Edmond</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -172,7 +219,9 @@
       <Key>Denman</Key>
       <Title>Hon.</Title>
       <Forenames>Richard Douglas</Forenames>
-      <Text>, M.P. for Leeds, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,14 +229,18 @@
     <MainItem>
       <Key>Denville</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, M.P. for , ' Newcastle upon Tyne, ' Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Despenoer</Key>
-      <Text>Robertson, Maj. James Archibald St. George Fitzwarenne, M.P. for Salisbury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +256,9 @@
     <MainItem>
       <Key>Devlin</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, M.P. for Fermanagh and Tyrone</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +266,9 @@
     <MainItem>
       <Key>Dickie</Key>
       <Forenames>John Purcell</Forenames>
-      <Text>, M.P. for Oonsett</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +276,9 @@
     <MainItem>
       <Key>Dixey</Key>
       <Forenames>Arthur Carlyne Niven</Forenames>
-      <Text>, M.P. for Penrith and Cockermouth'</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +287,9 @@
       <Key>Dixon</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Her-</Forenames>
-      <Text>bert, M.P. for Belfast, East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +297,9 @@
     <MainItem>
       <Key>Donner</Key>
       <Forenames>Patrick William</Forenames>
-      <Text>, M.P. for Islington, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,21 +307,27 @@
     <MainItem>
       <Key>Doran</Key>
       <Forenames>Edward</Forenames>
-      <Text>, M.P. for Tottenham, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>and Clydesdale, ., , Douglas Hamilton, Marquess of, M.P. for East .. -Renfrew</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dower</Key>
-      <Text>,, Alan Vincent Gandar, . . -M.P. for Stockport . '</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +335,9 @@
     <MainItem>
       <Key>Drowo</Key>
       <Forenames>Cedric</Forenames>
-      <Text>, M.P. for .: . Honiton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +345,9 @@
     <MainItem>
       <Key>Duckworth</Key>
       <Forenames>George Arthur Victor</Forenames>
-      <Text>, M.P. for Shrewsbury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +356,9 @@
       <Key>Dugdale</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Lionol</Forenames>
-      <Text>, M.P. for Richmond, York</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +366,9 @@
     <MainItem>
       <Key>Duggan</Key>
       <Forenames>Hubert John</Forenames>
-      <Text>, M.P. . for Acton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +376,9 @@
     <MainItem>
       <Key>Duncan</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.P. for Clay Cross</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +398,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James Alexander Law-</Forenames>
-      <Text>son, M.P. for Kensington, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +409,9 @@
       <Key>Dunglass</Key>
       <Title>Captain</Title>
       <Forenames>Alexander Frederick Douglas Home</Forenames>
-      <Text>, Lord, M.P. for Lanark</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +419,9 @@
     <MainItem>
       <Key>Eady</Key>
       <Forenames>George Hathaway</Forenames>
-      <Text>, M.P. for Bradford, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +429,9 @@
     <MainItem>
       <Key>Eales</Key>
       <Forenames>John Frederick</Forenames>
-      <Text>, K.C., M.P. for Erdington</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +439,9 @@
     <MainItem>
       <Key>Eastwood</Key>
       <Forenames>John Francis</Forenames>
-      <Text>, M.P. for Kettering</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +449,9 @@
     <MainItem>
       <Key>Eden</Key>
       <Forenames>Robert Anthony</Forenames>
-      <Text>, M.P. for Warwick and Leamington</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +460,9 @@
       <Key>Edge</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Kt., M.P. for Bosworth</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +471,9 @@
       <Key>Edmondson</Key>
       <Title>Major</Title>
       <Forenames>Albert Jamos</Forenames>
-      <Text>, M.P. for Banbury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +481,10 @@
     <MainItem>
       <Key>Ednam</Key>
       <Forenames>William Humble Eric Ward</Forenames>
-      <Text>, Viscount, M.C., M.P. for Wednesbury</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,14 +492,16 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.P. for Bedwellty ;</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elibank</Key>
-      <Forenames>The Viscountess</Forenames>
+      <Title>The Viscountess</Title>
       <Text>, Order of Mercy ,</Text>
       <PageNumber>8253</PageNumber>
     </MainItem>
@@ -411,7 +511,10 @@
       <Key>Elliot</Key>
       <Title>Major</Title>
       <Forenames>Walter Elliot</Forenames>
-      <Text>, M.C., M.P. for Kelvingrove</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +522,9 @@
     <MainItem>
       <Key>Ellis</Key>
       <Forenames>Robert Geoffrey</Forenames>
-      <Text>, M.P. . for Winchester</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +532,9 @@
     <MainItem>
       <Key>Elliston</Key>
       <Forenames>George Sampson</Forenames>
-      <Text>, M.P. for Blackburn</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,14 +542,18 @@
     <MainItem>
       <Key>EJmley</Key>
       <Title>Viscount</Title>
-      <Text>, M.P. for Norfolk, Eastern</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Emmott</Key>
-      <Text>. Charles Ernest George Campbell, M.P. for Springburn ... :</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +561,9 @@
     <MainItem>
       <Key>Emrys-Evans</Key>
       <Forenames>Paul Vychan</Forenames>
-      <Text>, M.P. for Derby, Southern</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +578,9 @@
     <MainItem>
       <Key>Erskine</Key>
       <Forenames>John Francis Ashley</Forenames>
-      <Text>, Lord, M.P. for Westonsuper-Mare</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +589,9 @@
       <Key>Erskine-Bolst</Key>
       <Title>Capt.</Title>
       <Forenames>Clifford Charles Alan Lawrence</Forenames>
-      <Text>, M.P. for Blackpool</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,7 +599,9 @@
     <MainItem>
       <Key>Essenhigh</Key>
       <Forenames>Reginald Clare</Forenames>
-      <Text>, M.P. for Newton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +609,9 @@
     <MainItem>
       <Key>Evans</Key>
       <Forenames>Etnest</Forenames>
-      <Text>, M.P. for University of Wales</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +622,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Henry Arthur</Forenames>
-      <Text>, M.P. for Cardiff, South</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +634,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Richard Thomas</Forenames>
-      <Text>, M.P. for Carmarthen</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +661,10 @@
       <Key>Falkner</Key>
       <Title>Col. (local Brig.)</Title>
       <Forenames>Eric Felton</Forenames>
-      <Text>, C.M.G., D.S.O., Member of the Nominated Council of Malta</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +673,10 @@
       <Key>Falle</Key>
       <Title>Sir</Title>
       <Forenames>Bertram Godfray</Forenames>
-      <Text>, Bart., M.P. for Portsmouth, North</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +685,10 @@
       <Key>Ferguson</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.B.E., M.P. for Twickenham</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +696,9 @@
     <MainItem>
       <Key>Fermoy</Key>
       <Forenames>Edmund Maurice Burke</Forenames>
-      <Text>, Lord, M.P. for King's Lynn</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +706,9 @@
     <MainItem>
       <Key>Fielden</Key>
       <Forenames>Edward Brockle-</Forenames>
-      <Text>hurst, M.P. for Exchange, Manchester</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -579,7 +717,9 @@
       <Key>FitzRoy</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Etdward Algernon</Forenames>
-      <Text>, M.P. for Daventry</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +727,9 @@
     <MainItem>
       <Key>Flannagan</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, M.P. for Clayton</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +737,9 @@
     <MainItem>
       <Key>Fleming</Key>
       <Forenames>Edward Lascelles</Forenames>
-      <Text>, M.P. for Withington</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +747,9 @@
     <MainItem>
       <Key>Flint</Key>
       <Forenames>Abraham John</Forenames>
-      <Text>, M.P. for Ilkeston</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +757,9 @@
     <MainItem>
       <Key>Foot</Key>
       <Forenames>Dingle Mackintosh</Forenames>
-      <Text>, M.P. for Dundee</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +769,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Isaac</Forenames>
-      <Text>, M.P. for Bodmin</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +780,10 @@
       <Key>Ford</Key>
       <Title>Sir</Title>
       <Forenames>Patrick Johnston</Forenames>
-      <Text>, Bart., M.P. for Edinburgh, North</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +792,11 @@
       <Key>Forestier-Walker</Key>
       <Title>Sir</Title>
       <Forenames>Charles Leolin</Forenames>
-      <Text>, Bart., K.B.E., M.P. for Monmouth</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +805,10 @@
       <Key>Fraser</Key>
       <Title>Capt.</Title>
       <Forenames>William Jocelyn Ian</Forenames>
-      <Text>, C.B.E., M.P. for St. Pancras, North</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +816,9 @@
     <MainItem>
       <Key>Fremantle</Key>
       <Forenames>Francis Edward</Forenames>
-      <Text>, M.P. for St. Albans</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +826,9 @@
     <MainItem>
       <Key>French</Key>
       <Forenames>Lewis</Forenames>
-      <Text>, C.I.E., C.B.E., Official Member of the Executive Council of Palestine</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +836,9 @@
     <MainItem>
       <Key>Fuller</Key>
       <Forenames>Albert George</Forenames>
-      <Text>, M.P. for Ardwick</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +854,9 @@
     <MainItem>
       <Key>Galbraith</Key>
       <Forenames>James Francis Wallace</Forenames>
-      <Text>, M.P. for Surrey, Eastern</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +865,10 @@
       <Key>Ganzoni</Key>
       <Title>Sir</Title>
       <Forenames>Francis John Childs</Forenames>
-      <Text>, Bart., M.P. for Ipswich</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +877,10 @@
       <Key>Gault</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Andrew Hamilton</Forenames>
-      <Text>, D.S.O., M.P. for Taunton</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +889,10 @@
       <Key>George</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>David Lloyd</Forenames>
-      <Text>, O.M., M.P. for Carnarvon Boroughs</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +902,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Gwilym Lloyd</Forenames>
-      <Text>, M.P. for Pembroke</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +914,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Megan Arvon Lloyd</Forenames>
-      <Text>, M.P. for Accrington</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +941,9 @@
     <MainItem>
       <Key>Gibson</Key>
       <Forenames>Charles Granville</Forenames>
-      <Text>, M.P. for Pudsey and Otley</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -785,12 +968,16 @@
     <MainItem>
       <Key>Gillett</Key>
       <Forenames>George Masterman</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7409</PageNumber>
       <PageNumber>7658</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>M.P. for Finsbury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -799,7 +986,11 @@
       <Key>Gilmour</Key>
       <Title>Lt.-Col. The Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bart., D.S.O., M.P. for Pollok</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -807,7 +998,9 @@
     <MainItem>
       <Key>Gledhill</Key>
       <Forenames>Gilbert</Forenames>
-      <Text>, M.P. for Halifax</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +1008,9 @@
     <MainItem>
       <Key>Glossop</Key>
       <Forenames>Clifford William Hudson</Forenames>
-      <Text>, M.P. for Penistone</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -823,7 +1018,9 @@
     <MainItem>
       <Key>Gluckstein</Key>
       <Forenames>Louis Halle</Forenames>
-      <Text>, M.P. for Nottingham, East</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -832,7 +1029,9 @@
       <Key>Glyn</Key>
       <Title>Maj.</Title>
       <Forenames>Ralph George Campbell</Forenames>
-      <Text>, M.P. for Abingdon</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +1040,9 @@
       <Key>Goff</Key>
       <Title>Sir</Title>
       <Forenames>Park</Forenames>
-      <Text>, Kt., M.P. for Chatham</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -849,7 +1050,9 @@
     <MainItem>
       <Key>Goldie</Key>
       <Forenames>Noel Barre</Forenames>
-      <Text>, K.C., M.P. for Warrington</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7145</PageNumber>
     </MainItem>
   </ItemGroup>

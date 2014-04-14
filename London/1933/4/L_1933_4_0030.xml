@@ -225,8 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Forenames>I. A.</Forenames>
-      <Text>de H</Text>
+      <Forenames>I. A. de H</Forenames>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +261,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCann</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>6915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -792,7 +791,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>Sir J. N., Bt</Text>
+      <Title>Sir</Title>
+      <Forenames>J. N.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +857,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. P</Forenames>
       <PageNumber>8051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,8 +873,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. T</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. T.</Forenames>
       <PageNumber>7373</PageNumber>
       <PageNumber>7373</PageNumber>
     </MainItem>
@@ -901,8 +904,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, L. F</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>J. C</Text>
+      <Forenames>J. C</Forenames>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perrott</Key>
-      <Text>T. S</Text>
+      <Forenames>T. S</Forenames>
       <PageNumber>6915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,7 +1074,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Petre</Key>
-      <Text>Lord :</Text>
+      <Title>Lord</Title>
+      <Text>:</Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1216,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Potts</Key>
-      <Text>D. M. D</Text>
+      <Forenames>D. M. D.</Forenames>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1508,8 +1512,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, G. M</Text>
+      <Key>St. Leger</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>

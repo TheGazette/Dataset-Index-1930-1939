@@ -477,6 +477,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>M. V.</Forenames>
+      <PageNumber>7920</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dabinett</Key>
       <Forenames>H. I.</Forenames>
       <PageNumber>6202</PageNumber>
@@ -529,8 +536,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>B. B. St</Forenames>
-      <Text>. G. Dalzell, J. N</Text>
+      <Forenames>B. B. St. G</Forenames>
+      <Text>. Dalzell, J. N</Text>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +574,9 @@
       <Key>Dashwood</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,8 +609,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>E. St. H</Forenames>
       <PageNumber>7923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,8 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Forenames>D. T. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>D. T. St. H</Forenames>
       <PageNumber>7695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,6 +771,28 @@
       </Key>
       <Forenames>W. H</Forenames>
       <PageNumber>7198</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>6994</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Freitas</Key>
+      <Forenames>W. A. A.</Forenames>
+      <PageNumber>7355</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de St</Key>
+      <Forenames>Leger</Forenames>
+      <Text>, R. J. M</Text>
+      <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1389,8 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. H. de L</Forenames>
       <PageNumber>8251</PageNumber>
     </MainItem>
   </ItemGroup>

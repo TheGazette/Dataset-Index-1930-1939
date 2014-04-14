@@ -17,7 +17,9 @@
     <MainItem>
       <Key>Washington</Key>
       <Forenames>H.M. Consul</Forenames>
-      <Text>, John Campbell Thomson, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>6535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +218,9 @@
       <Key>Aird</Key>
       <Title>Major Sir</Title>
       <Forenames>John Renton</Forenames>
-      <Text>, Bt., M.C, Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +229,11 @@
       <Key>Alexander</Key>
       <Title>Major</Title>
       <Forenames>Ulick</Forenames>
-      <Text>, C.M.G., C.V.O., O.B.E., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6606</PageNumber>
       <PageNumber>8366</PageNumber>
     </MainItem>
@@ -252,7 +260,9 @@
     <MainItem>
       <Key>Baird</Key>
       <Forenames>Dugald</Forenames>
-      <Text>, B.Sc, M.D., D.P.H., F.C.O.G., Regius Professor of Midwifery in Aberdeen University</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
@@ -265,7 +275,10 @@
     <MainItem>
       <Key>Bamford</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Harry William Morrey, C.B.E., M.C., Nominated Official Member, Legislative Council, Gold Coast Colony</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7122</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +294,9 @@
     <MainItem>
       <Key>Beaufort</Key>
       <Forenames>Most Noble Henry Hugh Arthur Fitzroy</Forenames>
-      <Text>, Duke of, G.C.V.O. : Member, H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>6833</PageNumber>
     </MainItem>
     <SubItem>
@@ -295,7 +310,9 @@
     <MainItem>
       <Key>Bentinck</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Czechoslovak Republic</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +320,9 @@
     <MainItem>
       <Key>Blundell</Key>
       <Forenames>Henry S. Moss</Forenames>
-      <Text>, C.B.E., LL.D., Deputy Chairman, Herring Industry Board</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +331,10 @@
       <Key>Boyd</Key>
       <Title>Sir</Title>
       <Forenames>Harry</Forenames>
-      <Text>, K.C.V.O., C.B.E., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +359,9 @@
       <Key>Bullard</Key>
       <Title>Sir</Title>
       <Forenames>Reader William</Forenames>
-      <Text>, K.C.M.G., CLE., H.M. Etavoy Extraordinary and ... Minister Plenipotentiary to H.M. the King of Saudi Arabia</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +369,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Lord James Arthur, M.C., one of H.M. Body iGnard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +392,9 @@
     <MainItem>
       <Key>Carrara</Key>
       <Forenames>Arthur Charles</Forenames>
-      <Text>, C.M.G. Unofficial Member, Executive Council of the City and Garrison of Gibraltar</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +403,10 @@
       <Key>Carter</Key>
       <Title>Sir</Title>
       <Forenames>Archibald</Forenames>
-      <Text>, K.C.I.E., C.B., Member, Coronation iBxecutive Committee</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6606</PageNumber>
       <PageNumber>8365</PageNumber>
     </MainItem>
@@ -394,7 +425,13 @@
     <MainItem>
       <Key>Child</Key>
       <Title>Brig.</Title>
-      <Text>-General Sir Hill, Bt., C.B., C.M.G., C.V.O., D.S.O.,. Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6606</PageNumber>
       <PageNumber>8365</PageNumber>
     </MainItem>

@@ -341,7 +341,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,9 +722,8 @@
   <SubSectionTitle>Commands and Staff</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, G. H. B</Text>
+      <Key>De Chair</Key>
+      <Forenames>G. H. B</Forenames>
       <PageNumber>577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1678,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cartwright</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,7 +1722,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chadderton</Key>
-      <Text>T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>

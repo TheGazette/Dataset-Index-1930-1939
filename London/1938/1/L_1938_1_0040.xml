@@ -28,7 +28,9 @@
     <MainItem>
       <Key>Savage</Key>
       <Forenames>William George</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., D.P.H., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1069</PageNumber>
     </MainItem>
@@ -78,7 +80,10 @@
       <Key>Selby</Key>
       <Title>Sir</Title>
       <Forenames>Walford Harmood Montague</Forenames>
-      <Text>, K.C.M.G., C. B., C.V.O., H.M. Ambassador Extraordinary and Plenipotentiary to the Portuguese Republic</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +91,9 @@
     <MainItem>
       <Key>Self</Key>
       <Forenames>Albert Henry</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,17 +112,10 @@
       <Text>, Lady, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Sir</Title>
-      <Forenames>Richard</Forenames>
-      <Text>, Commander, Order of St. John of Jerusalem</Text>
+    <SubItem>
+      <Text>Sir Richard, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -129,7 +129,9 @@
     <MainItem>
       <Key>Seth</Key>
       <Forenames>Haji Abdoola Haroon</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,27 +176,13 @@
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Percival</Forenames>
-      <Text>, LL.D., Knight</Text>
-      <PageNumber>2</PageNumber>
-      <PageNumber>1069</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Henry Cart-</Forenames>
-      <Text>wright, K.C., Recorder, Wolverhampton</Text>
+    <SubItem>
+      <Text>
+        <PageNumber>2</PageNumber>
+        <PageNumber>1069</PageNumber>
+      </Text>
       <PageNumber>31</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -203,26 +191,10 @@
       <Text>, Member, Order of the British Empire ... ... ... n Shaw, George Edmund, Mem. . ber, Order of the British ' Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Joseph</Forenames>
-      <Text>, * Judge of the High Court of Judicature at Rangoon</Text>
+    <SubItem>
+      <Text>Joseph, * Judge of the High Court of Judicature at Rangoon</Text>
       <PageNumber>593</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Thomas Richard</Forenames>
-      <Text>, H.M. Vice-Consul at Bushire</Text>
-      <PageNumber>2006</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -241,46 +213,103 @@
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Peter McGregor, M.B., Ch.B., Officer, Order of the British Empire ... Sherwood, William John, J.P., Commander, Order of the British Empire ... Shihr and Mukalla, H.H. Sultan Salih Bin Ghalib Al Quaiti, Sultan of, Knight Commander, Order of St. Michael and St. George Shin Lok Shang, Dr., Associate Serving Brother, Order of St. John of Jerusalem ... ... ... Shivram Wamanji Patil, M.B.E., Associate Serving Brother, Order of St. John of Jerusalem ... .... Shrinivas Cupuswani Mudliar, Sardar, Commander, Order of the British Empire ... Sibly, Thomas Franklin, D.Sc, LL.D., Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Key>Shelley</Key>
+      <Title>Capt.</Title>
+      <Forenames>George Edward</Forenames>
+      <Text>, Member, Order of the British Empire ... ... Officer, Order of St. John of Jerusalem ... Shepherd, Edward Henry Gerald, H.M. ConsulGeneral at Danzig</Text>
+      <PageNumber>2004</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
-  <KeyDitto>—— ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sherwood</Key>
+      <Forenames>William John</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1069</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Sides</Key>
+      <Forenames>Thomas Jeffries</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
+      <PageNumber>1936</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Simpson</Key>
+      <Forenames>William Duncan</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>1841</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
-      <Forenames>William Henry</Forenames>
-      <Text>, Officer, Order of the British Empire ... ... ... Smith, Willdam Humphrey, Commander, Order of the n British Empire</Text>
+      <Forenames>Ella Louisa</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>2005</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>Thomas Stanley, Serving Brother, Order of St. John of Jerusalem ... Walter R., J.P., Member, Herring Industry Board</Text>
+      <PageNumber>1937</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Smith</Key>
+      <Forenames>Willdam Humphrey</Forenames>
+      <Text>, Commander, Order of the n British Empire</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Snow, Ernest Charles, D.Sc., 8 Commander, Order of the British Empire</Text>
+      <Text>Smurthwaite, John Scraftton, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Somers, Thomas Peter Miller, M.I.C.E., Commander, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sohrab S. Antia, Lt.-Col., 9 Associate Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
+      <PageNumber>1669</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Stenning, Miss Eva, Serving Sister^ Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Sterling, Herbert Harry, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>5 Sosale Garalapury Sastry, Associate Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>30</PageNumber>
+      <Text>John George Bosworth, Member, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
+      <PageNumber>28</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

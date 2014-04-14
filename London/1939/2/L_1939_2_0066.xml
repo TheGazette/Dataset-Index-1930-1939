@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kharegat</Key>
-      <Text>M. D</Text>
+      <Forenames>M. D.</Forenames>
       <PageNumber>2434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kinmont</Key>
-      <Text>P. D. C</Text>
+      <Forenames>P. D. C.</Forenames>
       <PageNumber>3000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,8 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>J. N. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>J. N. St. G</Forenames>
       <PageNumber>4164</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +319,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kyd</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>4446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,7 +1075,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis-Barned</Key>
-      <Forenames>De S. H.</Forenames>
+      <Title>De S.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,7 +1161,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Light</Key>
-      <Text>C. V</Text>
+      <Forenames>C. V</Forenames>
       <PageNumber>3299</PageNumber>
     </MainItem>
   </ItemGroup>

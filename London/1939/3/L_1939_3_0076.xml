@@ -164,8 +164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de O</Text>
+      <Forenames>N. P. de O</Forenames>
       <PageNumber>6072</PageNumber>
       <PageNumber>6284</PageNumber>
     </MainItem>
@@ -305,8 +304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>C. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,8 +384,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M,</Text>
+      <Forenames>R. C. de M</Forenames>
+      <Text>,</Text>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newton</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>6284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,8 +484,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>5842</PageNumber>
     </MainItem>
   </ItemGroup>

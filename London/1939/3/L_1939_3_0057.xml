@@ -39,8 +39,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, A. G</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>5403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1939,7 +1939,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Piggott-Brown</Key>
-      <Text>SirJ , H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5206</PageNumber>
     </MainItem>
   </ItemGroup>

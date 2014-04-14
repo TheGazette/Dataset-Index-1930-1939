@@ -44,14 +44,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Kehar</Key>
-      <Text>Singh, Subadar-Maj. and Hon. Lt., Member, Order of the British Empire</Text>
+      <Forenames>Singh</Forenames>
+      <Text>, Subadar-Maj. and Hon. Lt., Member, Order of the British Empire</Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Text>Percy James, M.B., Commander, Order of the British Empire</Text>
+      <Forenames>Percy James</Forenames>
+      <Text>, M.B., Commander, Order of the British Empire</Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,14 +70,17 @@
       <Key>Kimmitt</Key>
       <Title>Col.</Title>
       <Forenames>Robert Robert-</Forenames>
-      <Text>son. O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>Arthur Henry William, Officer, Order of the British Empire</Text>
+      <Forenames>Arthur Henry William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +91,12 @@
       </Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Charles Wallis</Forenames>
-      <Text>, C.B., C.M.G., C.V.O., Knight Commander, Royal Victorian Order '</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +116,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Helen. Mrs.</Title>
-      <Text>. M.B.E.. Serving Sister, Order of Si. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +150,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry Seymour</Forenames>
-      <Text>, K.C.I.E., Baronet,</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4210</PageNumber>
     </MainItem>
@@ -146,7 +161,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsford-Smith</Key>
-      <Text>Air Comm. Charles Edward, M.C., A.F.C., Knight</Text>
+      <Forenames>Air Comm</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirk</Key>
-      <Text>Hugh Charters. Officer, Order of St. John of Jerusalem</Text>
+      <Forenames>Hugh Charters</Forenames>
+      <Text>. Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +189,9 @@
     <MainItem>
       <Key>Kisch</Key>
       <Forenames>Cecil Hermann</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +256,9 @@
     <MainItem>
       <Key>Laming</Key>
       <Forenames>Richard Valentine</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +282,9 @@
     <MainItem>
       <Key>Larkin</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Frank, C. B., C.M.G., Knight Commander, Order of the Bath ,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +293,9 @@
       <Key>Lascelles</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Reginald</Forenames>
-      <Text>, O.B.E., Ensign of H.M. Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +303,9 @@
     <MainItem>
       <Key>Latin</Key>
       <Forenames>Alma</Forenames>
-      <Text>, O.B.E., M.A., LL.M., LL.D., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +322,9 @@
       <Key>Lawrance</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur Salis-</Forenames>
-      <Text>bury, O.M.G., D.S.O., Commissioner and Commander-in-Chief of the Somaliland Protectorate</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4037</PageNumber>
     </MainItem>
     <SubItem>
@@ -370,7 +402,9 @@
       <Key>Lewis</Key>
       <Title>Sir</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, Bt., Baron Essendon of Essendon</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3567</PageNumber>
       <PageNumber>4111</PageNumber>
     </MainItem>
@@ -406,7 +440,9 @@
       <Key>Lindsay</Key>
       <Title>Col.</Title>
       <Forenames>Henry Edzell Morgan</Forenames>
-      <Text>, C.B., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +531,9 @@
       <Key>Lyle</Key>
       <Title>Sir .</Title>
       <Forenames>Charles Ernest Leonard</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4210</PageNumber>
     </MainItem>
@@ -562,7 +600,9 @@
     <MainItem>
       <Key>MacFarlane</Key>
       <Forenames>James</Forenames>
-      <Text>, LL.D., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -580,7 +620,9 @@
       <Key>MacGregor</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Andrew</Forenames>
-      <Text>, D.F.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +651,11 @@
       </Key>
       <Title>Col. Sir</Title>
       <Forenames>Victor Audley Falconer</Forenames>
-      <Text>, Bt., D.S.O., M.V.O., Groom in Waiting to His Majesty the King</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +672,11 @@
       <Key>Mackie</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Frederic Percival</Forenames>
-      <Text>, M.D.. F.R.C.S.; F.R.C.P. K.H.S.. Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +704,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ida Christina</Forenames>
-      <Text>, R.R.C., Serving Sister Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +715,9 @@
       <Key>Macleay</Key>
       <Title>Sir</Title>
       <Forenames>James William Ronald</Forenames>
-      <Text>, K.C.M.G., Knight Grand Cross, Order or St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +725,9 @@
     <MainItem>
       <Key>McLeod</Key>
       <Forenames>Albert Reginald</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +768,9 @@
       <Key>MacRae</Key>
       <Title>Major</Title>
       <Forenames>Colin William</Forenames>
-      <Text>, O.B.E., Lieutenant of . . H.M. Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>

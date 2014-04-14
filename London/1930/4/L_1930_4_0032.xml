@@ -88,7 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G .</Forenames>
       <PageNumber>8159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +726,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. B</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. B</Forenames>
       <PageNumber>8159</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,8 +740,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, F. P. M. ... Pask, J</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>F. P. M.</Forenames>
+      <Text>... Pask, J</Text>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,6 +1488,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>C. G.</Forenames>
+      <PageNumber>7059</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Debi</Key>
       <Forenames>Prasad Mitra</Forenames>
       <PageNumber>7059</PageNumber>
@@ -1608,7 +1616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Text>F. H. G</Text>
+      <Forenames>F. H. G.</Forenames>
       <PageNumber>7255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,15 +1716,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V .</Forenames>
       <PageNumber>6020</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J Perkins, G. II. I ci niu.», v. -»-«-. — __ Raghubansa Kishore Tandon</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J</Forenames>
+      <Text>Perkins, G. II. I ci niu.», v. -»-«-. — __ Raghubansa Kishore Tandon</Text>
       <PageNumber>7059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1769,7 +1778,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Svmons</Key>
-      <Text>Sir T. H</Text>
+      <Title>Sir</Title>
+      <Forenames>T. H.</Forenames>
       <PageNumber>6841</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -39,7 +39,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>5518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +142,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plumridge</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>5587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,14 +214,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Priory</Key>
-      <Forenames>Fruiterers</Forenames>
+      <Title>Fruiterers .</Title>
       <PageNumber>5733</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pyros</Key>
-      <Forenames>Manufacturing Co</Forenames>
+      <Forenames>Manufacturing</Forenames>
+      <Text>Co</Text>
       <PageNumber>5324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rem</Key>
-      <Text>Synes</Text>
+      <Forenames>Synes</Forenames>
       <PageNumber>5654</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +524,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sievers</Key>
-      <Text>U M. R. and A. L</Text>
+      <Forenames>U</Forenames>
+      <Text>M. R. and A. L</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +603,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sobvay</Key>
-      <Forenames>Meat Supply Co</Forenames>
+      <Forenames>Meat Supply</Forenames>
+      <Text>Co</Text>
       <PageNumber>5459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +771,7 @@
   <ItemGroup>
     <MainItem>
       <Key>T</Key>
-      <Text>T. Garage</Text>
+      <Forenames>T. Garage</Forenames>
       <PageNumber>5250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1024,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wlestwood</Key>
-      <Text>C, &amp; Sons</Text>
+      <Forenames>C</Forenames>
+      <Text>, &amp; Sons</Text>
       <PageNumber>5175</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1087,7 +1091,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,14 +1120,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wire</Key>
-      <Forenames>Wheels</Forenames>
+      <Title>Wheels .</Title>
       <PageNumber>5914</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>4661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros .</Title>
       <PageNumber>4515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1159,7 +1163,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbey</Key>
-      <Forenames>Annis</Forenames>
+      <Title>Annis .</Title>
       <PageNumber>5596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acheson</Key>
-      <Forenames>John</Forenames>
+      <Title>John.</Title>
       <PageNumber>5107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,7 +1236,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alcorn</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>5860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allison</Key>
-      <Forenames>Apollos</Forenames>
+      <Title>Apollos .</Title>
       <PageNumber>5864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkeli</Key>
-      <Forenames>Philip</Forenames>
+      <Title>Philip .</Title>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1655,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Austen</Key>
-      <Forenames>Emily</Forenames>
+      <Title>Emily .</Title>
       <PageNumber>5177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1686,7 +1690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Azzeroni</Key>
-      <Forenames>Gennaro</Forenames>
+      <Title>Gennaro .</Title>
       <PageNumber>5989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1721,8 +1725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Title>Lady</Title>
-      <Forenames>Rebecca</Forenames>
+      <Title>Lady Rebecca .</Title>
       <PageNumber>5326</PageNumber>
     </MainItem>
   </ItemGroup>

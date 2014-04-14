@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Russell Facey</Forenames>
-      <Text>, . .. _ M.V.O., Knight Commander, Royal Victoria Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,9 @@
     <MainItem>
       <Key>Willis</Key>
       <Forenames>Charles Armine</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,14 +124,17 @@
     <MainItem>
       <Key>Wingfield</Key>
       <Forenames>Charles John FitzRoy Rhys</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. The King of Norway</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wise</Key>
-      <Text>Wilfrid, Nominated Member of Legislative Council of Fiji</Text>
+      <Forenames>Wilfrid</Forenames>
+      <Text>, Nominated Member of Legislative Council of Fiji</Text>
       <PageNumber>134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +150,9 @@
     <MainItem>
       <Key>Woods</Key>
       <Forenames>John Harold Edmund</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +162,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Raymond Wybrow</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -182,7 +193,9 @@
       <Key>Worsfold</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Cato</Forenames>
-      <Text>, Bt., LL.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -207,7 +220,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Most</Forenames>
+      <Title>The</Title>
+      <Forenames>Most</Forenames>
       <Text>Rev. John Charles, Archbishon of Sydney, Chaplain. Order of St. John of Jerusalem</Text>
       <PageNumber>46</PageNumber>
     </MainItem>
@@ -253,7 +267,9 @@
       <Key>Zammit</Key>
       <Title>Professor</Title>
       <Forenames>Temistocle</Forenames>
-      <Text>, O.M.G., M.D., D.Litt., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1575</PageNumber>
     </MainItem>
@@ -482,6 +498,13 @@
       <Key>Dawes</Key>
       <Forenames>H. F.</Forenames>
       <PageNumber>1310</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -968,8 +991,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. R</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. R</Forenames>
       <PageNumber>798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1094,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. P. de B</Forenames>
       <PageNumber>1220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>1646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1168,7 +1189,9 @@
       <Key>Stanier</Key>
       <Title>Sir</Title>
       <Forenames>A. B. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1266,6 +1289,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>van Cutsem</Key>
+      <Forenames>W. E</Forenames>
+      <PageNumber>1144</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vaudrey</Key>
       <Forenames>W. E</Forenames>
       <PageNumber>279</PageNumber>
@@ -1344,8 +1374,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N</Forenames>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>

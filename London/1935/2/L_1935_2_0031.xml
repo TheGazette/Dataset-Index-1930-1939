@@ -96,7 +96,10 @@
     <MainItem>
       <Key>Chetwode</Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral iGeorge Knightley, C.B., C.B.E., Knight Commander, Order of the .Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +114,9 @@
     <MainItem>
       <Key>Childs</Key>
       <Forenames>Walter Henry</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +208,9 @@
     <MainItem>
       <Key>Clay</Key>
       <Forenames>Joseph Miles</Forenames>
-      <Text>, C.S.I., . CLE., O.B.E., Member of the Executive Council of the Governor of the United Provinces</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +234,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Clow</Key>
-      <Text>Andrew. Gourlay, .. CLE., Companion Order of the Star of Inaia</Text>
+      <Title>Andrew.</Title>
+      <Forenames>Gourlay</Forenames>
+      <Text>, .. CLE., Companion Order of the Star of Inaia</Text>
       <PageNumber>3590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +280,9 @@
     <MainItem>
       <Key>Cock</Key>
       <Forenames>Gerald</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +290,9 @@
     <MainItem>
       <Key>Cockburn</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,14 +309,19 @@
     <MainItem>
       <Key>Codling</Key>
       <Forenames>William Richard</Forenames>
-      <Text>, C.B., O.V.O., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coldwell</Key>
-      <Text>Smith, Capt. Frederick Lawrence, M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +381,9 @@
       <Key>Colvin</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Arthur Edmund</Forenames>
-      <Text>, M.C., M.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +393,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Clement Preston</Forenames>
-      <Text>, O.B.E., V.D., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +437,9 @@
     <MainItem>
       <Key>Connor</Key>
       <Forenames>Annie Jean</Forenames>
-      <Text>, Mrs., M.D., Dame Commander, Order of the British ' Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +447,9 @@
     <MainItem>
       <Key>Cook</Key>
       <Forenames>Cecil Evelyn</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +555,10 @@
     <MainItem>
       <Key>Corson</Key>
       <Forenames>James Frederick</Forenames>
-      <Text>, M.B.E., M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -605,7 +634,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Wing</Forenames>
-      <Text>' Cdr. Claude Russell, A.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +654,10 @@
     <MainItem>
       <Key>Crabbe</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Lewis Gonne Eyre, CLE., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +665,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>George</Forenames>
-      <Text>, C.M.G., LL.D., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +682,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>and Balcarres, Earl of, K.T., Member of the Committee of the Privy Council on Official Roll of Baronets</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +693,9 @@
       <Key>Creasy</Key>
       <Title>Cdr.</Title>
       <Forenames>George Elvey</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +704,9 @@
       <Key>Crichton</Key>
       <Title>Col. the Hon. Sir</Title>
       <Forenames>George Arthur Charles</Forenames>
-      <Text>. G. C.V.O., Extra Equerry to H.M. the King</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +730,10 @@
     <MainItem>
       <Key>Cromer</Key>
       <Forenames>Rowland Thomas</Forenames>
-      <Text>, Earl of, P.O., G.C.B., G.C.I.E., G.C.V.O., Royal Victorian Chain</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,14 +757,22 @@
     <MainItem>
       <Key>Crutchlev</Key>
       <Forenames>Ernest Tristram</Forenames>
-      <Text>, C.MG., C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cull</Key>
-      <Text>Pay. Cdr. Malcolm Giffard Stebbing, O.B.E., Member, Royal Victorian Order</Text>
+      <Title>Pay. Cdr.</Title>
+      <Forenames>Malcolm Giffard Stebbing</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +780,9 @@
     <MainItem>
       <Key>Cnlverwell</Key>
       <Forenames>George Hugh</Forenames>
-      <Text>, M.D., D.P.H., Officer, Order of the British Empire ... ' '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>

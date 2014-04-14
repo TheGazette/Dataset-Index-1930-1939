@@ -31,7 +31,12 @@
     <MainItem>
       <Key>Harewood</Key>
       <Forenames>Henry George Charles</Forenames>
-      <Text>, Earl of, K.G., D.S.O., T.D., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +59,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>Collett William, H.M. Vice-Consul at Meshed</Text>
+      <Forenames>Collett William</Forenames>
+      <Text>, H.M. Vice-Consul at Meshed</Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Alfred</Forenames>
-      <Text>, M.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +98,10 @@
       <Key>Harwood</Key>
       <Title>Sir</Title>
       <Forenames>Ralph Endersby</Forenames>
-      <Text>, K.C.V.O., C.B C.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +142,9 @@
     <MainItem>
       <Key>Hay</Key>
       <Forenames>David Allan</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -212,7 +225,9 @@
       <Key>Higgins</Key>
       <Title>Sir</Title>
       <Forenames>John Michael</Forenames>
-      <Text>. K.C.M.G.. Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +252,10 @@
       <Key>Hime</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Henry Charles Rupert</Forenames>
-      <Text>, D.S.O., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +264,13 @@
       <Key>Hindman</Key>
       <Title>Hdnistr.</Title>
       <Forenames>Horace Evelyn</Forenames>
-      <Text>, R.N., Member, Order of the British Empire Hoare, Lt.-Col. the Rt. Hon. Sir Samuel John Gurney, Bt., G.B.E., C.M.G., M.P., Knight Grand Commander, Order of the Star of India Hobson, Henry Arthur, M.B.E., H.M. Consul at Baltimore</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +279,9 @@
       <Key>Hodgson</Key>
       <Title>Maj.</Title>
       <Forenames>William Roy</Forenames>
-      <Text>, Officer, Order of the British Empire Hole, Surg.-Cdr. Kenneth Hill, M.B., B.S., R.N., Officer, Order of the British Empire Holland, Miss Laura, R.R.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +291,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard</Forenames>
-      <Text>, Commander, Order of the British Empire Holm, Alexander, C.B.E., Order of St. Michael and St. . George Holman, John Ward, Officer, Order of the British Empire Holt, Follett, Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +304,9 @@
       </Key>
       <Title>Maj. (Local Lt.-Col.)</Title>
       <Forenames>Herbert Busteed</Forenames>
-      <Text>, M.C., Officer, Order or the British Empire ... Hope-Gill, Cecil Gervase, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,14 +356,18 @@
       <Key>Hulley</Key>
       <Title>Miss</Title>
       <Forenames>Clara</Forenames>
-      <Text>, A.R.R.C., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Humphris</Key>
-      <Text>' Maj. Francis Howard, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +386,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>William Edgar</Forenames>
-      <Text>, C.B.E., Member of the Executive Council, Nigeria</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +397,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>C.B.E., Nominated Official Member, Legislative Council of Nigeria</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +408,12 @@
       <Key>Hunter</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alan John Hunter</Forenames>
-      <Text>, C.M.G., D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +422,9 @@
       <Key>Hunter-Rodwell</Key>
       <Title>Sir</Title>
       <Forenames>Cecil William</Forenames>
-      <Text>, K.C.M.G., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +444,9 @@
     <MainItem>
       <Key>Hutcheon</Key>
       <Forenames>Alexander Byres</Forenames>
-      <Text>, M.B.E.. H.M. Consul at Stockholm</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1704</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -281,6 +281,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>M. J. R.</Forenames>
+      <PageNumber>2797</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Eddison</Key>
       <Forenames>T. L.</Forenames>
       <PageNumber>3959</PageNumber>
@@ -381,7 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Northoott</Key>
-      <Text>R. W. F</Text>
+      <Forenames>R. W. F.</Forenames>
       <PageNumber>3959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,8 +594,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. E.</Forenames>
       <PageNumber>4028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,8 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greenstreet</Key>
-      <Forenames>N. B.</Forenames>
-      <Text>de M</Text>
+      <Forenames>N. B. de M</Forenames>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>

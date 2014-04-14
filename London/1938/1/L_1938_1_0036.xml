@@ -2,25 +2,12 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="036" pageID="https://www.thegazette.co.uk/id/London/index/year/1938/volume/1/page/036" pagePDF="https://www.thegazette.co.uk/London/index/year/1938/volume/1/page/036" pageRDF="https://www.thegazette.co.uk/London/index/year/1938/volume/1/page/036?view=linked-data" type="index" volume="1" year="1938">
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>
-          <PageNumber>___ ___</PageNumber>
-        </KeyDitto>
-      </Key>
-      <Forenames>Le</Forenames>
-      <PageNumber>___</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
       <Key>Knight</Key>
       <Forenames>Walter Augustus</Forenames>
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Kohan</Key>
@@ -31,9 +18,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>
+        <KeyDitto>--.</KeyDitto>
+      </Key>
+      <Text>ber, Order .of the British Empire</Text>
+      <PageNumber>14</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Laithwaite</Key>
       <Forenames>John Gilbert</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India Lala Amar Nath, Rai Bahadur, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,17 +43,12 @@
       <Text>. H.M. Consul at Bangkok</Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Florence Barra-</Forenames>
-      <Text>clough Barrie , C.B.E.. M.B., B.S., D.P.H., J.P., Dame Commander, Order of the British Empire</Text>
+    <SubItem>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -93,7 +87,9 @@
     <MainItem>
       <Key>Large</Key>
       <Forenames>Tennyson John David</Forenames>
-      <Text>, O.B.E., Commander, Order Of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +106,9 @@
       <Key>Latchford</Key>
       <Title>Qrmr. and Hon. Capt.</Title>
       <Forenames>Ernest William</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,21 +162,23 @@
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Marchant, Brig.-Gen. Sir Edward Thomas, Bt., C.B.E., D.L., Companion, Order of the Bath</Text>
-      <PageNumber>4</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Ethel Annie</Forenames>
-      <Text>, Serving . Sister, Order of St. John of Jerusalem</Text>
-      <PageNumber>31</PageNumber>
+      <Key>Le</Key>
+      <Forenames>Marchant</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>4</PageNumber>
     </MainItem>
+    <SubItem>
+      <Text>Miss Ethel Annie, Serving . Sister, Order of St. John of Jerusalem</Text>
+      <PageNumber>31</PageNumber>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -191,8 +191,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Leatham</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Ralph, Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Ralph</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,41 +204,269 @@
       <Key>Lee</Key>
       <Title>Maj.</Title>
       <Forenames>Rupert Henry Mel-</Forenames>
-      <Text>ville, Officer, Order of St. John of Jerusalem ... Leech, Joseph William, M.D., D.Ch., M.S., F.R.C.S.E., J.P., M.P., Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Text>ville, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>John Eric</Forenames>
-      <Text>, Member, Order of the British Empire ... Lowis, Ross Henry Donald, Member, Order of the British Empire ... ... Lucan, Brig.-Gen. George Charles, Earl of, K.B.E., C.B., T.D., Member of H.M. Privy Council -</Text>
+      <Key>Leech</Key>
+      <Forenames>Joseph William</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1068</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Leek</Key>
+      <Forenames>Ivan George Elmer</Forenames>
+      <Text>, Junior Inspector and Inspector under Mines Department</Text>
+      <PageNumber>1845</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lees</Key>
+      <Title>Col. Sir</Title>
+      <Forenames>John Victor Elliott</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
+      <PageNumber>808</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Leigh</Key>
+      <Forenames>Cyril</Forenames>
+      <Text>, Junior Inspector and Inspector under Mines Department —</Text>
+      <PageNumber>1072</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lendrum</Key>
+      <Forenames>James Andrew</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem ... ... Leney, Frank, Officer, Order of the British Empire ... Leonard, Mrs. Winifred Kriowles Serving Sister, Order of St. John of Jerusalem ... Lester, Hugh Morley OlifE, M.R.C.S., L.R.C.P., Officer, Order of the British Empire ... ... ... Lewis, William Hawthorne, C.S.I., CLE., Knight Commander, Order of the Indian Empire ... ... Li Shan Fan, M.B., Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>36</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Liddell</Key>
+      <Forenames>Charles Oliver</Forenames>
+      <Text>, Serving Brother. Order of St. John of Jerusalem ... Lightfoot, Frank, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lines</Key>
+      <Forenames>Kathleen Mary</Forenames>
+      <Text>, Mrs., Member, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lingeman</Key>
+      <Forenames>Eric Ralph</Forenames>
+      <Text>, Commercial Secretary at Helsingford</Text>
+      <PageNumber>2086</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Locke</Key>
+      <Title>Miss</Title>
+      <Forenames>Helen</Forenames>
+      <Text>, F.E.I.S., Member, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>London</Key>
+      <Forenames>Hugh Stanford</Forenames>
+      <Text>, H.MConsul-General at New Orleans</Text>
+      <PageNumber>2005</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Long</Key>
+      <Title>Col.</Title>
+      <Forenames>Walter Edward Lionel</Forenames>
+      <Text>, Companion, Order of the Indian Empire Lopes, Miss Delminda, Associate-Serving Sister, Order of St. John of Jerusalem</Text>
+      <PageNumber>31</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
+      <PageNumber>661</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Loudoun-Shand</Key>
+      <Forenames>C</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>2085</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lowe</Key>
+      <Text>; Albert Edward John, ; Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+    <SubItem>
+      <Text>John Eric, Member, Order of the British Empire</Text>
+      <PageNumber>12</PageNumber>
+    </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lowis</Key>
+      <Forenames>Ross Henry Donald</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>14</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lucan</Key>
+      <Title>Brig.-Gen.</Title>
+      <Forenames>George Charles</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
+      <PageNumber>1231</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Luck</Key>
       <Forenames>Percy John</Forenames>
-      <Text>, Member, Order of the British Empire ... ... ... ... Lyon, Kenneth, C.B.E., Companion, Order of the Bath Ma Luk, Dr., Associate Serving Brother, Order of St. John of Jerusalem ... Mc Alpine, Sir Alfred David, Officer, Order of St. John 29 of Jerusalem</Text>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Lyon</Key>
+      <Forenames>Kenneth</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Mc</Key>
+      <Forenames>Alpine</Forenames>
+      <Text>, Sir Alfred David, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacArthur</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>William Porter</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>4</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>MacCallum</Key>
+      <Title>Thomas .</Title>
+      <Forenames>Watson</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>12</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McCallum</Key>
+      <Forenames>William Alexander</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
+      <PageNumber>12</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McCann</Key>
+      <Forenames>Charles Francis Gerald</Forenames>
+      <Text>; Knight</Text>
+      <PageNumber>3</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>McCarthy</Key>
+      <Forenames>Amy</Forenames>
+      <Text>, Mrs., J.P., 30 Member, Order of the British Empire ... ... ir McCloghrie, George, Officer, Order of the British Empire</Text>
+      <PageNumber>13</PageNumber>
     </MainItem>
     <SubItem>
       <Text>McGregor, The Rev. Andrew Murray, Chaplain, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>.McMorran, Ralph Noel, I.S.O:, 6 Member, Order of the British Empire</Text>
-      <PageNumber>14</PageNumber>
+      <Text>Mackay, David Ferguson, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>29</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Mactaggart, John Auld, J.P., Baronet</Text>
+      <Text>McKean, James Douglas, Member, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>McLean, William Hannah, Ph.D., M.I.C.E., Knight Commander, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
+      <PageNumber>3</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Macnamara, Rear Admiral Patrick, Commander, Order of:the British Empire</Text>
+      <PageNumber>7</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>728</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Maeers, Frank Frederick, Officer, Order of the British Empire</Text>
+      <PageNumber>12</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

@@ -17,7 +17,10 @@
       <Key>Wynn</Key>
       <Title>Col. Sir</Title>
       <Forenames>Robert William Herbert Watkiri Williams</Forenames>
-      <Text>, K.C.B., D.S.O., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +60,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>David Wilberforce</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +73,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Arm-</Forenames>
-      <Text>strong, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +96,10 @@
       </Key>
       <Title>Major Sir</Title>
       <Forenames>Hubert Winthrop</Forenames>
-      <Text>, K.C.M.G., D.S.O., Governor and Commander in Chief, Colony of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +110,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Mark Aitchison</Forenames>
-      <Text>, K.C.M.G., Governor and Commander-inChief, Tanganyika Territory</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,10 +123,12 @@
       </Key>
       <Forenames>Thomas Moffat</Forenames>
       <Text>, Companion, Order of the Bath</Text>
-      <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
-  <CategoryTitle>MILITARY PROMOTIONS</CategoryTitle>
+  <Honour>
+    <PageNumber>3688</PageNumber>
+    <CategoryTitle>MILITARY PROMOTIONS</CategoryTitle>
+  </Honour>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
@@ -385,6 +399,13 @@
       <Key>Cutbill</Key>
       <Text>. A. M</Text>
       <PageNumber>3267</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>E. S.</Forenames>
+      <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

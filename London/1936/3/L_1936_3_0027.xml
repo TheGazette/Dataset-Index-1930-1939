@@ -182,7 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifford</Key>
-      <Text>E. H. M</Text>
+      <Forenames>E. H. M.</Forenames>
       <PageNumber>5662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +217,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>F. M. P. C</Text>
+      <Forenames>F. M. P. C.</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooper</Key>
-      <Text>F. A. L</Text>
+      <Forenames>F. A. L.</Forenames>
       <PageNumber>5540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,11 +1053,48 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gaury</Key>
+      <Forenames>G. S. H. R. V.</Forenames>
+      <PageNumber>6139</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, E. J. E</Text>
+      <PageNumber>5661</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>H. A</Forenames>
       <PageNumber>5598</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rhe-Philipe</Key>
+      <Forenames>A. T.</Forenames>
+      <PageNumber>5723</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>G. P. St. C</Forenames>
+      <PageNumber>5254</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. P.</Forenames>
+      <PageNumber>6212</PageNumber>
+      <PageNumber>6212</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1077,7 +1114,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denis</Key>
-      <Text>de Vitre, E. C</Text>
+      <Forenames>de Vitre</Forenames>
+      <Text>, E. C</Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,9 +1333,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, C. L. E</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>C. L. E.</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1577,7 +1614,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Erskine</Key>
-      <Text>Sir A. E</Text>
+      <Title>Sir</Title>
+      <Forenames>A. E</Forenames>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>

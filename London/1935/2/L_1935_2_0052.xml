@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mudie</Key>
-      <Text>D. H</Text>
+      <Forenames>D. H</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,8 +269,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>2322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,8 +285,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J</Forenames>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,15 +301,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, G. D. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>G. D. J.</Forenames>
       <PageNumber>4091</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, W. H</Text>
+      <Key>O'Donald</Key>
+      <Forenames>W. H.</Forenames>
       <PageNumber>2896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,8 +363,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C. R</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C. R</Forenames>
       <PageNumber>2513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,8 +1694,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Valery de Visme, R</Text>
+      <Key>St. Valery</Key>
+      <Forenames>de Visme</Forenames>
+      <Text>, R</Text>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -791,7 +791,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carslake</Key>
-      <Text>J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>2649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Copeman</Key>
-      <Text>W. S. C</Text>
+      <Forenames>W. S. C.</Forenames>
       <PageNumber>2649</PageNumber>
       <PageNumber>4079</PageNumber>
     </MainItem>
@@ -1322,8 +1322,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dearnaley</Key>
-      <Forenames>W. J.</Forenames>
+      <Key>de Lisle</Key>
+      <Forenames>J. A. F.</Forenames>
+      <Text>, M.P QOOQ Dearnaley, W. J</Text>
       <PageNumber>3228</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutton</Key>
-      <Text>A. H. D</Text>
+      <Forenames>A. H. D .</Forenames>
       <PageNumber>2894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1728,7 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Featherstone</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>3764</PageNumber>
     </MainItem>
   </ItemGroup>

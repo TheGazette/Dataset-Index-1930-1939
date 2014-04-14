@@ -6,7 +6,12 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Ronald Forbes, Bt., D.S.O., O.B.E., Companion, Order of the Bath ... Adams, Miss Annie Gertrude, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +97,10 @@
     <MainItem>
       <Key>AMum</Key>
       <Forenames>Horace Benjamin</Forenames>
-      <Text>, M.V.O., O.B.E., Commander, Order of tile British Empire Alstead, Robert J.P., Officer, Order of the British Empire Amarendra Nath Das, Rai . Bahadur, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +149,9 @@
       <Key>Archibald</Key>
       <Title>Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,14 +168,19 @@
     <MainItem>
       <Key>Ashmole</Key>
       <Forenames>Bernard</Forenames>
-      <Text>, M.C., M.A., B.Litt., Hon. A.R.I.B.A., Keeper of the Department of Greek and Roman Antiquities, British Museum</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ashton</Key>
-      <Text>Gwatkin, Frank Trelawny Arthur, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,14 +190,19 @@
       <Key>Aspinall</Key>
       <Title>Sir</Title>
       <Forenames>Algernon Edward</Forenames>
-      <Text>, C. M.G., C.B.E., Knight Commander, Order of St. Michael and St. George ... Asquith, Cyril Edward, Commander, Order of the British Empire Astbury, Ernest, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Babington</Key>
-      <Text>. Air Vice-Marshal John Tremayne, C.B.E., D. S.O., Companion, Order of the-Bath Badock, Edna Haycroft, Mrs., Officer, Order of the British Empire Bagnall, Sir John, Unofficial Member, Executive Council of Straits' Settlements</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>1306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +237,9 @@
       <Key>Baker-Wilbraham</Key>
       <Title>Sir</Title>
       <Forenames>Philip Wilbraham</Forenames>
-      <Text>, Bt., First Church Estates Commissioner</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +247,11 @@
     <MainItem>
       <Key>Barbary</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. John Ewart Trounce, O.B.E., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +284,10 @@
       <Key>Barne</Key>
       <Title>Brig.</Title>
       <Forenames>William Bradley Gosset</Forenames>
-      <Text>, C.B.E., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +295,10 @@
     <MainItem>
       <Key>Baron</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Richard, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +306,11 @@
     <MainItem>
       <Key>Barrett</Key>
       <Forenames>Wing-Cdmdr</Forenames>
-      <Text>. John Francis Tufnell, D.S.O., D.F.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +318,12 @@
     <MainItem>
       <Key>Bartholomew</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Arthur Wollaston, C.B., C.M.G., C.B.E., D.S.O., Lieutenant of Tower of London</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +423,9 @@
     <MainItem>
       <Key>Boakes</Key>
       <Forenames>Onslow Valentine</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... Bolton, Maj. (Commy.) John Stacey, Member, Order of .the British Empire ... Boote, Elena, Mrs., Officer, Order of the British Empire Booth-Gravely, Walter, C.S.I., CLE., Knight Commander, Order of St. Michael and St. George ... Bosworth, Ernest, Member, Order of the British Empire ... ... ... Baugeya, Francis Louis, Member, Order of the British Empire ... Bowden, Norman Henry Martin; O.B.E., Commander, Order of the British Empire ...</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>___ ___ ___</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>

@@ -224,7 +224,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keys</Key>
-      <Text>.F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>4753</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,8 +347,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>G. St. L</Forenames>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,8 +484,7 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Sir</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>5033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +736,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Koch</Key>
-      <Text>de Gooreynd, G</Text>
+      <Forenames>de Gooreynd</Forenames>
+      <Text>, G</Text>
       <PageNumber>5989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lakey</Key>
-      <Text>.,. J</Text>
+      <Text>,. J</Text>
       <PageNumber>6057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leather</Key>
-      <Text>., F</Text>
+      <Text>, F</Text>
       <PageNumber>5928</PageNumber>
     </MainItem>
   </ItemGroup>

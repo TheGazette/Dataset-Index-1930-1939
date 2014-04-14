@@ -463,6 +463,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lacy-Bacon</Key>
+      <Forenames>C. O. H.</Forenames>
+      <PageNumber>8155</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dolan</Key>
       <Forenames>G. R</Forenames>
       <PageNumber>6317</PageNumber>
@@ -542,7 +549,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Text>R. CD</Text>
+      <Forenames>R.</Forenames>
+      <Text>CD</Text>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,8 +684,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searle</Key>
-      <Forenames>M. W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>M. W. St. L</Forenames>
       <PageNumber>6317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>J.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Text>L. J</Text>
+      <Forenames>L. J</Forenames>
       <PageNumber>8077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1385,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Text>G. M</Text>
+      <Forenames>G. M</Forenames>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>

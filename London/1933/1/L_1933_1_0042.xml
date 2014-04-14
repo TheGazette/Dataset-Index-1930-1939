@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tara</Key>
-      <Text>Singh</Text>
+      <Forenames>Singh</Forenames>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,8 +805,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L.</Forenames>
       <PageNumber>1691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1267,8 +1267,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Egerton</Key>
-      <Forenames>W.</Forenames>
-      <Text>de M</Text>
+      <Forenames>W. de M</Forenames>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1296,7 +1295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pilcher</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1515,7 +1514,9 @@
       <Key>Lake</Key>
       <Title>Sir</Title>
       <Forenames>A. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1574,7 +1575,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturrock</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D.</Forenames>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>

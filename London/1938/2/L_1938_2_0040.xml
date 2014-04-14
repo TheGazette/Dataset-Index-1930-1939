@@ -29,7 +29,10 @@
     <MainItem>
       <Key>Symes</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Alfred Leslie, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +105,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>General Maurice . Grove, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +154,11 @@
       </Key>
       <Title>Sir.</Title>
       <Forenames>Godfrey John</Forenames>
-      <Text>. Vignoles, Bt., K.C.B., .-. K.C.V.O., C.S.I., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +188,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H</Forenames>
-      <Text>:E. Sir Thomas Shenton Whitelegge, G.C.M.G., O.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +282,9 @@
       <Key>Tilly</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +332,10 @@
     <MainItem>
       <Key>Townley</Key>
       <Forenames>Warrt</Forenames>
-      <Text>, Offr. CI. II ' (C.S.M.) Francis, M.C., D.C.M., .Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +359,10 @@
     <MainItem>
       <Key>Tozer</Key>
       <Title>Lt.</Title>
-      <Text>rCol. &amp; Bt. Col. William, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +386,11 @@
       <Key>Tykiss</Key>
       <Title>Capt. (Qrmr.)</Title>
       <Forenames>Simon Member</Forenames>
-      <Text>, Order of the British Empire ... Tyler, Miss Harriet Jane, Member, Order of the British Empire Tyler-Smith, Harold Augustus A.M.I.C.E., A.M.I.M.E., Nominated Official Member of the Legislative Council of the Colony of Trindad and Tobago Tyndale, Arthur Carrington, Officer, Order of the British Empire Twiss, Maj-Gen. William Louis Oberkirch, C.B., C.B.E., M.C., Knight Commander, Order of the Indian Empire U Paw Tun, Knight ... ... Upjohn, Clive Henry Critchett, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +398,9 @@
     <MainItem>
       <Key>Vaillancourt</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, M.D., Officer,Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +416,9 @@
     <MainItem>
       <Key>Vaughan</Key>
       <Forenames>George Edgar</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul at Beunos Aires</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +484,9 @@
     <MainItem>
       <Key>Vintcent</Key>
       <Forenames>Neville</Forenames>
-      <Text>, D.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +503,9 @@
     <MainItem>
       <Key>Wade</Key>
       <Forenames>Robert Blakeway</Forenames>
-      <Text>, M.D., F.R.A.C.S., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>

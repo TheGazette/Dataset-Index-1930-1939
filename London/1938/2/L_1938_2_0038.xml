@@ -40,7 +40,10 @@
     <MainItem>
       <Key>Renton</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col Alexander Frederick . Gordon, M.C., Officer, Order, of the . British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +59,9 @@
     <MainItem>
       <Key>Repton</Key>
       <Forenames>Guy George</Forenames>
-      <Text>, M.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +100,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>. Maj.rGen. Henry Guy, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +110,9 @@
     <MainItem>
       <Key>Ringrose</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +120,9 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, Member, 5th CI.,. Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +213,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Wilson</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +233,10 @@
     <MainItem>
       <Key>Robinson</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp;. Bt. Col. Beltran Ford, T.D., Officer, . Order ' of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +257,11 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. James Frederick Martyn, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +297,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Robson</Key>
-      <Text>. Lt.-Col. Henry William Cumine, O.B.E., Companion, Order of the Indian Empire ... ... Rogers, George Swire de Moleyns, Officer, Order of British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +309,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, C.B., C.B.E., M.V.O., Knight Rozario, Charles Walker, Member, Order of the British Empire Rudd, Thomas Frederick Stewart, Officer, Order of St. John of Jerusalem Russell, .Catherine, Mrs., Member, Order of the British Empire Sabelli, Humbert Anthony, Commander, Order of the British Empire Sadd, Clarence Thomas Albert, J.P., Commander, Order of the British Empire Saiyid. Siddiq Hasan, Khan Bahadur, Officer, Order of the British Empire Sajba Shankar Rangnekar, Knight Saldanha, Anthony Frederick, Member, Order of the British Empire Salisbury, Frank Owen, LL.D., R.I., R.P.S., Commander, Royal Victorian Order Samuel, Col. Frederick Dudley, D.S.O T.D., Commander, Order of the British Empire Sandford, George Ritchie, O.B.E., Companion, Order of' St. Michael and St. George Sansoni, Lt.-Col. Waldo, V.D., Officer, Order of the British Empire Sarat Kumar Ghose, Knight ... Sargent, Lt.-Col. James, D.S.O., Officer, Order of the British Empire ... ... Satyendra Nath Roy, CLE., Companion, Order of the Star of India . Savill, Eric Humphrey, M.C. Member 4th CI., Royal Victorian Order ... Sawers,' Archibald, Serving Brother, Order of St. John of Jerusalem ... Sawyer, Mrs. Jessica Frederica Pauline, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>

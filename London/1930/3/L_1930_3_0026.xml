@@ -340,7 +340,9 @@
       <Key>Lawson</Key>
       <Title>Sir</Title>
       <Forenames>D.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5165</PageNumber>
       <PageNumber>5165</PageNumber>
     </MainItem>
@@ -566,8 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyle</Key>
-      <Forenames>I. A.</Forenames>
-      <Text>de H</Text>
+      <Forenames>I. A. de H</Forenames>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,8 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malet</Key>
-      <Forenames>E. W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>E. W. St. L</Forenames>
       <PageNumber>4364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,8 +762,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>4804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1192,8 +1191,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, G. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>G. A.</Forenames>
       <PageNumber>5094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1337,7 +1336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>. J</Text>
+      <Forenames>J</Forenames>
       <PageNumber>4945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1666,7 +1665,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Randefl</Key>
-      <Text>. H. L</Text>
+      <Forenames>H. L .</Forenames>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1775,7 +1774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robertson</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,7 +1788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>. W. K</Text>
+      <Forenames>W. K.</Forenames>
       <PageNumber>4643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1811,7 +1810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ropner</Key>
-      <Text>. R. D</Text>
+      <Forenames>R. D</Forenames>
       <PageNumber>5165</PageNumber>
     </MainItem>
   </ItemGroup>

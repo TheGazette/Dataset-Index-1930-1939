@@ -579,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walawalk</Key>
-      <Text>.ir, B. P</Text>
+      <Text>ir, B. P</Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,8 +725,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dewe</Key>
-      <Forenames>D. P.</Forenames>
+      <Key>de Soldenhoff</Key>
+      <Forenames>R.</Forenames>
+      <Text>.:. Dewe, D. P</Text>
       <PageNumber>5412</PageNumber>
       <PageNumber>5412</PageNumber>
     </MainItem>
@@ -1306,8 +1307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,7 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambert</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>4843</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. J. O'B</Forenames>
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>

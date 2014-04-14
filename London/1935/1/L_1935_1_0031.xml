@@ -19,7 +19,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hemsted</Key>
-      <Text>-Rupert William, O.B.E., Companion, Order . of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -35,7 +37,9 @@
     <MainItem>
       <Key>Henniker-Heaton</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, C.M.G., Governor and Commander-in-Chief . of Colony . of Falkland Islands and Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +57,9 @@
       <Key>Herbert</Key>
       <Title>Major</Title>
       <Forenames>Guy Anderson</Forenames>
-      <Text>, . M.C., H.M. Consul, in China</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +87,9 @@
       <Key>Heywood</Key>
       <Title>Major</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, M.C., Commercial , Secretary at Washington</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +97,11 @@
     <MainItem>
       <Key>Hezlet</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Robert Knox, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +133,9 @@
     <MainItem>
       <Key>Highton</Key>
       <Forenames>John Elborn</Forenames>
-      <Text>, . Companion, Order of the Bath Hilbery, George Malcolm, K.C., Justice of the High Court</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +155,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Norah</Forenames>
-      <Text>, A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +167,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas St</Forenames>
-      <Text>. Quinton, O.B.E., Companion. Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +177,9 @@
     <MainItem>
       <Key>Hinton</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Eric Perceval, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +208,9 @@
       </Key>
       <Title>Sir Reginald.</Title>
       <Forenames>Hervey</Forenames>
-      <Text>, K.C.M.G., Envoy Extraordinary and Minister Plenipotentiary to H.M. the King of Roumania</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +226,9 @@
     <MainItem>
       <Key>Hogg</Key>
       <Forenames>John Drummond</Forenames>
-      <Text>, M.B.E., H:M. ConsulGeneral at Saigon' .;</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1380</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +294,9 @@
     <MainItem>
       <Key>Holt</Key>
       <Forenames>Richard Durning</Forenames>
-      <Text>, LL.D., J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>838</PageNumber>
     </MainItem>
@@ -280,7 +306,12 @@
       <Key>Home</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Archibald Fraser</Forenames>
-      <Text>, C.B., C.M.G., C.V.O., D.S.O., Standard Bearer, H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +319,9 @@
     <MainItem>
       <Key>Hone</Key>
       <Forenames>Herbert Ralph</Forenames>
-      <Text>, M.C., His Majesty's Counsel for Gibraltar</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +330,10 @@
       <Key>Hopkins</Key>
       <Title>Maj.</Title>
       <Forenames>George Frederick Thomas</Forenames>
-      <Text>, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +357,9 @@
       <Key>Howard</Key>
       <Title>Maj.</Title>
       <Forenames>Algar Henry Stafford</Forenames>
-      <Text>, M.C., Commander, Royal Victoria a Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +370,9 @@
       </Key>
       <Title>Colonel</Title>
       <Forenames>Henry Cecil Lloyd</Forenames>
-      <Text>, C.M.G., to be one of H.M. Body Guard of the Honourable Corps of Gentle. men at Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +420,9 @@
     <MainItem>
       <Key>Hunter</Key>
       <Forenames>Alexander Jardine</Forenames>
-      <Text>, M.D.. Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,8 +447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutchinson</Key>
-      <Title>St.</Title>
-      <Forenames>John</Forenames>
+      <Forenames>St. John</Forenames>
       <Text>, King's Counsel</Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
@@ -460,7 +501,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Miles</Forenames>
-      <Text>; C.T.E.. O.B.E.. Knight ... '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +512,12 @@
       <Key>Jackson</Key>
       <Title>Col.</Title>
       <Forenames>Cecil Vivian Staveley</Forenames>
-      <Text>; Commander, Order of the British Empire ... Jalaluddin Khan Bismillah Khan Babi. H.H. Nawab, Nawab of Radhanpur, Knight Commander, Order of the Indian Empire ... James, Lt.-Cbl. Sydney Price, M.D., F.R.S., Companion, Order of St. Michael and St. George Jarrett, James Henry, H.M. Counsel for the Bahama Islands Jenkins, Rev. Claude, D.D., F.S.A., Regius Professor of Ecclesiastical History in the University of Oxford and Canon of the Cathedral Church of Christ Jess, Brig. Carl Herman, C.M.G., C.B.E., D.S.O., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -504,7 +552,11 @@
     <MainItem>
       <Key>Kane</Key>
       <Forenames>Albert Edmond</Forenames>
-      <Text>, Commander, Order of the British Empire ... ... Karunna Kumar Chatterji, Lt.-Col., F.R.C.S., Associate Officer, Order of St. John of Jerusalem ... Kearsley, Brig. Gen. Robert Harvey, C.M.G., D.S.O., Clerk of the Cheque and Adjutant, . H.M. Body . Guard of the Honourable Corps of Gentlemen-atArms</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +564,9 @@
     <MainItem>
       <Key>Kefalas</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, M.B., Serving Brother, Order of St. John of Jerusalem ... Kelly, David VictJor, M.C., Acting Counsellor of Embassy in H.M. High Commission at Cairo</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>

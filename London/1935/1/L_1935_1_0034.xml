@@ -17,7 +17,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Very</Forenames>
-      <Text>Rev. William Foxley, O.V.O., D.D., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +27,9 @@
     <MainItem>
       <Key>Northcote</Key>
       <Forenames>Geoffry Alexander Stafford</Forenames>
-      <Text>, C.M.G., Governor and Commander-inChief, Colony of British Guiana</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,8 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuffield</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord, Commander, Order of St. John of Jerusalem</Text>
+      <Title>The Lord, Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,14 +63,18 @@
       <Key>Oakes-Jones</Key>
       <Title>Capt.</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donahoe, Miss Helen Marion, Member, Order of the British Etmpire</Text>
+      <Key>O'Donahoe</Key>
+      <Title>Miss</Title>
+      <Forenames>Helen Marion</Forenames>
+      <Text>, Member, Order of the British Etmpire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,22 +89,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, Michael Thomas, Officer, Order of the British Empire</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>Michael Thomas</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Francis, H.M. Consul-General at Loanda</Text>
+      <Key>O'Meara</Key>
+      <Forenames>Francis</Forenames>
+      <Text>, H.M. Consul-General at Loanda</Text>
       <PageNumber>1016</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Orr</Key>
-      <Text>.John Boyd, D.S.O., M.C. MIA., M.D., D.Sc, F.R.S., Knight ... '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -105,7 +119,10 @@
     <MainItem>
       <Key>Osborne</Key>
       <Forenames>Rjear-Adm</Forenames>
-      <Text>. Edward Oliver Brudenell Seymour, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +130,9 @@
     <MainItem>
       <Key>Ovens</Key>
       <Forenames>Alexander Rutherford</Forenames>
-      <Text>, M.B.E., H.M. Consul at Kobe</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +160,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Clarence Edward Stanhope</Forenames>
-      <Text>, D.S.C.,, H.M. Consul at Sarajevo</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +186,10 @@
     <MainItem>
       <Key>Parkinson</Key>
       <Forenames>Arthur Charles Cosmo</Forenames>
-      <Text>, C.M.G., O.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +197,9 @@
     <MainItem>
       <Key>Parr</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., H.M. Consul at Aleppo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +266,9 @@
       <Key>Peshall</Key>
       <Title>Ven.</Title>
       <Forenames>Archdeacon Charles John Eyre</Forenames>
-      <Text>, D.S.O., M.A., K.H.Ch., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +293,9 @@
       <Key>Phipson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Selby</Forenames>
-      <Text>, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +327,11 @@
     <MainItem>
       <Key>Plipin</Key>
       <Forenames>Rear-Adminal James Murray</Forenames>
-      <Text>, O.M.G., M.V.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,9 +346,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Plymouth</Key>
-      <Title>the Right Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of, Chairman, Royal Commission on Ancient Monuments in Wales and Monmouthshire</Text>
+      <Title>the Right Hon. The Earl</Title>
+      <Text>of, Chairman, Royal Commission on Ancient Monuments in Wales and Monmouthshire</Text>
       <PageNumber>208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +355,9 @@
     <MainItem>
       <Key>Pool</Key>
       <Forenames>Augustus Frank</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +395,12 @@
       <Key>Portal</Key>
       <Title>Sir</Title>
       <Forenames>Wyndham Ray-</Forenames>
-      <Text>mond, Bart., D.S.O., M.V.O., J.P., D.L., Baron Portal of Laverstoke</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>693</PageNumber>
     </MainItem>
@@ -379,7 +419,9 @@
       <Key>Powell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., V.D., Companion, Order . of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +545,9 @@
     <MainItem>
       <Key>Raffety</Key>
       <Forenames>Harold Vezey</Forenames>
-      <Text>, O.B.E., F.S.I., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +588,10 @@
     <MainItem>
       <Key>Rathborne</Key>
       <Forenames>Air Commodore</Forenames>
-      <Text>, Charles Edward Henry, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +698,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Roach</Key>
-      <Text>; Edward Keith, O.B.E., , Commander, Order of the C British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>

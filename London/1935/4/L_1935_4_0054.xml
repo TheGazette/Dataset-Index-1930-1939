@@ -73,8 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Forenames>H. C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. C. de B</Forenames>
       <PageNumber>8294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +306,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Noakes</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +525,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purdin</Key>
-      <Text>. W. E</Text>
+      <Forenames>W. E.</Forenames>
       <PageNumber>7675</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,8 +881,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, H. W</Text>
+      <Key>St. John</Key>
+      <Forenames>H. W</Forenames>
       <PageNumber>6475</PageNumber>
     </MainItem>
   </ItemGroup>

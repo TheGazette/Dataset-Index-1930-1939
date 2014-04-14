@@ -177,7 +177,9 @@
     <MainItem>
       <Key>Cocks</Key>
       <Forenames>A. K.</Forenames>
-      <Text>...Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,8 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Colthurst</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cottle</Key>
-      <Text>H. G. W. C</Text>
+      <Forenames>H. G. W. C.</Forenames>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +342,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crate</Key>
-      <Text>F. E</Text>
+      <Forenames>F. E .</Forenames>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>E. S</Text>
+      <Forenames>E. S</Forenames>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,7 +1191,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Text>J. E</Text>
+      <Forenames>J. E</Forenames>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B</Forenames>
       <PageNumber>2324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1326,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Grazebrook</Key>
-      <Text>G. G, W</Text>
+      <Forenames>G. G</Forenames>
+      <Text>, W</Text>
       <PageNumber>2740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,7 +1393,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffiths</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D .</Forenames>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1421,7 +1423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Groves-Raines</Key>
-      <Text>R. G. D</Text>
+      <Forenames>R. G. D.</Forenames>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1502,7 +1504,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hall</Key>
-      <Text>A. A !</Text>
+      <Forenames>A. A</Forenames>
+      <Text>!</Text>
       <PageNumber>2515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>L. K</Text>
+      <Forenames>L. K.</Forenames>
       <PageNumber>3142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,8 +1620,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Harris-St</Key>
-      <Text>John, E. D</Text>
+      <Key>Harris-St. John</Key>
+      <Forenames>E. D.</Forenames>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1974,7 +1977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>B. G</Text>
+      <Forenames>B. G .</Forenames>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>

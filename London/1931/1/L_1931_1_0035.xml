@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Text>R. T</Text>
+      <Forenames>R. T.</Forenames>
       <PageNumber>605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +69,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Text>Visct</Text>
+      <Title>Visct.</Title>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +336,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Heathcote</Key>
-      <Text>G. G</Text>
+      <Forenames>G. G</Forenames>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,8 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. de V</Forenames>
       <PageNumber>746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1166,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1004</PageNumber>
     </MainItem>
   </ItemGroup>

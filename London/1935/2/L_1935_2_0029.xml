@@ -14,7 +14,10 @@
       <Key>Barnett</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Louis Edward</Forenames>
-      <Text>, C.M.G., M.B., F.R.C.S., Knight of Grace. Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +33,9 @@
     <MainItem>
       <Key>Barrett</Key>
       <Forenames>Frank Ashley</Forenames>
-      <Text>, C.B., H.M. Commissioner of Inland Revenue</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +43,9 @@
     <MainItem>
       <Key>Barrington-Ward</Key>
       <Forenames>Lancelot Edward</Forenames>
-      <Text>, M.B.. Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +129,9 @@
     <MainItem>
       <Key>Bazl-Ul-</Key>
       <Forenames>Lah Sahib Bahadur</Forenames>
-      <Text>, Khan Bahadur, C.I.E., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +140,9 @@
       <Key>Beard</Key>
       <Title>Capt.</Title>
       <Forenames>Samuel Trevor</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +168,10 @@
       <Key>Beeman</Key>
       <Title>Eng.</Title>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Robert, C.B., C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +216,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Thomas William</Forenames>
-      <Text>, M.B.E. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +255,9 @@
     <MainItem>
       <Key>Bellew</Key>
       <Forenames>George Rothe</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +273,10 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>Eugene Paul</Forenames>
-      <Text>, V.C., M.C., Magistrate of Police Courts of Metropolis</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +285,9 @@
       <Key>Benson</Key>
       <Title>Col.</Title>
       <Forenames>Wallace</Forenames>
-      <Text>, D.S.O., M.B., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +296,9 @@
       <Key>Benyon-Winsor</Key>
       <Title>Col.</Title>
       <Forenames>Benyon Rudgard</Forenames>
-      <Text>, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +307,11 @@
       <Key>Bethell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Hugh Keppel</Forenames>
-      <Text>, C.B., C.M.G., C. V.O., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +327,9 @@
       <Key>Beveridge</Key>
       <Title>Maj.</Title>
       <Forenames>Arthur Joseph</Forenames>
-      <Text>, M.C., M.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +388,10 @@
       <Key>Birchenough</Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, Baronet, K.C.M.G., Knight Grand . Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +426,9 @@
     <MainItem>
       <Key>Black</Key>
       <Forenames>William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire ..-</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +469,10 @@
     <MainItem>
       <Key>Bledisloe</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, G.C.M.G., K.B.E., Member, Governing Body of the Imperial College of Science and Technology</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
     <SubItem>
@@ -464,7 +503,9 @@
     <MainItem>
       <Key>Board</Key>
       <Forenames>William John</Forenames>
-      <Text>, O.B.E., . ___ js. night</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +513,9 @@
     <MainItem>
       <Key>Bodfish</Key>
       <Title>By.</Title>
-      <Text>-St.-Maj. George. D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +533,9 @@
       <Key>Bolton</Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth</Forenames>
-      <Text>, M.D., B. S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +594,9 @@
       <Key>Bourne</Key>
       <Title>Capt.</Title>
       <Forenames>Robert Croft</Forenames>
-      <Text>, M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
       <PageNumber>3691</PageNumber>
     </MainItem>
@@ -568,7 +615,9 @@
       <Key>Bowhill</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, C. M.G., D.S.O., Cornpanion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -587,7 +636,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Humphrey Ernest</Forenames>
-      <Text>, C.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +647,10 @@
       <Key>Bowyer</Key>
       <Title>Sir</Title>
       <Forenames>George Edward Wentworth</Forenames>
-      <Text>, M.C., M.P.,, Comptroller of H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4083</PageNumber>
     </MainItem>
   </ItemGroup>

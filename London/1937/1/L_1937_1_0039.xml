@@ -5,7 +5,9 @@
       <Key>Smith</Key>
       <Title>Sir</Title>
       <Forenames>Osborne Arkell</Forenames>
-      <Text>, K.C.I.E., Knight Commander, Order of the Starof India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +102,9 @@
     <MainItem>
       <Key>Spence</Key>
       <Forenames>George Hemming</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +130,10 @@
     <MainItem>
       <Key>Spickernell</Key>
       <Forenames>Paymaster</Forenames>
-      <Text>Capt. Sir Frank Todd, K.B.E., C. B., D.S.O., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +173,9 @@
     <MainItem>
       <Key>Stables</Key>
       <Forenames>George Arthur</Forenames>
-      <Text>, M.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +190,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Forenames>Reniera</Forenames>
-      <Text>van Oosterzee, Lady, Dame, Order of St. John of Jerusalem</Text>
+      <Forenames>Reniera van Oosterzee</Forenames>
+      <Text>, Lady, Dame, Order of St. John of Jerusalem</Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +264,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Percy Malcolm</Forenames>
-      <Text>, O.B.E., J.P., Baronet</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1640</PageNumber>
     </MainItem>
@@ -276,7 +288,9 @@
     <MainItem>
       <Key>Still</Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.D., F. R.C.P., Extra Physician, H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +299,10 @@
       <Key>Stirton</Key>
       <Title>The Rev.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.V.O., D.D.: Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
     <SubItem>
@@ -297,7 +314,10 @@
     <MainItem>
       <Key>Stockdale</Key>
       <Forenames>Frank Arthur</Forenames>
-      <Text>, C.M.G., C.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +326,10 @@
       <Key>Stockley</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Hudson Fraser</Forenames>
-      <Text>, C.V.O., O.B.E.: Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
     <SubItem>
@@ -346,7 +369,10 @@
     <MainItem>
       <Key>Stones</Key>
       <Forenames>Robert Yelverton</Forenames>
-      <Text>, M.C., M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +381,9 @@
       <Key>Stonor</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Harry Julian</Forenames>
-      <Text>, G. C.V.O., Extra Groom in Waiting to His Majesty</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +407,9 @@
     <MainItem>
       <Key>Strain</Key>
       <Forenames>Robert William Magill</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +418,12 @@
       <Key>Streatfeild</Key>
       <Title>Col. Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, G. C.V.O., C.B., C.M.G., T.D., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +455,9 @@
     <MainItem>
       <Key>Studd</Key>
       <Title>Lt.</Title>
-      <Text>-Col Roy Farquhar, M.C., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +466,10 @@
       <Key>Suhrawardy</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Hassan</Forenames>
-      <Text>, O.B.E., M.D., F.R.C.S.I., Associate Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +518,9 @@
       <Key>Talbot</Key>
       <Title>The Rev.</Title>
       <Forenames>Edward Keble</Forenames>
-      <Text>, M.C., M.A,, Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +539,10 @@
       <Key>Tanner</Key>
       <Title>Col.</Title>
       <Forenames>Gilbert</Forenames>
-      <Text>, D.S.O., T.D., J.P., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -522,7 +567,9 @@
     <MainItem>
       <Key>Tarry</Key>
       <Forenames>Frederick Thomas</Forenames>
-      <Text>, Officer, Order of the British Empire Tate, Thomas Bailey, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +589,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Walter</Forenames>
-      <Text>, C.M.G., C.B.E., Member, Legislative Council, Bahamas Islands ... Tedder, Air Commodore Arthur William, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +602,10 @@
       <Key>Templemore</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Claud Spencer</Forenames>
-      <Text>, Baron, D.S.O., O.B.E., Captain, Yeoman of the Guard</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +616,12 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Thomas Shenton Whitelegge</Forenames>
-      <Text>, K.C.M.G., O.B.E., Knight Grand Cross, Order of St. Michael and St. George Thompson, William Egbert, M.B., Officer, Order of the British Empire Thomson, Miss Rosa Frances Margaretha, Serving Sister, Order of St. John of Jerusalem Thorne, Edward Ernest Howard, Officer, Order of the British Empire ... Thorneycroft, Samuel, Serving Brother, Order of St. John of Jerusalem Thornton, Harold Leppington, Commander, Order of St. John of Jerusalem ... Thorold, The Rev. Ernest Hayford, C.B., C.B.E., D.D. Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +629,11 @@
     <MainItem>
       <Key>Thrippleton</Key>
       <Forenames>Walter</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jernsalem Thynne, Col. Ulric Oliver, C.M.G., D.S.O., T.D., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +641,9 @@
     <MainItem>
       <Key>Tidy</Key>
       <Forenames>Henry Letheby</Forenames>
-      <Text>, M.D., F.R.C.P., Extra Physician, H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>

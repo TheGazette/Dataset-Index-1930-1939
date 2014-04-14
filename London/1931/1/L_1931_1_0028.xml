@@ -41,14 +41,19 @@
       <Key>Peel</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perley</Key>
-      <Text>the Honourable Sir George Balsey, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>999</PageNumber>
     </MainItem>
@@ -65,7 +70,9 @@
     <MainItem>
       <Key>Phillpotts</Key>
       <Forenames>Owen Surtees</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +88,10 @@
     <MainItem>
       <Key>Piggott</Key>
       <Forenames>Henry Howard</Forenames>
-      <Text>, C.B., C.B.E. Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -114,7 +124,10 @@
     <MainItem>
       <Key>Playfair</Key>
       <Forenames>Air Comm</Forenames>
-      <Text>. Patrick Henry Lyon, M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +136,10 @@
       <Key>Plender</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bt., G.B.E., LL.D., J.P., D. L., Baron Plender of Sundridge</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>533</PageNumber>
     </MainItem>
@@ -164,7 +180,10 @@
     <MainItem>
       <Key>Prasad</Key>
       <Forenames>Kunwar Jagdish</Forenames>
-      <Text>, C.I.E., O.B.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +266,10 @@
     <MainItem>
       <Key>Qaxi</Key>
       <Forenames>Aziz-ud-din Ahmad</Forenames>
-      <Text>, Khan Bahadur, C.I.E., O.B.E., I.S.O., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>2059</PageNumber>
     </MainItem>
@@ -265,7 +287,9 @@
       <Key>Rafter</Key>
       <Title>Sir</Title>
       <Forenames>Charles Haughton</Forenames>
-      <Text>, K.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,15 +313,16 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Lucius Abel John Gran-</Forenames>
-      <Text>ville, M.A., J.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rana</Key>
-      <Title>Maj.-Gen.</Title>
-      <Forenames>His High-</Forenames>
+      <Title>Maj.-Gen. His High-</Title>
       <Text>ness Projjwal-Nepal TaraDhish Sri Sri Sri Maharaja Sir Bhim Shuinshere Jung Bahadur, K.C.S.I., K.CTV.O., Honorary Knight Grand Commander, Order of the Star of India</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
@@ -341,7 +366,10 @@
       <Key>Rees</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Wynford</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +411,9 @@
       <Key>Rhodes</Key>
       <Title>Col. The Hon. Sir</Title>
       <Forenames>Robert Heaton</Forenames>
-      <Text>, K.O V.O., K.B.E., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +421,9 @@
     <MainItem>
       <Key>Richardson</Key>
       <Forenames>George Alexander</Forenames>
-      <Text>, O.B.E., H.M. Consul at Bandar Abbas</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +458,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>744</PageNumber>
     </MainItem>
@@ -477,7 +511,9 @@
     <MainItem>
       <Key>Rothera</Key>
       <Forenames>Percy</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>2059</PageNumber>
     </MainItem>
@@ -503,7 +539,9 @@
       <Key>Roxburgh</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Laurence</Forenames>
-      <Text>, Kt., C.M.G., Member of the Privy Council of Jamaica</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +549,8 @@
     <MainItem>
       <Key>Rudolf</Key>
       <Title>the Rev. Preb.</Title>
-      <Forenames>Edward</Forenames>
-      <Text>de Montjoie, Commander, Order of the British Empire</Text>
+      <Forenames>Edward de Montjoie</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +575,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Walter Westley</Forenames>
-      <Text>, R.A., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +586,9 @@
       <Key>Rutherford</Key>
       <Title>Sir</Title>
       <Forenames>Ernest</Forenames>
-      <Text>, O.M., F.R.S., Baron Rutherford of Nelson</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>533</PageNumber>
     </MainItem>
@@ -631,7 +673,10 @@
       <Key>Scorgie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Norman Gibb</Forenames>
-      <Text>, C.B.E., Member, 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>

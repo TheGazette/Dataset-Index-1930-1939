@@ -5,7 +5,9 @@
       <Key>Inskip</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.E., Lord Chancellor</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6067</PageNumber>
       <PageNumber>6125</PageNumber>
     </MainItem>
@@ -15,7 +17,9 @@
       <Key>Inskip</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, C.B.E., Viscount Caldecote of Bristol</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +27,9 @@
     <MainItem>
       <Key>Isherwood</Key>
       <Forenames>Albert Arthur Mangnall</Forenames>
-      <Text>, O.B.E., Official Member, Executive Council, Tanganyika</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +53,12 @@
     <MainItem>
       <Key>Kelly</Key>
       <Forenames>Robert Ernest</Forenames>
-      <Text>, C.B., M.D., F.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +67,10 @@
       <Key>Kerr</Key>
       <Title>Prof.</Title>
       <Forenames>John Graham</Forenames>
-      <Text>, LL.D., F.R.S., M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +79,9 @@
       <Key>Knight</Key>
       <Title>Major</Title>
       <Forenames>J. R.</Forenames>
-      <Text>, M.C., not reappointed owing to recall to India</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +89,9 @@
     <MainItem>
       <Key>Knowles</Key>
       <Forenames>George Shaw</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +99,9 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +176,12 @@
     <MainItem>
       <Key>Liddell</Key>
       <Title>Lieut.</Title>
-      <Text>-General Sir Clive Gerard, K.C.B., C.M.G., CB.E., D.S.O., Governor and Commander-... in-Chief of the . City and Garrison of Gibraltar</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>CB</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +197,9 @@
     <MainItem>
       <Key>Lothian</Key>
       <Forenames>Most</Forenames>
-      <Text>Hon. . Philip' Henry, Marquess of, C.H. Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +208,9 @@
       <Key>Lucas</Key>
       <Title>Major Sir</Title>
       <Forenames>Jocelyn Morton</Forenames>
-      <Text>, Bart., Member of Parliament for Portsmouth, South</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +219,10 @@
       <Key>Lyons</Key>
       <Title>Sir</Title>
       <Forenames>Henry Edward</Forenames>
-      <Text>, Bt., O.B.E., Baron Ennisdale of Grateley</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +230,9 @@
     <MainItem>
       <Key>McCraith</Key>
       <Forenames>Douglas</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +261,9 @@
     <MainItem>
       <Key>McGregor</Key>
       <Title>Sqdn.</Title>
-      <Text>-Ldr. Hector Douglas, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +271,9 @@
     <MainItem>
       <Key>Mcllwaine</Key>
       <Forenames>Robert</Forenames>
-      <Text>, LL.B., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +281,9 @@
     <MainItem>
       <Key>Maclean</Key>
       <Forenames>Alexander Campbell</Forenames>
-      <Text>,' Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +326,9 @@
     <MainItem>
       <Key>Marten</Key>
       <Forenames>Alfred Vigor</Forenames>
-      <Text>, M.V.O., Sergeant-at-Arms to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +337,10 @@
       <Key>Martin</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Edmund</Forenames>
-      <Text>, C.M.G., Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +364,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Merriman</Key>
-      <Text>the Rt. Hon. Sir Frank Boyd, Kt., O.B.E., Commissioner for the care and custody of the Great Seal during absence of the Lord High Chancellor</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +383,9 @@
       <Key>Morrison</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Shepherd</Forenames>
-      <Text>, M.C., Minister of Food</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6255</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +393,9 @@
     <MainItem>
       <Key>Morton</Key>
       <Forenames>George</Forenames>
-      <Text>, K.C., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +403,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Nawaz Khan</Forenames>
-      <Text>, Major Sardar, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,21 +421,26 @@
     <MainItem>
       <Key>Oakes</Key>
       <Forenames>Harry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5392</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, John Chevalier, H.M. Consul at San Francisco</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>John Chevalier</Forenames>
+      <Text>, H.M. Consul at San Francisco</Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Onslow</Key>
-      <Text>the Rt. Hon. Richard William Alan, Earl of, G.B.E., Commissioner for the care and custody of the Great Seal during absence . of the Lord High Chancellor</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +448,9 @@
     <MainItem>
       <Key>Osgood</Key>
       <Forenames>Frederic Stanley</Forenames>
-      <Text>, C. B.E., M.V.O., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +459,9 @@
       <Key>Palairet</Key>
       <Title>Sir</Title>
       <Forenames>Charles Michael</Forenames>
-      <Text>, K.C.M.G., H.M. Envoy Extraordinary, and Minister Plenipotentiary at Athens</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +478,9 @@
       <Key>Peters</Key>
       <Title>Captain</Title>
       <Forenames>A. M.</Forenames>
-      <Text>, D.S.C., Official Member .of Execu. five Council of Hong Kong</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>6427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +489,9 @@
       <Key>Ponsonby</Key>
       <Title>Sir</Title>
       <Forenames>George Arthur</Forenames>
-      <Text>, K.C.V.O., Extra Equerry to H.M. The King</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>5308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +508,9 @@
       <Key>Puddester</Key>
       <Title>The Hon.</Title>
       <Forenames>John Charles</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>5104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +526,9 @@
     <MainItem>
       <Key>Raisman</Key>
       <Forenames>Abraham Jeremy</Forenames>
-      <Text>, C.S.I., C.I.E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +536,9 @@
     <MainItem>
       <Key>Ramsay</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B.E., M.B., Ch.B., F.R.A.C.S., Knight 59io Ramsden, Robert Charles Plumptre, Chairman, Nottinghamshire Quarter Sessions</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +546,9 @@
     <MainItem>
       <Key>Rice</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel S. M., C. I.E., C.B.E., Commissioner, Indian Military Service Family Pension Fund</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +557,10 @@
       <Key>Richards</Key>
       <Title>Colonel</Title>
       <Forenames>Collen Ed-</Forenames>
-      <Text>ward Melville Richards, D. S.O., M.C., Nominated Official Member of Legislative Council, Gold Coast . Colony</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +569,9 @@
       <Key>Richardson</Key>
       <Title>Prof.</Title>
       <Forenames>Owen Willans</Forenames>
-      <Text>, LL.D;, D.Sc., F.R.S., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +579,10 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>James Martin</Forenames>
-      <Text>, C.B.E., Knighted -</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +599,10 @@
       <Key>Royds</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edmund</Forenames>
-      <Text>, O.B.E., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +610,9 @@
     <MainItem>
       <Key>Rydings</Key>
       <Forenames>Douglas Gerald</Forenames>
-      <Text>, O.B.E., H.M. Consul at Panama</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +638,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Ralph Roylance</Forenames>
-      <Text>, C.M.G., M.C., M.B., B.S., Official Member, Executive Council, Tanganyika</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +650,9 @@
       <Key>Scupham</Key>
       <Title>Major</Title>
       <Forenames>William Eric</Forenames>
-      <Text>. Halstead, M.C., Official Member, Executive Coun, cil, Tanganyika</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +660,10 @@
     <MainItem>
       <Key>Selwyn-Clark</Key>
       <Forenames>Percy Selwyn</Forenames>
-      <Text>, M.C., M.D., (Member of Executive Council, Hong Kong</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +687,10 @@
     <MainItem>
       <Key>Shiels</Key>
       <Forenames>Thomas Drummond</Forenames>
-      <Text>, M.C., M.B:, Ch.B., Knighted</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +698,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Alan Gordon</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +708,9 @@
     <MainItem>
       <Key>Spence</Key>
       <Forenames>George Hemming</Forenames>
-      <Text>, C. S.I., CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +719,10 @@
       <Key>Stanhope</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>James Richard</Forenames>
-      <Text>, Earl, KiG., D. S.O., M.C., Lord President of the Council</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6067</PageNumber>
       <PageNumber>6125</PageNumber>
     </MainItem>
@@ -647,7 +752,10 @@
     <MainItem>
       <Key>Stonehewer-Bird</Key>
       <Forenames>Francis Hugh William</Forenames>
-      <Text>, C.M.G., O.B.E., H.M. Consul-General at Addis Ababa</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +763,9 @@
     <MainItem>
       <Key>Sugden</Key>
       <Forenames>Bernard</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +781,9 @@
     <MainItem>
       <Key>Swan</Key>
       <Forenames>Harold Couch</Forenames>
-      <Text>, O.B.E., H.M. Consul at Florence</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +809,9 @@
       <Key>Thorpe</Key>
       <Title>Prof.</Title>
       <Forenames>Jocelyn Field</Forenames>
-      <Text>, C. B.E., D.Sc., F.R.S., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +820,9 @@
       <Key>Tozer</Key>
       <Title>Maj.</Title>
       <Forenames>James Clifford</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,14 +830,17 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, C.B.E., Commissioner, Indian Family Pension Funds</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Twitchett</Key>
-      <Forenames>The Venerable Cyril Frederick</Forenames>
+      <Title>The</Title>
+      <Forenames>Venerable Cyril Frederick</Forenames>
       <Text>, Chaplain to H.M. Household</Text>
       <PageNumber>5103</PageNumber>
     </MainItem>
@@ -738,7 +857,9 @@
     <MainItem>
       <Key>Walshe</Key>
       <Forenames>F. M. R.</Forenames>
-      <Text>, D.Sc., M.D., B.S., F.R.C.P, appointment to Civil Consulting staff of King Edward VII Convalescent Home for ' Officers at Osborne</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
     <SubItem>

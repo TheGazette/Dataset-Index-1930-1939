@@ -565,7 +565,9 @@
       <Key>Hawley</Key>
       <Title>Sir</Title>
       <Forenames>D. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +998,9 @@
       <Key>Hutchison</Key>
       <Title>Sir</Title>
       <Forenames>E. A. O.</Forenames>
-      <Text>, Bt,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1305,7 +1309,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lawrence</Key>
-      <Text>. G. H. II</Text>
+      <Forenames>G. H.</Forenames>
+      <Text>II</Text>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>

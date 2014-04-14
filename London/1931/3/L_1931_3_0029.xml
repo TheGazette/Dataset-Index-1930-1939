@@ -58,8 +58,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de L. '</Text>
+      <Forenames>K. de L</Forenames>
+      <Text>. '</Text>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,9 +1336,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Beauvoir</Key>
+      <Forenames>de Lisle</Forenames>
+      <Text>, C</Text>
+      <PageNumber>5180</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gex</Key>
+      <Forenames>G. F</Forenames>
+      <PageNumber>5554</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>LIsle and Dudley, Lord</Text>
       <PageNumber>5554</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>P. B</Forenames>
+      <PageNumber>5180</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. P</Forenames>
+      <PageNumber>4544</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>H. P</Forenames>
+      <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1522,8 +1558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Forenames>P.</Forenames>
-      <Text>de K</Text>
+      <Forenames>P. de K</Forenames>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>

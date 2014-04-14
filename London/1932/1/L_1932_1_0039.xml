@@ -543,8 +543,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, Niel</Text>
+      <Key>O'Neill</Key>
+      <Forenames>Niel</Forenames>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +558,8 @@
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, N</Text>
+      <Key>O'Neill</Key>
+      <Forenames>N</Forenames>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,9 +796,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Winton</Forenames>
-      <Text>, F. S. W</Text>
+      <Key>De Winton</Key>
+      <Forenames>F. S. W.</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -854,8 +853,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, R. C</Text>
+      <Key>O'Conor</Key>
+      <Forenames>R. C</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1358,7 +1357,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Southwell</Key>
-      <Text>Hon. J. M</Text>
+      <Title>Hon.</Title>
+      <Forenames>J. M.</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>

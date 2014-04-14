@@ -221,7 +221,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Seelly</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>7702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +470,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Selbey</Key>
-      <Text>T. W</Text>
+      <Forenames>T. W .</Forenames>
       <PageNumber>7259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,8 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severne</Key>
-      <Forenames>A.</Forenames>
-      <Text>de M</Text>
+      <Forenames>A. de M</Forenames>
       <PageNumber>8311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shadbolt</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>7566</PageNumber>
       <PageNumber>8092</PageNumber>
     </MainItem>
@@ -1282,7 +1282,7 @@
     </MainItem>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>T. i</Text>
+      <Text>T. i.</Text>
       <PageNumber>7486</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1692,7 +1692,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeil</Key>
-      <Text>H. M</Text>
+      <Forenames>H. M.</Forenames>
       <PageNumber>8536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2004,7 +2004,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>A. G.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7025</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -212,8 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Braithwaite</Key>
-      <Forenames>F. J. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>F. J. St. G</Forenames>
       <PageNumber>3503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryan-Gower</Key>
-      <Text>D. H</Text>
+      <Forenames>D. H</Forenames>
       <PageNumber>3358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +508,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>3503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1630,6 +1628,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Crespigny</Key>
+      <Forenames>C. M. C.</Forenames>
+      <PageNumber>3503</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. A.</Forenames>
+      <PageNumber>2712</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Haviland</Key>
+      <Forenames>G. R</Forenames>
+      <PageNumber>3026</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jonquieres</Key>
+      <Forenames>M. V. J. de F</Forenames>
+      <PageNumber>4176</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Rue, T. P</Text>
       <PageNumber>2251</PageNumber>
@@ -1637,9 +1663,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. R. F</Text>
+      <Key>de Lestang</Key>
+      <Forenames>R. M. C. N.</Forenames>
+      <PageNumber>2458</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Salis</Key>
+      <Forenames>A. R. F</Forenames>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>

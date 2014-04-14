@@ -13,7 +13,11 @@
       <Key>Levita</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Cecil Bing-</Forenames>
-      <Text>ham, C.B.E., M.V.O., D.L., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +25,9 @@
     <MainItem>
       <Key>Lewin</Key>
       <Title>Brig.</Title>
-      <Text>Oen. Henry Frederick Elliott, C.B., C. M.G., Comptroller to Princess Mary, Countess of Harewood</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +50,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>' Dr. Cecil Henning, O.B.E., H.M. Vice-Consul at Mohammerah</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +69,11 @@
       <Key>Logan</Key>
       <Title>Col. (tempy. Brig.)</Title>
       <Forenames>Francis Douglas</Forenames>
-      <Text>, C.M.G., D. S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +81,9 @@
     <MainItem>
       <Key>Lomas</Key>
       <Forenames>Ernest Gabriel</Forenames>
-      <Text>, O.B.E., H.M. Consul-Gerieral at Tunis ... :</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +92,9 @@
       <Key>Longden</Key>
       <Title>Maj.</Title>
       <Forenames>Alfred Appleby</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +127,9 @@
     <MainItem>
       <Key>McAnally</Key>
       <Forenames>Henry William Wat-</Forenames>
-      <Text>son, C.B., J.P., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -163,7 +181,10 @@
       <Key>MacGeagh</Key>
       <Title>Col.</Title>
       <Forenames>Henry Davies Foster</Forenames>
-      <Text>, C.B.E., T.D., K.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +250,9 @@
     <MainItem>
       <Key>MacKintosh</Key>
       <Forenames>Stanley Hugh</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +313,9 @@
       <Key>McMillan</Key>
       <Title>Miss</Title>
       <Forenames>Margaret</Forenames>
-      <Text>, C.B.E., Companion of Honour</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +381,10 @@
     <MainItem>
       <Key>Malkin</Key>
       <Forenames>Herbert William</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +408,11 @@
     <MainItem>
       <Key>Mansell</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. George Robert, C.B.E., M.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +428,9 @@
     <MainItem>
       <Key>Marshall</Key>
       <Forenames>Guy Anetruther Knox</Forenames>
-      <Text>, C.M.G., D.Sc., F.R.S., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -407,7 +441,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Commissary</Forenames>
-      <Text>and Maj. Percy Harold, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +460,9 @@
       <Key>Martyn</Key>
       <Title>Col.</Title>
       <Forenames>O.</Forenames>
-      <Text>BJE., CornD.S.O., Order of the panions, Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +478,10 @@
     <MainItem>
       <Key>Mason</Key>
       <Forenames>Lawrence</Forenames>
-      <Text>, O.B.E., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +490,9 @@
       <Key>Mathew</Key>
       <Title>Col.</Title>
       <Forenames>George</Forenames>
-      <Text>, R.M., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -475,7 +518,10 @@
       <Key>Meadows</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Sydney Manvers Woolner</Forenames>
-      <Text>, D.S.O., M. R. C S., L.R.C.P., R.A.M.C., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Millett</Key>
-      <Text>Wing Com. William, Officer, Ordsr of the British Empire</Text>
+      <Forenames>Wing Com</Forenames>
+      <Text>. William, Officer, Ordsr of the British Empire</Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +677,9 @@
       <Key>Monro</Key>
       <Title>Maj.</Title>
       <Forenames>Edwin George</Forenames>
-      <Text>, T.D., Officer Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +688,12 @@
       <Key>Montgomery</Key>
       <Title>Sir</Title>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, K.C.M.G., C.B., C.V.O., Knight Cbmmander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +728,9 @@
       <Key>Moran</Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>

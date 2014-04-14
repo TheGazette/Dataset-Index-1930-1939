@@ -275,7 +275,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fallows</Key>
-      <Text>de Vries, R</Text>
+      <Forenames>de Vries</Forenames>
+      <Text>, R</Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,8 +938,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>A. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>A. St. M</Forenames>
       <PageNumber>7951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,8 +1078,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Filler</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>8392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>7108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1158,8 +1157,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. H. M.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>H. M.</Forenames>
       <PageNumber>8158</PageNumber>
     </MainItem>
   </ItemGroup>

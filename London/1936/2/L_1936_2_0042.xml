@@ -17,8 +17,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +313,9 @@
       <Key>Henniker</Key>
       <Title>Sir</Title>
       <Forenames>R. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4017</PageNumber>
       <PageNumber>4018</PageNumber>
     </MainItem>
@@ -457,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoad</Key>
-      <Text>.C. W</Text>
+      <Forenames>C. W.</Forenames>
       <PageNumber>3588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,9 +1213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,8 +1246,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kildare</Key>
-      <Forenames>The</Forenames>
-      <Text>Marquis of</Text>
+      <Title>The Marquis</Title>
+      <Text>of</Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,8 +1311,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kingsmill</Key>
-      <Forenames>A.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. de P</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1319,8 +1319,7 @@
     <MainItem>
       <Key>Kirke</Key>
       <Title>Sir</Title>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>2556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1851,8 +1850,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. O'D</Forenames>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1909,8 +1907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClosky</Key>
-      <Forenames>F. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. L. St. J</Forenames>
       <PageNumber>2454</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,11 @@
     <MainItem>
       <Key>Holmes</Key>
       <Forenames>Gordon M.</Forenames>
-      <Text>, C.M.G., C.B.E., M.D., F.R.C.P., Member of Civil Consulting Staff of Osborne Convalescent Home for Officers</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +28,9 @@
       <Key>Hood</Key>
       <Title>Paymr. Capt.</Title>
       <Forenames>Basil Frederick</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +47,10 @@
       <Key>Hope</Key>
       <Title>Capt. the Hon.</Title>
       <Forenames>Arthur Oswald James</Forenames>
-      <Text>, M.C., M.P., Vice Chamberlain of the Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +67,9 @@
       <Key>Hopkins</Key>
       <Title>Capt.</Title>
       <Forenames>Francis Arthur</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +80,11 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>George Frederick Thomas</Forenames>
-      <Text>, M.V.O., M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +109,10 @@
     <MainItem>
       <Key>Horn</Key>
       <Forenames>Arthur Edwin</Forenames>
-      <Text>,, C.M.G., M.D., M.R.C.P., Knight 3°77:</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +120,9 @@
     <MainItem>
       <Key>Home</Key>
       <Title>The Rt. Hon.</Title>
-      <Text>.B.E., Robert Stevenson, G VisK.C., LL.D., M.P., count</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
     <SubItem>
@@ -141,7 +161,9 @@
     <MainItem>
       <Key>Houston</Key>
       <Title>Wt. Offr.</Title>
-      <Text>CI. II, C.S.M. David, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +171,10 @@
     <MainItem>
       <Key>Howard</Key>
       <Forenames>Algar Henry Stafford</Forenames>
-      <Text>, C.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +185,9 @@
       </Key>
       <Title>The Hon.</Title>
       <Forenames>Arthur Jared Palmer</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +208,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Henry Cecil Lloyd</Forenames>
-      <Text>, C.M.G., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +230,9 @@
       <Key>Howarth</Key>
       <Title>Capt.</Title>
       <Forenames>Frank</Forenames>
-      <Text>, M.C, T.D.^ Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +258,9 @@
     <MainItem>
       <Key>Howes</Key>
       <Forenames>Henry Randolph</Forenames>
-      <Text>, O.B.E., Member, Executive Council of Montserrat</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
     <SubItem>
@@ -239,7 +273,10 @@
       <Key>Howland</Key>
       <Title>Miss</Title>
       <Forenames>Cicely</Forenames>
-      <Text>, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,7 +350,13 @@
       <Key>Hunter</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alan John</Forenames>
-      <Text>. C.B., C.M.G., D.S.O., M.C., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +374,9 @@
     <MainItem>
       <Key>Hunza</Key>
       <Forenames>Mir</Forenames>
-      <Text>Sir Muhammad Nazim Khan, K.C.I.E., Mir of, Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +396,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Benjamin Henry Darby</Forenames>
-      <Text>, D.C.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +497,10 @@
       <Key>Iredell</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Alfred William</Forenames>
-      <Text>, C.B., M.R.C.S., L.R.C.P., K.H.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +517,9 @@
       <Key>Isaacs</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Isaac Alfred</Forenames>
-      <Text>, G.C.M.G., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +597,9 @@
     <MainItem>
       <Key>Jagdish</Key>
       <Forenames>Prasad</Forenames>
-      <Text>, Kunwar Sir, C.S.I., CLE., O.B.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +617,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph Edward</Forenames>
-      <Text>, M.B.E., Nominated Member, Legislative Council of Antigua</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -601,7 +657,9 @@
       <Key>Jameson</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, D. S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +668,9 @@
       <Key>Jaora</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>H. H. Fakhr-</Forenames>
-      <Text>ud-Daulash Nawab, Sir Muhammad Iftikhar Ali Khan Bahadur, Saulat Jang,, K.C.I.E., Nawab of, Knight Grand Coss, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +697,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Rose</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +723,9 @@
     <MainItem>
       <Key>Jeffries</Key>
       <Forenames>Charles Joseph</Forenames>
-      <Text>, O.B.E., Companion, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>

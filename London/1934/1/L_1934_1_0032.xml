@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Sykes</Key>
       <Title>Maj.-Gen.</Title>
-      <Text>the Rt. Hon. Sir Frederick Hugh, G.C.I.E., G.B.E., C.M.G., K.C.B</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +15,10 @@
     <MainItem>
       <Key>Talbot</Key>
       <Forenames>Rear-Adra</Forenames>
-      <Text>. Cecil Ponsonby, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +26,9 @@
     <MainItem>
       <Key>Tan</Key>
       <Forenames>Cheng Lock</Forenames>
-      <Text>, C.B.E., Unofficial Member, Executive Council, Straits Settlements</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +80,10 @@
       <Key>Templemore</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Claud Spencer</Forenames>
-      <Text>, Baron, D.S.O., O.B.E., Captain of H.M. Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +156,10 @@
       </Key>
       <Title>Brig.</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, D. S.O., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +177,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Luke</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -183,7 +199,9 @@
       <Key>Thomson-Glover</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John William</Forenames>
-      <Text>, C.B.E., H.M. Consul-General at Kashgar</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +210,10 @@
       <Key>Thorold</Key>
       <Title>Rev.</Title>
       <Forenames>Ernest Hay-</Forenames>
-      <Text>ford, C.B.E., M.A. D.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +255,9 @@
     <MainItem>
       <Key>Titman</Key>
       <Forenames>George Alfred</Forenames>
-      <Text>, Member, 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +273,10 @@
     <MainItem>
       <Key>Tizard</Key>
       <Forenames>Henry Thomas</Forenames>
-      <Text>, C.B., A.F.C., F.R.S., Development Commissioner</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>1526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +300,9 @@
     <MainItem>
       <Key>Tomlinson</Key>
       <Forenames>George John Frederick</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of St. Michael and St. George Tongue, Eric Dauncey, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +326,9 @@
     <MainItem>
       <Key>Tower</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Cyril Francis, R.N., Member, 4th Class, Royal Victorian Order ... Train, Joseph Wilfred, Officer, Order of the British Empire Travers, Arthur Richard, J.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +337,9 @@
       <Key>Tremlett</Key>
       <Title>Maj.</Title>
       <Forenames>Frederick Thomas George</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +424,9 @@
     <MainItem>
       <Key>Tyrrell</Key>
       <Forenames>Francis Graeme</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +451,9 @@
       <Key>Villiers</Key>
       <Title>Maj.</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire Wade, Qrt.-Mstr. and Hon. Lt. Leonard Charles, Member, Order of the British Empire Wadsworth, Robert Algernon Johnson, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,7 +483,9 @@
     <MainItem>
       <Key>Webster</Key>
       <Forenames>John</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George Weir Rt. Hon. William Douglas, Baron, LL.D., D.L., Knight Grand Cross, Order of the Bath Wellington, Arthur Robartes, M.R.C.S., L.iR.C.P., Com! panion, Order of St. Michael and St. George West, Jesse, Nominated Unofficial Member, Legislative Council of Nigeria</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,10 @@
       <Key>Jones</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Thomas Otto</Forenames>
-      <Text>, M.B.E., T.D., Officer, . Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -15,7 +18,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Alfred</Forenames>
-      <Text>, . M.D., . . F.R.C.P.(0.) Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,14 +53,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Joseph</Key>
-      <Text>. Sir Francis . . LEstrange, -C.B.E., J.P., .;. D.L.j Knight Commander, Order of the British Empire . ' ,</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Joske</Key>
-      <Text>. Maj.. Clive Alexander Brewster, M.C., Officer, Order of the British Empire ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +120,9 @@
     <MainItem>
       <Key>Kelly</Key>
       <Forenames>David Victor</Forenames>
-      <Text>, M.C., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +133,10 @@
       </Key>
       <Title>Admiral Sir</Title>
       <Forenames>John-Donald</Forenames>
-      <Text>, G.C.V.O., K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +175,9 @@
       </Key>
       <Title>Sir Robert .</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.M.G., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +212,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>H.R.H.</Title>
-      <Text>the Duke of, K.G., G.C.M.G., G.C.V.O., Knight of., the Most Ancient arid Most . Noble Order of the Thistle</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>2769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +231,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>' Sir Archibald John ' Kerr Clark, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary at Bagdad</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +252,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Louis William Howard</Forenames>
-      <Text>, M.V.O., 0:B.E., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,14 +264,18 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral WilliamMunro, C.B., C.B.E., Knight Commander, ' Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Khong</Key>
-      <Text>Kam Tak, M.B., Member, Order of tne British Empire ..-</Text>
+      <Forenames>Kam Tak</Forenames>
+      <Text>, M.B., Member, Order of tne British Empire ..-</Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +292,9 @@
       <Key>Killik</Key>
       <Title>Sir</Title>
       <Forenames>Stephen Henry Molyneux</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +348,9 @@
       <Key>Kitching</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harold Edward</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +413,9 @@
     <MainItem>
       <Key>Kunwar</Key>
       <Forenames>Jagdish Prasad</Forenames>
-      <Text>, O.S.I., OLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +423,9 @@
     <MainItem>
       <Key>Kylsant</Key>
       <Title>Lady</Title>
-      <Text>, C.B.E.; Dameof Justice, Order of Si. John of Jerusalem ..: -</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +433,11 @@
     <MainItem>
       <Key>La</Key>
       <Forenames>Fontaine</Forenames>
-      <Text>, Sydney Hubert, D.S.O., O.B.E., M.C., Nominated Official Memi ber of . the Legislative Council. of the Colony of . ; ... Kenya . .... ... '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +544,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>' Sir Percy 'Robert, ' K.O.V.O., C.B.E., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +572,9 @@
       <Key>Lawrance</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Arthur Salisbury</Forenames>
-      <Text>, K.B.E.j O.M.G., D.S.O., Governor and Commander-in-Chief of Somalliland Protectorate</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3047</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +658,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfrid Hubert Poyer</Forenames>
-      <Text>, O.B.E., Justice, H.M. High Court of Justice</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +668,9 @@
     <MainItem>
       <Key>Linlithgow</Key>
       <Forenames>Most</Forenames>
-      <Text>Hon. Victor Alexander John,, Marquess of, K.T., G.C.I.E., ___ O.B.E,. Member of H.M. Jfrivy Council</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>

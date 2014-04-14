@@ -183,8 +183,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M .</Forenames>
       <PageNumber>5725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +300,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shebbeare</Key>
-      <Text>R. A</Text>
+      <Forenames>R. A.</Forenames>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walsh</Key>
-      <Text>F. J</Text>
+      <Forenames>F. J .</Forenames>
       <PageNumber>4231</PageNumber>
       <PageNumber>5725</PageNumber>
     </MainItem>
@@ -451,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland</Key>
-      <Text>P. T</Text>
+      <Forenames>P. T</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -546,7 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>J. A. B</Text>
+      <Forenames>J. A. B</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Batterbury</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,8 +591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>4749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,6 +876,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, H. A</Text>
+      <PageNumber>5598</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deedes</Key>
       <Forenames>R. B .</Forenames>
       <PageNumber>4750</PageNumber>
@@ -928,9 +935,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, C. L. E</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>C. L. E .</Forenames>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finnis</Key>
-      <Text>H</Text>
+      <Forenames>H .</Forenames>
       <PageNumber>6009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1053,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gardiner</Key>
-      <Text>M. D</Text>
+      <Forenames>M. D.</Forenames>
       <PageNumber>4749</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,7 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grahame</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,9 @@
       <Key>Worsfold</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Cato</Forenames>
-      <Text>, Bt. LL.D., Commander. Order of St. John or Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +43,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Edward Hilton</Forenames>
-      <Text>, G.B.E., D.S.O., D.S.C., Member of Medical Education and Registration General Council</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +212,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. John</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,9 +271,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Sir J. P</Text>
+      <Key>Du Cane</Key>
+      <Title>Sir</Title>
+      <Forenames>J. P</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,8 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>2578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +530,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>4155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +741,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Simmons</Key>
-      <Text>F. K. ,</Text>
+      <Forenames>F. K.</Forenames>
+      <Text>,</Text>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,7 +788,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. R. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croft</Key>
-      <Text>W. D</Text>
+      <Forenames>W. D.</Forenames>
       <PageNumber>2972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNaughton</Key>
-      <Text>F. L</Text>
+      <Forenames>F. L</Forenames>
       <PageNumber>2333</PageNumber>
     </MainItem>
   </ItemGroup>

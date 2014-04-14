@@ -653,8 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhurst</Key>
-      <Forenames>F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. N. St. J</Forenames>
       <PageNumber>5547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fanshawe</Key>
-      <Text>. J. G. D</Text>
+      <Forenames>J. G. D</Forenames>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -762,7 +761,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fay</Key>
-      <Text>. K. R</Text>
+      <Forenames>K. R</Forenames>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1149,8 +1148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Simon</Key>
-      <Forenames>C. R. M. D. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>C. R. M. D. O'C</Forenames>
       <PageNumber>5021</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,8 +1298,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. O. A. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>O. A. W.</Forenames>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,7 +1310,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5030</PageNumber>
     </MainItem>
     <SubItem>

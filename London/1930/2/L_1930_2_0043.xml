@@ -140,7 +140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosbie</Key>
-      <Text>L. J</Text>
+      <Forenames>L. J.</Forenames>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,6 +229,20 @@
       <Key>Day</Key>
       <Forenames>H. M. A.</Forenames>
       <PageNumber>2066</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Besombes</Key>
+      <Forenames>J. M. J. C. J. I. R.</Forenames>
+      <PageNumber>2564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>D. R. C. B .</Forenames>
+      <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -377,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fallick</Key>
-      <Text>E. E</Text>
+      <Forenames>E. E .</Forenames>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>2966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1010,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Text>J. de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>2255</PageNumber>
       <PageNumber>3157</PageNumber>
     </MainItem>
@@ -1575,8 +1589,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, G. F. P</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>G. F. P.</Forenames>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1590,8 +1604,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. G. B</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. G. B.</Forenames>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1604,8 +1618,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. P</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. P.</Forenames>
       <PageNumber>2966</PageNumber>
       <PageNumber>3330</PageNumber>
     </MainItem>
@@ -1619,8 +1633,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. W</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. W.</Forenames>
       <PageNumber>3156</PageNumber>
     </MainItem>
   </ItemGroup>

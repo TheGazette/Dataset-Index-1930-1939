@@ -340,8 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tompson</Key>
-      <Text>R. H. D</Text>
+      <Forenames>R. H. D</Forenames>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +417,9 @@
       <Key>Acland</Key>
       <Title>Sir</Title>
       <Forenames>W. H. D.</Forenames>
-      <Text>, Bt. '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>136</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1868,7 +1869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cart</Key>
-      <Text>de Lafontaine, H</Text>
+      <Forenames>de Lafontaine</Forenames>
+      <Text>, H</Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,29 +4,17 @@
     <MainItem>
       <Key>Price</Key>
       <Forenames>James Frederick George</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>John Playfair</Forenames>
-      <Text>, H.M. ViceConsul at Los Angeles</Text>
-      <PageNumber>2085</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Owen Gordon</Forenames>
-      <Text>, A.M.I.C.E., F.S.I., Officer, Order of the British Empire</Text>
+    <SubItem>
+      <Text>
+        <PageNumber>2085</PageNumber>
+      </Text>
       <PageNumber>15</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -73,20 +61,15 @@
     <MainItem>
       <Key>Puckle</Key>
       <Forenames>Frederick Hale</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Mrs.</Title>
-      <Forenames>Violet Marion</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem</Text>
+    <SubItem>
+      <Text>Mrs. Violet Marion, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -117,7 +100,9 @@
     <MainItem>
       <Key>Rahimtoola</Key>
       <Forenames>Chinoy</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +117,9 @@
     <MainItem>
       <Key>Raisman</Key>
       <Forenames>Abraham Jeremy</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +127,9 @@
     <MainItem>
       <Key>Ralston</Key>
       <Forenames>Gavin</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +137,9 @@
     <MainItem>
       <Key>Ram</Key>
       <Forenames>Lucius Abel John Granville</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,27 +171,26 @@
     <MainItem>
       <Key>Ramsay</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1068</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Dr.</Title>
-      <Forenames>John</Forenames>
-      <Text>, C.B.E., Commander, Order of St. John of Jerusalem</Text>
+    <SubItem>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramsden</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.D., L.R.C.P., M.R.C.S., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +206,9 @@
     <MainItem>
       <Key>Ransom</Key>
       <Forenames>Herbert Charles</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +240,10 @@
     <MainItem>
       <Key>Rawlins</Key>
       <Forenames>Evelyn Charles Donald</Forenames>
-      <Text>, C.M.G., C.B.E., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Bolivia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2004</PageNumber>
     </MainItem>
     <SubItem>
@@ -278,15 +273,21 @@
     <MainItem>
       <Key>Rees-Jones</Key>
       <Forenames>Edward William</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem ... ... ... Reeves-Smith, George, Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
+      <PageNumber>1069</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
       <Forenames>Henry Birkby</Forenames>
-      <Text>, Member, Order of the British Empire Reilly, Henry DArcy Cornelius, Knight ... ... Rendall, Montague John, C.M.G., Officer, Order of St. John of Jerusalem ... Rey, Lt.-Col. Charles Fernand, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1163</PageNumber>
     </MainItem>
@@ -301,37 +302,57 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Edwin</Forenames>
-      <Text>, Member, Order of the British Empire ... Robertshaw, Charles, Knight</Text>
+      <Key>Rickett</Key>
+      <Forenames>Mary</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>1840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Robertshaw</Key>
+      <Forenames>Charles</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>George Gilmour</Forenames>
-      <Text>, Puisne Judge of High Court of Northern Rhodesia Robinson, Laurence Milner, H.M. Consul-General . at Hamburg</Text>
+      <Key>Robertson</Key>
+      <Forenames>Arthur Kenneth</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2004</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>William James</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
-      <PageNumber>30</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>C.M.G., M.P., Knight</Text>
+      <Text>William James, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>30</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>Baron Romer of New Romney</Text>
+      <PageNumber>189</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>The Ven. John Delacourt, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
     </SubItem>
     <SubItem>
       <Text>Sachse, Frederick Alexander, C.S.I., CLE., Knight</Text>
@@ -339,6 +360,5 @@
       <PageNumber>1936</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

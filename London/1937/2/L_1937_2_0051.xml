@@ -316,7 +316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glass</Key>
-      <Text>. H. P. L</Text>
+      <Forenames>H. P. L.</Forenames>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hailey</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M</Forenames>
       <PageNumber>44</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1586,7 +1586,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hussey</Key>
-      <Text>de Burgh, U. F</Text>
+      <Forenames>de Burgh</Forenames>
+      <Text>, U. F</Text>
       <PageNumber>3513</PageNumber>
     </MainItem>
   </ItemGroup>

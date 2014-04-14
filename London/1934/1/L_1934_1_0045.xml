@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyle</Key>
-      <Text>W. E</Text>
+      <Forenames>W. E</Forenames>
       <PageNumber>319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,6 +216,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>1780</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dean</Key>
       <Forenames>H. H.</Forenames>
       <PageNumber>318</PageNumber>
@@ -323,7 +330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fry</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,15 +878,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J</Forenames>
       <PageNumber>1079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. G</Forenames>
       <PageNumber>318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1443,7 +1450,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barroll</Key>
-      <Text>W. S</Text>
+      <Forenames>W. S</Forenames>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,8 +1563,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromhead</Key>
-      <Forenames>E.</Forenames>
-      <Text>de G. H</Text>
+      <Forenames>E. de G</Forenames>
+      <Text>. H</Text>
       <PageNumber>1232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1571,8 +1578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Title>St.</Title>
-      <Forenames>J. A</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -5,7 +5,9 @@
       <Key>Poole</Key>
       <Title>Sir</Title>
       <Forenames>Reginald Ward Edward Lane</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
       <Key>Porter</Key>
       <Title>Maj. (Quarter-Master)</Title>
       <Forenames>John William</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +44,9 @@
       <Key>Preston</Key>
       <Title>Adm.</Title>
       <Forenames>Lionel George</Forenames>
-      <Text>, C.B., Knight Commander, Order of the .Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +65,9 @@
       <Key>Priestman</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +91,9 @@
       <Key>Prynne</Key>
       <Title>Col.</Title>
       <Forenames>Harold Vernon</Forenames>
-      <Text>, C. B.E., D.S.O., y.R.C.S., L.R.C.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,8 +108,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Quinn</Key>
-      <Forenames>Patrick Lawrence O</Forenames>
-      <Text>'Toole, Member, Order of the British Empire</Text>
+      <Forenames>Patrick Lawrence O'Toole</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,14 +158,19 @@
     <MainItem>
       <Key>Reekie</Key>
       <Forenames>William Maxwell</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rees</Key>
-      <Text>.Sir Milsom, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +190,10 @@
       <Key>Reilly</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Bernard Raw-</Forenames>
-      <Text>don, CLE., . O.B.E., D. S.O., Knight Com. , mander, Order of St. Michaeland St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +218,10 @@
     <MainItem>
       <Key>Rhodes</Key>
       <Title>Brig.-Gen.</Title>
-      <Text>. Godfrey Dean, C.B.E.., D.S.O., R.E. (Retd.), Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -216,7 +237,9 @@
     <MainItem>
       <Key>Richards</Key>
       <Forenames>John Thomas</Forenames>
-      <Text>, O.B.E., . Commander, Order of the British Empire,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +303,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Fossett</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem ...'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +353,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>; O.B.E., J.P., Knight Commander, Order of the British Empire'</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rollo</Key>
-      <Text>. and . Dunning, ^ Lord, C. B., Lieutenant, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
+      <Text>and . Dunning, ^ Lord, C. B., Lieutenant, King's Bodyguard for Scotland (Royal Company of Archers)</Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rush</Key>
-      <Text>. Ernest Cecil, Member, Order of the .. British Empire</Text>
+      <Forenames>Ernest Cecil</Forenames>
+      <Text>, Member, Order of the .. British Empire</Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salem</Key>
-      <Text>...Subbukrishna Subrahmanyam, Member, .Order of the British Empire</Text>
+      <Text>..Subbukrishna Subrahmanyam, Member, .Order of the British Empire</Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +471,10 @@
     <MainItem>
       <Key>Satow</Key>
       <Title>Sir</Title>
-      <Text>-HaroldEustace, K.C.M.G., O.B.E., H.M. Consul-General at Tunis</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +482,9 @@
     <MainItem>
       <Key>Satya</Key>
       <Forenames>Charan Mukherjee</Forenames>
-      <Text>, Rai Bahadur, C.B.E., M.L.A., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +583,9 @@
       <Key>Screech</Key>
       <Title>Alfred .</Title>
       <Forenames>Leonard</Forenames>
-      <Text>, O.B.E., ..Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +623,10 @@
     <MainItem>
       <Key>Shaftesbury</Key>
       <Title>Brig.-Gen.</Title>
-      <Text>the Earl of, K.P., G.O.V.O., C.B.E., P.C.; Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,11 +641,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Share</Key>
-      <Text>' Pay. Rear-Adm. Sir Ham net Holditch, K.B.E., C.B., Extra Gentleman Usher to H.M. the King</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3299</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Commander, Royal Victorian Order :'</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -637,7 +680,9 @@
     <MainItem>
       <Key>Shekleton</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Alexander, D.S.O., Officer, Order of thei British Empire-</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>

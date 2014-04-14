@@ -56,7 +56,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Siddeley</Key>
-      <Text>C. D</Text>
+      <Forenames>C. D .</Forenames>
       <PageNumber>1707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,8 +462,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steadman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tenison</Key>
-      <Forenames>B. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>B. O'M</Forenames>
       <PageNumber>1866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,7 +784,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Text>G. W. P</Text>
+      <Forenames>G. W. P.</Forenames>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,8 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1370,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>

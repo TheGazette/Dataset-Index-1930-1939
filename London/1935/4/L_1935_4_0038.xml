@@ -111,8 +111,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Aroedeckne-Butler</Key>
-      <Title>St.</Title>
-      <Forenames>J. D.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>D.</Forenames>
       <PageNumber>6634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -704,7 +704,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barclay</Key>
-      <Text>. W. P</Text>
+      <Forenames>W. P.</Forenames>
       <PageNumber>8197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,8 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barne</Key>
-      <Forenames>M. E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. E. St. J</Forenames>
       <PageNumber>8197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1078,7 +1077,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birdsall</Key>
-      <Text>. M</Text>
+      <Forenames>M .</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,7 +1179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blyth</Key>
-      <Text>. D. C</Text>
+      <Forenames>D. C .</Forenames>
       <PageNumber>8357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,8 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boys</Key>
-      <Forenames>E. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. J. de C</Forenames>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1722,7 +1720,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>of Leys, Sir J. L. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Callaghan</Key>
-      <Text>. M. F. M</Text>
+      <Forenames>M. F. M.</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

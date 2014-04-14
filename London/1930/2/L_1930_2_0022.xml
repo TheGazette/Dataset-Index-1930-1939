@@ -13,7 +13,9 @@
       <Key>Fowle</Key>
       <Title>Maj.</Title>
       <Forenames>Trenohard Craven William</Forenames>
-      <Text>, C.B.E., H.M. Consul at Bushire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
       <Key>Fowler</Key>
       <Title>Maj. (Quartermr.)</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +93,11 @@
       <Key>Fuller</Key>
       <Title>Col. (tempy. Brig.)</Title>
       <Forenames>John Frederick Charles</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +147,11 @@
     <MainItem>
       <Key>Game</Key>
       <Forenames>Air Vice-Mar</Forenames>
-      <Text>. Sir Philip Woolcott, G.B.E., K.C.B., D.S.O.. Governor of New South Wales</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2061</PageNumber>
     </MainItem>
     <SubItem>
@@ -192,7 +204,11 @@
       <Key>Gaskell</Key>
       <Title>Surg.</Title>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Arthur, C.B., O.B.E., F.R.C.S.(Eng.), L.R.C.P., D. P.H., K.H.S., Knight Commander, Order of the Bath ... .:</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +260,11 @@
     <MainItem>
       <Key>Gillies</Key>
       <Forenames>Harold Delf</Forenames>
-      <Text>, C.B.E., F.R.C.S., L.R.C.P., Maj. R.A.M.C. (retd.), Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -271,7 +291,10 @@
       <Key>Godwin</Key>
       <Title>Lieut.-Gen.</Title>
       <Forenames>Charles Alexander Campbell</Forenames>
-      <Text>, G.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +328,9 @@
     <MainItem>
       <Key>Goodenough</Key>
       <Forenames>Francis William</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -323,7 +348,9 @@
       <Key>Gordon</Key>
       <Title>Maj.</Title>
       <Forenames>Colin Lindsay</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +369,9 @@
     <MainItem>
       <Key>Gordon-Lee</Key>
       <Title>Maj. Alfred.</Title>
-      <Text>M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +412,9 @@
     <MainItem>
       <Key>Greenacre</Key>
       <Forenames>Walter</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +431,9 @@
       <Key>Grey</Key>
       <Title>Lt.-Col. (Quartermr.)</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, D.C.M., Officei, Order of the Britisn Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +467,10 @@
       <Key>Guinness</Key>
       <Title>Rev.</Title>
       <Forenames>Percy Wynd-</Forenames>
-      <Text>ham, D.S.O., M.C., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,14 +552,20 @@
       <Key>Hancock</Key>
       <Title>Capt.</Title>
       <Forenames>Cyril Percy</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hand</Key>
-      <Text>John Pierce, C.M.G., M.B.E., Unofficial Member, Executive Council of the Bermudas or Somers Islands</Text>
+      <Forenames>John Pierce</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -555,7 +597,9 @@
     <MainItem>
       <Key>Harding</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +608,9 @@
       <Key>Hare</Key>
       <Title>Maj.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.D., F.R.F.P.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +618,10 @@
     <MainItem>
       <Key>Harper</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, C.M.G., O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +656,9 @@
       <Key>Hartshorn</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Vernon</Forenames>
-      <Text>, O.B.E., Keeper of the Privy Seal</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3721</PageNumber>
       <PageNumber>3810</PageNumber>
     </MainItem>
@@ -642,7 +693,9 @@
     <MainItem>
       <Key>Headley</Key>
       <Forenames>Robert Hollowell</Forenames>
-      <Text>, M.B.E., LL.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +727,9 @@
     <MainItem>
       <Key>Hewins</Key>
       <Forenames>Harold Preece</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>

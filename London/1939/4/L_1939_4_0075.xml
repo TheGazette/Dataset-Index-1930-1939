@@ -429,8 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldridge</Key>
-      <Forenames>D. L. S. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>D. L. S. St. M</Forenames>
       <PageNumber>6656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,8 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de O</Text>
+      <Forenames>N. P. de O</Forenames>
       <PageNumber>7409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,6 +647,13 @@
       <Key>Crawford</Key>
       <Forenames>A. D.</Forenames>
       <PageNumber>8328</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Spon</Key>
+      <Forenames>M. F. L.</Forenames>
+      <PageNumber>7409</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1015,8 +1020,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. W .</Forenames>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,8 +1034,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, G. F</Text>
+      <Key>O'Leary</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>7177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1129,8 +1134,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Morford, A. C</Text>
+      <Key>St. Clair-Morford</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>6656</PageNumber>
     </MainItem>
   </ItemGroup>

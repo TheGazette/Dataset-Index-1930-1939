@@ -5,7 +5,9 @@
       <Key>Irvine</Key>
       <Title>The Hon. Sir William .</Title>
       <Forenames>Hill</Forenames>
-      <Text>, K.C.M.G., LL.D., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +31,9 @@
     <MainItem>
       <Key>Jack</Key>
       <Forenames>Flying Officer</Forenames>
-      <Text>(Hon. Flight Lieut.) James Lawrence, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +41,11 @@
     <MainItem>
       <Key>Jackson</Key>
       <Title>Lieut.</Title>
-      <Text>-General Henry Cholmondeley, '. C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,8 +54,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Oliver, Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Oliver</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +66,9 @@
         <KeyDitto>—.— ___ ___</KeyDitto>
       </Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel (Commy.) S a v i 11 e Britain, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +163,9 @@
     <MainItem>
       <Key>Johnson</Key>
       <Forenames>John Nesbitt Gordon</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +185,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Joseph</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +216,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P., Member, Board of Trustees, National Library of. Scotland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +297,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Tracy Gavin</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +340,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Joubert</Key>
-      <Text>de la Ferte, AirVice 'Marshal Philip' Bennet, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +352,9 @@
     <MainItem>
       <Key>Jyotsnanath</Key>
       <Forenames>Ghosal</Forenames>
-      <Text>, The Hon., C.S.I., CLE., Knighted ... ' '</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +362,9 @@
     <MainItem>
       <Key>Kam</Key>
       <Forenames>Tak</Forenames>
-      <Text>' Khong, Dr., M.B.E., Unofficial. Member, Federal Council of the Federated Malay States</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +380,9 @@
     <MainItem>
       <Key>Kazi</Key>
       <Forenames>Golam Mohiuddin</Forenames>
-      <Text>' Faroqui, The Hon. Khan Bahadur Nawab, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +398,9 @@
     <MainItem>
       <Key>Kelly</Key>
       <Forenames>Percy James</Forenames>
-      <Text>, C.B.E., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +454,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kermack</Key>
-      <Text>. Stuart Grace,' Sheriff-Substitute at Glasgow</Text>
+      <Forenames>Stuart Grace</Forenames>
+      <Text>,' Sheriff-Substitute at Glasgow</Text>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +470,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Text>. Dinshaw Khambatta Khan Bahadur, L.M. and S. (Bom.), L.R.C.P. and S. (Edin.), L.F.P. and S.! (Glas.), . D.P.H. (Edin.), Member, Order of the British Empire</Text>
+      <Forenames>Dinshaw Kham-</Forenames>
+      <Text>batta Khan Bahadur, L.M. and S. (Bom.), L.R.C.P. and S. (Edin.), L.F.P. and S.! (Glas.), . D.P.H. (Edin.), Member, Order of the British Empire</Text>
       <PageNumber>4008</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -516,7 +549,10 @@
     <MainItem>
       <Key>Kirkness</Key>
       <Forenames>Lewis Hawker</Forenames>
-      <Text>, D.S.O., O.B.E., V.D., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +569,9 @@
       <Key>Knott</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Garbutt</Forenames>
-      <Text>, Bt., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +579,9 @@
     <MainItem>
       <Key>Knowles</Key>
       <Forenames>John William Frederick</Forenames>
-      <Text>, M.B.E., Nominated Official Member, Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +590,9 @@
       <Key>Knox</Key>
       <Title>Sir</Title>
       <Forenames>Geoffrey George</Forenames>
-      <Text>, K.C.M.G., at Budapest</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +600,10 @@
     <MainItem>
       <Key>Kunwar</Key>
       <Forenames>Jagdish Prasad</Forenames>
-      <Text>, The Hon., C.S.I., CLE., O.B.E., Knighted</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +627,9 @@
     <MainItem>
       <Key>Laird</Key>
       <Forenames>Patrick Ramsay</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +653,9 @@
     <MainItem>
       <Key>Lamington</Key>
       <Title>Lord</Title>
-      <Text>, G.C.M.G., G.C.I.E., Captain, King's Bodyguard for Scotland</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +671,9 @@
     <MainItem>
       <Key>Lancaster</Key>
       <Title>Colonel</Title>
-      <Text>' (temp. Brigadier) Edmund Henry, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +696,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Lane</Key>
-      <Text>Poole, Rear Admiral Richard Hayden Owen, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +715,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Langhorne</Key>
-      <Text>. Colonel (Hon. Brigadier) James Archibald Dunboyne, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>

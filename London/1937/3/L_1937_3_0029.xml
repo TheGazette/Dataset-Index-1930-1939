@@ -222,7 +222,9 @@
       <Key>Jaffray</Key>
       <Title>Sir</Title>
       <Forenames>W. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,8 +728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -990,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moorhead</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D.</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,8 +1314,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1459,9 @@
       <Key>Bromhead</Key>
       <Title>Sir</Title>
       <Forenames>B. D. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,7 +1570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, H</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, H</Text>
       <PageNumber>4589</PageNumber>
     </MainItem>
   </ItemGroup>

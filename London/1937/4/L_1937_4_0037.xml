@@ -148,16 +148,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Claire</Text>
+      <Forenames>C. St. Claire</Forenames>
       <PageNumber>6209</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. J. de C</Forenames>
       <PageNumber>6210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,8 +387,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>H. de G</Forenames>
       <PageNumber>6210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,8 +549,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
       <PageNumber>7262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -901,8 +898,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosselin</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. L. H</Text>
+      <Forenames>G. St. L</Forenames>
+      <Text>. H</Text>
       <PageNumber>6147</PageNumber>
       <PageNumber>6444</PageNumber>
     </MainItem>
@@ -975,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>. T. G</Text>
+      <Forenames>T. G.</Forenames>
       <PageNumber>6078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,8 +1310,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kempthorne</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. de B</Forenames>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,7 +1355,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>. P. H. K. ... Holroyd, G. T</Text>
+      <Forenames>P. H. K.</Forenames>
+      <Text>... Holroyd, G. T</Text>
       <PageNumber>7433</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,8 +1435,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, K. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>K. J.</Forenames>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>

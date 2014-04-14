@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Somerville</Key>
       <Forenames>Annesley Ashworth</Forenames>
-      <Text>, V.D., J.P., M.P., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral James Fownes, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +36,9 @@
       <Key>Sparks</Key>
       <Title>Maj.</Title>
       <Forenames>Willmot Edward Lenox</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +46,9 @@
     <MainItem>
       <Key>Speckman</Key>
       <Title>Qr.</Title>
-      <Text>-Mr. &amp; Hon. Maj. Carl Rudolph, M.C., Member,; Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +194,11 @@
       <Key>Stephenson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>C.M.G., D.S.O., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +216,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +244,10 @@
     <MainItem>
       <Key>Steward</Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +267,9 @@
       <Key>Stewart</Key>
       <Title>Sir (Samuel)</Title>
       <Forenames>Find-</Forenames>
-      <Text>later, G.C.I.E., K.C.B., C.C.I., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +288,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Alex-</Forenames>
-      <Text>ander, K.C.I.E., C.S.I., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,8 +355,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Francis Joseph, Member 4th Class, Royal Victorian Order</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Francis Joseph</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +383,9 @@
     <MainItem>
       <Key>Streatfeild</Key>
       <Forenames>Geoffrey Hugh Benbow</Forenames>
-      <Text>, M.C., K.C., Solicitor-General of County Palatine of Durham</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +410,11 @@
       <Key>Stuart</Key>
       <Title>the Hon.</Title>
       <Forenames>James Gray</Forenames>
-      <Text>, M.V.O., M.C., M.P., Privy Councillor</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +473,11 @@
     <MainItem>
       <Key>Sutton</Key>
       <Forenames>Air Vice</Forenames>
-      <Text>Marshall Bertine Entwisle, D.S.O., O.B.E., MX., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +488,10 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>George William</Forenames>
-      <Text>, D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +525,10 @@
     <MainItem>
       <Key>Talbot</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Cecil Ponsonby, C.B., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +591,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Telfer</Key>
-      <Text>Smollett, Maj. Gen. Alexander Patrick Drumlmond, C.B,., D.|S.O.„ M.C., Governor of Guernsey</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +654,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William George</Forenames>
-      <Text>, M.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,8 +731,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral George Pirie, O.B.E., Commander, Order of the British Empire</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>George Pirie</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +745,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Campbell</Forenames>
-      <Text>, M.B.E., Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +767,11 @@
     <MainItem>
       <Key>Thome</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Augustus Francis Andrew Nicol, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -760,7 +815,9 @@
     <MainItem>
       <Key>Thorpe</Key>
       <Forenames>Frank Gordon</Forenames>
-      <Text>, M.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,7 +828,9 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>Jocelyn Field</Forenames>
-      <Text>, C.B.E., D.Sc, F.R.S., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>

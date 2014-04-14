@@ -30,7 +30,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinidad</Key>
-      <Text>and Tobago, Legislative Council: Nominated Official Mem-' Barton, Arthur Edward Victor. O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
     <SubItem>
@@ -39,18 +41,26 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
+        <PageNumber>2765</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <PageNumber>2765</PageNumber>
+        <Honour>C.B.E.</Honour>
+        <PageNumber>2765</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>2765</PageNumber>
         <PageNumber>2765</PageNumber>
+        <Honour>O.B.E.</Honour>
         <PageNumber>2765</PageNumber>
-        <PageNumber>2765</PageNumber>
-        <PageNumber>2765</PageNumber>
-        <PageNumber>2765</PageNumber>
+        <Honour>M.B.E.</Honour>
         <PageNumber>2765</PageNumber>
       </Text>
       <PageNumber>2765</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
         <PageNumber>2765</PageNumber>
       </Text>
       <PageNumber>2765</PageNumber>
@@ -191,6 +201,7 @@
     <CategoryTitle>ECCLESIASTICAL APPOINTMENTS</CategoryTitle>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>3544</PageNumber>
       </Text>
       <PageNumber>3819</PageNumber>

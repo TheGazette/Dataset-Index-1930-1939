@@ -63,7 +63,9 @@
     <MainItem>
       <Key>Constable-Maxwell-</Key>
       <Forenames>Scott</Forenames>
-      <Text>, Sir W. J., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,8 +137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,17 +490,44 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D</Text>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>2859</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Candole</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>2939</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B</Forenames>
+      <PageNumber>4061</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Las</Key>
+      <Forenames>Casas</Forenames>
+      <Text>, H</Text>
+      <PageNumber>2708</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Pree</Key>
+      <Forenames>H. D.</Forenames>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wytt</Forenames>
-      <Text>, W. H. H. J</Text>
+      <Key>De Wytt</Key>
+      <Forenames>W. H. H. J.</Forenames>
       <PageNumber>4062</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. H. de L</Forenames>
       <PageNumber>3416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1088,9 @@
       <PageNumber>3416</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt ..! ... '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2627</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1606,7 +1635,9 @@
       <Key>Grant-Lawson</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3980</PageNumber>
     </MainItem>
   </ItemGroup>

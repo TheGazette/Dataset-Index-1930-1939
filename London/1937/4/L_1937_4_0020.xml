@@ -4,7 +4,10 @@
     <MainItem>
       <Key>MacGregor</Key>
       <Forenames>A. S. M.</Forenames>
-      <Text>, O.B.E., M.D., F.R.F.P.S., D.P.H., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,9 @@
       <Key>Mackenzie</Key>
       <Title>Maj.</Title>
       <Forenames>David Alexander Laurance</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +26,9 @@
     <MainItem>
       <Key>Mackintosh</Key>
       <Forenames>Charles</Forenames>
-      <Text>, M.C., K.C., Sheriff of Argyll</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +37,10 @@
       <Key>MacNaltv</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, K.C.B., M.D., F.R.C.P., D.P.H., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +49,11 @@
       <Key>McNicoll</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Walter Ramsay</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., V.D., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +61,9 @@
     <MainItem>
       <Key>Magowan</Key>
       <Forenames>John Hall</Forenames>
-      <Text>, O.B.E., Commercial Secretary, Berlin</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +88,9 @@
     <MainItem>
       <Key>Matheson</Key>
       <Forenames>Commodore Charles George</Forenames>
-      <Text>, D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +99,10 @@
       <Key>Maynard</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Francis Herbert</Forenames>
-      <Text>, C.B., M.C., Distinguisher Service Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +111,10 @@
       <Key>Mellanby</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, K.C.B., M.D., F.R.C.P., F.R.S., Hon Physician to His Majesty</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +123,10 @@
       <Key>Menzies</Key>
       <Title>Sir</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, K.B.E., M.D., F.R.C.P., D.P.H., Hon. Physician to His Majesty</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7850</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +135,9 @@
       <Key>Morris</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Edwin</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +172,9 @@
     <MainItem>
       <Key>Munro</Key>
       <Forenames>John Edwin</Forenames>
-      <Text>, O.B.E., Member, Executive Council of Grenada</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +183,11 @@
       <Key>Murray-Lyon</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>David Murray</Forenames>
-      <Text>, D.S.O., M.C., Bar to. Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +195,9 @@
     <MainItem>
       <Key>Newnham</Key>
       <Forenames>J. M.</Forenames>
-      <Text>, O.B.E., LL.D., Member of Livestock Commission</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +223,9 @@
       <Key>Noyes</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Cyril Dupre</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,8 +239,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, Maj. Walter Cormac Locke, Distinguished Service Order</Text>
+      <Key>O'Carroll</Key>
+      <Title>Maj.</Title>
+      <Forenames>Walter Cormac Locke</Forenames>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +253,11 @@
       <Key>Penney</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Ronald Campbell</Forenames>
-      <Text>, O.B.E., M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +283,9 @@
       <Key>Plowden</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Bryan Edward Chicheley</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +294,11 @@
       <Key>Portland</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William John Arthur Charles James</Forenames>
-      <Text>, Duke of, K.G., G.C.V.O., T.D., Chancellor of the Most Noble Order of the Garter</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +307,9 @@
       <Key>Rawson</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Creswell Duffield</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -262,7 +317,9 @@
     <MainItem>
       <Key>Reed</Key>
       <Forenames>Clinton Austin</Forenames>
-      <Text>, O.B.E., Member of Legislative Council of the Island of Barbados</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7516</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +327,11 @@
     <MainItem>
       <Key>Rennell</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, G.C.B., G.C.M.G., G.C.V.O., Member of Council of British School at Rome</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>6508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +348,9 @@
     <MainItem>
       <Key>Richmond</Key>
       <Forenames>Robert Robert Daniel</Forenames>
-      <Text>, C.I.E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +368,9 @@
       <Key>Robertson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Everton</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +395,10 @@
       <Key>Scott</Key>
       <Title>Maj.</Title>
       <Forenames>Sidney Clermont</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +407,9 @@
       <Key>Skrine</Key>
       <Title>Maj.</Title>
       <Forenames>Philip Roger Huntley</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +417,10 @@
     <MainItem>
       <Key>Slessor</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. (now Group Capt.) John Cotesworth, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +458,9 @@
       <Key>Williams</Key>
       <Title>Dr.</Title>
       <Forenames>Arthur Donald John Edward</Forenames>
-      <Text>, O.B.E., B.A., Official Member of Legislative Council, Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +487,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>N. M.</Forenames>
-      <Text>, O.B.E., Hon. Surgeon to the King</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -724,6 +801,15 @@
       <Forenames>S. C.</Forenames>
       <PageNumber>6820</PageNumber>
       <PageNumber>7087</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. W. M.</Forenames>
+      <Text>. . bj</Text>
+      <PageNumber>72</PageNumber>
+      <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

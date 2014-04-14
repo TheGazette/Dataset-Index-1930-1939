@@ -65,7 +65,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dotting</Key>
-      <Text>..J. W. S</Text>
+      <Text>.J. W. S</Text>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -636,8 +636,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C</Forenames>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,8 +928,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rich</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. G. ... -</Text>
+      <Forenames>L. St. G</Forenames>
+      <Text>. ... -</Text>
       <PageNumber>6428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1059,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turnbull</Key>
-      <Text>. S. G. L</Text>
+      <Forenames>S. G. L.</Forenames>
       <PageNumber>5676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradley</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>5023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1401,8 +1401,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rcrke, C. H. C</Text>
+      <Key>O'Rcrke</Key>
+      <Forenames>C. H. C.</Forenames>
       <PageNumber>4834</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -185,8 +185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Forenames>H. N. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>H. N. St. V</Forenames>
       <PageNumber>4776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,22 +219,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. G. B</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. G. B.</Forenames>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, P. C. R</Text>
+      <Key>O'Hara</Key>
+      <Forenames>P. C. R.</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, C. T</Text>
+      <Key>O'Neill</Key>
+      <Forenames>C. T .</Forenames>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>PeillR</Key>
-      <Text>. S</Text>
+      <Forenames>S .</Forenames>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porteous</Key>
-      <Text>. H. B</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,7 +572,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John. H. W</Text>
+      <Title>John.</Title>
+      <Forenames>H. W.</Forenames>
       <PageNumber>5054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Torrens</Key>
-      <Text>. D. G</Text>
+      <Forenames>D. G</Forenames>
       <PageNumber>4605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -994,7 +994,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trethowan</Key>
-      <Text>. L. N</Text>
+      <Forenames>L. N</Forenames>
       <PageNumber>6008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1029,35 +1029,35 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Text>. W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Underbill</Key>
-      <Text>. W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>4262</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Urquhart</Key>
-      <Text>. N. R. L</Text>
+      <Forenames>N. R. L.</Forenames>
       <PageNumber>4913</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>TJssher</Key>
-      <Text>. J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>6007</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Verdon-Roe</Key>
-      <Text>. E. A</Text>
+      <Forenames>E. A</Forenames>
       <PageNumber>4262</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1113,8 +1113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. H. de W</Forenames>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,14 +1134,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>5744</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Welland</Key>
-      <Text>. R. D</Text>
+      <Forenames>R. D</Forenames>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,14 +1185,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitaker</Key>
-      <Text>. P</Text>
+      <Forenames>P</Forenames>
       <PageNumber>4263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. M. C. R</Text>
+      <Forenames>M. C. R</Forenames>
       <PageNumber>5864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,7 +1215,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>. E. P</Text>
+      <Forenames>E. P</Forenames>
       <PageNumber>5743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,8 +1299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1410,7 +1409,9 @@
     <MainItem>
       <Key>Nairn</Key>
       <Title>Rt. Hon.</Title>
-      <Text>the Earl of Leven and Melville, K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>4602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,14 +1466,24 @@
       <PageNumber>5864</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Troup, Col. George Alexander, T.D., M.D.</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D</Honour>
+      </Text>
       <PageNumber>5864</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5659</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
         <PageNumber>5659</PageNumber>
+        <Honour>D.S.O. O.B.E.</Honour>
         <PageNumber>5659</PageNumber>
+        <Honour>M.C</Honour>
       </Text>
       <PageNumber>5659</PageNumber>
     </SubItem>
@@ -1480,14 +1491,20 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Bellamy, Lt.-Col. Arthur, T.D., J.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4846</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>4846</PageNumber>
+        <Honour>C.B.E.</Honour>
         <PageNumber>4846</PageNumber>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>4840</PageNumber>
+        <Honour>T.D.</Honour>
         <PageNumber>4846</PageNumber>
         <PageNumber>4846</PageNumber>
       </Text>

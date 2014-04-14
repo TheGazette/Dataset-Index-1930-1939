@@ -86,22 +86,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. V</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. V</Forenames>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, C</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>C.</Forenames>
       <PageNumber>4520</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, F</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>F</Forenames>
       <PageNumber>4348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,8 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattle</Key>
-      <Forenames>M. T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. T. St. J</Forenames>
       <PageNumber>4816</PageNumber>
     </MainItem>
   </ItemGroup>

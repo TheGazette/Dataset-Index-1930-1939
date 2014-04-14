@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>Llewellyn Arthur</Forenames>
-      <Text>, M.D., M.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +66,10 @@
     <MainItem>
       <Key>Mott</Key>
       <Forenames>Basil</Forenames>
-      <Text>, C.B., Baronet</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +111,9 @@
       <Key>Mulvey</Key>
       <Title>Maj.</Title>
       <Forenames>William Snow-</Forenames>
-      <Text>ball, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +122,10 @@
       <Key>Munro</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>David</Forenames>
-      <Text>, C.B., CLE., M.B., Ch.B., F.R.C.S. (E), Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +135,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +146,10 @@
       <Key>Muspratt</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Sydney Frederick</Forenames>
-      <Text>, CSX, CLE., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +173,9 @@
     <MainItem>
       <Key>Nawaz</Key>
       <Forenames>Khan Bhutto</Forenames>
-      <Text>, Khan Bahadur Shah, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +208,9 @@
     <MainItem>
       <Key>Nichols</Key>
       <Forenames>Philip Bouverie Bowyer</Forenames>
-      <Text>, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +228,9 @@
       <Key>Oakes-Jones</Key>
       <Title>Capt.</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B.E., Offioar, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,8 +252,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Terence James, K.C, Member of Parliament for Central Division of Nottingham</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Terence James</Forenames>
+      <Text>, K.C, Member of Parliament for Central Division of Nottingham</Text>
       <PageNumber>3401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +262,10 @@
     <MainItem>
       <Key>Oldfield</Key>
       <Title>Maj. and Brevet Lt.</Title>
-      <Text>Col. Richard William, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +281,9 @@
     <MainItem>
       <Key>Oliver</Key>
       <Forenames>Francis Alfred</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +317,9 @@
     <MainItem>
       <Key>Pahang</Key>
       <Forenames>Tungkee Besar</Forenames>
-      <Text>of, C.M.G., Unoffial Member of the Federal Council of the Malay States</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +433,9 @@
       <Key>Peacock</Key>
       <Title>Sir</Title>
       <Forenames>Walter</Forenames>
-      <Text>, K.C.V.O., Member, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +451,9 @@
     <MainItem>
       <Key>Pearson</Key>
       <Forenames>Burton</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +538,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>John Randall</Forenames>
-      <Text>, O.B.E., M.B., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +583,10 @@
       <Key>Pope</Key>
       <Title>Col. (tempy. Brig.)</Title>
       <Forenames>Sydney Buxton</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +665,10 @@
     <MainItem>
       <Key>Pulteney</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir William, K. C. B., K. C M. G., K.CV.OD.S.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +724,9 @@
     <MainItem>
       <Key>Rabinq</Key>
       <Forenames>Hyacinth Louis</Forenames>
-      <Text>, O.B.E. H.M. OonsulGeneral at Cairo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,7 +751,9 @@
       <Key>Rainy</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, K.C.I.E., CS.|I., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3476</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -291,7 +291,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6300</PageNumber>
       <PageNumber>6301</PageNumber>
     </MainItem>
@@ -392,8 +394,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. J. St. J</Forenames>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Connors</Key>
-      <Text>. M. B</Text>
+      <Forenames>M. B.</Forenames>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cundell</Key>
-      <Text>. L. S</Text>
+      <Forenames>L. S</Forenames>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1065,9 @@
       <Key>Cunyngham</Key>
       <Title>Sir</Title>
       <Forenames>C. K. D.</Forenames>
-      <Text>, 'Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7954</PageNumber>
       <PageNumber>8292</PageNumber>
     </MainItem>
@@ -1288,6 +1291,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bertrand</Key>
+      <Forenames>F. H</Forenames>
+      <PageNumber>6301</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C</Forenames>
+      <PageNumber>8293</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>W</Forenames>
       <PageNumber>8405</PageNumber>
@@ -1479,8 +1496,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doherty</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>T. O'C</Forenames>
       <PageNumber>8118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,8 +1818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellerby</Key>
-      <Forenames>H. F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. F. St. G</Forenames>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,12 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>John</Forenames>
-      <Text>, M.C., M.D., F.R.C.S., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
     <SubItem>
@@ -33,7 +38,10 @@
     <MainItem>
       <Key>Fry</Key>
       <Forenames>Albert</Forenames>
-      <Text>, D.C.M., M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +50,9 @@
       <Key>Fuller</Key>
       <Title>The Rev.</Title>
       <Forenames>Arthur Rose</Forenames>
-      <Text>, M.V.O., M.A., Domestic Chaplain, Sandringham</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +78,11 @@
       <Key>Gabriel</Key>
       <Title>Col.</Title>
       <Forenames>Edmund Vivian</Forenames>
-      <Text>, C.S.I., C.M.G., C.V.O., C.B.E., V.D., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +126,9 @@
     <MainItem>
       <Key>Game</Key>
       <Forenames>Henry Clement</Forenames>
-      <Text>, O.B.E., Examiner of Plays</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +161,11 @@
       <Key>Gascoigne</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Ernest Frederick Orby</Forenames>
-      <Text>, K.C.V.O., C.M.G., D.S.O., Harbinger, Gentleman at Anns i4°</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +174,10 @@
       <Key>Gaskell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Herbert Stuart</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +193,9 @@
     <MainItem>
       <Key>Gethin</Key>
       <Forenames>Percy Edward Lovell</Forenames>
-      <Text>, A.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>699</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +238,9 @@
     <MainItem>
       <Key>Gilbert</Key>
       <Forenames>Bernard William</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +275,12 @@
     <MainItem>
       <Key>Gillman</Key>
       <Forenames>Clement</Forenames>
-      <Text>, M.S.A. Soc.C.E., Commander, Order of the British Empire Gilmore, Mary, Mrs., Dame Commander, Order of the British Empire ... ... Girling, Henrietta, Mrs., J.P., Officer, Order of the British Empire ... ... ... Gleichen, Maj.-Gen. Lord Edward, K.C.V.O., C.B., C.M.G., D.S.O., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +292,13 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>the Lady Helen, Woman of the Bedchamber to Her Majesty Granard, The Rt. Hon. Bernard Arthur William Patrick Hastings, Earl of, K.P., G.C.V.O., His Majesty's Comptroller at Ascot ... Grant, Canon Arthur Rowland Harry, C.V.O., D.D., Chaplain, H.M. Household ... Grant, Lt.-Gen. Sir Charles John Cecil, K.C.V.O., C.B., D.S.O., Knight Com699 mander, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
     <SubItem>

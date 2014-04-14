@@ -736,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>F. F</Text>
+      <Forenames>F. F .</Forenames>
       <PageNumber>5344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -973,8 +973,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P. S. G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P. S. G</Forenames>
       <PageNumber>5185</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parfitt</Key>
-      <Text>C. F</Text>
+      <Forenames>C. F</Forenames>
       <PageNumber>5475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,8 +1213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Coles</Key>
-      <Forenames>E. C. St</Forenames>
-      <Text>. A; ... .:</Text>
+      <Forenames>E. C. St. A</Forenames>
+      <Text>; ... .:</Text>
       <PageNumber>5659</PageNumber>
     </MainItem>
   </ItemGroup>

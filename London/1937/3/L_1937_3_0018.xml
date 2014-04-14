@@ -29,7 +29,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5778</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,8 +202,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>4417</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,8 +337,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,15 +510,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Anne</Key>
-      <Text>. F. J Anstice, J. H. ... -</Text>
+      <Forenames>F. J</Forenames>
+      <Text>Anstice, J. H. ... -</Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Appleyard</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>W. St. L</Forenames>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,7 +624,9 @@
       <Key>Aubrey-Fletcher</Key>
       <Title>Sir</Title>
       <Forenames>H. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartelot</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. G</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. G</Text>
       <PageNumber>5509</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1037,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. S. de C</Forenames>
       <PageNumber>5512</PageNumber>
     </MainItem>
   </ItemGroup>

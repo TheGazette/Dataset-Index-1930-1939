@@ -57,7 +57,10 @@
       <Key>Stern</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Albert Gerald</Forenames>
-      <Text>, K.B.E., C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +68,10 @@
     <MainItem>
       <Key>Steward</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Edward Merivale, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +80,9 @@
       <Key>Stewart</Key>
       <Title>Capt.</Title>
       <Forenames>Keith Lindsay</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +137,9 @@
       <Key>Strettell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Cbauncy Batho Dashwood</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +171,9 @@
     <MainItem>
       <Key>Sullivan</Key>
       <Forenames>Fleetwood William Porter</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +189,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>John Donald</Forenames>
-      <Text>, C.B.E., LL.D., F.R.S.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -276,7 +290,9 @@
       <Key>Thomson</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Boulton Carnac</Forenames>
-      <Text>, V.D., M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +300,9 @@
     <MainItem>
       <Key>Thorpe</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, O.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +318,9 @@
     <MainItem>
       <Key>Thurstan</Key>
       <Forenames>Edward William Paget</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at Milan</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +411,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard Miles Arundel</Forenames>
-      <Text>. Eaton, O.B.E., Commercial Secretary at Vienna</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +423,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William Percy Whitford</Forenames>
-      <Text>, C.M.G., O.B.E., H.M. Consul at Honolulu</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +442,9 @@
     <MainItem>
       <Key>Tymms</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,7 +453,11 @@
       <Key>Venning</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Walter</Forenames>
-      <Text>King, C.M.G., C.B.E., M.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +535,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wallace</Forenames>
-      <Text>, John, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -549,7 +582,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ebenezer Thomas</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +603,11 @@
       <Key>Waring</Key>
       <Title>Sir</Title>
       <Forenames>Holburt Jacob</Forenames>
-      <Text>, C.B.E., M.S., B.Sc, F.R.C.S., Baronet</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>838</PageNumber>
     </MainItem>
@@ -577,7 +616,9 @@
     <MainItem>
       <Key>Warner</Key>
       <Forenames>George Redston</Forenames>
-      <Text>, C.M-G., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +661,11 @@
       <Key>Wavell</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Archibald Percival</Forenames>
-      <Text>, C.M.G., M.C., Companion, Order of the Bath Weaver, Richard Albert, Officer, Order of the British Empire Webster, Miss Jennie, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +675,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Clarence</Forenames>
-      <Text>, M.D., CM., D.Sc, LL.D., F.R.C.P., F.A.C.S., F.R.S., Companion, Order of St Michael and St. George Wee Swee Teow, LL.B., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>

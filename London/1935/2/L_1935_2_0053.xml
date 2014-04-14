@@ -973,7 +973,7 @@
       <PageNumber>2824</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Hon. I. M</Text>
+      <Text>Hon. I. M.</Text>
       <PageNumber>2234</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1030,9 +1030,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. B</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1145,7 +1144,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waldron</Key>
-      <Text>J. G. C</Text>
+      <Forenames>J. G. C.</Forenames>
       <PageNumber>3864</PageNumber>
       <PageNumber>3813</PageNumber>
     </MainItem>
@@ -1477,7 +1476,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittaker</Key>
-      <Text>F. H. E</Text>
+      <Forenames>F. H. E.</Forenames>
       <PageNumber>2514</PageNumber>
       <PageNumber>2514</PageNumber>
     </MainItem>
@@ -1499,7 +1498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wicks</Key>
-      <Text>C. L</Text>
+      <Forenames>C. L .</Forenames>
       <PageNumber>2440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,7 +1647,7 @@
   <ItemGroup>
     <MainItem>
       <Key>AVillison</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1677,7 +1676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilmer</Key>
-      <Text>E. D. G</Text>
+      <Forenames>E. D. G.</Forenames>
       <PageNumber>2321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,14 +1777,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Winser</Key>
-      <Text>C. R. P-</Text>
+      <Forenames>C. R.</Forenames>
+      <Text>P-</Text>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Winter</Key>
-      <Text>N</Text>
+      <Forenames>N.</Forenames>
       <PageNumber>3049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1824,7 +1824,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wombwell</Key>
-      <Text>O. R3302, 3303</Text>
+      <Forenames>O.</Forenames>
+      <Text>R3302, 3303</Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>

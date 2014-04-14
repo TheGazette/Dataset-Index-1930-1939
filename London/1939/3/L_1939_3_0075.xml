@@ -470,8 +470,8 @@
   <SubSectionTitle>Emergency List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, B. M</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>B. M.</Forenames>
       <PageNumber>5201</PageNumber>
       <PageNumber>5977</PageNumber>
     </MainItem>
@@ -516,7 +516,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Text>. G. H ... sS^</Text>
+      <Forenames>G. H .</Forenames>
+      <Text>.. sS^</Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,15 +1090,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>5977</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. F</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. F</Forenames>
       <PageNumber>5394</PageNumber>
     </MainItem>
   </ItemGroup>

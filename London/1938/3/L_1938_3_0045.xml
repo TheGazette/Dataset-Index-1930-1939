@@ -430,8 +430,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>S. St. B</Forenames>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,6 +546,13 @@
       <Key>Day</Key>
       <Forenames>T. C</Forenames>
       <PageNumber>5055</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E.</Forenames>
+      <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1365,8 +1371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S.</Forenames>
-      <Text>van B</Text>
+      <Forenames>S. van B</Forenames>
       <PageNumber>5611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1804,8 +1809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>H. M.</Forenames>
-      <Text>de V</Text>
+      <Forenames>H. M. de V</Forenames>
       <PageNumber>5055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1869,8 +1873,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Conor, E. J :</Text>
+      <Key>O'Conor</Key>
+      <Forenames>E. J</Forenames>
+      <Text>:</Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>

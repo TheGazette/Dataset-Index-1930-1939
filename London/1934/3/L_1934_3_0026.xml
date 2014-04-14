@@ -928,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>. D. E</Text>
+      <Forenames>D. E</Forenames>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1348,6 +1348,13 @@
       <Key>Dawson</Key>
       <Forenames>H. S .</Forenames>
       <PageNumber>4668</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>H. P.</Forenames>
+      <PageNumber>4436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -99,8 +99,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Herrick</Key>
-      <Forenames>R.</Forenames>
-      <Text>de S. B</Text>
+      <Forenames>R. de S</Forenames>
+      <Text>. B</Text>
       <PageNumber>6083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,8 +309,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, A. V</Text>
+      <Key>O'Brien</Key>
+      <Forenames>A. V.</Forenames>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +756,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riley</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>6147</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tillard</Key>
-      <Text>. A. J</Text>
+      <Forenames>A. J</Forenames>
       <PageNumber>8187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1082,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, M. B</Text>
+      <Forenames>John</Forenames>
+      <Text>, M. B</Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Knight</Key>
-      <Text>. W. G</Text>
+      <Forenames>W. G</Forenames>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>

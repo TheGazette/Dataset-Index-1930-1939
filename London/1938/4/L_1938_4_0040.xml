@@ -388,8 +388,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waiter</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>H. de G</Forenames>
       <PageNumber>7352</PageNumber>
       <PageNumber>8074</PageNumber>
     </MainItem>
@@ -413,7 +412,9 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>W</Forenames>
-      <Text>Bt. J-</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7352</PageNumber>
       <PageNumber>8014</PageNumber>
     </MainItem>
@@ -469,8 +470,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>8312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,8 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>W. M. M. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>W. M. M. O'D</Forenames>
       <PageNumber>6200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1007,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>de Eresby, Lord</Text>
+      <Forenames>de Eresby</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>8309</PageNumber>
     </MainItem>
   </ItemGroup>

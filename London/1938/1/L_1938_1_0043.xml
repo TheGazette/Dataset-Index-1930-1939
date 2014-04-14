@@ -73,8 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>R. A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. A. St. G</Forenames>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,15 +183,10 @@
       <Forenames>A. G</Forenames>
       <PageNumber>663</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. M</Forenames>
+    <SubItem>
+      <Text>H. M</Text>
       <PageNumber>1670</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -257,16 +251,10 @@
       <Forenames>C. B.</Forenames>
       <PageNumber>735</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>J</Forenames>
-      <Text>, K. A</Text>
+    <SubItem>
+      <Text>J, K. A</Text>
       <PageNumber>1751</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -331,25 +319,12 @@
       <Forenames>E. B</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>E. Hake</Forenames>
-      <Text>will</Text>
-      <PageNumber>901</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>G. L. S.</Forenames>
+    <SubItem>
+      <Text>
+        <PageNumber>901</PageNumber>
+      </Text>
       <PageNumber>365</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -483,16 +458,10 @@
       <Forenames>J. E. D.</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>L.</Forenames>
-      <Text>.R. C</Text>
+    <SubItem>
+      <Text>L..R. C</Text>
       <PageNumber>735</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -766,8 +735,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -825,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mahony</Key>
-      <Text>N. E. B. C</Text>
+      <Forenames>N. E. B. C</Forenames>
       <PageNumber>366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,15 +1014,10 @@
       <Forenames>G. P. D</Forenames>
       <PageNumber>1262</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>P. G. D</Forenames>
+    <SubItem>
+      <Text>P. G. D</Text>
       <PageNumber>515</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -1102,16 +1066,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Creagh</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. O'M</Forenames>
       <PageNumber>291</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. R. de C</Forenames>
       <PageNumber>192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1180,6 +1142,13 @@
       <Key>Barry</Key>
       <Forenames>R. H</Forenames>
       <PageNumber>438</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>F. W.</Forenames>
+      <PageNumber>1166</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1307,8 +1276,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, CCS</Text>
+      <Key>O'Mahony</Key>
+      <Text>CCS</Text>
       <PageNumber>36</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,8 +1376,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>1508</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -150,7 +150,9 @@
       <Key>Culme-Seymour</Key>
       <Title>Sir</Title>
       <Forenames>Michael</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Currie</Key>
-      <Text>P. B</Text>
+      <Forenames>P. B</Forenames>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +223,9 @@
     <MainItem>
       <Key>Grinney</Key>
       <Forenames>F.</Forenames>
-      <Text>, D.S.C</Text>
+      <Text>
+        <Honour>D.S.C</Honour>
+      </Text>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,8 +642,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>1858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,7 +750,9 @@
     <MainItem>
       <Key>Hicks</Key>
       <Forenames>J. G.</Forenames>
-      <Text>, D.S.M</Text>
+      <Text>
+        <Honour>D.S.M</Honour>
+      </Text>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -781,8 +787,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Magniac</Key>
-      <Forenames>V. St</Forenames>
-      <Text>. C. L</Text>
+      <Forenames>V. St. C</Forenames>
+      <Text>. L</Text>
       <PageNumber>1604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -925,8 +931,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien. J. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. W</Forenames>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>

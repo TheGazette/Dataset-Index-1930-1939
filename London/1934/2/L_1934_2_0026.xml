@@ -82,7 +82,9 @@
       <Key>Firth</Key>
       <Title>Rev.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, M.C., additional Honorary Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +101,9 @@
     <MainItem>
       <Key>Fitzgerald</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +111,9 @@
     <MainItem>
       <Key>Fitzmaurice</Key>
       <Forenames>Henry</Forenames>
-      <Text>, M.B.E., ' Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +137,9 @@
     <MainItem>
       <Key>Flux</Key>
       <Forenames>Alfred William</Forenames>
-      <Text>, C.B., .Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +162,9 @@
     <MainItem>
       <Key>Ford</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Wilbraham Tennyson Randle, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +197,10 @@
       <Key>Forestier-Walker</Key>
       <Title>Sir Charles .</Title>
       <Forenames>Leolin</Forenames>
-      <Text>, Bt., K.B.E., M-P-, Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,14 +216,19 @@
     <MainItem>
       <Key>Forteviot</Key>
       <Title>Col. Lord</Title>
-      <Text>, O.B.E., M.C., Brigadier, King's Bodyguard . for Scotland ' (Royal Company of Archers)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Text>. Miss Lilian Airee, Officer, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Lilian Airee</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +270,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>William Jocelyn Ian</Forenames>
-      <Text>, C.B.E., M.P., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +345,9 @@
     <MainItem>
       <Key>Gardner</Key>
       <Forenames>Albert Edward</Forenames>
-      <Text>, M.M., Member, Order of the Brtish Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +400,10 @@
     <MainItem>
       <Key>Gaye</Key>
       <Forenames>Arthur Stretton</Forenames>
-      <Text>, C.B., O.B.E., Commissioner for H.M. Government of United Kingdom under Article 3 of the Schedule to the Nauru Island Agreement Act</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2184</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +411,10 @@
     <MainItem>
       <Key>George</Key>
       <Forenames>Edward Alexander Edmund</Forenames>
-      <Text>, H.R.H. Prince, K.G.; G.C.V.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>2703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +448,10 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harry Edward</Forenames>
-      <Text>, M.D., F.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +502,11 @@
       <Key>Gloucester</Key>
       <Title>H.R.H. Prince</Title>
       <Forenames>Henry William Frederick Albert</Forenames>
-      <Text>, Duke of, Earl of Ulster and Baron Culloden, K.G., K.T., G.C.V.O., Knight, Order of St. Patrick</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +514,9 @@
     <MainItem>
       <Key>Glover</Key>
       <Forenames>William Egerton</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +549,9 @@
     <MainItem>
       <Key>Goodall</Key>
       <Forenames>Stanley Bernon</Forenames>
-      <Text>' M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +560,9 @@
       <Key>Goodley</Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +635,9 @@
       <Key>Graham</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>James Drummond</Forenames>
-      <Text>, C.B., C.I.E., K.H.S., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>

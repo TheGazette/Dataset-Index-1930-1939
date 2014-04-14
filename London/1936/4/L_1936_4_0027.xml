@@ -495,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobb</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R .</Forenames>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -857,8 +857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. J. O'B</Forenames>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1073,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
+      <Key>de Havilland</Key>
+      <Forenames>P. H. De</Forenames>
       <Text>la Bere, H. C</Text>
       <PageNumber>7572</PageNumber>
       <PageNumber>8190</PageNumber>
@@ -1082,10 +1082,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, H. G. T</Text>
+      <Key>de Muralt</Key>
+      <Forenames>B. C. A</Forenames>
+      <PageNumber>7230</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Sausmarez</Key>
+      <Forenames>H. G. T.</Forenames>
       <PageNumber>7819</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vitre</Key>
+      <Forenames>E. C. Denis</Forenames>
+      <PageNumber>8286</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

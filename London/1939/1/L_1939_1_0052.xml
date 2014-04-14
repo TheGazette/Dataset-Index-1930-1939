@@ -182,7 +182,9 @@
       <Key>Coghill</Key>
       <Title>Sir</Title>
       <Forenames>M. N. P. S.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,8 +289,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colthurst</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J. :</Text>
+      <Forenames>C. St. J</Forenames>
+      <Text>. :</Text>
       <PageNumber>949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,6 +1024,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>C. J. P.</Forenames>
+      <PageNumber>866</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>J. P.</Forenames>
       <PageNumber>2006</PageNumber>
@@ -1046,7 +1055,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deall</Key>
-      <Text>. B. A. R</Text>
+      <Forenames>B. A. R.</Forenames>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>

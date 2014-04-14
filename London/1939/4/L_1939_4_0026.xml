@@ -158,8 +158,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>G. V. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>G. V. O'B</Forenames>
       <PageNumber>7250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +619,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W. A.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>8161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,7 +1248,9 @@
       <Key>Anson</Key>
       <Title>Sir</Title>
       <Forenames>E. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1467,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>L. C. De L.</Forenames>
+      <Forenames>L. C. De L</Forenames>
       <PageNumber>8244</PageNumber>
     </MainItem>
   </ItemGroup>

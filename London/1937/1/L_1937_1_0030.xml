@@ -43,7 +43,9 @@
     <MainItem>
       <Key>Duffes</Key>
       <Forenames>Arthur Paterson</Forenames>
-      <Text>, M.C., M.A., LL.B., K.C., Sheriff of Ayre</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +71,10 @@
       <Key>Duke-Elder</Key>
       <Title>Sir</Title>
       <Forenames>Stewart</Forenames>
-      <Text>, M.D., F.R.C.S., Surgeon Oculist, H.M. Household )</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +94,9 @@
       </Key>
       <Title>The Hon.</Title>
       <Forenames>Patrick</Forenames>
-      <Text>, C.M.G., K.C., Knight Grand Cross, St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +105,11 @@
       <Key>Dunhill</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Peel</Forenames>
-      <Text>, K.C.V.O., C.M.G., M.D., Surgeon, H.M. Household</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +149,9 @@
     <MainItem>
       <Key>Eastwood</Key>
       <Forenames>John Francis</Forenames>
-      <Text>, O.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,8 +192,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Edward-Collins</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral George Frederick Basset, Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>George Frederick Basset</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +205,10 @@
       <Key>Edwards</Key>
       <Title>Col.</Title>
       <Forenames>Guy Janion</Forenames>
-      <Text>, D.S.O., M.C., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +225,10 @@
       <Key>Eliot</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Montague Charles</Forenames>
-      <Text>, K.C.V.O., O.B.E., Extra Groom in Waiting to His Majesty</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +247,9 @@
       <Key>Ellenborough</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Astell</Forenames>
-      <Text>, Baron, M.C., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +266,9 @@
       <Key>Elliott</Key>
       <Title>Mrs.</Title>
       <Forenames>Katherine</Forenames>
-      <Text>, M.B.E., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +308,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Leonard Erasmus</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., L.S.A., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +321,12 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Lionel Frederic</Forenames>
-      <Text>, C.B.E., D.S.O., M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +334,9 @@
     <MainItem>
       <Key>Ellison</Key>
       <Forenames>Prebendary John Henry Joshua</Forenames>
-      <Text>, M.V.O., M.A., Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +345,10 @@
       <Key>Elliston</Key>
       <Title>Capt.</Title>
       <Forenames>George Samp-</Forenames>
-      <Text>son, M.C., M.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +383,10 @@
       <Key>Entwistle</Key>
       <Title>Maj.</Title>
       <Forenames>Cyril Fullard</Forenames>
-      <Text>, M.C., K.C., M.P., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -371,7 +412,10 @@
       <Key>Erskine</Key>
       <Title>Col. Sir</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, G.C.V.O., D.S.O., Crown Equerry</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +426,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Esme Nourse</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +457,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frank Harvey</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +470,9 @@
       </Key>
       <Title>the Hon. Sir</Title>
       <Forenames>John William</Forenames>
-      <Text>, Kt., C.M.G., Lieutenant-Governor of State of Tasmania and Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +520,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alexander Robert-</Forenames>
-      <Text>son, C.B.E., V.D., M.B., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +539,11 @@
       <Key>Fass</Key>
       <Title>Sir</Title>
       <Forenames>Herbert Ernest</Forenames>
-      <Text>, K.C.M.G., C.B., O.B.E., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,15 +578,21 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George David</Forenames>
-      <Text>, M.V.O., Sergeant at Arms to His Majesty '.. i4°</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Forenames>Henry St</Forenames>
-      <Text>. John, Recorder of Warwick... ... ... Field-Richards, Maj. John Charles, O.B.E., Officer, Order of St. John of Jerusalem ... ... ... Fielden, Wing-Comdr. Edward Hedley, A.F.C., Member, Royal Victorian Order ... Equerry to His Majesty</Text>
+      <Forenames>Henry St. John</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +623,13 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... ... Flint, William, Serving Brother, Order of St. John of Jerusalem ... ... ... Flowerdew, Lt.-Col. Richard Edward, M.B., Ch.B. (Aberd.), D.T.M. &amp; H. (Lond.), Companion, Order of the Indian Empire ... Forbes, Robert George, Serving Brother, Order of St. John of Jerusalem ... Forde, John Emmanuel, Member, Order of the British Empire Forman, William, Member of Herring Industry Board ... Forrest, John, Serving Brother, Order of St. John of Jerusalem ... ... ... Forsland, Don Evald, Serving Brother, Order of St. John of Jerusalem ... ... Forsyth, The Rev. Samuel, Officer, Order of the British Empire Fortescue, Capt. the Hon. Sir Seymour John, G.C.V.O., C. M.G., Extra Equerry to His Majesty Foss, Col. (temp. Brig.) Charles Calveley, V.C., D. S.O., Companion, Order of the Bath Fowkes, Miss Priscilla Mary, Officer, Order of St. John of Jerusalem Fox, Miss Evelyn Emily Marion, Commander, Order of the British Empire ... Foxell, The Rev. Maurice Frederic, M.A., Priest, Chapels Royal Francis, Francis, Serving Brother, Order of St. John of Jerusalem Fraser, Capt. Sir Ian, C.B.E., Steward and Bailiff of the Three Hundreds of Chiltern</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>V.C.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>553</PageNumber>
     </MainItem>
     <SubItem>

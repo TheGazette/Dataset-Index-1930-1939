@@ -154,7 +154,9 @@
       <Key>Anderson</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G. C.B., G.C.S.I., G.C.I.E., Principal Secretary of State</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6067</PageNumber>
     </MainItem>
     <SubItem>
@@ -175,14 +177,18 @@
       <Key>Angliss</Key>
       <Title>Hon.</Title>
       <Forenames>William Charles</Forenames>
-      <Text>, M.L.C., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>s c r o f t, William Fawell, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +196,9 @@
     <MainItem>
       <Key>Aubrey</Key>
       <Forenames>Stanley James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4916</PageNumber>
     </MainItem>
   </ItemGroup>

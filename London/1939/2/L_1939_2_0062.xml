@@ -212,7 +212,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt.-Col E</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,7 +1582,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>F. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3002</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -195,7 +195,9 @@
       <Key>Stewart-Clark</Key>
       <Title>Sir</Title>
       <Forenames>S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -820,8 +822,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B. E. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>B. E. St. L</Forenames>
       <PageNumber>7476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,7 +1471,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tallack</Key>
-      <Text>R. J. K</Text>
+      <Forenames>R. J. K.</Forenames>
       <PageNumber>7702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,7 +1485,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>6859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1976,7 +1977,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tee</Key>
-      <Text>W. S</Text>
+      <Forenames>W. S.</Forenames>
       <PageNumber>7251</PageNumber>
     </MainItem>
   </ItemGroup>

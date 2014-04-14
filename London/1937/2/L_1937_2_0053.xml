@@ -167,36 +167,36 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, J. J</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>2269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. L</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. L</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, A</Text>
+      <Key>O'Connell</Key>
+      <Forenames>A</Forenames>
       <PageNumber>3753</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M.</Forenames>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Halloran, D. N. E</Text>
+      <Key>O'Halloran</Key>
+      <Forenames>D. N. E.</Forenames>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,8 +238,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, W. H</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>W. H.</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -637,7 +637,9 @@
       <Key>Pigot</Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,16 +1434,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, G. J. P</Text>
+      <Key>St. Clair</Key>
+      <Forenames>G. J. P.</Forenames>
       <PageNumber>3752</PageNumber>
       <PageNumber>2885</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, Hon. R. T</Text>
+      <Key>St. John</Key>
+      <Title>Hon.</Title>
+      <Forenames>R. T.</Forenames>
       <PageNumber>2630</PageNumber>
     </MainItem>
   </ItemGroup>

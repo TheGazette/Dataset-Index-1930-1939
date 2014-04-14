@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Cochrane</Key>
       <Forenames>H. E.</Forenames>
-      <Text>The Hon. Sir. Archibald Douglas, K.C.S.I. D.S.O., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,16 +26,12 @@
       <Text>, F.R.A.M., Com. mander. Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Samuel Sydney</Forenames>
-      <Text>, Knighted</Text>
+    <SubItem>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1842</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -54,29 +52,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Arnold Kirtland</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
-      <PageNumber>15</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
       <Key>Collins</Key>
       <Forenames>Herbert Best</Forenames>
       <Text>, Serving Brother, Order of St. John of Jerusalem 3° Colson, Lionel Hewitt, CLE., Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Text>~ Miss Phyllis Constance, Officer, Order of the British Empire</Text>
-      <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -92,7 +71,10 @@
       <Key>Connor</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Frank Powell</Forenames>
-      <Text>, D.S.O., F.R.C.S., K.H.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,16 +100,10 @@
       <Text>, Member, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Patrick Ashley</Forenames>
-      <Text>, Member of Rhodesia and Nyasaland Royal Commission</Text>
+    <SubItem>
+      <Text>Patrick Ashley, Member of Rhodesia and Nyasaland Royal Commission</Text>
       <PageNumber>2006</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -150,7 +126,10 @@
       <Key>Couchman</Key>
       <Title>Brig.</Title>
       <Forenames>Harold John</Forenames>
-      <Text>, D.S.O., M.C, Knighted</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +169,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>J. H.</Forenames>
-      <Text>McC, C.B., Deputy Master and Comptroller of the Royal Mint</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +180,9 @@
       <Key>Craik</Key>
       <Title>Sir</Title>
       <Forenames>Henry Duffield</Forenames>
-      <Text>, Bart, K.C.S.I., Governor of the Punjab</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +198,9 @@
     <MainItem>
       <Key>Croft</Key>
       <Forenames>William Dawson</Forenames>
-      <Text>, CLE., Commander, Royal Victorian Order Crofton, Comdr. Philip Dyke, Officer, Order of the British Empire .„'</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,61 +208,121 @@
     <MainItem>
       <Key>Crooke</Key>
       <Forenames>John Sinedley</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Gordon N.</Forenames>
-      <Text>, Member, Herring Industry Board Davies, Alderman David, J.P., Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Key>Crosthwaite</Key>
+      <Forenames>Ponsonby Moore</Forenames>
+      <Text>, Second Secretary in H.M. Diplomatic Service</Text>
+      <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Mrs.</Title>
-      <Forenames>Mary Gertrude</Forenames>
-      <Text>, Serving Sister, Order of St. John of Jerusalem... Davison, Frank Dalby, Member, Order of the British Empire Davy, Mysie Kennedy, Mrs., Member, Order of the British Empire Daw, Daisy Florence, Mrs., J.P., Officer, Order of the British Empire de Glanville, Sir Oscar James Lardner, CLE., Officer, Order of St. John of Jerusalem ... De Grasse, William Bruce Mortimer, Member, Order of the British Empire de la Harpe, Shirley, Serving Brother, Order of St. John of Jerusalem de St. Jorre,Louis Despilly Antoine Jorre, Officer, Order of the British Empire De Soysa, Lambert Wilfred Alexander, Knight</Text>
+      <Key>Cumberbatch</Key>
+      <Forenames>Arthur Noel</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>1840</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cunnison</Key>
+      <Forenames>Alexander</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>1842</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Custance</Key>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Wilfred Neville</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>1937</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davis</Key>
+      <Forenames>Ernest</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
+      <PageNumber>967</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Davison</Key>
+      <Forenames>Frank Dalby</Forenames>
+      <Text>, Member, Order of the British Empire Davy, Mysie Kennedy, Mrs., Member, Order of the British Empire Daw, Daisy Florence, Mrs., J.P., Officer, Order of the British Empire de Glanville, Sir Oscar James Lardner, CLE., Officer, Order of St. John of Jerusalem ... De Grasse, William Bruce Mortimer, Member, Order of the British Empire de la Harpe, Shirley, Serving Brother, Order of St. John of Jerusalem de St. Jorre,Louis Despilly Antoine Jorre, Officer, Order of the British Empire De Soysa, Lambert Wilfred Alexander, Knight</Text>
       <PageNumber>3</PageNumber>
+      <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Phyllis</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire . ... Deason, Frederick George Nelson, Unofficial Member of Executive Council of Island' of Saint Helena ... Deatker, Maj. Frederick Tucker, Serving Brother, Order of St. John of Jerusalem ... Dessa, Ainslie Clifford William, Member, Order of the British Empire ... ... Devavaram Yesudian, Serving Brother, Order of St. John 2085 of Jerusalem</Text>
+      <Key>Deadman</Key>
+      <Forenames>George</Forenames>
+      <Text>, Member, Order of the British Empire ... . ... Dean, Miss Gertrude Mary, J.P., Commander, Order of the British Empire ... Phyllis, Mrs., Member, Order of the British Empire . ... Deason, Frederick George Nelson, Unofficial Member of Executive Council of Island' of Saint Helena</Text>
+      <PageNumber>899</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Deatker</Key>
+      <Title>Maj.</Title>
+      <Forenames>Frederick Tucker</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Devine, William Alfred, Officer, Order of the British Empire</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dessa</Key>
+      <Forenames>Ainslie Clifford William</Forenames>
+      <Text>, Member, Order of the British Empire ... ... Devavaram Yesudian, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Devine</Key>
+      <Forenames>William Alfred</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Dhanjibhai Hormasji Mehta, C.I.E., Associate Com3 mander, Order of St. John of Jerusalem</Text>
-      <PageNumber>29</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Dickinson, Arthur Harold, 9 Officer, Order of the British Empire</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Dewar</Key>
+      <Forenames>John</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
       <PageNumber>15</PageNumber>
-    </SubItem>
+    </MainItem>
     <SubItem>
-      <Text>___ ___ ___ William Scott, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Dufty, Ernest Emanuel, Officer, Order of St. John of 9 Jerusalem</Text>
-      <PageNumber>29</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

@@ -48,7 +48,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolf</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M .</Forenames>
       <PageNumber>745</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,14 +962,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, F. O</Text>
+      <Forenames>John</Forenames>
+      <Text>, F. O</Text>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Savage</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G.</Forenames>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1220,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>E. H. L</Text>
+      <Forenames>E. H. L.</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1312,8 +1313,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. de L</Forenames>
       <PageNumber>920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1328,8 +1328,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adams</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,8 +1456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. H. St. J</Forenames>
       <PageNumber>1431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1588,8 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,7 +1675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boutflower</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>595</PageNumber>
     </MainItem>
   </ItemGroup>

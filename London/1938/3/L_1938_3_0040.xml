@@ -144,6 +144,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Roeper</Key>
+      <Forenames>H. F.</Forenames>
+      <PageNumber>4246</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deakin</Key>
       <Forenames>T. R. W.</Forenames>
       <PageNumber>4970</PageNumber>
@@ -406,8 +413,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dykes</Key>
-      <Forenames>P.</Forenames>
-      <Text>de K</Text>
+      <Forenames>P. de K</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Text>. G. G</Text>
+      <Forenames>G. G .</Forenames>
       <PageNumber>5735</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,8 +772,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrell</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>C. O'M</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,7 +1450,9 @@
       <Key>Goschen</Key>
       <Title>Sir</Title>
       <Forenames>E. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4537</PageNumber>
     </MainItem>
   </ItemGroup>

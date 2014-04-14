@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anibridge</Key>
-      <Text>E. G</Text>
+      <Forenames>E. G.</Forenames>
       <PageNumber>423</PageNumber>
       <PageNumber>423</PageNumber>
     </MainItem>
@@ -26,8 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arbuthnott</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. O</Text>
+      <Forenames>J. St. O</Forenames>
       <PageNumber>709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Case</Key>
-      <Text>J. J</Text>
+      <Forenames>J. J</Forenames>
       <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,6 +898,13 @@
       <Key>Dawnay</Key>
       <Forenames>M</Forenames>
       <PageNumber>570</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Besombes</Key>
+      <Forenames>J. M. J. C. J. I. R</Forenames>
+      <PageNumber>1770</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1817,8 +1823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>J. G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. G. de V</Forenames>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1975,8 +1980,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. O'B</Forenames>
       <PageNumber>710</PageNumber>
     </MainItem>
   </ItemGroup>

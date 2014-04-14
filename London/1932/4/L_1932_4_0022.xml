@@ -5,7 +5,11 @@
       <Key>Anderson</Key>
       <Title>Admiral Sir</Title>
       <Forenames>David Murray</Forenames>
-      <Text>, K.C.B., C.M.G., M.V.O., Governor and. Commander-in-Chief of the Island of Newfoundland and Dependencies</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +17,9 @@
     <MainItem>
       <Key>Archer</Key>
       <Forenames>Henry Allan Fair-</Forenames>
-      <Text>fax Best, O.B.E., H.M. Consul in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +230,11 @@
       <Key>Brand</Key>
       <Title>Admiral the Hon. Sir</Title>
       <Forenames>Hubert George</Forenames>
-      <Text>, K.C.B., K.C.M.G., K.C.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>6413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,14 +242,19 @@
     <MainItem>
       <Key>Brenan</Key>
       <Forenames>Terence Vincent</Forenames>
-      <Text>, O.B.E., H.M. Consul at Tehran</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8214</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brickdale</Key>
-      <Text>. Matthew Fortescue, O.B.E., Nominated Member, Council of Government, Mauritius</Text>
+      <Forenames>Matthew Fortescue</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +262,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>Walter Langdon</Forenames>
-      <Text>, M.D., F.R.C.P., Regius professor of Physic, Cambridge University</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +273,10 @@
       <Key>Buller</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Henry Tritton</Forenames>
-      <Text>, G.C.V.O., C.B., Groom in Waiting to H.M. the King</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +285,9 @@
       <Key>Burdett</Key>
       <Title>Major</Title>
       <Forenames>Ernest Wynd-</Forenames>
-      <Text>ham, M.C, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +313,9 @@
       <Key>Callender</Key>
       <Title>Dr.</Title>
       <Forenames>E. M.</Forenames>
-      <Text>, Order of Mercy, CB.E</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +359,9 @@
       <Key>Colles</Key>
       <Title>Payr. Cdr.</Title>
       <Forenames>Ernest Dudley Gordon</Forenames>
-      <Text>, O.B.E., Secretary of H.M. Privy Purse</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +386,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Text>. Sir Geoffrey Pattison, K.B.E., C.M.G., Member of H.M. Privy Council</Text>
+      <Title>Sir</Title>
+      <Forenames>Geoffrey Pattison</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6245</PageNumber>
     </MainItem>
     <SubItem>
@@ -388,7 +419,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Connaught</Key>
-      <Text>and Strathearn, Field Marshal H.R.H. the Duke of, K.G., Kt etc., Honorary Colonel, Ceylon Supply and Transport Corps</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>7663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +430,10 @@
       <Key>Cooper-Key</Key>
       <Title>Captain</Title>
       <Forenames>Edmund Moore Cooper</Forenames>
-      <Text>, C.B., M.V.O., Extra Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7259</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +465,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>George</Forenames>
-      <Text>, C.S.I., CLE., O.B.E., Acting Governor, North West Frontier Province</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +491,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>Henry Charles</Forenames>
-      <Text>, M.B.E., Consul-General in H.M. General Consular Service</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +531,9 @@
       <Key>Edge</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, M.P., Charity Commissioner</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6770</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +583,9 @@
       <Key>Fowle</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Trenchard Craven William</Forenames>
-      <Text>, C.B.E., H.M. Consul-General at Bushire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +593,9 @@
     <MainItem>
       <Key>Fullerton-Carnegie</Key>
       <Forenames>George David Howard</Forenames>
-      <Text>, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +604,10 @@
       <Key>Fulton</Key>
       <Title>Major</Title>
       <Forenames>James Deas</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +623,10 @@
       <Key>Gilmour</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bt., D.S.O., Secretary of State for Home Affairs</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +753,10 @@
       <Key>Humphrys</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Francis Henry</Forenames>
-      <Text>, G.C.M.G* G. C.V.O., K.B.E., CLE., H. M. Ambassador Extraordinary and Plenipotentiary to Iraq</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +781,9 @@
       <Key>Jenks</Key>
       <Title>Sir</Title>
       <Forenames>Maurice</Forenames>
-      <Text>, Baronet 6485-</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -689,8 +689,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Kingsmill</Key>
-      <Forenames>N. J.</Forenames>
-      <Text>de K</Text>
+      <Forenames>N. J. de K</Forenames>
       <PageNumber>2292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1005,7 +1004,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Text>W. M</Text>
+      <Forenames>W. M</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byng</Key>
-      <Text>E. F</Text>
+      <Forenames>E. F</Forenames>
       <PageNumber>2477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1099,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Allmond</Key>
-      <Forenames>De A. F.</Forenames>
+      <Title>De A.</Title>
+      <Forenames>F.</Forenames>
       <Text>(temp.)</Text>
       <PageNumber>2718</PageNumber>
     </MainItem>

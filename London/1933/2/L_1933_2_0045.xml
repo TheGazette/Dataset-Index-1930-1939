@@ -270,7 +270,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hutton</Key>
-      <Text>. F. R</Text>
+      <Forenames>F. R .</Forenames>
       <PageNumber>2566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S. Van B.</Forenames>
+      <Forenames>S. Van B</Forenames>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,8 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,8 +787,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>3877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1707,16 +1706,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T. F</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T. F.</Forenames>
       <PageNumber>2860</PageNumber>
       <PageNumber>3711</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, E</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>E</Forenames>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>

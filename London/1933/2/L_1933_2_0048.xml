@@ -544,8 +544,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, H</Text>
+      <Key>O'Connor</Key>
+      <Forenames>H</Forenames>
       <PageNumber>3547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,7 +814,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barratt</Key>
-      <Text>. I. McL</Text>
+      <Forenames>I.</Forenames>
+      <Text>McL</Text>
       <PageNumber>3457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -923,8 +924,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boult</Key>
-      <Forenames>N.</Forenames>
-      <Text>de W</Text>
+      <Forenames>N. de W</Forenames>
       <PageNumber>4127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1243,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Text>de L</Text>
+      <Forenames>de L</Forenames>
       <PageNumber>3827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,6 +1340,28 @@
       <Key>Dawson-Damer</Key>
       <Forenames>L. S.</Forenames>
       <PageNumber>2768</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>3457</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Moleyns</Key>
+      <Title>Hon.</Title>
+      <Forenames>F. A. I. E.</Forenames>
+      <PageNumber>3285</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wet</Key>
+      <Forenames>H. W. A. O.</Forenames>
+      <PageNumber>2289</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1476,8 +1498,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. L. St. J</Forenames>
       <PageNumber>4387</PageNumber>
     </MainItem>
   </ItemGroup>

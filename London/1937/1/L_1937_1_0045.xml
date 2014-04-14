@@ -118,7 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cripps</Key>
-      <Text>. A. T. H</Text>
+      <Forenames>A. T. H</Forenames>
       <PageNumber>622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +368,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,6 +561,69 @@
       <Key>dAbo</Key>
       <Forenames>E. N. N.</Forenames>
       <PageNumber>713</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Brett</Key>
+      <Forenames>R. J. H</Forenames>
+      <PageNumber>712</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Clermont</Key>
+      <Forenames>P. H. V</Forenames>
+      <PageNumber>1748</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>V. L.</Forenames>
+      <PageNumber>1912</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B</Forenames>
+      <PageNumber>14</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>F. W</Forenames>
+      <PageNumber>1174</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. H</Forenames>
+      <PageNumber>1642</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Heidenstam</Key>
+      <Forenames>R. U. G.</Forenames>
+      <PageNumber>619</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Merindal</Key>
+      <Forenames>R. F. J</Forenames>
+      <PageNumber>1257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pury</Key>
+      <Forenames>A. J</Forenames>
+      <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -850,9 +912,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Port</Forenames>
-      <Text>, J. A. M</Text>
+      <Key>Du Port</Key>
+      <Forenames>J. A. M.</Forenames>
       <PageNumber>485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,8 +1140,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1200,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Else</Key>
-      <Text>. F. H</Text>
+      <Forenames>F. H.</Forenames>
       <PageNumber>1823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,8 +1705,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>D. de B</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>

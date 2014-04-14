@@ -204,8 +204,8 @@
   <ItemGroup>
     <MainItem>
       <Key>McRae</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. M</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. M</Text>
       <PageNumber>4947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,8 +298,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. G</Forenames>
       <PageNumber>4502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +456,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,8 +560,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorn</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. St. C</Forenames>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. F. P. J</Text>
+      <Forenames>F. P. J.</Forenames>
       <PageNumber>4647</PageNumber>
       <PageNumber>4647</PageNumber>
     </MainItem>
@@ -943,7 +944,9 @@
       <Key>Birdwood</Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,8 +1680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>5746</PageNumber>
     </MainItem>
   </ItemGroup>

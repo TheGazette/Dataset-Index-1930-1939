@@ -167,8 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Forenames>A. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. D. St. G</Forenames>
       <PageNumber>650</PageNumber>
       <PageNumber>650</PageNumber>
     </MainItem>
@@ -412,8 +411,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de St. P</Text>
+      <Forenames>C. H. de St</Forenames>
+      <Text>. P</Text>
       <PageNumber>1963</PageNumber>
       <PageNumber>1963</PageNumber>
     </MainItem>
@@ -570,8 +569,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>D. St. A</Forenames>
       <PageNumber>345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caselton</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +858,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1074,7 +1074,9 @@
       <Key>Coates</Key>
       <Title>Sir</Title>
       <Forenames>E. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,15 +1399,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Crockett</Key>
-      <Text>E. K</Text>
+      <Forenames>E. K .</Forenames>
       <PageNumber>651</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. J. O'B</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,6 +1653,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cordova</Key>
+      <Forenames>V. L.</Forenames>
+      <PageNumber>1221</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Bere, H. C</Text>
       <PageNumber>963</PageNumber>
@@ -1884,7 +1892,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drewe</Key>
-      <Text>E. C</Text>
+      <Forenames>E. C .</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>

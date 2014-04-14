@@ -117,7 +117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigers</Key>
-      <Text>. T. W</Text>
+      <Forenames>T. W</Forenames>
       <PageNumber>8181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Akhurst</Key>
-      <Text>. L. E</Text>
+      <Forenames>L. E.</Forenames>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +770,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Baird-Smith</Key>
-      <Text>. J. H. Baker, A. R ... D</Text>
+      <Forenames>J. H. Baker</Forenames>
+      <Text>, A. R ... D</Text>
       <PageNumber>437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1419,9 @@
       <Key>Bilsland</Key>
       <Title>Sir</Title>
       <Forenames>A. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,7 +1590,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>. G. T</Text>
+      <Forenames>G. T</Forenames>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolton</Key>
-      <Text>. D</Text>
+      <Forenames>D</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1710,7 +1713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booker</Key>
-      <Text>. ]. F</Text>
+      <Text>]. F</Text>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>

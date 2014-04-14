@@ -667,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>. J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>1260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,7 +1233,12 @@
     <MainItem>
       <Key>Ayr</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Charles Fergusson, Bart., G.C.B., G.C.M.G:* M.V.O., D.S.O.,</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1254,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Text>: Grant, Admiral Sir Edmund Percy Fenwick George, K.C.V.O., C.B</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1257,26 +1265,40 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Riding</Forenames>
-      <Text>and Kingstonupon-Hull: Chichester Constable, Brevet-Lt.-Col. Raleigh Charles Joseph, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1259</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>1259</PageNumber>
         <PageNumber>1259</PageNumber>
-        <PageNumber>1259</PageNumber>
-      </Text>
-      <PageNumber>1259</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>1259</PageNumber>
       </Text>
       <PageNumber>1259</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>1259</PageNumber>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
+      <PageNumber>1259</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <PageNumber>1259</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
       </Text>
       <PageNumber>1919</PageNumber>
     </SubItem>
@@ -1289,7 +1311,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
         <PageNumber>1646</PageNumber>
+        <Honour>O.B.E.</Honour>
       </Text>
       <PageNumber>1646</PageNumber>
     </SubItem>
@@ -1305,7 +1330,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamorganshire</Key>
-      <Text>: Isaac, Col. Charles Leonard, T.D., M.B., .F.R.C.S</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>F.R.C.S</Honour>
+      </Text>
       <PageNumber>1572</PageNumber>
     </MainItem>
     <SubItem>
@@ -1334,8 +1362,14 @@
       <Text>
         <PageNumber>1496</PageNumber>
         <PageNumber>1496</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>1496</PageNumber>
         <PageNumber>1496</PageNumber>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>1496</PageNumber>
     </SubItem>
@@ -1345,19 +1379,25 @@
       <Key>Northumberland</Key>
       <Title>Col.</Title>
       <Forenames>George Scott Jackson</Forenames>
-      <Text>, C.B.E.,</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>343</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Norwich</Key>
-      <Text>: Buxton, Major Anthony, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>894</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>894</PageNumber>
+        <Honour>D.S.O.</Honour>
         <PageNumber>894</PageNumber>
       </Text>
       <PageNumber>894</PageNumber>
@@ -1371,9 +1411,17 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>716</PageNumber>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>716</PageNumber>
+        <Honour>Baronet</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>716</PageNumber>
+        <Honour>C.M.G.</Honour>
       </Text>
       <PageNumber>716</PageNumber>
     </SubItem>

@@ -24,7 +24,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pyman</Key>
-      <Text>.H. D</Text>
+      <Forenames>H. D .</Forenames>
       <PageNumber>4844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +239,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renton</Key>
-      <Text>. M. J</Text>
+      <Forenames>M. J .</Forenames>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,8 +723,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, E. G</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G.</Forenames>
       <PageNumber>5596</PageNumber>
       <PageNumber>5597</PageNumber>
     </MainItem>
@@ -1029,7 +1029,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Shiffner</Key>
-      <Text>. Sir H. B. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,8 +1667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storrs</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swayne</Key>
-      <Text>. J. G. des R</Text>
+      <Forenames>J. G.</Forenames>
+      <Text>des R</Text>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,8 +1768,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>C. N. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>C. N. O'C</Forenames>
       <PageNumber>4844</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1779,7 +1780,9 @@
       <PageNumber>6006</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G. L., Bt. ... '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5534</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1881,7 +1884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>. A. J</Text>
+      <Forenames>A. J.</Forenames>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>

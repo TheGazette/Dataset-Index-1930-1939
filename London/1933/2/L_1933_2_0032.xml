@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Narayan</Key>
       <Forenames>Bhanja Deo</Forenames>
-      <Text>, Raja Rajendra, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
     <MainItem>
       <Key>Newling</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +84,10 @@
     <MainItem>
       <Key>Newsam</Key>
       <Forenames>Frank Aubrey</Forenames>
-      <Text>, M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +157,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, M.V.O. (Fifth Class), Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,15 +175,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, Timothy Patrick Moriarty, Companion, Order of the Indian Empire</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>Timothy Patrick Moriarty</Forenames>
+      <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dea, William, Member, Order of the British Empire</Text>
+      <Key>O'Dea</Key>
+      <Forenames>William</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,15 +207,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Col. Eric Robert, C.M.G., D.S.O., Commander, 'Order of the British Empire</Text>
+      <Key>O'Hara</Key>
+      <Title>Col.</Title>
+      <Forenames>Eric Robert</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Lennox Arthur Patrick, K.C., Nominated Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Lennox Arthur Patrick</Forenames>
+      <Text>, K.C., Nominated Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +237,9 @@
     <MainItem>
       <Key>Owens</Key>
       <Forenames>Evan Edward</Forenames>
-      <Text>, M.C., L.R.C.S., L.R.C.P., L.R.F.P.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +256,9 @@
     <MainItem>
       <Key>Paget-Cooke</Key>
       <Forenames>Oliver Dayrell Paget</Forenames>
-      <Text>, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +267,9 @@
       <Key>Paine</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Douglas</Forenames>
-      <Text>Duke, D.S.O., V.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +299,9 @@
       </Key>
       <Title>Sir (Samuel)</Title>
       <Forenames>Ernest</Forenames>
-      <Text>, Bt., J.P., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
       <PageNumber>4296</PageNumber>
     </MainItem>
@@ -285,7 +311,10 @@
       <Key>Panet</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Edouard</Forenames>
-      <Text>de Bellefeuille, C.M.G., D. S.O., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +340,9 @@
       <Key>Park</Key>
       <Title>Capt.</Title>
       <Forenames>Edward Nigel</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +359,9 @@
       <Key>Patterson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Stewart Bleakley Agnew</Forenames>
-      <Text>, C.S.I., CLE., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +370,10 @@
       <Key>Paynter</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>George Camborne Beauclerk</Forenames>
-      <Text>, C. M.G., C.V.O., D.S.O., Groom in Waiting to H.M. the King</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +390,10 @@
       <Key>Peebles</Key>
       <Title>Maj.</Title>
       <Forenames>Herbert Walter</Forenames>
-      <Text>, D. S.O.,: O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +402,9 @@
       <Key>Pendred</Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Lawrence Fleming</Forenames>
-      <Text>, D.F.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +421,10 @@
       <Key>Penny</Key>
       <Title>Sir (Frederick)</Title>
       <Forenames>George</Forenames>
-      <Text>, M.P., Baronet,</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
       <PageNumber>4123</PageNumber>
     </MainItem>
@@ -390,7 +434,10 @@
       <Key>Pepys</Key>
       <Title>Col.</Title>
       <Forenames>Gerald Leslie</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +487,10 @@
       <Key>Petrie</Key>
       <Title>Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, CLE., C.V.O., C.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +560,11 @@
     <MainItem>
       <Key>Pitkeathly</Key>
       <Forenames>James Scott</Forenames>
-      <Text>, C.M.G., C.I.E., C.V.O., C. B.E., D.S.O., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +604,9 @@
     <MainItem>
       <Key>Pound</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Alfred Dudley Pickman, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +637,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Projjwal</Key>
-      <Text>Nepal Taraati Pravala Gorkha Dakshina Babu Prithuladheesh Sri Sri Sri Maharaja Sir Joodha Shumshere Jung Bahadur Rana, K.C.I.E., Honorary Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +647,9 @@
     <MainItem>
       <Key>Pullin</Key>
       <Forenames>Victor Edward</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +657,9 @@
     <MainItem>
       <Key>Purssell</Key>
       <Forenames>Ridhard Stanley</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>

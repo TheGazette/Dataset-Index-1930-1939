@@ -545,7 +545,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -858,7 +858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bedwell</Key>
-      <Text>F. C</Text>
+      <Forenames>F. C</Forenames>
       <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1668,8 +1668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>

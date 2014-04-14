@@ -16,8 +16,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. J. A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. J. A.</Forenames>
       <PageNumber>4249</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peers</Key>
-      <Text>. F. H</Text>
+      <Forenames>F. H</Forenames>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +406,8 @@
   <ItemGroup>
     <MainItem>
       <Key>PenneyrH</Key>
-      <Text>. W:</Text>
+      <Forenames>W</Forenames>
+      <Text>:</Text>
       <PageNumber>4972</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peyton</Key>
-      <Text>.-R. A</Text>
+      <Text>-R. A</Text>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1019,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. De W.</Forenames>
+      <Forenames>C. De W</Forenames>
       <PageNumber>5679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1343,7 +1344,7 @@
     <KeyDitto>___ ___ ___ . ..</KeyDitto>
     <KeyDitto>___ ___ —</KeyDitto>
     <SubItem>
-      <Text>R. M ..-.</Text>
+      <Text>R. M ..-</Text>
       <PageNumber>5678</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1462,7 +1463,7 @@
       <PageNumber>5834</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ !. G.</Text>
+      <Text>___ ___ !. G</Text>
       <PageNumber>5609</PageNumber>
     </SubItem>
     <SubItem>

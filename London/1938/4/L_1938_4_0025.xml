@@ -45,7 +45,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Airey</Key>
-      <Text>. T. S</Text>
+      <Forenames>T. S.</Forenames>
       <PageNumber>6339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1302,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyce</Key>
-      <Text>. C. E</Text>
+      <Forenames>C. E.</Forenames>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1740,7 +1740,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bucha</Key>
-      <Text>.n, D. A</Text>
+      <Text>n, D. A</Text>
       <PageNumber>8305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1900,8 +1900,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Buxton</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J. G. D</Text>
+      <Forenames>N. St. J</Forenames>
+      <Text>. G. D</Text>
       <PageNumber>7529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1982,8 +1982,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>

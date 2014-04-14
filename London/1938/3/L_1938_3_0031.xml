@@ -3,8 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDowel</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>4601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,8 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>5019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -549,7 +548,7 @@
       <PageNumber>6080</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. N.</Text>
+      <Text>R. N</Text>
       <PageNumber>4678</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -587,7 +586,9 @@
       <Key>Malet</Key>
       <Title>Sir</Title>
       <Forenames>E. W. St</Forenames>
-      <Text>. L ., Bt!</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,8 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallins</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>S. O'C</Forenames>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,8 +640,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>A. R. de H</Forenames>
       <PageNumber>5552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -814,9 +813,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Marling</Key>
-      <Title>St.</Title>
-      <Forenames>J. S. V.</Forenames>
-      <Text>, Bt</Text>
+      <Title>St. J.</Title>
+      <Forenames>S. V.</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,8 +906,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +961,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. L. de V</Forenames>
       <PageNumber>5031</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1055,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Massy</Key>
-      <Text>. H. C</Text>
+      <Forenames>H. C.</Forenames>
       <PageNumber>5547</PageNumber>
     </MainItem>
   </ItemGroup>

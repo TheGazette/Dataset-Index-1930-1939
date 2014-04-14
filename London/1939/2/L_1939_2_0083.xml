@@ -389,7 +389,9 @@
       <Key>Brickwood</Key>
       <Title>Sir</Title>
       <Forenames>R. R.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,8 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. de L</Forenames>
       <PageNumber>4055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buries</Key>
-      <Text>R. S</Text>
+      <Forenames>R. S .</Forenames>
       <PageNumber>4254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1431,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>J. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. H. de W</Forenames>
       <PageNumber>3896</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1652,7 +1652,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, H. V</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, H. V</Text>
       <PageNumber>3894</PageNumber>
     </MainItem>
   </ItemGroup>

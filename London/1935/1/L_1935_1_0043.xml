@@ -10,22 +10,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, W. H</Text>
+      <Key>O'Donald</Key>
+      <Forenames>W. H.</Forenames>
       <PageNumber>1634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Doherty, W. J</Text>
+      <Key>O'Doherty</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>919</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, F. J</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>F. J.</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +103,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, N. P. G</Text>
+      <Key>O'Neal</Key>
+      <Forenames>N. P. G.</Forenames>
       <PageNumber>773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,8 +117,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, B. E. A</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>B. E. A.</Forenames>
       <PageNumber>1807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,8 +147,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,8 +167,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, J. C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>J. C.</Forenames>
       <PageNumber>1272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pinkerton</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunkett</Key>
-      <Text>. O. R. L. L</Text>
+      <Forenames>O. R. L. L.</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +957,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G,T.,</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>,T.,</Text>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,7 +1018,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Redman</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>. T. W</Text>
+      <Forenames>T. W .</Forenames>
       <PageNumber>614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,8 +1439,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. L. O</Forenames>
-      <Text>'C. Ryding, W</Text>
+      <Forenames>T. L. O'C</Forenames>
+      <Text>. Ryding, W</Text>
       <PageNumber>1905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1455,7 +1455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>.John, S: R</Text>
+      <Forenames>John</Forenames>
+      <Text>, S: R</Text>
       <PageNumber>771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1737,7 +1738,9 @@
       <Key>Shiffner</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1466</PageNumber>
     </MainItem>
   </ItemGroup>

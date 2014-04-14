@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Langley</Key>
       <Forenames>Frederick Oswald</Forenames>
-      <Text>, M.C., Magistrate of the Police Courts of the . Metropolis</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +31,9 @@
     <MainItem>
       <Key>Lister</Key>
       <Title>Lieut.</Title>
-      <Text>Colonel Frederick Hamilton, D.S.O., one of H.M. ' Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>0553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +54,12 @@
       <Key>Longcroft</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Charles Alexander Hol-</Forenames>
-      <Text>combe, C.B., C.M.G., D.S.O., A.F.C., Gentleman Usher of the Scarlet Bod, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>7260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +109,9 @@
       <Key>Mackenzie</Key>
       <Title>Sir (William)</Title>
       <Forenames>Leslie</Forenames>
-      <Text>, M.D., F.R.C.P., LL.D., Member of the General Council of Medical . Education and Registration of the United Kingdom, for Scotland</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +160,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The Countess</Forenames>
+      <Title>The</Title>
+      <Forenames>Countess</Forenames>
       <Text>of, J.P.; Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
@@ -190,7 +202,9 @@
     <MainItem>
       <Key>Melchett</Key>
       <Forenames>Violet</Forenames>
-      <Text>, ' Lady, . D.B.E., Order of Mercy</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,8 +269,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Norfolk</Key>
-      <Forenames>The</Forenames>
-      <Text>Duchess of, Order of Mercy</Text>
+      <Title>The Duchess</Title>
+      <Text>of, Order of Mercy</Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +320,9 @@
       <Key>Penny</Key>
       <Title>Sir</Title>
       <Forenames>Frederick George</Forenames>
-      <Text>, M.P., Comptroller of H.M. Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +346,9 @@
     <MainItem>
       <Key>Bapp</Key>
       <Forenames>Thomas Cecil</Forenames>
-      <Text>, M.C., H.M. Consul at Moscow</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +446,9 @@
     <MainItem>
       <Key>Sebastian</Key>
       <Forenames>Erroll Graham</Forenames>
-      <Text>, D. S.O., H.M. Vice-Consul at Brussels</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +464,9 @@
     <MainItem>
       <Key>Simmonds</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, M.B.E., H.M. Vice-Consul at Hamburg</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +475,9 @@
       <Key>Simmons</Key>
       <Title>Sir</Title>
       <Forenames>Percy</Forenames>
-      <Text>, K.C.V.O., J.P., Order of Mercy</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>8113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +486,10 @@
       <Key>Slater</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Rans-</Forenames>
-      <Text>ford, K.C.M.G., C.B.E., Captain General and Governor-in-Chief, Island of Jamaica and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6918</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +505,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Montague Bentley Talbot Paske</Forenames>
-      <Text>, C.B.E., H.M. Consul at Honolulu</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +535,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Stapleton</Key>
-      <Text>Cotton, Admiral Richard Grenville Arthur Wellington, C.B., C.B.E., M.V.O., Registrar and Secretary of the Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +561,9 @@
       <Key>Stephenson</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Lans-</Forenames>
-      <Text>down, K.C.S.I., K.C.I.E., Governor of Burma</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>7347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +571,9 @@
     <MainItem>
       <Key>Strang</Key>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8213</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +646,9 @@
     <MainItem>
       <Key>Torrance</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Brevet Major Kenneth Sanderson, ' M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +708,11 @@
       <Key>Warrender</Key>
       <Title>Sir</Title>
       <Forenames>Victor Alexander George Anthony</Forenames>
-      <Text>, Bt., M.C., M.P., Vice-Chamberlain of H.M. Household</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +746,9 @@
       <Key>West</Key>
       <Title>Colonel (now MajorGen.)</Title>
       <Forenames>John Weir</Forenames>
-      <Text>, C.M.G., M.B., K.H.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>8112</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +757,9 @@
       <Key>Wickham</Key>
       <Title>Major</Title>
       <Forenames>John Lamplugh</Forenames>
-      <Text>, M.V.O., Gentleman Usher in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7259</PageNumber>
     </MainItem>
   </ItemGroup>

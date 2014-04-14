@@ -14,7 +14,10 @@
       <Key>Bourdillon</Key>
       <Title>Sir</Title>
       <Forenames>Bernard Henry</Forenames>
-      <Text>, K.B.E., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +51,9 @@
     <MainItem>
       <Key>Brabourne</Key>
       <Forenames>H. E.</Forenames>
-      <Text>, the Lord, G. C.I.E., M.C., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +102,9 @@
       <Key>Britten</Key>
       <Title>Cmdr.</Title>
       <Forenames>Edgar Theo-</Forenames>
-      <Text>philus, R.D., R.N.R. (retd.) Knight</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -115,7 +122,9 @@
       <Key>Brookhouse</Key>
       <Title>Maj.</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, Member, 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +151,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harry Percy</Forenames>
-      <Text>, M.B.E., M.I.E.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +164,13 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.B., C.B.E., D.S.O., T.D., D.L., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +190,9 @@
       <Key>Bruce</Key>
       <Title>Miss</Title>
       <Forenames>Bertha Mar-</Forenames>
-      <Text>guerita, M.B.E., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +200,10 @@
     <MainItem>
       <Key>Buchan</Key>
       <Forenames>John</Forenames>
-      <Text>, C.H., M.P., H. M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +211,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>John Scoular</Forenames>
-      <Text>, O.B.E., F.R.Ae.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +223,11 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>Gen. Kenneth Gray, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +268,9 @@
     <MainItem>
       <Key>Burghley</Key>
       <Title>Lord</Title>
-      <Text>, M.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +279,10 @@
       <Key>Burmester</Key>
       <Title>Adm.</Title>
       <Forenames>Rudolf Miles</Forenames>
-      <Text>, C.B., C.M.G. (rtd.) Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +339,11 @@
       <Key>Byrne</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Joseph Aloysius</Forenames>
-      <Text>, K.C.M.G., K.B.E., C.B., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
     <SubItem>
@@ -319,7 +356,10 @@
       <Key>Cadogan</Key>
       <Title>Hon.</Title>
       <Forenames>Alexander Montagu George</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
     <SubItem>
@@ -365,7 +405,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Brig-Gen</Forenames>
-      <Text>. John Vaughan, V.C., C.M.G., D.S.O., one of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +433,9 @@
     <MainItem>
       <Key>Carr</Key>
       <Forenames>Albert Bonus</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
     <SubItem>
@@ -435,7 +481,9 @@
     <MainItem>
       <Key>Cater</Key>
       <Forenames>Alexander Norman Ley</Forenames>
-      <Text>, CLE., Knight Commander, Order of the Indian Empire ... ... Cavendish, Richard Charles Alexander, Officer, Order of St. John of Jerusalem Cecil, Rt. Hon. Sir Evelyn, G.B.E., Baron Rockley of Lytchett Heath</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +493,12 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald Stuart</Forenames>
-      <Text>, Officer, Order of the British Empire Chandreshwar Prasad Singh, Babu, Member, Order of the British Empire ... Charlton, William John, Officer, Order of the British Empire ... ... Chatfield, Adm. Sir Alfred Ernie Montacute, K.C.B., K.C.M.G., C.V.O., Knight Grand Cross, Order of the Bath Checkley, Albert Ernest, Serving Brother, Order of St. John of Jerusalem ... Childs, Miss Gertrude, Officer, Order of the British Empire ... ... ... Chilton, Sir Henry Getty, K.C.M.G., Knight Grand Cross, Order of St. iMichael and St. George ... H.M. Ambassador Extraordinary and Plenipotentiary at Buenos Aires Chitham, Charles Carter, Companion, Order of the Indian Empire ... ... Chittoor Vaithilinga Ayyar Anantakrishna Ayyar Avargal, Rao Bahadur Mr. Justice, Knight ... Christie, Harold Alfred Hunter, King's Counsel</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +506,10 @@
     <MainItem>
       <Key>Clay</Key>
       <Forenames>Joseph Miles</Forenames>
-      <Text>, CLE., O.B.E., Companion, Order of the Star of India ... Clayton, Harry, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +524,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Clipson</Key>
-      <Text>iMiss Winifred Mary, Serving Sister, Order of St. John of Jerusalem ... Clive, Col. Harry, O.B.E., T.D., D.L., Companion, Order of the Bath ... Clowes, Annie, Mrs., Member, Order of the British Empire ... ... ... Clutterbuck, Miss Katherine Mary, Member, Order of the-British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>

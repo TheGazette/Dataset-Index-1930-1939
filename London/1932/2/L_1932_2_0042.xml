@@ -157,7 +157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>K. J</Text>
+      <Forenames>K. J.</Forenames>
       <PageNumber>3790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +179,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Text>R. N</Text>
+      <Forenames>R. N.</Forenames>
       <PageNumber>3790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,8 +473,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, D. V</Text>
+      <Key>O'Malley</Key>
+      <Forenames>D. V.</Forenames>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +706,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, F. O</Text>
+      <Forenames>John</Forenames>
+      <Text>, F. O</Text>
       <PageNumber>3280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -821,7 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>3790</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -953,7 +954,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>H. J. K</Text>
+      <Forenames>H. J. K.</Forenames>
       <PageNumber>3790</PageNumber>
       <PageNumber>3790</PageNumber>
     </MainItem>
@@ -1140,8 +1141,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>2480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1233,8 +1233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. de L</Forenames>
       <PageNumber>2480</PageNumber>
       <PageNumber>3279</PageNumber>
     </MainItem>
@@ -1392,7 +1391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Corbett</Key>
-      <Text>T. W</Text>
+      <Forenames>T. W.</Forenames>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,8 +1844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>2144</PageNumber>
     </MainItem>
   </ItemGroup>

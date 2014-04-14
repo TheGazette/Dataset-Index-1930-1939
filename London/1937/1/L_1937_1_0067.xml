@@ -21,7 +21,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neel</Key>
-      <Text>. P. A. B</Text>
+      <Forenames>P. A. B</Forenames>
       <PageNumber>171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,8 +129,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. D .</Forenames>
       <PageNumber>18</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ .</KeyDitto>
@@ -141,8 +141,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, L Oddie, G. S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>L</Forenames>
+      <Text>Oddie, G. S</Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,15 +179,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. D</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. D</Forenames>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Roe, R. J. O</Text>
+      <Key>O'Neill-Roe</Key>
+      <Forenames>R. J. O.</Forenames>
       <PageNumber>895</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +209,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, M. T</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>M. T .</Forenames>
       <PageNumber>269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -855,8 +856,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>D. St. Q</Forenames>
       <PageNumber>2010</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -168,7 +168,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowley</Key>
-      <Text>. K. M</Text>
+      <Forenames>K. M</Forenames>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +275,9 @@
       <PageNumber>7264</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>J., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7834</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -420,10 +422,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lacey</Forenames>
-      <Text>, M</Text>
+      <Key>De Lacey</Key>
+      <Forenames>M .</Forenames>
       <PageNumber>6775</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lisle</Key>
+      <Forenames>C. de B</Forenames>
+      <PageNumber>7931</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>P. B.</Forenames>
+      <PageNumber>7505</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rusett</Key>
+      <Forenames>D. E.</Forenames>
+      <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1147,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Green</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>6923</PageNumber>
     </MainItem>
   </ItemGroup>

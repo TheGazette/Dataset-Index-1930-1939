@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Bucknall</Key>
       <Forenames>Marguerite</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire li Bucknill, Alfred Townsend, O.B.E., K.O, Justice of H.M. High Court of Justice</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>611</PageNumber>
     </MainItem>
     <SubItem>
@@ -16,7 +18,9 @@
     <MainItem>
       <Key>Budge</Key>
       <Forenames>Henry Sinclair Campbell</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -25,7 +29,9 @@
     <MainItem>
       <Key>Bullard</Key>
       <Forenames>Reader William</Forenames>
-      <Text>, C.M.G., C.I.E., H.M. Consul-General at Rabat</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +47,9 @@
     <MainItem>
       <Key>Burdett</Key>
       <Forenames>Scott Langshaw</Forenames>
-      <Text>, M.C., H.M. Consul in China</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +68,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Norman Francis Clifford</Forenames>
-      <Text>, M.D., M.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +105,10 @@
     <MainItem>
       <Key>Busbridge</Key>
       <Forenames>William Reginald</Forenames>
-      <Text>, M.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +157,10 @@
     <MainItem>
       <Key>Caldecott</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, C.M.G., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -182,7 +198,9 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>David Graham Muschet</Forenames>
-      <Text>, K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +211,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>James Edward Francis</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +231,9 @@
     <MainItem>
       <Key>Caparn</Key>
       <Forenames>Eric Thomas</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +278,9 @@
     <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
   </Key>
   <Forenames>Carter</Forenames>
-  <Text>, Richard Henry Archibald, C.B., Knight Commander, Order of the Indian Empire</Text>
+  <Text>
+    <Honour>C.B.</Honour>
+  </Text>
   <PageNumber>6</PageNumber>
   <ItemGroup>
     <MainItem>
@@ -272,7 +296,9 @@
     <MainItem>
       <Key>Cassells</Key>
       <Forenames>Hugh Hutchinson</Forenames>
-      <Text>, M.V.O., H.M. ConsulGeneral at Valparaiso</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +323,9 @@
       <Key>Channer</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Osborne De Renzy</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +350,9 @@
       <Key>Charrington</Key>
       <Title>Col.</Title>
       <Forenames>Harold Vincent</Forenames>
-      <Text>, M.C., Gentleman at Arms, H.M. Body Guard</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +369,9 @@
       <Key>Cheesman</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Ernest</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +388,9 @@
       <Key>Chisholm</Key>
       <Title>Miss</Title>
       <Forenames>Catherine</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +425,9 @@
     <MainItem>
       <Key>Cilento</Key>
       <Forenames>Raphael West</Forenames>
-      <Text>, M.D., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -412,7 +448,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, K.C.S.I., K.C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +484,9 @@
       <Key>Cole</Key>
       <Title>Supt.</Title>
       <Forenames>William George</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +504,12 @@
       <Key>Connal</Key>
       <Title>Col.</Title>
       <Forenames>Kenneth Hugh Munro</Forenames>
-      <Text>, O.B.E., T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +517,9 @@
     <MainItem>
       <Key>Connor</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Sir Frank Powell, CP., D.S.O., F. R.C.S., V.H.S., I.M.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>66</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +538,12 @@
     <MainItem>
       <Key>Craster</Key>
       <Forenames>Vaughan</Forenames>
-      <Text>, Officer, Order of the British Empire Crawford, Thomas Clarke, Companion, Order of the Indian Empire Croft, Col. (hon. Brig.-Gen.) William Denman, C.M.G., D.S.O., Companion, Order of the Bath Crombie, Alan Douglas, Comfanion, Empire Order of the Crowdy, Rachel Eleanor, . D.C.B.E., Member Royal Commission on Private Manufacture of, and Trading in, Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +569,10 @@
     <MainItem>
       <Key>Davis</Key>
       <Forenames>Charles</Forenames>
-      <Text>, Member, Order of the British Empire Day, Charles Cameron, Officer, Order of the British Empire Daya Ram Sahni, Rai Bahadur, Companion, Order of the Indian Empire De Blois, The Hon. George Des Brisay, Knight of Grace, Order of St. John of Jerusalem Deakin, Pattie, Mrs., Com. mander, Order of the British Empire Deller, Edwin, LL.D., Knight 2, Denham,Sir Edward Brandis, K.C.M.G., K.B.E., Knight Grand Cross, Order of St. Michael and . St. George ... ... .</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___</KeyDitto>

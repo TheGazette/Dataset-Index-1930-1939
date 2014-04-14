@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Aziz</Forenames>
-      <Text>, Khan Bahadur Shaikh, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +76,9 @@
       <Key>Addison</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Christopher</Forenames>
-      <Text>, M.D., Minister of Agriculture and Fisheries</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3721</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +88,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Joseph</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to Czechoslovakia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +140,10 @@
       <Key>Alexander-Sinclair</Key>
       <Title>Adm. Sir</Title>
       <Forenames>Edwyn Sinclair</Forenames>
-      <Text>, K.C.B., .M.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +151,9 @@
     <MainItem>
       <Key>Alison</Key>
       <Title>Lt.</Title>
-      <Text>-Gom. Sir Archibald, Bt;, R.N., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +169,11 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. David Murray, C.B., C.M.G., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +192,9 @@
       <Key>Andrews</Key>
       <Title>Eng.</Title>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Robert Walter Benjamin, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +243,10 @@
       <Key>Aspinall</Key>
       <Title>Sir</Title>
       <Forenames>Algernon Edward</Forenames>
-      <Text>, C.M.G., O.B.E., Officer, Order of St. John of , Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +271,9 @@
     <MainItem>
       <Key>Audland</Key>
       <Forenames>William Edward</Forenames>
-      <Text>, M.B.E., M.R.C.S., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +322,9 @@
     <MainItem>
       <Key>Bankart</Key>
       <Forenames>Alfred Seymour</Forenames>
-      <Text>, M.B.E., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -309,7 +333,9 @@
     <MainItem>
       <Key>Barber</Key>
       <Forenames>William Clarence</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +361,9 @@
       <Key>Barnard</Key>
       <Title>Lt.-Col. and Brevet Col.</Title>
       <Forenames>Christopher William</Forenames>
-      <Text>, Baron, M.C T.D., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +404,11 @@
       <Key>Beach</Key>
       <Title>Col.</Title>
       <Forenames>Gerald</Forenames>
-      <Text>, O.B.E., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +416,9 @@
     <MainItem>
       <Key>Beale</Key>
       <Forenames>Louis Bernhardt George Stephen</Forenames>
-      <Text>, C.B.E., Acting Commercial Counsellor in H.M. Commercial Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2418</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +427,9 @@
       <Key>Beasley</Key>
       <Title>Mr.</Title>
       <Forenames>Justice H. Owen Compton</Forenames>
-      <Text>, O.B.E., Chief Justice of the High Court of Judicature at Madras, Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3562</PageNumber>
     </MainItem>
@@ -461,7 +497,9 @@
       <Key>Belk</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +507,9 @@
     <MainItem>
       <Key>Bell</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +518,10 @@
       <Key>BellairSi</Key>
       <Title>Capt.</Title>
       <Forenames>Roger Mow-</Forenames>
-      <Text>bray, C.M.G., R.N., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +547,9 @@
       <Key>Bennett</Key>
       <Title>Sir</Title>
       <Forenames>Albert</Forenames>
-      <Text>, Bt., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +558,9 @@
       <Key>Bennett</Key>
       <Title>Capt.</Title>
       <Forenames>Ernest Nathaniel</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3473</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -524,7 +571,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Eugene Paul</Forenames>
-      <Text>, V.C., M.C., Deputy Umpire under the Unemployment Insurance Act, 1920</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3874</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +604,9 @@
       <Key>Benson</Key>
       <Title>Col.</Title>
       <Forenames>Ralph Hawtrey Rohde</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +646,9 @@
     <MainItem>
       <Key>Bhore</Key>
       <Forenames>Joseph William</Forenames>
-      <Text>, CLE., C.B.E., Memberof the Executive Council of the Governor General of India, 2424; Knight Commander Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,7 +707,9 @@
       <Key>Bishop</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>Alan George</Forenames>
-      <Text>, A.F.C., Officer; Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +742,10 @@
       <Key>Blake</Key>
       <Title>Col. (tempy. Brig.)</Title>
       <Forenames>William Alan</Forenames>
-      <Text>, CM.G., D.S.O., A.D.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>

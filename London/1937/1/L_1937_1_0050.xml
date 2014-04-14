@@ -146,8 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +430,9 @@
       <Key>Shiftier</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stotherd</Key>
-      <Text>. S. H. C</Text>
+      <Forenames>S. H. C.</Forenames>
       <PageNumber>1082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,8 +1799,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thuillier</Key>
-      <Forenames>L.</Forenames>
-      <Text>de M</Text>
+      <Forenames>L. de M</Forenames>
       <PageNumber>712</PageNumber>
     </MainItem>
   </ItemGroup>

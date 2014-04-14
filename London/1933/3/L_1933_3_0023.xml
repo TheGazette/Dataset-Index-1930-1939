@@ -559,8 +559,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. R</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. R</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,8 +580,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>J</Forenames>
       <PageNumber>5300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1570,8 +1570,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>G. O'C</Forenames>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1587,8 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roissier</Key>
-      <Forenames>D. P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>D. P. St. C</Forenames>
       <PageNumber>5666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,8 +1611,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>5117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, E. FitzR</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, E. FitzR</Text>
       <PageNumber>6151</PageNumber>
       <PageNumber>6151</PageNumber>
     </MainItem>

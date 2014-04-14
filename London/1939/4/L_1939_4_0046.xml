@@ -1229,8 +1229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclure</Key>
-      <Forenames>E. H. St</Forenames>
-      <Text>. J. .,</Text>
+      <Forenames>E. H. St. J</Forenames>
+      <Text>. .,</Text>
       <PageNumber>8534</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1326,8 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNabb</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>R. O'B</Forenames>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,7 +1672,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>C. B. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1683,9 @@
       <Key>Magnus</Key>
       <Title>Sir</Title>
       <Forenames>P. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -302,11 +302,34 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Brath</Key>
+      <Title>Lady</Title>
+      <Text>FJdith Anna Beatrice</Text>
+      <PageNumber>4052</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Cramer</Key>
+      <Forenames>Fernand Raimond</Forenames>
+      <PageNumber>3118</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Samuel Louis</Forenames>
       <PageNumber>2831</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vauxonne</Key>
+      <Forenames>Jeanne Bertaud</Forenames>
+      <Text>(or Jeanne Bertaud)</Text>
+      <PageNumber>2728</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -358,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dell</Key>
-      <Text>. Edith Elizabeth</Text>
+      <Forenames>Edith Elizabeth</Forenames>
       <PageNumber>2197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diamont</Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>2933</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dodd</Key>
-      <Text>,. Albert Edward</Text>
+      <Text>. Albert Edward</Text>
       <PageNumber>3055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +629,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +962,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Lillian</Forenames>
+      <Title>Lillian .</Title>
       <PageNumber>4051</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -988,7 +1013,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliman</Key>
-      <Forenames>Ann</Forenames>
+      <Title>Ann .</Title>
       <PageNumber>3197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellis</Key>
-      <Forenames>Albert</Forenames>
+      <Title>Albert .</Title>
       <PageNumber>2588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,7 +1119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Emerson</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>3050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ensor</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>3321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Faulkner</Key>
-      <Forenames>David</Forenames>
+      <Title>David .</Title>
       <PageNumber>3191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1522,8 +1547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitz-Gibbon</Key>
-      <Forenames>Gerald</Forenames>
-      <Text>... Flather, Alice Eleanor (or Alice)</Text>
+      <Title>Gerald .</Title>
+      <Text>.. Flather, Alice Eleanor (or Alice)</Text>
       <PageNumber>2208</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,7 +1597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Forenames>Douglas</Forenames>
+      <Title>Douglas .</Title>
       <PageNumber>3331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,14 +1657,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Forrest</Key>
-      <Forenames>James</Forenames>
+      <Title>James.</Title>
       <PageNumber>4117</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forrester</Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>2356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Foster</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>2937</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1785,7 +1810,8 @@
   <ItemGroup>
     <MainItem>
       <Key>France</Key>
-      <Text>. Edward 3V</Text>
+      <Forenames>Edward</Forenames>
+      <Text>3V</Text>
       <PageNumber>96</PageNumber>
     </MainItem>
   </ItemGroup>

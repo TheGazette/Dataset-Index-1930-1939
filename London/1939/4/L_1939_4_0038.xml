@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1294,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8160</PageNumber>
     </MainItem>
   </ItemGroup>

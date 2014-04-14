@@ -15,7 +15,12 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Hathorn</Forenames>
-      <Text>, C.M.G., D.S.O., O.B.E., M.C., British Resident, Zanzibar Protectorate</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +29,9 @@
       <Key>Hall-Caine</Key>
       <Title>Sir</Title>
       <Forenames>Derwent</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +40,9 @@
       <Key>Halsted</Key>
       <Title>Lt.-Col. (temp. Col.)</Title>
       <Forenames>John Gregson</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,12 +51,16 @@
       <Key>Hamilton</Key>
       <Title>Maj. Sir</Title>
       <Forenames>George Clements</Forenames>
-      <Text>, J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>3663</PageNumber>
+        <Honour>Baronet</Honour>
       </Text>
       <PageNumber>4010</PageNumber>
     </SubItem>
@@ -70,15 +83,21 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>William Hay-</Forenames>
-      <Text>wood, CLE., C.B.E., D.S.O., F.R.C.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Canon Robert Brodribb Stewart, Officer, Order of the British Empire</Text>
+      <Title>The Revd. Canon</Title>
+      <Forenames>Robert Brodribb Stewart</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +122,9 @@
       <Key>Hannin</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Francis</Forenames>
-      <Text>. M.C. V.D.. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +159,11 @@
     <MainItem>
       <Key>Hardinge</Key>
       <Title>Maj.</Title>
-      <Text>the Rt. Hon. Sir Alexander Henry Louis, K.C.B., C.V.O., M.C, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +187,9 @@
     <MainItem>
       <Key>Harmer</Key>
       <Forenames>John Daniel</Forenames>
-      <Text>, M.B., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +197,9 @@
     <MainItem>
       <Key>Harnett</Key>
       <Forenames>Wing</Forenames>
-      <Text>Commander Edward St. Clair, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +215,9 @@
     <MainItem>
       <Key>Harper</Key>
       <Forenames>Francis Henry</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +235,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Elizabeth Frances</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +266,9 @@
       <Key>Harris</Key>
       <Title>The Hon.</Title>
       <Forenames>John Richards</Forenames>
-      <Text>, M.D., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +296,9 @@
     <MainItem>
       <Key>Harrold</Key>
       <Forenames>John Blake</Forenames>
-      <Text>, O.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +366,9 @@
     <MainItem>
       <Key>Hassan</Key>
       <Forenames>Bey Shukri</Forenames>
-      <Text>, M.B.E., Hon. Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +402,10 @@
       <Key>Hay</Key>
       <Title>Col.</Title>
       <Forenames>James Charles Edward</Forenames>
-      <Text>, M.C., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +463,10 @@
       <Key>Heath</Key>
       <Title>Cant. (Qrmr.)</Title>
       <Forenames>Harry</Forenames>
-      <Text>, M.C., T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +477,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, G.B.E., K.C.B., Member of Governing Body of Imperial College of Science and Technology</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +489,10 @@
       <Key>Heatly-Spencer</Key>
       <Title>Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., M.D., F.R.C.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +500,9 @@
     <MainItem>
       <Key>Heaton-Armstrong</Key>
       <Forenames>John Duna-</Forenames>
-      <Text>mace, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +510,10 @@
     <MainItem>
       <Key>Hebb</Key>
       <Forenames>John Harry</Forenames>
-      <Text>, C.B.E., M.B., B.Ch., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +558,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Nevile Meyrick</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +593,9 @@
       <Key>Herrington</Key>
       <Title>Maj.</Title>
       <Forenames>Edmund William</Forenames>
-      <Text>, T.D., L.R.C.P., M.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +611,10 @@
       <Key>Hiclding</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Horace Cyril Benjamin</Forenames>
-      <Text>, D.S.O., M.C., Commander .Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3098</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -647,7 +710,11 @@
       <Key>Hoare</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Samuel</Forenames>
-      <Text>, Bt., G.C.S.I., G.B.E., C.M.G., Secretary of State</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3506</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +738,9 @@
     <MainItem>
       <Key>Hogg</Key>
       <Forenames>Robert Henry</Forenames>
-      <Text>, O.B.E., M.B., Companion. Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>

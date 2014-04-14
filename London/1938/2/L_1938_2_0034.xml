@@ -4,7 +4,10 @@
     <MainItem>
       <Key>La</Key>
       <Forenames>Fontaine</Forenames>
-      <Text>, Sydney Hubert, D.S.O., O.B.E., Nominated Official Member of the Legislative Council of Kenya Colony</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +32,9 @@
       <Key>Laferla</Key>
       <Title>Capt.</Title>
       <Forenames>Albert Victor</Forenames>
-      <Text>, O.B.E., LL.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +43,10 @@
       <Key>Laing</Key>
       <Title>Col.</Title>
       <Forenames>Stanley</Forenames>
-      <Text>, van Buren, D.S.O., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +116,10 @@
     <MainItem>
       <Key>Laurence</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Noel Frank, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +128,9 @@
       <Key>Laverack</Key>
       <Title>Capt. (Qrmr.)</Title>
       <Forenames>Thomas Victor</Forenames>
-      <Text>, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +165,9 @@
     <MainItem>
       <Key>Lay</Key>
       <Title>Warrt. Offr.</Title>
-      <Text>CI. II (Sqdn. S.M.) John Henry, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +257,9 @@
     <MainItem>
       <Key>Lindop</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Carl Arthur Boys, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +300,9 @@
       <Key>Llewellyn</Key>
       <Title>Sir</Title>
       <Forenames>David Richard</Forenames>
-      <Text>, Bt., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +331,10 @@
       <Key>Lloyd</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Conway</Forenames>
-      <Text>, M.C., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +362,12 @@
       <Key>Longcroft</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Charles Alexander Hol-</Forenames>
-      <Text>combe, C.B., C.M.G., D.S.O., A.F.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +392,10 @@
       <Key>Longstaff</Key>
       <Title>Maj.</Title>
       <Forenames>Cedric Llewellyn</Forenames>
-      <Text>, T.D., J.P., D.L., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +404,9 @@
       <Key>Longuet-Higgins</Key>
       <Title>Revd.</Title>
       <Forenames>Henry Hugh Longuet</Forenames>
-      <Text>, M.C., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +466,9 @@
       <Key>Lucas</Key>
       <Title>Mrs.</Title>
       <Forenames>Mia</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +518,9 @@
       <Key>Lyon</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>Colin Sinclair</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +536,9 @@
     <MainItem>
       <Key>Lywood</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Oswin George William, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +546,9 @@
     <MainItem>
       <Key>Mc</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, Charles Edwards, D.C.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +651,9 @@
     <MainItem>
       <Key>MacEwen</Key>
       <Forenames>Alexander Robert</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>

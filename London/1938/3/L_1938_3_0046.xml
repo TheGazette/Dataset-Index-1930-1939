@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peart</Key>
-      <Text>. J. C. B</Text>
+      <Forenames>J. C. B.</Forenames>
       <PageNumber>6144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +274,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. D</Text>
+      <Forenames>D .</Forenames>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,6 +945,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Wheeler</Key>
+      <Forenames>A. E. B.</Forenames>
+      <PageNumber>4745</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Ennis</Key>
       <Forenames>J. E</Forenames>
       <PageNumber>5894</PageNumber>
@@ -1060,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maurice</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1137,14 +1144,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>. T. M</Text>
+      <Forenames>T. M.</Forenames>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. E. L</Text>
+      <Forenames>E. L</Forenames>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>

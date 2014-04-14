@@ -592,7 +592,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5513</PageNumber>
       <PageNumber>5632</PageNumber>
     </MainItem>
@@ -1048,8 +1050,7 @@
     <MainItem>
       <Key>Martelli</Key>
       <Title>Sir</Title>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>5513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,8 +1581,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>5632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,22 +1597,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Cofiey, S. W</Text>
+      <Key>O'Cofiey</Key>
+      <Forenames>S. W .</Forenames>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, P. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>5268</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, O'Donoghue, D. D. J. J</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>O'Donoghue</Forenames>
+      <Text>, D. D. J. J</Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1678,8 +1680,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1843,8 +1844,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M. M</Text>
+      <Forenames>H. St. M</Forenames>
+      <Text>. M</Text>
       <PageNumber>6018</PageNumber>
     </MainItem>
   </ItemGroup>

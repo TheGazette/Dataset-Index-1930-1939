@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>George</Forenames>
-      <Text>, C.S.I, CLE, O.B.E. Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +35,10 @@
       <Key>Curtis</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Randolph Wormeley</Forenames>
-      <Text>, C.M.G., C.V.O, M.C, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +110,9 @@
     <MainItem>
       <Key>Danby</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Clinton Francis Samuel, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +148,9 @@
       <Key>Davidson</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>John Colin Campbell</Forenames>
-      <Text>, C.H, C. B, M.P, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +158,9 @@
     <MainItem>
       <Key>Davie</Key>
       <Forenames>Peter Cousin</Forenames>
-      <Text>, M.B, F.R.C.S. M.R.C.P, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,10 +278,28 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pury</Key>
+      <Title>Capt.</Title>
+      <Forenames>Albert James</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3603</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Salis</Forenames>
       <Text>, Cecil Fane, C.B, D. L, Knight Commander, Order of the Bath</Text>
       <PageNumber>3594</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Title>Cdr.</Title>
+      <Forenames>Rodolph Henry Fane</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -329,16 +358,18 @@
       <Key>Dening</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Roland</Forenames>
-      <Text>, M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Title>Surg.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral H. R. H, O.B, M.R.CS, L.R.CP, D. P.H, Honorary Surgeon to the King</Text>
+      <Title>Surg. Rear-Admiral</Title>
+      <Forenames>H. R. H</Forenames>
+      <Text>, O.B, M.R.CS, L.R.CP, D. P.H, Honorary Surgeon to the King</Text>
       <PageNumber>3621</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +393,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dervis</Key>
-      <Text>Dr. Themistocles Nicolas, Officer, Order of the British Empire</Text>
+      <Title>Dr.</Title>
+      <Forenames>Themistocles Nicolas</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3614</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +412,9 @@
       <Key>Deverell</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Cyril John</Forenames>
-      <Text>, K.CB, K.B.E, Knight Grand Cross, Order of tne Bath</Text>
+      <Text>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +543,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Archibald</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +570,9 @@
       <Key>Dudding</Key>
       <Title>Surg.</Title>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. John Scarborough, O.B.E, M.R.CS., L.R.C.P, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -576,7 +615,9 @@
       <Key>Dunn</Key>
       <Title>Lt.</Title>
       <Forenames>William James</Forenames>
-      <Text>, M.O, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>

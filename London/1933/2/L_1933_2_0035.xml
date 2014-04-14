@@ -13,7 +13,10 @@
       <Key>Watkins</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Oscar Ferris</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +32,11 @@
     <MainItem>
       <Key>Wauchope</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Arthur Grenfell, K.C.B., C.M.G., C.I.E., D.S.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +145,10 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>Leonard Henry</Forenames>
-      <Text>, O.B.E., LL.D., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +188,9 @@
       <Key>Whitlock</Key>
       <Title>Col.</Title>
       <Forenames>George Frederic Ashford</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +215,10 @@
       <Key>Wigram</Key>
       <Title>Col. Rt. Hon. Sir</Title>
       <Forenames>Clive</Forenames>
-      <Text>, G.C.V.O., K.C.B., C.S.I., Knight Grand Cross, Order of the Bath 3802^ Wileman, John Henry, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +242,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>Ernest Edward</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +253,11 @@
       <Key>Willcox</Key>
       <Title>Sir</Title>
       <Forenames>William H.</Forenames>
-      <Text>, K.C.I.E., C.B., C.M.G., F.R.C.P., Member of the Civil Consulting Staff of King Edward VII.'s Hospital, Osborne</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +275,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Arthur Suart</Forenames>
-      <Text>, M.V.O., O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +289,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, O.B.E., M.I.Mech.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +332,9 @@
       </Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Rhys</Forenames>
-      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +344,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Daniel</Forenames>
-      <Text>, D.C.M., Member, 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +355,10 @@
     <MainItem>
       <Key>Williamson</Key>
       <Title>Brig.</Title>
-      <Text>Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +394,10 @@
       <Key>Wilson</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Arnold Talbot</Forenames>
-      <Text>, K.C.I.E., C.S.I., O.M.G., D.S.O., MemTier of Parliament for the Hitchin Division of Hertford</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +453,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wingate-S</Key>
-      <Text>.iul, Ernest Wingate, K.C., Knight</Text>
+      <Text>iul, Ernest Wingate, K.C., Knight</Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +494,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. Ensign P. F:, C.B., K.C., Lieutenant of the King's Body Guard for Scotland</Text>
+      <Forenames>Ensign P. F</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +505,10 @@
     <MainItem>
       <Key>Wodehouse</Key>
       <Forenames>Robert Elmer</Forenames>
-      <Text>, O.B.E., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +533,9 @@
     <MainItem>
       <Key>Worthington</Key>
       <Forenames>Richard Addi-</Forenames>
-      <Text>son, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +543,9 @@
     <MainItem>
       <Key>Wortley</Key>
       <Forenames>Edward Jocelyn</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +581,11 @@
       <Key>Wylly</Key>
       <Title>Col.</Title>
       <Forenames>Guy George Eger-</Forenames>
-      <Text>ton, V.C., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +604,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Mark Aitchison</Forenames>
-      <Text>, C.M.G., Governor and Commander-in-Chief of Barbados</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +735,9 @@
       <Key>Cheyne</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -817,8 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>4298</PageNumber>
     </MainItem>
   </ItemGroup>

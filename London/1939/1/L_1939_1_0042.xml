@@ -41,8 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. B. de C</Forenames>
       <PageNumber>1310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -447,8 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fairhurst</Key>
-      <Forenames>F. N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>F. N. St. J</Forenames>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Favelle</Key>
-      <Text>. B. K</Text>
+      <Forenames>B. K.</Forenames>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +883,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forbes</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1423,7 +1421,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnett</Key>
-      <Text>. J. D</Text>
+      <Forenames>J. D.</Forenames>
       <PageNumber>215</PageNumber>
     </MainItem>
   </ItemGroup>

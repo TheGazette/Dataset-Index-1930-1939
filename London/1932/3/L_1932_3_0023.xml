@@ -5,7 +5,9 @@
       <Key>Buchanan</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,7 +595,9 @@
     <MainItem>
       <Key>Routh</Key>
       <Forenames>G. M</Forenames>
-      <Text>Rowley, Sir G. W., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5767</PageNumber>
       <PageNumber>5767</PageNumber>
     </MainItem>
@@ -1300,8 +1304,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carson</Key>
-      <Forenames>J. J. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>J. J. St. L</Forenames>
       <PageNumber>4799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1441,7 +1444,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cox</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J.</Forenames>
       <PageNumber>5369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,8 +1529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>C. O'B</Forenames>
       <PageNumber>4936</PageNumber>
     </MainItem>
   </ItemGroup>

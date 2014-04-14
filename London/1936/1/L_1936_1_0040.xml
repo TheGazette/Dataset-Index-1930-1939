@@ -400,7 +400,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>His Majesty The</Forenames>
+      <Forenames>His Majesty</Forenames>
+      <Text>The</Text>
       <PageNumber>665</PageNumber>
       <PageNumber>1057</PageNumber>
     </MainItem>
@@ -445,8 +446,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamb</Key>
-      <Text>C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>910</PageNumber>
     </MainItem>
   </ItemGroup>

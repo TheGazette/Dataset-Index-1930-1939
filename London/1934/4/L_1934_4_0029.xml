@@ -780,7 +780,9 @@
       <Key>Shelley</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>F-, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1295,7 +1297,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tickle</Key>
-      <Text>R. S</Text>
+      <Forenames>R. S</Forenames>
       <PageNumber>7764</PageNumber>
       <PageNumber>7764</PageNumber>
     </MainItem>
@@ -1589,8 +1591,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>M.</Forenames>
-      <Text>de H</Text>
+      <Forenames>M. de H</Forenames>
       <PageNumber>6713</PageNumber>
     </MainItem>
   </ItemGroup>

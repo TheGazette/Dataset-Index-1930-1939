@@ -22,7 +22,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6275</PageNumber>
       <PageNumber>7492</PageNumber>
     </MainItem>
@@ -283,8 +285,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Casenove</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>6364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,14 +306,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Text>. A. de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Chadwick</Key>
-      <Text>. E. W</Text>
+      <Forenames>E. W</Forenames>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +334,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchill</Key>
-      <Text>. B. H</Text>
+      <Forenames>B. H.</Forenames>
       <PageNumber>6275</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,15 +415,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>. J. C. DA</Text>
+      <Forenames>J. C.</Forenames>
+      <Text>DA</Text>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalv</Key>
-      <Text>. T. D</Text>
+      <Forenames>T. D</Forenames>
       <PageNumber>8190</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. W. M.</Forenames>
+      <PageNumber>6433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -523,8 +532,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gage</Key>
-      <Forenames>R. F. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>R. F. O'D</Forenames>
       <PageNumber>8190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,14 +965,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Mears</Key>
-      <Text>. G. G</Text>
+      <Forenames>G. G.</Forenames>
       <PageNumber>6538</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Merrylees</Key>
-      <Text>. K. W</Text>
+      <Forenames>K. W.</Forenames>
       <PageNumber>8286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peddie</Key>
-      <Text>. P. G. C</Text>
+      <Forenames>P. G. C.</Forenames>
       <PageNumber>6432</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1090,9 @@
       <Key>Pile</Key>
       <Title>Sir</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>.y croft, D. M</Text>
+      <Text>y croft, D. M</Text>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>

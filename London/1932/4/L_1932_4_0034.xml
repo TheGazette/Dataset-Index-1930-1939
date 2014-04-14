@@ -248,7 +248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madiratta</Key>
-      <Text>. P. S</Text>
+      <Forenames>P. S</Forenames>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Text>. T. S. S</Text>
+      <Forenames>T. S. S</Forenames>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Messerbv</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,8 +407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>G. O.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. O. de V</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,14 +493,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Osilw</Key>
-      <Text>. J. D</Text>
+      <Forenames>J. D.</Forenames>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, H.R. H</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>H.R. H.</Forenames>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitts</Key>
-      <Text>. S. T</Text>
+      <Forenames>S. T .</Forenames>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -794,7 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sansar</Key>
-      <Text>. Chand</Text>
+      <Title>Chand .</Title>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +896,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sen</Key>
-      <Text>. P. C</Text>
+      <Forenames>P. C</Forenames>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,8 +1172,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. de W</Forenames>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,14 +1268,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Wynter</Key>
-      <Text>.P. M. D</Text>
+      <Forenames>P. M. D</Forenames>
       <PageNumber>6776</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Zamir</Key>
-      <Text>. Ahmad Hashmi</Text>
+      <Forenames>Ahmad Hashmi</Forenames>
       <PageNumber>7667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1526,8 +1524,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, E</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>E.</Forenames>
       <PageNumber>6775</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1612,8 +1610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stracey</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. St. C</Forenames>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>

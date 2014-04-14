@@ -452,7 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willey</Key>
-      <Text>L. F</Text>
+      <Forenames>L. F .</Forenames>
       <PageNumber>7104</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +554,9 @@
       <Key>Williams-Bulkeley</Key>
       <Title>Sir</Title>
       <Forenames>R. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +635,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1814,8 +1818,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T</Forenames>
       <PageNumber>6722</PageNumber>
     </MainItem>
   </ItemGroup>

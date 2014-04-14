@@ -35,7 +35,9 @@
       <Key>Muntz</Key>
       <Title>Sir</Title>
       <Forenames>G.</Forenames>
-      <Text>' P. G,, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +107,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rogers</Key>
-      <Text>L. A</Text>
+      <Forenames>L. A.</Forenames>
       <PageNumber>2709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,8 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J. G</Text>
+      <Forenames>S. St. J</Forenames>
+      <Text>. G</Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -653,9 +655,8 @@
   <SubSectionTitle>Commissioned Shipwrights</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Gruchy</Forenames>
-      <Text>, A. C</Text>
+      <Key>De Gruchy</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,8 +933,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P</Forenames>
       <PageNumber>3497</PageNumber>
     </MainItem>
   </ItemGroup>

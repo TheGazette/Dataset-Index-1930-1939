@@ -5,7 +5,9 @@
       <Key>Craik</Key>
       <Title>Sir</Title>
       <Forenames>Henry Duffield</Forenames>
-      <Text>, Bt., ECS.I., Member, Executive Council of the Governor-General of India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +15,10 @@
     <MainItem>
       <Key>Cran</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., V.D., M.D., Member of the Executive Council of British Honduras</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +36,9 @@
       <Key>Craven</Key>
       <Title>Odr.</Title>
       <Forenames>Charles Worth-</Forenames>
-      <Text>ington, O.B.E., R.N., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +46,9 @@
     <MainItem>
       <Key>Creak</Key>
       <Forenames>Evan Victor</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -64,7 +73,10 @@
       <Key>Critchley</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Alfred Cecil</Forenames>
-      <Text>, C.M.G., D.S.O., Member of Parliament for Twickenham division</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +93,11 @@
       <Key>Orozier</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Baptist Barton</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,14 +121,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Cumberbatch</Key>
-      <Text>' Arthur Noel M.B.E., Commercial Secretary (Third Grade) at H.M. Legation at Athens</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2542</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cunningham</Key>
-      <Text>, Rear-Adm. Andrew Browne, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +151,9 @@
       <Key>Cutteridge</Key>
       <Title>Capt.</Title>
       <Forenames>Joseph Oliver</Forenames>
-      <Text>, M.B.E., Nominated Official Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +204,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Alphonso William James</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +227,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry Walford</Forenames>
-      <Text>C.V.O., O.B.E., Mus! Doc, Master of the Music to H.M. the King</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,6 +324,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Title>Capt.</Title>
+      <Forenames>Geoffrey</Forenames>
+      <Text>, F.R.Ae.S., Commander, Order of the British Empire</Text>
+      <PageNumber>3564</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>D</Key>
       <Text>'Sylva, John, Member, Order of the British Empire</Text>
       <PageNumber>3568</PageNumber>
@@ -329,7 +366,9 @@
     <MainItem>
       <Key>Dickin</Key>
       <Forenames>Edward Percival</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4059</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +377,9 @@
       <Key>Dickson</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>William Forster</Forenames>
-      <Text>, D.S.O., A.F.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +396,10 @@
     <MainItem>
       <Key>Domvile</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Barry Edward, C.B.. C.M.G. Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +431,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>Jones, Crawford Douglas, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +441,9 @@
     <MainItem>
       <Key>Downer</Key>
       <Forenames>Reginald Lionel</Forenames>
-      <Text>(Ernest, M.D. M.R.O.S., Officer, Order of St. John of .Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +498,9 @@
       <Key>Dugan</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Winston Joseph</Forenames>
-      <Text>, O.B., O.M.G., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2853</PageNumber>
     </MainItem>
     <SubItem>
@@ -462,7 +512,10 @@
     <MainItem>
       <Key>Dunbar-Nasmith</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Martin Eric, V.C., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +542,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Broomfield</Forenames>
-      <Text>, M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +552,9 @@
     <MainItem>
       <Key>Eady</Key>
       <Forenames>Crawfurd Wilfrid Griffin</Forenames>
-      <Text>, O.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +586,9 @@
     <MainItem>
       <Key>Eden</Key>
       <Forenames>Robert Anthony</Forenames>
-      <Text>, M.O., J.P., M.P., Member of H.M:. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3555</PageNumber>
       <PageNumber>4137</PageNumber>
     </MainItem>
@@ -539,7 +598,9 @@
       <Key>Edmondson</Key>
       <Title>Maj.</Title>
       <Forenames>Albert James</Forenames>
-      <Text>M.P.. Knight .:</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,7 +650,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>. Hon. Montague Charles, C. V.O., O.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Title>Hon.</Title>
+      <Forenames>Montague Charles</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,8 +670,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellison</Key>
-      <Forenames>Francis O</Forenames>
-      <Text>'Brien, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Forenames>Francis O'Brien</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +732,9 @@
       <Key>Faudel-Phillips</Key>
       <Title>Sir</Title>
       <Forenames>Lionel Lawson Faudel</Forenames>
-      <Text>, Bt., . Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>

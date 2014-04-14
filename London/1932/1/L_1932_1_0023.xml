@@ -22,14 +22,18 @@
       <Key>Pearson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Vere Lorraine Nuttall</Forenames>
-      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peel</Key>
-      <Text>lit. Hon. William Robert Wellesley, Earl, G.B.E., Knight Grand Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +41,10 @@
     <MainItem>
       <Key>Perak</Key>
       <Forenames>Rajah Chilian</Forenames>
-      <Text>, ibni Sultan Abdullah, K.B.E., C.M.G., Raja-di-Hilir of, nominated Unofficial Member of the Federal Council of Federated Malay States</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +52,9 @@
     <MainItem>
       <Key>Ferryman</Key>
       <Forenames>Percy Wilbraham</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +71,9 @@
     <MainItem>
       <Key>Pherozeshaw</Key>
       <Forenames>Jehangir Marzban</Forenames>
-      <Text>, J.P., Companion, Order of the Indian Empire ... ... C Philipps, Sir Henry Erasmus Edward, Bart., Custos Rotulorum of the Town and County of Haverfordwest</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +167,10 @@
       <Key>Purdy</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Smith</Forenames>
-      <Text>, D.S.O., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +226,9 @@
     <MainItem>
       <Key>Rathbone</Key>
       <Forenames>Air Commodore Charles Edward Henry</Forenames>
-      <Text>, D.S.O., Member of the Nominated Council of Malta</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +252,9 @@
     <MainItem>
       <Key>Repton</Key>
       <Forenames>Guy George</Forenames>
-      <Text>, M.B.E.. Officer, Order of St^ John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +325,10 @@
       <Key>Rigby</Key>
       <Title>Sir</Title>
       <Forenames>Hugh Mallinson</Forenames>
-      <Text>, Bt., K.C.V.O., E.R.C.S</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +337,9 @@
       <Key>Robathan</Key>
       <Title>Capt.</Title>
       <Forenames>Francis Paul</Forenames>
-      <Text>), M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +377,10 @@
       <Key>Robertson</Key>
       <Title>Colonel (temporary Brigadier)</Title>
       <Forenames>Donald Elphinstone</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +407,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Roy Lister</Forenames>
-      <Text>, O.B.E., Chairman, Forestry Commissioners</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +486,9 @@
     <MainItem>
       <Key>Samuel</Key>
       <Forenames>Arthur Michael</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +499,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Ida</Forenames>
-      <Text>, J.P., Member, Order of the British Empire ... ... Saniuelson, Sir Herbert, K.B.Ei., Knight of Grace, Order of St. John or Jerusalem ... ... ... Sandys. Joan, Mrs., Officer, Order of St. John of Jerusalem ... ... ... Sankey, Rt. Hon. John, Baron, G.B.E., Viscount Sankey of Moreton</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +513,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Colin</Forenames>
-      <Text>, O.B.E.. Member 4th Class. Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
     <SubItem>

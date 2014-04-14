@@ -549,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayer</Key>
-      <Text>. R. W</Text>
+      <Forenames>R. W .</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,15 +933,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, R. F. C</Text>
+      <Key>O'Brien</Key>
+      <Forenames>R. F. C</Forenames>
       <PageNumber>8120</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. J</Forenames>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,21 +987,23 @@
       <Key>Onslow</Key>
       <Title>Sir</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly,*. F. J</Text>
+      <Key>O'Reilly</Key>
+      <Text>*. F. J</Text>
       <PageNumber>6788</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, A. G</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>A. G</Forenames>
       <PageNumber>7754</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1085,9 @@
       <Key>Pauncefort-Duncombe</Key>
       <Title>Sir</Title>
       <Forenames>E. P. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,7 +1372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pritchard</Key>
-      <Text>. C. H. V</Text>
+      <Forenames>C. H. V</Forenames>
       <PageNumber>7335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1572,8 +1576,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rideal</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>G. St. C</Forenames>
       <PageNumber>7168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,22 +1794,24 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>S., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6700</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rowntree</Key>
-      <Text>. W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>7418</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Roy-Applm</Key>
-      <Title>St.</Title>
-      <Forenames>V. J. T.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>J. T.</Forenames>
       <PageNumber>8040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,7 +1863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Johnston, T. E</Text>
+      <Forenames>Johnston</Forenames>
+      <Text>, T. E</Text>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>

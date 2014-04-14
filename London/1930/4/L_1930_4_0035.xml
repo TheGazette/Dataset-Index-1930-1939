@@ -424,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trimble</Key>
-      <Text>A. P</Text>
+      <Forenames>A. P</Forenames>
       <PageNumber>8076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>G. F</Text>
+      <Forenames>G. F.</Forenames>
       <PageNumber>6598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,8 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>7892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,6 +1133,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>D. H.</Forenames>
+      <PageNumber>6958</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>O. W</Forenames>
+      <PageNumber>6959</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>D. R. C. B.</Forenames>
+      <PageNumber>6479</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deans</Key>
       <Forenames>E. E</Forenames>
       <PageNumber>8259</PageNumber>
@@ -1165,6 +1185,13 @@
       <Key>Dobson</Key>
       <Forenames>J. A</Forenames>
       <PageNumber>6479</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cane</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>6959</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1637,7 +1664,9 @@
       <Key>Hoare</Key>
       <Title>Sir</Title>
       <Forenames>S. J. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,7 +1729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudson</Key>
-      <Text>P. E</Text>
+      <Forenames>P. E</Forenames>
       <PageNumber>6096</PageNumber>
       <PageNumber>6097</PageNumber>
     </MainItem>

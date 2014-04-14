@@ -750,11 +750,17 @@
       <PageNumber>6317</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Dawson, Hon. Col. James, Aston, Janet Hannah, change D.S.O., T.D., M.A. ... 8312 of name by deed poll to Lyon, Maj. Alexander, J. H. Nicholas</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6790</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sir Alan, M.B.E., T.D. 7694 Atlantic Leased Lines, notice</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6410</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -775,7 +781,9 @@
       <PageNumber>6543</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Clive, Lt.-Gen. Sir George ___ ___ T. &amp; Sons (Compton), Sidney, G.C.V.O., notice</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>7043</PageNumber>
     </SubItem>
   </ItemGroup>

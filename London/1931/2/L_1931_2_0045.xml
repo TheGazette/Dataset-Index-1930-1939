@@ -165,7 +165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>H. R. A</Text>
+      <Forenames>H. R. A.</Forenames>
       <PageNumber>3324</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -787,8 +787,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rennick</Key>
-      <Forenames>A.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. de C</Forenames>
       <PageNumber>2495</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +961,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>F. H. TJ</Text>
+      <Forenames>F. H.</Forenames>
+      <Text>TJ</Text>
       <PageNumber>2806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1211,7 +1211,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>Sir K</Text>
+      <Title>Sir</Title>
+      <Forenames>K.</Forenames>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1246,7 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woledge</Key>
-      <Text>F. L</Text>
+      <Forenames>F. L.</Forenames>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bryce</Key>
-      <Text>M. K</Text>
+      <Forenames>M. K.</Forenames>
       <PageNumber>2974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1373,6 +1374,13 @@
       <Key>Cursetjee</Key>
       <Forenames>H. J. M</Forenames>
       <PageNumber>2650</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. N</Forenames>
+      <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1553,8 +1561,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. L. ..:</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. L.</Forenames>
+      <Text>..:</Text>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1671,7 +1680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Osborne-Smith</Key>
-      <Text>G. M</Text>
+      <Forenames>G. M.</Forenames>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1758,15 +1767,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, N</Text>
+      <Key>O'Neill</Key>
+      <Forenames>N.</Forenames>
       <PageNumber>2647</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Text>A. R. M</Text>
+      <Forenames>A. R. M</Forenames>
       <PageNumber>2419</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliot</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F .</Forenames>
       <PageNumber>5951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +752,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5952</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -873,8 +872,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goldie</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>A. St. L</Forenames>
       <PageNumber>5951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,8 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Forenames>G. W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. W. St. G</Forenames>
       <PageNumber>5360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,8 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Guinness</Key>
-      <Forenames>G. R.</Forenames>
-      <Text>de C. B</Text>
+      <Forenames>G. R. de C</Forenames>
+      <Text>. B</Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1236,7 +1233,9 @@
       <PageNumber>5361</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5951</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hobson</Key>
-      <Text>. F. E. ..;</Text>
+      <Forenames>F. E.</Forenames>
+      <Text>..;</Text>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,8 +202,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooley</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,8 +271,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Horsford</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B. Horsley, W. T</Text>
+      <Forenames>T. O'B</Forenames>
+      <Text>. Horsley, W. T</Text>
       <PageNumber>1549</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +806,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>58</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,7 +1092,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joly</Key>
-      <Text>de Lotbiniere, H. A</Text>
+      <Forenames>de Lotbiniere</Forenames>
+      <Text>, H. A</Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,8 +1469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>J.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. de M</Forenames>
       <PageNumber>607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1575,7 +1578,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>de L</Text>
+      <Forenames>de L</Forenames>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,7 +1881,9 @@
       <Key>Laurie</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>

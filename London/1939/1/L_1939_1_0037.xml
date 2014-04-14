@@ -12,7 +12,10 @@
     <MainItem>
       <Key>Waddell</Key>
       <Forenames>Flying Offr</Forenames>
-      <Text>. Robert Cassells, D.F.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +63,10 @@
     <MainItem>
       <Key>Walker</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Charles, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,9 +143,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Title>Engr.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Thomas Herbert, Companion, Order of the Bath</Text>
+      <Title>Engr. Rear-Admiral</Title>
+      <Forenames>Thomas Herbert</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +202,9 @@
     <MainItem>
       <Key>Waterfield</Key>
       <Forenames>Alexander Percival</Forenames>
-      <Text>, C.B., Civil Service Commissioner</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +213,10 @@
       <Key>Waterhouse</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>George Guy</Forenames>
-      <Text>, M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +225,10 @@
       <Key>Waters</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Dallas</Forenames>
-      <Text>, C.B., D.S.O., Chairman, Cheshire Quarter Sessions</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +304,10 @@
     <MainItem>
       <Key>Wavell</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Archibald Percival, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +335,10 @@
       <Key>Weeks</Key>
       <Title>Col.</Title>
       <Forenames>Ronald Morse</Forenames>
-      <Text>, D.S.O., M.C., Commander, Order of the British Empire *&gt; Weir, Ralph Somerville, Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +362,9 @@
     <MainItem>
       <Key>Westhoven</Key>
       <Forenames>Joseph Charles</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George ... Wheeler, Robert Eric Mortimer, M.C.. D.Lit., F.S.A., Member of Royal Commission on Historical Monuments (England)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>207</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +372,9 @@
     <MainItem>
       <Key>Whiting</Key>
       <Forenames>Harry Ernest</Forenames>
-      <Text>, F.S.S., Member, Order of the British Empire Whitley, William Frederic James, M.D., D.P.H., F.R.S.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +474,9 @@
     <MainItem>
       <Key>Wilson</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, M.D., Ch.B., Officer, Order of the</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +486,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Charles Paul</Forenames>
-      <Text>, F.R.C.S., Commander, Royal Vic-</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +514,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George William</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem Woodward-Horsley, Dr. Alice, M.B., Ch.B., Officer, Order of the British Empire Worrall, Bertram, Serving Brother, Order of St. John of Jerusalem Wright, Qrmr. &amp; Hon. Maj. Charles Robert Victor, M.C., Member, Order of the British Empire ... Wyatt, Stanley Charles, Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aspinall</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>6523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +369,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blowers</Key>
-      <Text>D. L</Text>
+      <Forenames>D. L</Forenames>
       <PageNumber>6355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>W. E</Text>
+      <Forenames>W. E</Forenames>
       <PageNumber>8125</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,8 +1004,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mara, W. L</Text>
+      <Key>O'Mara</Key>
+      <Forenames>W. L</Forenames>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1361,8 +1361,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parmiter</Key>
-      <Forenames>G. V.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. V. de C</Forenames>
       <PageNumber>6426</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -23,7 +23,9 @@
       <Key>Yeoman</Key>
       <Title>Rev.</Title>
       <Forenames>Alexander Ross</Forenames>
-      <Text>, C.M.G., M.A., Hon. Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,9 @@
     <MainItem>
       <Key>Abbiss</Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +60,9 @@
     <MainItem>
       <Key>Adam</Key>
       <Forenames>John Hunter</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +79,9 @@
     <MainItem>
       <Key>Addison</Key>
       <Forenames>Joseph</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +122,10 @@
       <Key>Allen</Key>
       <Title>Col.</Title>
       <Forenames>Stephen Shep-</Forenames>
-      <Text>herd, C.M.G., D.S.O., V.D. Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +163,9 @@
       </Key>
       <Title>Wng. Cmdr.</Title>
       <Forenames>William Hopton</Forenames>
-      <Text>, D.P.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +181,10 @@
     <MainItem>
       <Key>Angus</Key>
       <Title>Lt.-Col. Kenneth .</Title>
-      <Text>.Forsyth, M.C., T.D., Officer, .Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +254,9 @@
     <MainItem>
       <Key>Ashley</Key>
       <Forenames>Percy Walter Llewellyn</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +272,9 @@
       <Key>Askin</Key>
       <Title>Capt. and Paymstr.</Title>
       <Forenames>Robert Cuming</Forenames>
-      <Text>de Vere, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -308,7 +328,9 @@
     <MainItem>
       <Key>Austin</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Francis Murray, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +338,9 @@
     <MainItem>
       <Key>Bagshawe</Key>
       <Forenames>Arthur William</Forenames>
-      <Text>Garrard, C.M.G., iM.B., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +405,10 @@
       <Key>Bamford</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry William Morey</Forenames>
-      <Text>O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +434,10 @@
       <Key>Barbary</Key>
       <Title>Lt.-Col. and Bvt. Col.</Title>
       <Forenames>John Ewart Trounce</Forenames>
-      <Text>, M.B.E., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +476,12 @@
     <MainItem>
       <Key>Bartholomew</Key>
       <Title>Maj.</Title>
-      <Text>Gen. Arthur Wollaston, C.M.G., O.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +497,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Bartley</Key>
-      <Text>. Frederick Douglas, C.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Forenames>Frederick Douglas</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +508,9 @@
     <MainItem>
       <Key>Barton</Key>
       <Forenames>Arthur Edward Victor</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +556,10 @@
       <Key>Beattie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alexander</Forenames>
-      <Text>EldW, C.B.E., M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +567,9 @@
     <MainItem>
       <Key>Beatty</Key>
       <Forenames>Henry Albert</Forenames>
-      <Text>, M.D., L.R.C.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +686,9 @@
     <MainItem>
       <Key>Biggs</Key>
       <Forenames>Ambrose Joseph</Forenames>
-      <Text>, O.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3814</PageNumber>
     </MainItem>
   </ItemGroup>

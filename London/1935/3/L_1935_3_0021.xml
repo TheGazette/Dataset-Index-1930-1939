@@ -371,8 +371,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brett</Key>
-      <Forenames>E. T. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>E. T. St. M</Forenames>
       <PageNumber>4260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +919,9 @@
     <MainItem>
       <Key>Came</Key>
       <Forenames>Rasch</Forenames>
-      <Text>, Sir F., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,8 +1143,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Churchward</Key>
-      <Forenames>P. R.</Forenames>
-      <Text>de S</Text>
+      <Forenames>P. R. de S</Forenames>
       <PageNumber>6006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,8 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>A. S. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>A. S. J. de S</Forenames>
       <PageNumber>5532</PageNumber>
     </MainItem>
   </ItemGroup>

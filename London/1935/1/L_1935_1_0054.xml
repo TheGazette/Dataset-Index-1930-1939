@@ -210,7 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haig</Key>
-      <Text>. R. A</Text>
+      <Forenames>R. A .</Forenames>
       <PageNumber>546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,7 +355,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvy</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E .</Forenames>
       <PageNumber>1904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -843,8 +843,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, T. P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>T. P.</Forenames>
       <PageNumber>300</PageNumber>
       <PageNumber>1092</PageNumber>
     </MainItem>
@@ -854,8 +854,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Colson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C :.. |</Text>
+      <Forenames>H. St. C</Forenames>
+      <Text>:.. |</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,8 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Goodwin</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>E. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,6 +1024,13 @@
       <Key>Stenhouse</Key>
       <Forenames>R. F.</Forenames>
       <PageNumber>612</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Pelt</Key>
+      <Forenames>S. J.</Forenames>
+      <PageNumber>1981</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1222,8 +1229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>James</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. J. ..'</Text>
+      <Forenames>S. St. J</Forenames>
+      <Text>. ..'</Text>
       <PageNumber>1271</PageNumber>
     </MainItem>
   </ItemGroup>

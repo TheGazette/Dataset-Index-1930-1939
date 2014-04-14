@@ -625,7 +625,9 @@
       <Key>Lanark</Key>
       <Title>Rt. Hon. Lord</Title>
       <Forenames>Hamilton</Forenames>
-      <Text>of Dalzell, Kt., C. V.O., M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -635,7 +637,11 @@
       <Key>Lanark</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Joseph Edmondstoune</Forenames>
-      <Text>Cranstoun, D. S.O., T.D., J.P., D.L</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +649,9 @@
     <MainItem>
       <Key>Warwick</Key>
       <Forenames>Squadron-Leader</Forenames>
-      <Text>Lord Willoughby de Broke, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,6 +664,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.P.</Honour>
         <PageNumber>4745</PageNumber>
       </Text>
       <PageNumber>4745</PageNumber>
@@ -680,7 +689,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>5189</PageNumber>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>5189</PageNumber>
     </SubItem>
@@ -688,7 +699,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Middlesex</Key>
-      <Text>: Baker, Col. Euston Edward Francis, C.B.E., D.S.O., . M.C., T.D</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5481</PageNumber>
     </MainItem>
     <SubItem>
@@ -699,15 +715,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Monmonth</Key>
-      <Text>: David, Lt.-Col. Markham, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4248</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Mathias, Sir Richard, Bart. (resigned)</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4248</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Moray, Kenneth Thomson, Col. Ian, O.B.E., T.D.</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5418</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -716,7 +739,9 @@
       <Key>Southampton</Key>
       <Title>Maj.</Title>
       <Forenames>Francis Henry Tristram Jervoise</Forenames>
-      <Text>, T.D. ..;</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +750,10 @@
       <Key>Surrey</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Francis Garden</Forenames>
-      <Text>. Poole, D.S.O., O.B.E</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>5608</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -9,7 +9,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Thomas</Forenames>
-      <Text>, Member of the Royal Commission . on Licensing (England and Wales) Jopson, Reginald Keith, H.M. Vice-Consul at Monte Video Joynt, Norman Lockhart, M.C., M.B., Official Member, Executive Council of the Virgin Islands Jullienne, Edgar, Member, Order of the British Empire Kane, Edward William, Companion, Order of Saint Michael and St. George ... Kanwar, Dalip Singh, Judge of the High Court of Judicature at Lahore</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -18,7 +20,14 @@
     <MainItem>
       <Key>Kennedy-Cox</Key>
       <Forenames>Reginald</Forenames>
-      <Text>, J.P., Knight Keppel, Admiral Sir Colin Richard, K.C.I.E., K.O.V.O., C.B., D.S.O., Knight Grand Cross, Royal Victorian Order ... ... Keshav Prashad Singh, Maharaja Bahadur, C.B.E., Knight Kesho Wajnan Brahma Rao Bahadur, M.B.E., Companion, Order of the Indian Empire ... ... ... Kewley, Walter, Serving Brother, Order of St. John of Jerusalem... King, Sir Kelso, Officer, Order of St. John of Jerusalem ... Kitto, Charles Mitchell, Serving Brother, Order of St. John of Jerusalem ... ... Knapp-Fisher, Edward Francis, Knight</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -30,7 +39,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Stuart</Forenames>
-      <Text>, O.B.E., Knight:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>

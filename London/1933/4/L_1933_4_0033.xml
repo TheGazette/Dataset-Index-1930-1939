@@ -101,8 +101,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, J. C. W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>J. C. W</Forenames>
       <PageNumber>7283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +588,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studdert</Key>
-      <Text>A. T. S</Text>
+      <Forenames>A. T. S.</Forenames>
       <PageNumber>6762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Albuquerque</Key>
-      <Text>V. M</Text>
+      <Forenames>V. M</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,6 +992,13 @@
       <Key>Copcutt</Key>
       <Forenames>E. E</Forenames>
       <PageNumber>7610</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. N</Forenames>
+      <PageNumber>8449</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1149,21 +1156,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Nutt</Key>
-      <Text>H. B</Text>
+      <Forenames>H. B</Forenames>
       <PageNumber>6429</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. W</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. W</Forenames>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J</Forenames>
       <PageNumber>8319</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,7 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Puri</Key>
-      <Text>V. V</Text>
+      <Forenames>V. V .</Forenames>
       <PageNumber>6613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,9 +1423,10 @@
       <Forenames>A. C.</Forenames>
       <PageNumber>6355</PageNumber>
     </MainItem>
-    <SubSectionTitle>Bear-Admirals</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Bear-Admirals</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Bear-Admirals.</Text>
       <PageNumber>6355</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1458,9 +1466,10 @@
       <Text>, J. IF. C</Text>
       <PageNumber>6610</PageNumber>
     </MainItem>
-    <SubSectionTitle>Engineer Bear-Admirals</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Engineer Bear-Admirals</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Engineer Bear-Admirals.</Text>
       <PageNumber>7696</PageNumber>
     </SubItem>
   </ItemGroup>

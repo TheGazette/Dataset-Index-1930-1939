@@ -84,7 +84,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slater</Key>
-      <Text>. R. W</Text>
+      <Forenames>R. W.</Forenames>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1124,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CliftonE</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>6975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1155,6 +1155,13 @@
       <Forenames>Redder</Forenames>
       <Text>, H</Text>
       <PageNumber>6786</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Spon</Key>
+      <Forenames>F. L.</Forenames>
+      <PageNumber>6543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

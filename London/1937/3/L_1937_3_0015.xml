@@ -33,7 +33,9 @@
       <Key>Anderson</Key>
       <Title>Rev.</Title>
       <Forenames>William Louis</Forenames>
-      <Text>, D.S.C., M.A., nominated to be Bishop Suffragan of Croydon</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>5034</PageNumber>
     </MainItem>
     <SubItem>
@@ -55,7 +57,9 @@
       <Key>Dobinson</Key>
       <Title>Rev.</Title>
       <Forenames>Harold Heatley</Forenames>
-      <Text>, M.C., appointed to Living of St. Thomas, Brightside</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +130,11 @@
       <Key>Aird</Key>
       <Title>Major Sir</Title>
       <Forenames>John Renton</Forenames>
-      <Text>, Bt., M.V.O., M.C., Extra Equerry to H.M. Household</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +152,11 @@
       <Key>Backhouse</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Roger Roland Charles</Forenames>
-      <Text>, K.C.B., C.M.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +173,10 @@
       <Key>Barlow</Key>
       <Title>Sir</Title>
       <Forenames>Montague</Forenames>
-      <Text>, Bart., K.C.B.E., Chairman, Royal Commission on the Geographical Distribution of the Industrial Population</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +184,9 @@
     <MainItem>
       <Key>Beechman</Key>
       <Forenames>Nevil Alexander</Forenames>
-      <Text>, M.C., Member of Parliament for St. Ives</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +210,9 @@
     <MainItem>
       <Key>Bisheshar</Key>
       <Forenames>Nath Srivastava</Forenames>
-      <Text>, O.B.E., Chief Judge of Chief Court of Oudh</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +221,9 @@
       <Key>Black</Key>
       <Title>Sir</Title>
       <Forenames>Archibald Campbell</Forenames>
-      <Text>, O.B.E., K.C., Sheriff of Lanarkshire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +232,9 @@
       <Key>Bond</Key>
       <Title>Capt.</Title>
       <Forenames>Douglas Harry</Forenames>
-      <Text>, A.M.I.M.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +259,9 @@
       <Key>Boys</Key>
       <Title>Sir</Title>
       <Forenames>Francis Theodore</Forenames>
-      <Text>, K.B.E., Member of Livestock Commission</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +269,9 @@
     <MainItem>
       <Key>Broadbridge</Key>
       <Forenames>Alderman</Forenames>
-      <Text>Sir George Thomas, J.P., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +288,9 @@
     <MainItem>
       <Key>Buckle</Key>
       <Forenames>Squadron Leader Nevile Raby</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +307,10 @@
       <Key>Caldecott</Key>
       <Title>Sir</Title>
       <Forenames>Andrew</Forenames>
-      <Text>, K.C.M.G., C.B.E., Governor and Commander-in-Chief of Island of Ceylon and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +327,11 @@
       <Key>Chancellor</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>John Robert</Forenames>
-      <Text>, G.C.M.G., G.C.V.O., D.S.O., Chairman of Livestock Commission</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +339,9 @@
     <MainItem>
       <Key>Chapman</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,15 +350,22 @@
       <Key>Clifford</Key>
       <Title>Captain the Hon. Sir</Title>
       <Forenames>Bede Edmund Hugh</Forenames>
-      <Text>, K.C.M.G., C.B., M.V.O., Governor and Commanderin-Chief, Island of Mauritius and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5508</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Coke</Key>
-      <Forenames>Lieut</Forenames>
-      <Text>, the Hon. Thomas William, M.V.O., Extra Equerry to H.M. Household</Text>
+      <Title>Lieut, the Hon.</Title>
+      <Forenames>Thomas William</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +374,11 @@
       <Key>Collins</Key>
       <Title>Brig.</Title>
       <Forenames>L. P.</Forenames>
-      <Text>, C.B., C.S.I., D.S.O., O.B.E., Commissioner under Government of India (Family Pension Funds) Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +395,10 @@
       <Key>Craigie</Key>
       <Title>Sir</Title>
       <Forenames>Robert Leslie</Forenames>
-      <Text>, K.C.M.G., C.B., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +406,9 @@
     <MainItem>
       <Key>Crow</Key>
       <Forenames>H.</Forenames>
-      <Text>, O.B.E., Secretary of Livestock Commission</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +416,9 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>James</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +427,9 @@
       <Key>Currey</Key>
       <Title>Supt.</Title>
       <Forenames>Alfred Elisha</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +446,10 @@
       <Key>Dalrymple-Hamilton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>North Victor Cecil</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>

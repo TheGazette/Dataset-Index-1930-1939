@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Margetson</Key>
       <Forenames>Noel James Lin-</Forenames>
-      <Text>nington, M.D., Official Member of the Executive Council of Montserrat</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
       <Key>Marley</Key>
       <Title>Major</Title>
       <Forenames>Dudley Leigh</Forenames>
-      <Text>, Baron, D.S.C., Lord in Waiting in Ordinary</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +77,9 @@
     <MainItem>
       <Key>Mather</Key>
       <Forenames>William</Forenames>
-      <Text>McKenzie, Member, Order of the British Empire Matthew, John Godfrey, O.B.E., Companion, Order of ...St. .Michael and St. George Maund, Mrs. Georgina, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +89,9 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, C.M.G., Knight ... Meade, Charles Alan Gerald de Jessieu, H.M.'s' Vice-Consul, Siam</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +124,9 @@
       <Key>Middlebrook</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, J.P., Baronet ... . ... '</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>796</PageNumber>
     </MainItem>
@@ -149,7 +159,11 @@
     <MainItem>
       <Key>Mills</Key>
       <Forenames>Air Comm</Forenames>
-      <Text>. Reginald Percy, M.C., A.F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +172,10 @@
       <Key>Milner</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Frederick George</Forenames>
-      <Text>, Bart., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +199,9 @@
     <MainItem>
       <Key>Fohamed</Key>
       <Forenames>Ismail</Forenames>
-      <Text>, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +216,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Monson</Key>
-      <Text>Edmund St. John Debonnaire John, H.M. Envoy Extraordinary and Minister Plenipotentiary to Mexico ... ... g</Text>
+      <Forenames>Edmund St</Forenames>
+      <Text>. John Debonnaire John, H.M. Envoy Extraordinary and Minister Plenipotentiary to Mexico ... ... g</Text>
       <PageNumber>41</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +245,9 @@
       <Key>More</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Car-</Forenames>
-      <Text>inichael,D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +354,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., M.B., Serving Brother, Order of St. Join of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +396,9 @@
     <MainItem>
       <Key>Nawaz</Key>
       <Forenames>Khan Bhutto</Forenames>
-      <Text>, Khan Bahadur Shah, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +415,11 @@
       <Key>Newall</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Cyril Louis Norton</Forenames>
-      <Text>, C.B., C.M.G., C.B.E., A.M., Member of the Air Council</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +435,9 @@
     <MainItem>
       <Key>Newton</Key>
       <Forenames>Basil Cochrane</Forenames>
-      <Text>, C.M.G., Counsellor of Embassy in H.M.'s Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +460,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Noble</Key>
-      <Text>Sir William Joseph, Bt., J.P., Baron</Text>
+      <Title>Sir</Title>
+      <Forenames>William Joseph</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +475,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William Joseph</Forenames>
-      <Text>, Bart., Baron Kirkley of Kirkley ... '</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +494,9 @@
     <MainItem>
       <Key>Oldham</Key>
       <Forenames>Alan Trevor</Forenames>
-      <Text>, H.M. Vice-Consul, Siam ... ... Onslow, Miss Rosa Sibella Macarthur, Commander, Order of the British Empire ... Orchard, Arthur Ernest, Serving Brother, Order of St. John of Jerusalem Osborne, Francis DArcy Godolphin, Companion, Order of St. Michael and St. George ... ... ... Ovey, Sir Esmond, K.O.M.G., M.V.O., H.M. Ambassador Extraordinary and Plenipoteniary to Russia ... Page, Archibald, Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -468,7 +508,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George William</Forenames>
-      <Text>, Knight 2, Paul, Henry John, Serving Brother, Order of St. John of Jerusalem ... ... Paynter, Brig.-Gen. George Camborne Beauclerk, C.M.G., D.S.O Commander, Royal Victorian Order ... ... ... ... Extra Equerry to H.M. King ... Pearce, Charles Albert, M.C, Member, Order of the British Empire ... ... Peddie, Coventry Dick, Commander, Order of the British Empire ... ... Peden, Prof, the Hon. John Beverley, K.C, LL.B., Knight Commander, Order of Saint Michael and Saint George ... ... ... Peel, Robert King's Counsel</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -479,7 +522,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.B.E., O.M.G., Governor and Commander-in-Chief of . Hong Kong Pelly, Bernard, Officer, Order of the British Empire .„ Percival, Tom, Knight</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -488,7 +533,9 @@
     <MainItem>
       <Key>Perry</Key>
       <Forenames>Robert Officer</Forenames>
-      <Text>, Order of the British Empire ... Peterson, Maurice Drummond, Counsellor of Embassy in H.M. Diplomatic Service Philip, Miss Anne Glanday, Commander, Order of the British Empire Phillips, Herbert, O.M.G., O.B.E., H.M. ConsulGeneral in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1642</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>

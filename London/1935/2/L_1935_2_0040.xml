@@ -31,7 +31,9 @@
       <Key>Molyneux</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Richard Frederick</Forenames>
-      <Text>, C. V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -40,7 +42,9 @@
       <Key>Moncrieff</Key>
       <Title>Maj.</Title>
       <Forenames>Duncan Campbell</Forenames>
-      <Text>, M.C, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,9 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Charles Gordon Holland</Forenames>
-      <Text>; M.B., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +100,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Monck-Mason</Forenames>
-      <Text>, C.M.G., Knight Com' mander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +223,9 @@
     <MainItem>
       <Key>Morton</Key>
       <Forenames>Wing Cdr</Forenames>
-      <Text>. Terence Charles St. Clessie, M.D., . Ch.B., M.R.C.P., D.P.H , D. P.M.; D.T.M. and H., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +249,9 @@
     <MainItem>
       <Key>Mudie</Key>
       <Forenames>Robert Francis</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +267,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Husain</Forenames>
-      <Text>, Subadar. Maj. and Hon. Capt. Khan Bahadur, I.D.S.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +286,9 @@
       <Key>Muir</Key>
       <Title>Col.</Title>
       <Forenames>Archibald Huleath Huntley</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +304,9 @@
     <MainItem>
       <Key>Mullins</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E., Companion, Order of Saint Michael and Saint George '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +323,9 @@
       <Key>Mundy</Key>
       <Title>Maj.</Title>
       <Forenames>Pierrepont Rodney Miller</Forenames>
-      <Text>, D.S.O., M.C, . Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +447,11 @@
       <Key>Napier</Key>
       <Title>Col. (hon. Brig.)</Title>
       <Forenames>Vernon Monro Colquhoun</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +490,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Text>Thomson, Margaret Elizabeth, Mrs., Officer, Order of the British Empire &amp;</Text>
+      <Forenames>Thomson</Forenames>
+      <Text>, Margaret Elizabeth, Mrs., Officer, Order of the British Empire &amp;</Text>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +508,11 @@
       <Key>Newall</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Cyril Louis Norton</Forenames>
-      <Text>, C.B., C.M.G., C.B.E., A., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +529,10 @@
       <Key>Newman</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, K.C.B., M.D., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +540,9 @@
     <MainItem>
       <Key>Newsum</Key>
       <Forenames>Clement Henry</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +584,10 @@
       <Key>Norrie</Key>
       <Title>Col. (temp.' Brig.)</Title>
       <Forenames>Edward Creer</Forenames>
-      <Text>, D.S.O., V.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +596,9 @@
       <Key>Norris</Key>
       <Title>Staff. St. Maj. (Hon. Lt.)</Title>
       <Forenames>Arthur Randolph</Forenames>
-      <Text>, M.C.; Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,21 +614,29 @@
     <MainItem>
       <Key>Northcote</Key>
       <Forenames>Geoffrey Alexander Stafford</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Miss Kathleen, Member, Order of the British Empire</Text>
+      <Key>O'Brien</Key>
+      <Title>Miss</Title>
+      <Forenames>Kathleen</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Maj. and Brevet Lt.-Col. (temp. Lt.-Gol.) Henry Willis, D.S.O., Commander, Order of the British Empire</Text>
+      <Key>O'Connor</Key>
+      <Title>Maj. and Brevet Lt.-Col. (temp. Lt.-Gol.)</Title>
+      <Forenames>Henry Willis</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +661,10 @@
       <Key>Ogilvy</Key>
       <Title>Hon. Brig.</Title>
       <Forenames>David</Forenames>
-      <Text>, D.S.O., O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,8 +678,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, Stephen Martin Laniga/n, Companion, Order of Saint Michael Saint George</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>Stephen Martin Laniga</Forenames>
+      <Text>/n, Companion, Order of Saint Michael Saint George</Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -237,8 +237,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrow</Key>
-      <Forenames>H. A. J.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. A. J. de S</Forenames>
       <PageNumber>1287</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +568,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buck</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C</Forenames>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coupland</Key>
-      <Text>R. K</Text>
+      <Forenames>R. K</Forenames>
       <PageNumber>464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1077,6 +1076,13 @@
       </Key>
       <Forenames>J. K.</Forenames>
       <PageNumber>2141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Nevers</Key>
+      <Forenames>B. A</Forenames>
+      <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1260,7 +1266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elderton</Key>
-      <Text>P. C. I</Text>
+      <Forenames>P. C. I.</Forenames>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>

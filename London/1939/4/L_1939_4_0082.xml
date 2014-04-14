@@ -632,8 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>B.</Forenames>
-      <Text>de L</Text>
+      <Forenames>B. de L</Forenames>
       <PageNumber>6803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +729,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Champion</Key>
-      <Text>de Crespigny, H. V</Text>
+      <Forenames>de Crespigny</Forenames>
+      <Text>, H. V</Text>
       <PageNumber>7963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clifton</Key>
-      <Text>E. N</Text>
+      <Forenames>E. N</Forenames>
       <PageNumber>7646</PageNumber>
     </MainItem>
   </ItemGroup>

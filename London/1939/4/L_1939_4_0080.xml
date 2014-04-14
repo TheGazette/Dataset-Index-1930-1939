@@ -219,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BartHropp</Key>
-      <Text>P. P. C</Text>
+      <Forenames>P. P. C.</Forenames>
       <PageNumber>7501</PageNumber>
       <PageNumber>7641</PageNumber>
     </MainItem>
@@ -689,7 +689,9 @@
       <Key>Beit</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Forenames>A. M.</Forenames>
-      <Text>de H</Text>
+      <Forenames>A. M. de H</Forenames>
       <PageNumber>7966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,7 +1053,7 @@
       <PageNumber>7805</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>7275</Text>
+      <Text>7275.</Text>
       <PageNumber>7963</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1516,8 +1517,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. N. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. N. O'R</Forenames>
       <PageNumber>7274</PageNumber>
     </MainItem>
   </ItemGroup>

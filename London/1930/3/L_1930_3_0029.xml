@@ -325,8 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton-Stewart</Key>
-      <Forenames>I. C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>I. C. de W</Forenames>
       <PageNumber>4501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +454,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Neale</Key>
-      <Text>. T</Text>
+      <Forenames>T</Forenames>
       <PageNumber>5363</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,8 +513,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary A. St. C</Text>
+      <Key>O'Leary</Key>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>5747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,8 +528,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, D. N</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>D. N</Forenames>
       <PageNumber>5233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Renton</Key>
-      <Text>. H. D</Text>
+      <Forenames>H. D</Forenames>
       <PageNumber>4188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +889,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansbury</Key>
-      <Text>. W B</Text>
+      <Forenames>W</Forenames>
+      <Text>B</Text>
       <PageNumber>5233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. C. W. G</Text>
+      <Forenames>C. W. G</Forenames>
       <PageNumber>5233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. H. O. B</Text>
+      <Forenames>H. O. B</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1606,7 +1606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McWilliams</Key>
-      <Text>. H. T</Text>
+      <Forenames>H. T.</Forenames>
       <PageNumber>4365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1647,8 +1647,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L.</Forenames>
       <PageNumber>5494</PageNumber>
       <PageNumber>5625</PageNumber>
     </MainItem>
@@ -1870,7 +1870,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>. G. T. D</Text>
+      <Forenames>G. T. D</Forenames>
       <PageNumber>4947</PageNumber>
     </MainItem>
   </ItemGroup>

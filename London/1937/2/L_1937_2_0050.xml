@@ -178,7 +178,9 @@
       <Key>Cheyne</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +282,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clegg</Key>
-      <Text>. H. H. B. Clegg-Hill, Hon. G. R. -</Text>
+      <Forenames>H. H. B. Clegg-Hill</Forenames>
+      <Text>, Hon. G. R. -</Text>
       <PageNumber>3368</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,8 +589,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>3248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,11 +917,25 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bruyne</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>2124</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>P</Forenames>
       <PageNumber>4104</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>E. H. M.</Forenames>
+      <PageNumber>3512</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1482,7 +1498,9 @@
       <Key>Everard</Key>
       <Title>Sir</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1692,8 +1710,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>J. O. A. W.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>O. A. W.</Forenames>
       <PageNumber>4176</PageNumber>
     </MainItem>
   </ItemGroup>

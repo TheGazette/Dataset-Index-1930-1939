@@ -546,8 +546,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blyth</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>6077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +867,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>L. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5939</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,7 +890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>B. G</Text>
+      <Forenames>B. G.</Forenames>
       <PageNumber>4229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1040,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chevne</Key>
-      <Text>J. L. W. :</Text>
+      <Forenames>J. L. W.</Forenames>
+      <Text>:</Text>
       <PageNumber>5541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,7 +1081,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisholm</Key>
-      <Text>E, H</Text>
+      <Forenames>E</Forenames>
+      <Text>, H</Text>
       <PageNumber>5940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1095,14 +1098,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Chittock</Key>
-      <Text>C</Text>
+      <Forenames>C.</Forenames>
       <PageNumber>6141</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Choat</Key>
-      <Text>C. G</Text>
+      <Forenames>C. G</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1133,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ghrvstal</Key>
-      <Text>W. A. C</Text>
+      <Forenames>W. A. C.</Forenames>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1147,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>A. E. N</Text>
+      <Forenames>A. E. N.</Forenames>
       <PageNumber>4587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,7 +1176,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,10 +1605,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. M. .'</Text>
+      <Key>De Butts</Key>
+      <Forenames>F. M.</Forenames>
+      <Text>.'</Text>
       <PageNumber>4887</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Salis</Key>
+      <Forenames>E. W. Fane</Forenames>
+      <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

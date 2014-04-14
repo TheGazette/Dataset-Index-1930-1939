@@ -37,7 +37,9 @@
       <Key>Philip</Key>
       <Title>Sir</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, LL.D., M.D., Extra Physician in Scotland to H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +67,9 @@
       <Key>Phipps</Key>
       <Title>Capt.</Title>
       <Forenames>William Duncan</Forenames>
-      <Text>, M.V.O., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +78,10 @@
       <Key>Phythian-Adams</Key>
       <Title>Canon</Title>
       <Forenames>Wil-</Forenames>
-      <Text>liam John Telia Phythian, D.S.O., M.C., D.D., Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +132,9 @@
     <MainItem>
       <Key>Pinnock</Key>
       <Forenames>Henry George</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -133,14 +142,18 @@
     <MainItem>
       <Key>Piper</Key>
       <Forenames>James Ernest</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Play</Key>
-      <Text>fail, Lt.-Col. the Hon. Thomas Alfred John, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +161,9 @@
     <MainItem>
       <Key>Plowman</Key>
       <Forenames>Clifford Henry Fitz-</Forenames>
-      <Text>herbert, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +188,9 @@
     <MainItem>
       <Key>Porritt</Key>
       <Forenames>Arthur Espie</Forenames>
-      <Text>, M.B., F.R.C.S., Surgeon to the Household, H.M. Household</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +199,11 @@
       <Key>Portal</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Bertram Percy</Forenames>
-      <Text>, C.B., D.S.O., D.L., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +212,9 @@
       <Key>Poston</Key>
       <Title>Capt.</Title>
       <Forenames>Richard Irvine</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +223,9 @@
       <Key>Potts</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Gordon Alan</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +243,9 @@
     <MainItem>
       <Key>Povey</Key>
       <Forenames>Sidney Ernest</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +293,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Alfred Edward</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... ... ... Price-Davies, Maj.-Gen. Llewelyn Alberic Emilius, V.C., C. B., C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +306,9 @@
       <Key>Priestley</Key>
       <Title>Capt. and Brevet Maj.</Title>
       <Forenames>Edgar Charles</Forenames>
-      <Text>, M.A., Officer, Order of the British Empire ... Prince, Lt.-Col. Robert, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +325,11 @@
       <Key>Pryce-Jones</Key>
       <Title>Col.</Title>
       <Forenames>Henry Morris</Forenames>
-      <Text>, D. S.O., M.V.O., M.C., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +354,11 @@
       <Key>Pulteney</Key>
       <Title>Lieut.-Gen. Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, G.C.V.O., K.C.B., K.CM.G., D.S.O., Gentleman Usher of the Black Rod</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,11 +374,15 @@
     <MainItem>
       <Key>Queen</Key>
       <Forenames>Her Majesty</Forenames>
-      <Text>, The: Dame Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Grand Master, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -362,7 +407,9 @@
     <MainItem>
       <Key>Rabino</Key>
       <Forenames>Hyacinth Louis</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George ... Rae, Col. Cecil, Unofficial Member, Federal Council of the Federated Malay States</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +424,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Raikes</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Robert Henry Taunton, C.V.O., D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Robert Henry Taunton</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +440,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Graham Colville</Forenames>
-      <Text>, O.B.E., M.D., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +451,10 @@
     <MainItem>
       <Key>Rankin</Key>
       <Forenames>Robert</Forenames>
-      <Text>, J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1640</PageNumber>
     </MainItem>
@@ -406,7 +464,10 @@
       <Key>Ransome</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Algernon Lee</Forenames>
-      <Text>, D.S.O., M.C., Campanion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +476,10 @@
       <Key>Rasch</Key>
       <Title>Col. Sir</Title>
       <Forenames>Frederic Carne</Forenames>
-      <Text>, Bt., A.D.C., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -469,7 +533,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Stephen Richard Harricks</Forenames>
-      <Text>, D.S.O., V.D., Member, Order of the British Empire Robertson, Lt. Alexander William Parish, A.D.C., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
     <SubItem>

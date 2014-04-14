@@ -79,7 +79,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biden</Key>
-      <Forenames>C. E. De B.</Forenames>
+      <Forenames>C. E. De B</Forenames>
       <PageNumber>6649</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +443,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brock</Key>
-      <Text>. R. G. C</Text>
+      <Forenames>R. G. C.</Forenames>
       <PageNumber>6115</PageNumber>
       <PageNumber>6649</PageNumber>
     </MainItem>
@@ -929,8 +929,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chepmell</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. de B</Forenames>
       <PageNumber>6116</PageNumber>
     </MainItem>
     <SubItem>
@@ -1593,10 +1592,25 @@
       <Text>Correction</Text>
       <PageNumber>6115</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicine</Key>
+      <Forenames>P. C. F.</Forenames>
+      <PageNumber>6449</PageNumber>
+    </MainItem>
     <SubItem>
       <Text>Correction</Text>
       <PageNumber>6339</PageNumber>
     </SubItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ste</Key>
+      <Forenames>Croix</Forenames>
+      <Text>, L. L</Text>
+      <PageNumber>6114</PageNumber>
+    </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>

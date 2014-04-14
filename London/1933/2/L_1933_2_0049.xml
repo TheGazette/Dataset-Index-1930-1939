@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>. A. M</Text>
+      <Forenames>A. M.</Forenames>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +59,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Griffin</Key>
-      <Text>PC</Text>
+      <Text>
+        <Honour>PC</Honour>
+      </Text>
       <PageNumber>2289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +965,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>. G. K</Text>
+      <Forenames>G. K.</Forenames>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1037,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, CO</Text>
+      <Key>O'Grady</Key>
+      <Text>CO</Text>
       <PageNumber>2941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,7 +1246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>. G. F</Text>
+      <Forenames>G. F .</Forenames>
       <PageNumber>2290</PageNumber>
     </MainItem>
   </ItemGroup>

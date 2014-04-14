@@ -21,7 +21,9 @@
     <MainItem>
       <Key>Banwell</Key>
       <Forenames>Godwin Edward</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +41,9 @@
       <Key>Bardwell</Key>
       <Title>Com.</Title>
       <Forenames>William Scott</Forenames>
-      <Text>, R.N.. Member, 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +51,9 @@
     <MainItem>
       <Key>Barrett</Key>
       <Forenames>Frank Ashley</Forenames>
-      <Text>, C.B., H.M. Commissioner of Inland Revenue</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +62,11 @@
       <Key>Barton</Key>
       <Title>Sir</Title>
       <Forenames>Sidney</Forenames>
-      <Text>, K.B.E., C.M.G., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +109,9 @@
       <Key>Beard</Key>
       <Title>Capt.</Title>
       <Forenames>Samuel Trevor</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -160,7 +172,9 @@
     <MainItem>
       <Key>Bessboroughj</Key>
       <Forenames>Capt</Forenames>
-      <Text>; the Right Hon. Vere Brabazon, Earl of, C.M.G., Knight Grand Cross of the Order of St. Michael and St. George,</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1124</PageNumber>
     </MainItem>
     <SubItem>
@@ -207,7 +221,9 @@
       <Key>Bodkin</Key>
       <Title>Sir</Title>
       <Forenames>Archibald Henry</Forenames>
-      <Text>, K.C.B. Recorder of the Borough of Dover</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>1003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -225,7 +241,9 @@
       <Key>Bolitho</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Hoblyn Warren</Forenames>
-      <Text>, D.S.O., Sheriff of Cornwall</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +260,10 @@
       <Key>Bond</Key>
       <Title>Sir</Title>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, K.B.E., D.Sc, M.D., F.R.C.P., LL.B., Senior Commissioner of Board of Control</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +342,9 @@
     <MainItem>
       <Key>Boyd</Key>
       <Title>Warrnt. Off.</Title>
-      <Text>, Class II, Comp. Serg.-Maj. David, D.O.M., Member, 'Order of the British Empire</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +353,9 @@
       <Key>Boyes</Key>
       <Title>Capt.</Title>
       <Forenames>Hector</Forenames>
-      <Text>, C.M.G., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +364,12 @@
       <Key>Bradford</Key>
       <Title>Sir</Title>
       <Forenames>John Rose</Forenames>
-      <Text>, K.C.M.G., C.B.. C.B.JJ., M.D., D.Sc., F.R.C.P., M.R.C.S., F.R.S., Baronet</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>744</PageNumber>
     </MainItem>
@@ -356,7 +386,9 @@
     <MainItem>
       <Key>Brakspear</Key>
       <Forenames>Harold</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -398,7 +430,9 @@
     <MainItem>
       <Key>Briscoe</Key>
       <Forenames>Hugh Kynaston</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +457,9 @@
     <MainItem>
       <Key>Brodie</Key>
       <Forenames>James Marie</Forenames>
-      <Text>, O.B.E., Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +482,10 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., M.P., H.M. High Commissioner, to the General Assembly of the Church of Scotland</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +527,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Dorothy Martha Officer</Forenames>
-      <Text>, Order of the British Empire ... Bucknill, Alfred, Townsend, O.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,11 @@
     <MainItem>
       <Key>Cave-Browne-</Key>
       <Forenames>Cave</Forenames>
-      <Text>, Air ViceMarshal Henry Meyrick, D.S.O., D.F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +32,9 @@
     <MainItem>
       <Key>Chapman</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +59,11 @@
       <Key>Ohetwode</Key>
       <Title>Field-Marshal Sir</Title>
       <Forenames>Philip Walhouse</Forenames>
-      <Text>, Bt., G.O.B., G.C.S.I., K.C.M.G., D.S.O., Order of Merit</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +79,9 @@
     <MainItem>
       <Key>Clark</Key>
       <Forenames>Adrian John</Forenames>
-      <Text>, O.B.E., Puisne Judge, Supreme Court, Straits Settlements</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +100,9 @@
     <MainItem>
       <Key>Clarry</Key>
       <Forenames>Reginald George</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1160</PageNumber>
     </MainItem>
@@ -98,7 +112,10 @@
       <Key>Clifford</Key>
       <Title>Maj. (Temp. Lt.Col.)</Title>
       <Forenames>Esmond Humphrey Miller</Forenames>
-      <Text>, O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +134,9 @@
       <Key>Clive</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Robert Henry</Forenames>
-      <Text>, K.C.M.G., Knight 'Grand Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +162,9 @@
       <Key>Cochrane</Key>
       <Title>Odr. the Hon. Sir</Title>
       <Forenames>Archibald Douglas Cochrane</Forenames>
-      <Text>, K.C.S.I., D.S.O., Governor of the Province of Burma</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1822</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +182,11 @@
     <MainItem>
       <Key>Codrington</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Alfred Edward, K.C.B., K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +239,12 @@
     <MainItem>
       <Key>Colles</Key>
       <Title>Paym.</Title>
-      <Text>-Cmdr. Ernest Dudley Gordon, O.B.E., Member, Royal Victorian Order Collins, Agnes Julia Hon. Mrs. Henn, Dame of Justice, Order of St. John of Jerusalem ... Colvile, Lt.-Col. Arthur Montagu, D.S.O., Sheriff of the County of Oxford Colvin, Clement Preston, O.B.E., V.D., Knight ... Compton, Henry Francis, Official Verderer of the New Forest Connibere, Charles Wellington, Knight Commander, Order of the British Empire ... ... ... Conyers, James Reginald, Commander, Order of the British Empire Cooper, Miss Edith, Member, Order of the British Empire Cope, Ralph, Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1160</PageNumber>
     </MainItem>
@@ -224,7 +254,13 @@
       <Key>Corkran</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, K.O.V.O., C.B., O.M.G., Sergeant at Arms in Ordinary to H.M. The King Corrie, Owen Cecil Kirkpatrick, M.C., Chief Justice of the Supreme Court of Fiji, and Chief Judicial Commissioner for the Western Pacific Cbwas Burjorji Sethna, Officer, Order of the British Empire Craft, Herbert Cecil, Member, Order of the British Empire Cranley, Viscount, Officer, Order of St. John of Jerusalem ... ... Crick, Rev. Thomas, M.V.O., M.A., Honorary Chaplain to H.M. The King ... Cridland, William Charles Hall, Member, Order of the British Empire ... Crook, Thomas, A.R.C.S., M.Inst.M. Officer, Order of the British Empire ... Crookshank, Mrs. Mary Usher, Officer, Order of St. John of Jerusalem... Oudmore, Col. Arthur Murray, M.B., F.R.C.S., L.R.C.P., Companion, Order of Saint Michael and Saint George ... Cuff, Cyril Charles Herbert, M.B., F.R.C.S., Officer, Order of the British Empire Cunningham, Edward Sheldon, LL.D., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +268,9 @@
     <MainItem>
       <Key>Cunninghame</Key>
       <Forenames>James Fraser</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +278,9 @@
     <MainItem>
       <Key>Cunnington</Key>
       <Forenames>William</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem... Curie, Alexander Tancred, Member, Order of the British Empire Curtis, Kenneth Samuel, Member, Order of the British Empire Curzon-Howe, Cdr. Leicester Charles Assheton St. John, Member, Royal Victorian Order ... ... DAbreo, Anselm Francis, Member, Order of the British Empire Dadabhoy Nadirshaw, Khan Bahadur, Member, Order of the British Empire ... Daly, Lt.-Col. Clive Patrick, CLE., H.M. ConsulGeneral at Meshed</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
     </MainItem>
     <SubItem>

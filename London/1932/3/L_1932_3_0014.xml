@@ -95,15 +95,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaussen</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Geake</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +358,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>Hereward</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,14 +455,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bullen-Smith</Key>
-      <Text>D. C</Text>
+      <Forenames>D. C</Forenames>
       <PageNumber>5563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gilmore</Key>
-      <Text>E. M. B</Text>
+      <Forenames>E. M. B</Forenames>
       <PageNumber>5695</PageNumber>
     </MainItem>
   </ItemGroup>

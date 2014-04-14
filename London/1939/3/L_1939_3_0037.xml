@@ -17,8 +17,8 @@
   <ItemGroup>
     <MainItem>
       <Key>FuHbrook-Leggatt</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Q. O</Text>
+      <Forenames>C. St. Q</Forenames>
+      <Text>. O</Text>
       <PageNumber>5921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,8 +394,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. E. S</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. E. S.</Forenames>
       <PageNumber>4919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +446,9 @@
       <Key>Pile</Key>
       <Title>Sir</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -749,7 +751,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abdela</Key>
-      <Text>. T. S</Text>
+      <Forenames>T. S</Forenames>
       <PageNumber>4758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -771,8 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abraham</Key>
-      <Forenames>S. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>S. M. O'H</Forenames>
       <PageNumber>1923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,8 +1277,7 @@
       <Key>
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>5684</PageNumber>
     </MainItem>
   </ItemGroup>

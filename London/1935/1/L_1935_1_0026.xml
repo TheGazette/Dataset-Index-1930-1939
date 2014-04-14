@@ -68,6 +68,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Labilliere</Key>
+      <Title>Rt. Rev.</Title>
+      <Forenames>Paul Fulcrand Delacour</Forenames>
+      <Text>, M.A., presented to the Rectory of Methley</Text>
+      <PageNumber>765</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Rees</Key>
       <Title>Rev.</Title>
       <Forenames>Charles Bernard Russell</Forenames>
@@ -122,7 +131,9 @@
     <MainItem>
       <Key>Abdul</Key>
       <Forenames>Karim</Forenames>
-      <Text>bin IFadhl bin Ali, Sir, K.C.I.E., Sultan of Lahej, Hon. Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +160,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Abercombie</Forenames>
-      <Text>, John Robertson, M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +198,10 @@
       <Key>Adams-Connor</Key>
       <Title>Capt.</Title>
       <Forenames>Harry George</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -194,7 +210,9 @@
       <Key>Addinall</Key>
       <Title>Maj. (Commissary)</Title>
       <Forenames>Frederic William</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +229,9 @@
     <MainItem>
       <Key>Adhmat</Key>
       <Forenames>Tajudin</Forenames>
-      <Text>, H.H. Tunku Mahmud igni almerhum . Sultan, C.M.G., Hon. Knight Commander, Order ofthe British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +239,9 @@
     <MainItem>
       <Key>Affleck</Key>
       <Forenames>John Barr</Forenames>
-      <Text>, C.B.E., H.M. Consul-General in China</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +297,9 @@
     <MainItem>
       <Key>Allen</Key>
       <Forenames>Edgar Johnson</Forenames>
-      <Text>, D.S.C., LL.D., (F.R.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +328,9 @@
     <MainItem>
       <Key>Alleyne</Key>
       <Forenames>James Douglas</Forenames>
-      <Text>, M.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>

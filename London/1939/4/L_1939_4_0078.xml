@@ -325,7 +325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>A. J. D</Text>
+      <Forenames>A. J. D.</Forenames>
       <PageNumber>7412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,8 +748,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, N. H</Text>
+      <Key>O'Connell</Key>
+      <Forenames>N. H.</Forenames>
       <PageNumber>7409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -986,7 +986,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendle</Key>
-      <Text>A. H</Text>
+      <Forenames>A. H.</Forenames>
       <PageNumber>7409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1157,8 +1157,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>E. J. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>E. J. St. L</Forenames>
       <PageNumber>7409</PageNumber>
     </MainItem>
   </ItemGroup>

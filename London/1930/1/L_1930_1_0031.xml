@@ -167,8 +167,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Forenames>C.</Forenames>
-      <Text>de C</Text>
+      <Forenames>C. de C</Forenames>
       <PageNumber>799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,15 +249,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. F. St. C</Forenames>
       <PageNumber>1489</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>R. T</Text>
+      <Forenames>R. T</Forenames>
       <PageNumber>576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prickett</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>F. A. S</Text>
+      <Forenames>F. A. S</Forenames>
       <PageNumber>1729</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +569,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Babington</Key>
-      <Text>G. ___ ___ ___ G. F</Text>
+      <Forenames>G.</Forenames>
+      <Text>___ ___ ___ G. F</Text>
       <PageNumber>962</PageNumber>
     </MainItem>
   </ItemGroup>

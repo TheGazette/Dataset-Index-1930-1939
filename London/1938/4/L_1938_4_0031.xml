@@ -287,8 +287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. L. St. J</Forenames>
       <PageNumber>7915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,8 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twohig</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'Brien</Text>
+      <Forenames>J. P. O'Brien</Forenames>
       <PageNumber>6561</PageNumber>
       <PageNumber>6562</PageNumber>
     </MainItem>
@@ -407,9 +405,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P W.. C</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P</Forenames>
+      <Text>W.. C</Text>
       <PageNumber>6502</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,8 +474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vyvyan</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>H. O'D</Forenames>
       <PageNumber>7434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitfield</Key>
-      <Text>. M. V</Text>
+      <Forenames>M. V.</Forenames>
       <PageNumber>7082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1128,7 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,9 +1534,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, H. G. T</Text>
+      <Key>De Sausmarez</Key>
+      <Forenames>H. G. T.</Forenames>
       <PageNumber>6437</PageNumber>
     </MainItem>
   </ItemGroup>

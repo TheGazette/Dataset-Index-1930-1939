@@ -14,7 +14,10 @@
       </Key>
       <Title>Major Sir</Title>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.P., Commander, Royal Victorian Order ..;</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,14 +41,20 @@
     <MainItem>
       <Key>Dickens</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Gerald Charles, C.B., C.M.G., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4733</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dillwyn</Key>
-      <Text>Venables Llewelyn, Major Charles Michael, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -53,7 +62,11 @@
     <MainItem>
       <Key>Dowding</Key>
       <Forenames>Air Chief Marshal</Forenames>
-      <Text>Sir Hugh Caswall Tremenheere Dowding, K.C.B., C.M.G., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +74,11 @@
     <MainItem>
       <Key>Drew</Key>
       <Forenames>Air Commodore Bertie Clephane Hawley</Forenames>
-      <Text>, C.M.G., C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +87,11 @@
       <Key>Duff</Key>
       <Title>Sir</Title>
       <Forenames>Charles Patrick</Forenames>
-      <Text>, K.C.B., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +111,10 @@
       <Key>Dundas</Key>
       <Title>the Hon.</Title>
       <Forenames>Charles Cecil Farquharson</Forenames>
-      <Text>, C.M.G., O.B.E., Governor and Commander in Chief, Bahama Islands</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,8 +129,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Edward-Collins</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral George Frederick Basset, C. B., Royal Victorian Order</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>George Frederick Basset</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +149,9 @@
     <MainItem>
       <Key>Fellowes</Key>
       <Forenames>Edward Abdy</Forenames>
-      <Text>, M.C., Second Clerk Assistant, House of Commons</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +175,9 @@
       <Key>Fortescue</Key>
       <Title>Colonel</Title>
       <Forenames>Hugh William</Forenames>
-      <Text>, Earl, M.C., Lord in Waiting to His Majesty</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +194,12 @@
     <MainItem>
       <Key>Gossage</Key>
       <Forenames>Air Vice Marshal Ernest Leslie</Forenames>
-      <Text>, C.B., D.S.O., M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +208,9 @@
       <Key>Greene</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Wilfrid Arthur</Forenames>
-      <Text>, Kt., O.B.E., Commissioner for the Care and Custody of the Great Seal</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +219,9 @@
       <Key>Greig</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.C., LL.D., D. Sc., Member of Livestock Commission</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +246,9 @@
       <Key>Gwyer</Key>
       <Title>Sir</Title>
       <Forenames>Maurice Linford</Forenames>
-      <Text>, K.C.B., K.C.S.I., K.C., Chief Justice of India</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>5564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,14 +257,18 @@
       <Key>Halifax</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Edward Frederick Lindley</Forenames>
-      <Text>, Viscount, K.G., G.C.S.I., G.C.I.E., Commissioner for the Care and Custody of the Great Seal</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Halls</Key>
-      <Text>worth, Professor Harry Mainwaring, C.B.E., Member of Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +283,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Harcourt</Key>
-      <Text>Smith, Squadron Leader Gilbert, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +301,9 @@
     <MainItem>
       <Key>Hebron</Key>
       <Forenames>Tom</Forenames>
-      <Text>, Member, Royal Victorian Order ..I</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +320,9 @@
     <MainItem>
       <Key>Hichens</Key>
       <Forenames>Hennione</Forenames>
-      <Text>, R.R.C., Member, Royal Commission on the Geographical Distribution of the Industrial Population</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +330,9 @@
     <MainItem>
       <Key>Hiles</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B.E., knighted</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +357,10 @@
       <Key>Howitt</Key>
       <Title>Sir</Title>
       <Forenames>Harold Gibson</Forenames>
-      <Text>, D.S.O., M.C., F.C.A., Member of Livestock Commission I</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +384,10 @@
     <MainItem>
       <Key>Jardine</Key>
       <Forenames>Douglas James</Forenames>
-      <Text>, C.M.G., O.B.E., Governor and Commander-inChief of Colony of Sierra Leone</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +424,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.H., LL.D., Member of Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,14 +435,18 @@
       <Key>Joseph</Key>
       <Title>Sir</Title>
       <Forenames>Francie</Forenames>
-      <Text>LEstrange, K.C.B.E., Member, Royal Commission on the Geographical Distribution of the Industrial Population..;</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4513</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kil</Key>
-      <Text>bourne, Supt. William, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -388,7 +454,10 @@
     <MainItem>
       <Key>Kilmorey</Key>
       <Title>Rt. Hon. Captain</Title>
-      <Text>the Earl of, P.C., O.B.E., R.M.V.R., Vice-Admiral of the Province of Ulster</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +466,9 @@
       <Key>Knight</Key>
       <Title>Major</Title>
       <Forenames>L. R.</Forenames>
-      <Text>, M.C., Commissioner under Government of India (Family Pension Funds) Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +484,10 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>James</Forenames>
-      <Text>, M.V.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +496,10 @@
       <Key>Langmaid</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Thomas John Robert</Forenames>
-      <Text>, M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +507,9 @@
     <MainItem>
       <Key>Lumley</Key>
       <Forenames>Lawrence Roger</Forenames>
-      <Text>, J.P., D.L., Knight Grand Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4733</PageNumber>
     </MainItem>
     <SubItem>
@@ -450,7 +529,9 @@
     <MainItem>
       <Key>McConnell</Key>
       <Forenames>Thomas Edward</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +557,12 @@
       <Key>Marriott</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>John Charles Oakes</Forenames>
-      <Text>, D.S.O., M.V.O., M.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +588,9 @@
       <Key>Merriman</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Frank Boyd</Forenames>
-      <Text>, Kt., O.B.E., Commissioner for the Care and Custody of the Great Seal</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4877</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +613,11 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>Frank Herbert</Forenames>
-      <Text>, C.V.O., ' C.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +628,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Frank Herbert</Forenames>
-      <Text>, K.C.V.O., C.B.E., Extra Groom in Waiting to H.M. Household</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4950</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +639,10 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Commodore Henry Ruthven</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,8 +651,11 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Stephen St. Leger, Commander, Royal Victorian Order</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Stephen St</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +663,9 @@
     <MainItem>
       <Key>Morren</Key>
       <Forenames>William Booth Rennie</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +683,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Noah</Forenames>
-      <Text>, M.D., D.Sc., D.P.H., F.R.F.P.S.G., Regius Professor of Materia Medica in University of Glasgow</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +725,12 @@
     <MainItem>
       <Key>North</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Dudley Burton Napier, C.B., C.S.I., C.M.G., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4734</PageNumber>
     </MainItem>
   </ItemGroup>

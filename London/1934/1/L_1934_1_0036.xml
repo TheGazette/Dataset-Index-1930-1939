@@ -668,8 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Floyer</Key>
-      <Forenames>M.</Forenames>
-      <Text>du B</Text>
+      <Forenames>M. du B</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -898,7 +897,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Frere</Key>
-      <Text>J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,7 +1159,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilliot</Key>
-      <Text>de Berthilleux. F. D</Text>
+      <Title>de Berthilleux.</Title>
+      <Forenames>F. D</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>

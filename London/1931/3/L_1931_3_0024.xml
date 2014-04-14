@@ -278,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clive</Key>
-      <Text>A. F. L</Text>
+      <Forenames>A. F. L</Forenames>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +556,9 @@
       <Key>Cotter</Key>
       <Title>Sir</Title>
       <Forenames>D. J. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5624</PageNumber>
       <PageNumber>5968</PageNumber>
       <PageNumber>5968</PageNumber>
@@ -773,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutforth</Key>
-      <Text>L. E</Text>
+      <Forenames>L. E.</Forenames>
       <PageNumber>5691</PageNumber>
       <PageNumber>5693</PageNumber>
       <PageNumber>6106</PageNumber>
@@ -967,18 +969,45 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Beauvoir De Lisle</Forenames>
+      <Key>De Beauvoir</Key>
+      <Forenames>De Lisle</Forenames>
       <Text>, Sir H</Text>
       <PageNumber>4440</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, G. H. B</Text>
+      <Key>de Candole</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>5333</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Chair</Key>
+      <Forenames>G. H. B</Forenames>
       <PageNumber>5111</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Chassiron</Key>
+      <Forenames>H. E. C.</Forenames>
+      <PageNumber>5692</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>H</Forenames>
+      <PageNumber>6237</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend-Fenton</Key>
+      <Forenames>J. D. L.</Forenames>
+      <PageNumber>6167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1063,7 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Desbrow</Key>
-      <Text>P. D</Text>
+      <Forenames>P. D.</Forenames>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,8 +1278,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R. L. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. L. St. C</Forenames>
       <PageNumber>4543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,17 +1364,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, Sir J. P</Text>
+      <Key>Du Cane</Key>
+      <Title>Sir</Title>
+      <Forenames>J. P.</Forenames>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>G.</Forenames>
-      <Text>de S</Text>
+      <Forenames>G. de S</Forenames>
       <PageNumber>5621</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -375,8 +375,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Levan, Lord</Text>
+      <Key>St. Levan</Key>
+      <Title>Lord .</Title>
       <PageNumber>371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +603,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>Chve</Text>
+      <Forenames>Chve</Forenames>
       <PageNumber>1257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -908,14 +908,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>J. S</Text>
+      <Forenames>J. S.</Forenames>
       <PageNumber>1689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stone</Key>
-      <Text>H. G</Text>
+      <Forenames>H. G.</Forenames>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1021,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Swarihey</Key>
-      <Text>C. E. .:</Text>
+      <Forenames>C. E.</Forenames>
+      <Text>.:</Text>
       <PageNumber>2192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1395,7 +1396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuke</Key>
-      <Text>S. J..M</Text>
+      <Forenames>S. J.</Forenames>
+      <Text>.M</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>

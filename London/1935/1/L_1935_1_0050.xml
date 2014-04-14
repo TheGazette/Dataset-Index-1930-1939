@@ -659,8 +659,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwardes</Key>
-      <Forenames>E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>E. de B</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>.D. De M. S</Text>
+      <Forenames>D. De M</Forenames>
+      <Text>. S</Text>
       <PageNumber>777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -856,8 +856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>iFreiter</Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. A. St. C</Forenames>
       <PageNumber>1635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goff</Key>
-      <Text>. C. A</Text>
+      <Forenames>C. A.</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1207,7 +1206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hammond</Key>
-      <Text>. L. P</Text>
+      <Forenames>L. P.</Forenames>
       <PageNumber>1096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,7 +1851,7 @@
   <ItemGroup>
     <MainItem>
       <Key>King-Martin</Key>
-      <Text>. J. D</Text>
+      <Forenames>J. D .</Forenames>
       <PageNumber>776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,7 +1923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Langrishe</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B.</Forenames>
       <PageNumber>1810</PageNumber>
     </MainItem>
   </ItemGroup>

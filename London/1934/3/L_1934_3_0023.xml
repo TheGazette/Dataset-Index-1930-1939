@@ -539,8 +539,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRoberts</Key>
-      <Forenames>N.</Forenames>
-      <Text>de P</Text>
+      <Forenames>N. de P</Forenames>
       <PageNumber>4231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malhar</Key>
-      <Text>. T. B. J</Text>
+      <Forenames>T. B. J</Forenames>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H</Forenames>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mapleson</Key>
-      <Text>. O. H</Text>
+      <Forenames>O. H.</Forenames>
       <PageNumber>5759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -919,7 +918,9 @@
       <Key>Meyrick</Key>
       <Title>Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -934,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>. E. C</Text>
+      <Forenames>E. C</Forenames>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -968,7 +969,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MillsA</Key>
-      <Text>. M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1076,8 +1077,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>N. St. L</Forenames>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morley</Key>
-      <Text>.M. F</Text>
+      <Forenames>M. F</Forenames>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1418,7 +1418,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Niedermayer</Key>
-      <Text>. E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1537,15 +1537,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, J. J</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>J. J .</Forenames>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. T</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,8 +1558,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, W. L. B</Text>
+      <Key>O'Hara</Key>
+      <Forenames>W. L. B.</Forenames>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,8 +1579,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K. G</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K. G.</Forenames>
       <PageNumber>5520</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1617,16 +1617,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, P</Text>
+      <Key>O'Shea</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>5460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1808,7 +1807,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Payne</Key>
-      <Text>. G. Le *</Text>
+      <Forenames>G. Le</Forenames>
+      <Text>*</Text>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>

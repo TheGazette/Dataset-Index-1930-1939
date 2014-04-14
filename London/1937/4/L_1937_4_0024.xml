@@ -391,8 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfery</Key>
-      <Forenames>M.</Forenames>
-      <Text>van S</Text>
+      <Forenames>M. van S</Forenames>
       <PageNumber>7659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +569,9 @@
       <Key>Grant-Lawson</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,8 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hughman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>B. St. L</Forenames>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -787,7 +787,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T.</Forenames>
-      <Text>.L. H., Bt.,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5021</PageNumber>
       <PageNumber>5474</PageNumber>
     </MainItem>
@@ -1097,8 +1099,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>G. O'C</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1302,7 +1303,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1762,14 +1765,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, Hon. C. M. K, (Master of Sinclair)</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, Hon. C. M. K, (Master of Sinclair)</Text>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, H. E. G</Text>
+      <Key>St. George</Key>
+      <Forenames>H. E. G</Forenames>
       <PageNumber>5020</PageNumber>
     </MainItem>
   </ItemGroup>

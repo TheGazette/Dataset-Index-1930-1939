@@ -109,7 +109,9 @@
     <MainItem>
       <Key>Miskin</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Christopher Harold</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +136,9 @@
     <MainItem>
       <Key>Tanner</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Col. Philip Henry</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7836</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +411,9 @@
     <MainItem>
       <Key>Jenkins</Key>
       <Forenames>F. A.</Forenames>
-      <Text>MB</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>7344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +452,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>El St</Forenames>
-      <Text>. G</Text>
+      <Forenames>El St. G</Forenames>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,8 +559,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, S. ... '</Text>
+      <Key>O'Donel</Key>
+      <Forenames>S.</Forenames>
+      <Text>... '</Text>
       <PageNumber>7344</PageNumber>
       <PageNumber>7344</PageNumber>
     </MainItem>
@@ -1099,7 +1105,9 @@
       <Key>Ohetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,15 +1592,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamid</Key>
-      <Text>.Khan, A.'</Text>
+      <Forenames>Khan</Forenames>
+      <Text>, A.'</Text>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hammick</Key>
-      <Title>St.</Title>
-      <Forenames>V. F.</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>F.</Forenames>
       <PageNumber>6994</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -562,8 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birnie</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>2015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,8 +641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. St. J</Forenames>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,8 +1211,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, S</Text>
+      <Key>O'Donel</Key>
+      <Forenames>S.</Forenames>
       <PageNumber>615</PageNumber>
       <PageNumber>616</PageNumber>
     </MainItem>
@@ -1252,7 +1248,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>., W..J</Text>
+      <Text>, W..J</Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1389,8 +1385,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,8 +1653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Adam</Key>
-      <Forenames>A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>A. de B</Forenames>
       <PageNumber>1641</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1701,7 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alexander</Key>
-      <Text>. D</Text>
+      <Forenames>D.</Forenames>
       <PageNumber>2013</PageNumber>
     </MainItem>
   </ItemGroup>

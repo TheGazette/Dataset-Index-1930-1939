@@ -395,8 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Monk</Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>G. M. de B</Forenames>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -589,8 +588,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, T. B</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>T. B.</Forenames>
       <PageNumber>4886</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Owen</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>4421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Text>F. D</Text>
+      <Forenames>F. D .</Forenames>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paul</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D .</Forenames>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pearson</Key>
-      <Text>T. W</Text>
+      <Forenames>T. W.</Forenames>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,14 +788,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Perkins</Key>
-      <Text>C. E</Text>
+      <Forenames>C. E .</Forenames>
       <PageNumber>4820</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perks</Key>
-      <Text>M. A</Text>
+      <Forenames>M. A .</Forenames>
       <PageNumber>4673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -870,7 +869,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>J. M</Text>
+      <Forenames>J. M .</Forenames>
       <PageNumber>5542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,7 +885,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pott</Key>
-      <Text>R. H .,</Text>
+      <Forenames>R. H .</Forenames>
+      <Text>,</Text>
       <PageNumber>4746</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -991,7 +991,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pullev</Key>
-      <Text>H. J</Text>
+      <Forenames>H. J</Forenames>
       <PageNumber>4511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1048,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Randell</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L.</Forenames>
       <PageNumber>5543</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,16 +1313,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair, Hon. C. M</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. M.</Forenames>
       <PageNumber>5939</PageNumber>
       <PageNumber>5939</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Leger, G. M</Text>
+      <Key>St. Leger</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>

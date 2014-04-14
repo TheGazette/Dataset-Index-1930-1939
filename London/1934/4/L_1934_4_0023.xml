@@ -135,7 +135,9 @@
       <Key>Crofton</Key>
       <Title>Sir</Title>
       <Forenames>M. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,6 +340,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Robeek</Key>
+      <Forenames>J. H. E .</Forenames>
+      <PageNumber>6468</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>J. S.</Forenames>
+      <PageNumber>8053</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>H. W.</Forenames>
       <PageNumber>7440</PageNumber>
@@ -413,8 +429,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devereux</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>7158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,8 +443,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C. ,</Text>
+      <Forenames>A. B. de C</Forenames>
+      <Text>. ,</Text>
       <PageNumber>7532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,6 +585,13 @@
       <Forenames>R. H</Forenames>
       <Text>du Boulay, T; P. H. ... du Cros, H. P</Text>
       <PageNumber>6554</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Toit</Key>
+      <Forenames>L</Forenames>
+      <PageNumber>6789</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -754,7 +776,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elsworthy</Key>
-      <Text>A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>6712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,8 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Furber</Key>
-      <Forenames>H. A.</Forenames>
-      <Text>de F</Text>
+      <Forenames>H. A. de F</Forenames>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -119,9 +119,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Havilland</Key>
+      <Forenames>G. R.</Forenames>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +535,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hicks</Key>
-      <Text>G. R</Text>
+      <Forenames>G. R .</Forenames>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +583,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>G. J. E</Text>
+      <Forenames>G. J. E.</Forenames>
       <PageNumber>8069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,8 +633,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jarvis</Key>
-      <Forenames>A. E.</Forenames>
-      <Text>de M</Text>
+      <Forenames>A. E. de M</Forenames>
       <PageNumber>7585</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +839,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>Jj. C</Text>
+      <Title>Jj.</Title>
+      <Forenames>C</Forenames>
       <PageNumber>7248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +898,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>A. W. B</Text>
+      <Forenames>A. W. B.</Forenames>
       <PageNumber>6558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1082,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moffatt</Key>
-      <Text>A. McR</Text>
+      <Forenames>A.</Forenames>
+      <Text>McR</Text>
       <PageNumber>6559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1220,8 +1220,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. G. B</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. G. B.</Forenames>
       <PageNumber>7247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1234,8 +1234,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. W</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. W.</Forenames>
       <PageNumber>7910</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1813,8 +1813,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P.</Forenames>
-      <Text>de C. F</Text>
+      <Forenames>P. de C</Forenames>
+      <Text>. F</Text>
       <PageNumber>7248</PageNumber>
     </MainItem>
   </ItemGroup>

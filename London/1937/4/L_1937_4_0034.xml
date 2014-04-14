@@ -61,8 +61,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>8195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,8 +632,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,8 +788,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V</Text>
+      <Forenames>R. de V</Forenames>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -852,8 +849,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>K.</Forenames>
-      <Text>de L</Text>
+      <Forenames>K. de L</Forenames>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1134,8 +1130,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Browne</Key>
-      <Title>St.</Title>
-      <Forenames>J. A.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A.</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,8 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>G. B. St. P</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1173,8 +1168,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>N. L. St. P</Forenames>
       <PageNumber>6214</PageNumber>
       <PageNumber>6900</PageNumber>
       <PageNumber>7581</PageNumber>
@@ -1331,8 +1325,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>7580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1500,7 +1493,9 @@
     <MainItem>
       <Key>Dick-Lauder</Key>
       <Title>Sir</Title>
-      <Text>TN. D., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>

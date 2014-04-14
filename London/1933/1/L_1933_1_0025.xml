@@ -42,7 +42,11 @@
       <Key>Milne</Key>
       <Title>Field-Marshal Sir</Title>
       <Forenames>George Francis</Forenames>
-      <Text>, G.C.B., G;C.M.G., D.S.O., Baron Milne of Salonika and of Rubislaw -</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>663</PageNumber>
     </MainItem>
@@ -54,9 +58,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Minghull-Ford</Key>
-      <Title>Major</Title>
+      <Title>Major-</Title>
       <Forenames>General John Randle Minshull</Forenames>
-      <Text>, D.S.O., M.C.,-Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +91,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frank Herbert Mitchell</Forenames>
-      <Text>, C.B.E., M.V.O., Secretary, Order of the ... Garter</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +127,9 @@
     <MainItem>
       <Key>Monkhouse</Key>
       <Forenames>Edward Wynd-</Forenames>
-      <Text>ham, M.A.i M.I.C.E;, Member 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +163,11 @@
       <Key>Morshead</Key>
       <Title>Owen .</Title>
       <Forenames>Frederick</Forenames>
-      <Text>, D.S.O., M.C., Member 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +200,10 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Ahmad Said Khan</Forenames>
-      <Text>, Captain -Nawab Sir, K.C.I.E., M.B.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +243,9 @@
     <MainItem>
       <Key>Myers</Key>
       <Forenames>Dudley Borron</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1356</PageNumber>
     </MainItem>
@@ -233,7 +255,10 @@
       <Key>Nail-Cain</Key>
       <Title>Sir</Title>
       <Forenames>Charles Alexander</Forenames>
-      <Text>, Bt., J.P.,' D.L., Baron Brocket of Brocket Hall</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>521</PageNumber>
     </MainItem>
@@ -279,7 +304,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nootr</Key>
-      <Text>Ahmed, Risaldar, Member, Order of the British Empire</Text>
+      <Forenames>Ahmed</Forenames>
+      <Text>, Risaldar, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +329,10 @@
     <MainItem>
       <Key>Oliver</Key>
       <Title>Lt.</Title>
-      <Text>-Obl. Charles Frederick, T.D., D.L., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -346,7 +375,9 @@
     <MainItem>
       <Key>Otway</Key>
       <Forenames>Rupert Coleridge</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Executive Council of Montserrat</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1514</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +393,9 @@
     <MainItem>
       <Key>Owen-Wells</Key>
       <Forenames>Robert Charles</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Padfield</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. William Herbert Greenland, M.A., Companion, Order of the Indian Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>William Herbert Greenland</Forenames>
+      <Text>, M.A., Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -395,7 +429,10 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Herbert Richmond</Forenames>
-      <Text>, C.M.G., C.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +469,9 @@
       <Key>Payne-Gallwey</Key>
       <Title>Major</Title>
       <Forenames>Lowry Philip</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +487,12 @@
     <MainItem>
       <Key>Peterson</Key>
       <Forenames>Maurice Drum-</Forenames>
-      <Text>mond, Companion, Order of St, Michael and St. George Petty, Charles, Member, Order of the British Empire ... ... ... Phibbs, Charles, Officer, Order of St. John of Jerusalem Philip, Charles Lyall, Companion, Order of the Indian Empire ... ... Philippe, Sir Henry Erasmus Edward, Bt., Officer, Order of St. John of Jerusalem ... ... Phillips, Frederick, C.B., Knight Commander, Order of St. Michael and St. George ... ... Phythian-Adams, Rev. Canon William John Telia, D. S.O., M.C., Chaplain to H.M. the King</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +500,13 @@
     <MainItem>
       <Key>Pickering</Key>
       <Forenames>Fred</Forenames>
-      <Text>M.B.E., J.P., Officer, Order of the British Empire Pickles, Edward Llewellyn, M.B.E., Officer, Order of the British Empire ... Piggott, Julian Ito, O.B.E., M.C., Commander, Order of the British Empire ... Plincke, Miss Lilian Alice Annie, Member,. Order of the British Empire -. ... Pollard, Miss Anna Albertina Isabel, Member, Ordeir of the British Empire Porter, Sybil Constance, Mrs., Serving Sister, Order of St. John of Jerusalem .:. Postlethwaite, John Rutherfoord Parkin, M.B.E., Commander, Order of the British Empire Potter, Thomas Irwin, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>

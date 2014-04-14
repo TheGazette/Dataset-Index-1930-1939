@@ -86,9 +86,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dibb</Key>
-      <Forenames>G. K. Douglas</Forenames>
-      <Text>, J. K. Drury, H</Text>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B. Dibb</Forenames>
+      <Text>, G. K. Douglas, J. K. Drury, H</Text>
       <PageNumber>6439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,8 +181,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S.</Forenames>
-      <Text>van B. Lauder, I. C. A. Leese, Sir O. W. H., Bt Loewen, C. F. ... Mackie, A. H. ... McNeill, A. N. R. MacNicoll, J. M</Text>
+      <Forenames>S. van B</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6440</PageNumber>
     </MainItem>
   </ItemGroup>

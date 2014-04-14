@@ -72,7 +72,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chancellor</Key>
-      <Forenames>Lizzie</Forenames>
+      <Title>Lizzie .</Title>
       <PageNumber>2429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +235,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>4103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>3386</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collinson</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>3266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,8 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coode-Adams</Key>
-      <Title>Sir</Title>
-      <Forenames>John</Forenames>
+      <Title>Sir John .</Title>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +677,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowham</Key>
-      <Forenames>Ashlin</Forenames>
+      <Title>Ashlin .</Title>
       <PageNumber>3161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crabtree</Key>
-      <Forenames>Francis</Forenames>
+      <Title>Francis .</Title>
       <PageNumber>2665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,14 +789,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Craven</Key>
-      <Text>,. Thomas</Text>
+      <Text>. Thomas</Text>
       <PageNumber>2433</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cravitz</Key>
-      <Forenames>Yetta</Forenames>
+      <Title>Yetta .</Title>
       <PageNumber>2210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +864,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crosoer</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,8 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cutting</Key>
-      <Title>Charles .</Title>
-      <Forenames>Bullock</Forenames>
+      <Title>Charles . Bullock .</Title>
       <PageNumber>4181</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dallimore</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>2985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1282,6 +1280,48 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Mortillet</Key>
+      <Forenames>Eliza</Forenames>
+      <PageNumber>3870</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pinto</Key>
+      <Forenames>Sara Augusta</Forenames>
+      <PageNumber>2581</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Roever</Key>
+      <Forenames>Elizabeth Charlotte Ferrers</Forenames>
+      <PageNumber>2660</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rougemont</Key>
+      <Forenames>Alfred George</Forenames>
+      <PageNumber>3158</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Trey</Key>
+      <Forenames>Auguste</Forenames>
+      <PageNumber>2437</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Vigier</Key>
+      <Forenames>Mary Wabe</Forenames>
+      <PageNumber>2424</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>Annie Elizabeth</Forenames>
       <PageNumber>4102</PageNumber>
@@ -1339,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dewhurst</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>2284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,8 +1651,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Doyne</Key>
-      <Forenames>Agnes Mary St</Forenames>
-      <Text>. Aubyn</Text>
+      <Forenames>Agnes Mary St. Aubyn</Forenames>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,7 +1697,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durilop</Key>
-      <Text>. Ivie Mackie</Text>
+      <Forenames>Ivie Mackie</Forenames>
       <PageNumber>4182</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1847,7 +1886,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>. Algernon</Text>
+      <Forenames>Algernon</Forenames>
       <PageNumber>2987</PageNumber>
     </MainItem>
   </ItemGroup>

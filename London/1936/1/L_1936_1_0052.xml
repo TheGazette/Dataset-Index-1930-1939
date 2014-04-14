@@ -433,8 +433,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, D. V</Text>
+      <Key>O'Malley</Key>
+      <Forenames>D. V</Forenames>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,8 +847,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>R. St. P</Forenames>
       <PageNumber>134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,8 +926,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. St. L</Forenames>
       <PageNumber>133</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,8 +1041,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Curzon-Howe</Key>
-      <Forenames>L. C. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>L. C. A. St. J</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,7 +1108,9 @@
       <Key>Alleyne</Key>
       <Title>Sir</Title>
       <Forenames>J. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1300,8 +1299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Micklewait</Key>
-      <Title>St.</Title>
-      <Forenames>J. A</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>A</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1336,8 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sherbrooks</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. St. V</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>

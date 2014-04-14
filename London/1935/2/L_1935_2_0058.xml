@@ -184,7 +184,9 @@
       <Key>Wingate</Key>
       <Title>Sir</Title>
       <Forenames>F. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2899</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>G. P</Text>
+      <Forenames>G. P.</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake-Brockman</Key>
-      <Text>G. C</Text>
+      <Forenames>G. C.</Forenames>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -514,7 +516,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forteath</Key>
-      <Text>G. M</Text>
+      <Forenames>G. M</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +552,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnett</Key>
-      <Text>E</Text>
+      <Forenames>E .</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +566,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gosnell</Key>
-      <Text>K. A</Text>
+      <Forenames>K. A .</Forenames>
       <PageNumber>3052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -805,7 +807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macrae</Key>
-      <Text>A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -833,7 +835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meynell</Key>
-      <Text>H. F</Text>
+      <Forenames>H. F</Forenames>
       <PageNumber>3052</PageNumber>
       <PageNumber>3053</PageNumber>
     </MainItem>
@@ -869,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mudie</Key>
-      <Text>D. H</Text>
+      <Forenames>D. H .</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -897,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newman</Key>
-      <Text>R. E. U</Text>
+      <Forenames>R. E. U.</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,8 +920,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donel, S</Text>
+      <Key>O'Donel</Key>
+      <Forenames>S .</Forenames>
       <PageNumber>2326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +935,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palk</Key>
-      <Text>L. C</Text>
+      <Forenames>L. C .</Forenames>
       <PageNumber>3712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Purves</Key>
-      <Text>J. J</Text>
+      <Forenames>J. J.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -997,7 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Riddell-Webster</Key>
-      <Text>F. S</Text>
+      <Forenames>F. S.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1027,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>W. H. S</Text>
+      <Forenames>W. H. S.</Forenames>
       <PageNumber>3052</PageNumber>
       <PageNumber>3053</PageNumber>
     </MainItem>
@@ -1055,7 +1057,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sinclair</Key>
-      <Text>D. C. S. B</Text>
+      <Forenames>D. C. S. B.</Forenames>
       <PageNumber>3052</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,7 +1100,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Still</Key>
-      <Text>G. B</Text>
+      <Forenames>G. B .</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,9 +1188,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. B</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>3053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1297,8 +1298,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,6 +1553,13 @@
       <Key>Davies</Key>
       <Forenames>R. G.</Forenames>
       <PageNumber>3224</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

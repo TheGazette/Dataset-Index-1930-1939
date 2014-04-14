@@ -5,7 +5,9 @@
       <Key>Cbarlewood</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Clement James</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,10 @@
       <Key>Churchman</Key>
       <Title>Sir</Title>
       <Forenames>William Alfred</Forenames>
-      <Text>, V.D., J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +161,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Ernest Radcliffe</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +216,9 @@
     <MainItem>
       <Key>Colville</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Rt. Hon. David John, T.D.: Secretary of State for Scotland</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3189</PageNumber>
     </MainItem>
     <SubItem>
@@ -286,7 +295,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Vincent Morse</Forenames>
-      <Text>, D.S.O., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +365,9 @@
     <MainItem>
       <Key>Cottam</Key>
       <Title>Capt. and Bt.</Title>
-      <Text>-Maj. Algernon Edward, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +376,9 @@
       <Key>Cottrell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Arthur Foulkes Baglietto</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +479,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +520,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Llewelyn Chisholm</Forenames>
-      <Text>, Knight DAndrade, William Albert, Official Member of Executive Council of British Guiana ... ... ... Darwin, Miss Ruth Frances, Commander, Order of the British Empire Daubney, Roberty, O.B.E., Nominated Official Member of the Legislative Council of Kenya Colony ... ... Davenport-Jones, Capt. Douglas. Commander, Order of the British Empire David, Warrt. Offr. CI</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>

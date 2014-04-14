@@ -250,7 +250,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maddox</Key>
-      <Text>. R. G</Text>
+      <Forenames>R. G.</Forenames>
       <PageNumber>6201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -714,8 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>7921</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +733,9 @@
       <Key>Milbanke</Key>
       <Title>Sir</Title>
       <Forenames>J. C.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8078</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ...</KeyDitto>
@@ -811,8 +812,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Forenames>H. C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. C. de B</Forenames>
       <PageNumber>7695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,8 +1402,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. G</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. G .</Forenames>
       <PageNumber>6993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1428,8 +1428,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, P. A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>P. A.</Forenames>
       <PageNumber>7196</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1449,8 +1449,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, J. J</Text>
+      <Key>O'Hea</Key>
+      <Forenames>J. J .</Forenames>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,15 +1470,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, D. K. C</Text>
+      <Key>O'Malley</Key>
+      <Forenames>D. K. C.</Forenames>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. F</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. F .</Forenames>
       <PageNumber>7195</PageNumber>
     </MainItem>
   </ItemGroup>

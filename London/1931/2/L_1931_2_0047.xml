@@ -225,8 +225,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonatone</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>2647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allchorn</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J</Forenames>
       <PageNumber>2892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +729,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hale</Key>
-      <Text>H. F. O</Text>
+      <Forenames>H. F. O .</Forenames>
       <PageNumber>2301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,8 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>E. V. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. V. St. J</Forenames>
       <PageNumber>3653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +875,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. P. C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. P. C .</Forenames>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,8 +1165,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, E</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>E</Forenames>
       <PageNumber>3762</PageNumber>
     </MainItem>
   </ItemGroup>

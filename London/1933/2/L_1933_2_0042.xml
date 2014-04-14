@@ -1581,7 +1581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mudlineux</Key>
-      <Text>. F. A</Text>
+      <Forenames>F. A</Forenames>
       <PageNumber>2940</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Naish</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>2491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1770,7 +1770,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norton</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P .</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1797,8 +1797,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T .</Forenames>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,7 +1863,9 @@
       <Key>Orde</Key>
       <Title>Sir</Title>
       <Forenames>S. A. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3283</PageNumber>
     </MainItem>
   </ItemGroup>

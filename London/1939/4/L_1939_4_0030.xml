@@ -154,7 +154,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bueno</Key>
-      <Text>de Mesquita, R. D</Text>
+      <Forenames>de Mesquita</Forenames>
+      <Text>, R. D</Text>
       <PageNumber>6858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,8 +1714,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>D. St. A</Forenames>
       <PageNumber>7862</PageNumber>
     </MainItem>
   </ItemGroup>

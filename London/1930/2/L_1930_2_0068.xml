@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loewenstein</Key>
-      <Forenames>Nateum</Forenames>
+      <Title>Nateum .</Title>
       <PageNumber>3440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>2616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +231,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +330,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mainwaring</Key>
-      <Text>Martha</Text>
+      <Forenames>Martha</Forenames>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +344,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malcolmson</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +358,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manassy</Key>
-      <Forenames>Lazarus</Forenames>
+      <Title>Lazarus .</Title>
       <PageNumber>2995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +386,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marlande</Key>
-      <Text>Emily Madalene</Text>
+      <Forenames>Emily Madalene</Forenames>
       <PageNumber>2376</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +502,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>Lucy</Text>
+      <Forenames>Lucy</Forenames>
       <PageNumber>3102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +543,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>John</Text>
+      <Title>John .</Title>
       <PageNumber>2839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +606,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayall</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>2767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mayhew</Key>
-      <Forenames>Mary</Forenames>
+      <Title>Mary .</Title>
       <PageNumber>2925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milton</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>2755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -818,7 +818,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgue</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +827,9 @@
       <Key>Montgomery</Key>
       <Title>Sir</Title>
       <Forenames>Charles Percy Graham</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -882,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morgan</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>3847</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -930,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moss</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>3922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +961,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Muller</Key>
-      <Text>Emily</Text>
+      <Forenames>Emily</Forenames>
       <PageNumber>2217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1031,7 +1033,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Murray</Key>
-      <Text>Sir Archibald, Bart</Text>
+      <Title>Sir</Title>
+      <Forenames>Archibald</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1063,14 +1069,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Myerscough</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>3534</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mvln</Key>
-      <Text>Charles Hercules Mylh Walker</Text>
+      <Forenames>Charles Hercules Mylh Walker</Forenames>
       <PageNumber>3991</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1136,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nevitt</Key>
-      <Text>J«hn Henry</Text>
+      <Forenames>J</Forenames>
+      <Text>«hn Henry</Text>
       <PageNumber>3192</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1151,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newbiggin</Key>
-      <Text>Edward Joseph</Text>
+      <Forenames>Edward Joseph</Forenames>
       <PageNumber>2678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1223,7 +1230,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1340,7 +1347,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>3372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,8 +1395,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Catherine</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Catherine</Forenames>
       <PageNumber>2526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1404,15 +1411,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, Frances Louisa</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>Frances Louisa</Forenames>
       <PageNumber>3436</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Gertrude</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Gertrude</Forenames>
       <PageNumber>2528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1432,8 +1439,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, Michael</Text>
+      <Key>O'Hara</Key>
+      <Forenames>Michael</Forenames>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1497,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Richard Pierce</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Richard Pierce</Forenames>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,7 +1626,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pallister</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2837</PageNumber>
     </MainItem>
   </ItemGroup>

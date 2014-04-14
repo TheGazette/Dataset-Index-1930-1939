@@ -56,7 +56,9 @@
       <Key>Siddeley</Key>
       <Title>Sir</Title>
       <Forenames>John Davenport</Forenames>
-      <Text>, Kt., C.B.E., Baron Kenilworth of Kenilworth 3075</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +75,10 @@
       <Key>Simmons</Key>
       <Title>Lt.-Col. (temp. Col.)</Title>
       <Forenames>Frank Keith</Forenames>
-      <Text>, M.V.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +87,13 @@
       <Key>Simon</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>John Allsebrook</Forenames>
-      <Text>, G.C.S.I., K.C.V.O., O.B.E., M.C., M.P., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
     <SubItem>
@@ -105,7 +116,9 @@
       <Key>Simson</Key>
       <Title>Capt.</Title>
       <Forenames>Donald Petrie</Forenames>
-      <Text>, O.B.E., Commander, Order Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +142,9 @@
     <MainItem>
       <Key>Sizer</Key>
       <Forenames>Nelson</Forenames>
-      <Text>, M.C., A.M.I.E.E., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +187,9 @@
     <MainItem>
       <Key>Slynn</Key>
       <Forenames>Ernest John Lawrence</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +198,9 @@
       <Key>Smaill</Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth Dunlop</Forenames>
-      <Text>, A.R.R.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +229,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>James Aubrey</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +287,10 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>John William</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India Smythe, Victor Haslam Edward, Member, Order of the British Empire ... Snape, Maj. (Qr.-Mr.) Edward Francis, Officer, Order of the British Empire ... Snell, Rt. Hon. Henry, Lord, C.B.E., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +298,10 @@
     <MainItem>
       <Key>Soars</Key>
       <Forenames>Gertrude Mabel</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire ... ... Sobhuza, Paramount Chief of . Swaziland, Hon. Officer, Order of the British Empire ... ... ... Sofiano, Flight Lt. Vincent John, Member, Order of the British Empire ... Somerset, Raglan Horatio Edwyn Henry, Recorder of Gloucester ... Somerville, Thomas, Serving Brother, Order of St. John of Jerusalem ... ... Sorrell, Edwin Alfred, Member, Order of the British Empire Soundy, John, Serving Brother, Order of St. John of Jerusalem ... ... ... South, Frederick William Berry, Serving Brother, Order of St. John of Jerusalem ... Southby, Comdr. Archibald Richard James, J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +310,17 @@
       <Key>Spear</Key>
       <Title>Maj.</Title>
       <Forenames>Christopher Ronald</Forenames>
-      <Text>, M.C., Member, Royal Victorian Order ... ... Spence, William Robert Locke, Commander, Order of the British Empire ... ... Spencer, Lt.-Col. and Brevet Col. Charles Beechey, T.D., Officer, Order of the British Empire Spender, John Alfred, D.L., Member, Order of the Companion of Honour ... Sperring, Commissioned Engr. Charles Henry, Member, Order of the British Empire ... Spinney, Arthur Rawdon, Officer, Order of the British Empire Sprawson, Maj.-Gen. Cuthbert Allan, CLE., M.D., F.R.C.P., D.Litt., K.H.P., Knight Sprott, Gregory, M.D., Knight, Order of St. John of Jerusalem ... ... ... Squires, Maj.-Gen. Ernest Ker, D.S.O., M.C, Companion, Order of the Bath ... Srimati, Bahuriya Phulpati Kuer, Member, Order of the British Empire ... Stack, The Rev. Canon Walter Auchinleck, Member, Order of the British Empire ... Stafford, David New, Officer, 3095 Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>K.H.P.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3099</PageNumber>
     </MainItem>
     <SubItem>
@@ -290,7 +328,10 @@
       <PageNumber>3099</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stephenson, John Everard, O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </SubItem>
   </ItemGroup>

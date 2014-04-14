@@ -5,7 +5,9 @@
       <Key>Craven</Key>
       <Title>Commander</Title>
       <Forenames>Charles Worthington</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,10 @@
       <Key>Davies</Key>
       <Title>Major</Title>
       <Forenames>Henry Lowrie</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,14 +46,19 @@
       <Key>Denham</Key>
       <Title>Sir</Title>
       <Forenames>Edward Brandis</Forenames>
-      <Text>, K.C.M.G., K.B.E., Captain General and Governor-in-Chief of the Island of Jamaica and its Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>Jones, Crawford Douglas, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +84,9 @@
       <Key>Ellenborough</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Astell</Forenames>
-      <Text>, Baron, M.C., One of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,14 +111,17 @@
     <MainItem>
       <Key>Flux</Key>
       <Forenames>Alfred William</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Forster</Key>
-      <Text>. Martin Onslow, D.Sc., Ph:D., F.I.C., F.R.S., Knight</Text>
+      <Forenames>Martin Onslow</Forenames>
+      <Text>, D.Sc., Ph:D., F.I.C., F.R.S., Knight</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +138,9 @@
       <Key>Fraser</Key>
       <Title>Captain</Title>
       <Forenames>William Jocelyn Ian</Forenames>
-      <Text>, C.B.E.. Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +149,9 @@
       <Key>Gibb</Key>
       <Title>Sir</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, G.B.E., C. B., M.Inst.C.E., Additional member, Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +184,9 @@
     <MainItem>
       <Key>Grotrian</Key>
       <Forenames>Herbert Brent</Forenames>
-      <Text>, K.C., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +211,9 @@
     <MainItem>
       <Key>Hallsworth</Key>
       <Forenames>Harry Main-</Forenames>
-      <Text>waring, C.B.E., Member, Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +221,9 @@
     <MainItem>
       <Key>Harford</Key>
       <Forenames>John Charles</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +240,9 @@
       <Key>Hill</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>(Francis, K.C.B., Litt.D., LL.D.. F.B.A., Member, Royal Commission on Historical Monuments (England)</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4518</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +258,9 @@
       <Key>Hirst</Key>
       <Title>Sir</Title>
       <Forenames>Hugo</Forenames>
-      <Text>, Bart., Baron Hirst of Witton</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +269,9 @@
       <Key>Hodson</Key>
       <Title>Sir</Title>
       <Forenames>Arnold Wienholt</Forenames>
-      <Text>. K.C.M.G., Governor and Commander in Chief, Gold Coast Colonv</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +279,9 @@
     <MainItem>
       <Key>Horo-Belisha</Key>
       <Forenames>Leslie</Forenames>
-      <Text>, M.P., Minister of Transport</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +289,9 @@
     <MainItem>
       <Key>Hosking</Key>
       <Forenames>Ethelbert Bernard</Forenames>
-      <Text>, O.B.E., Nominated Official Member of Legislative Council of Kenya Colony</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5118</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +316,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, C.H., LL.D., Member, Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +351,9 @@
       <Key>Lamb</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.B., LL.D., Member of the Board of Trustees of the National Library of Scotland</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4900</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +390,9 @@
       <Key>Lucan</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>George Charles</Forenames>
-      <Text>, Earl of, K.B.E., C. B., Baron Bingham of Melcombe Bingham</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +417,9 @@
       <Key>McCowan</Key>
       <Title>Sir</Title>
       <Forenames>David</Forenames>
-      <Text>, Kt. , Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +428,9 @@
       <Key>Macdonald</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, K.C.B., LL.D., F.B.A., Member of the Royal Fine Art Commission for Scotland</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +439,9 @@
       <Key>MacGeagh</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Henry Davies Foster</Forenames>
-      <Text>, IK.B.E., T.D., K.C., H.M. Judge Advocate General</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +457,9 @@
     <MainItem>
       <Key>McKay</Key>
       <Forenames>John Dewar</Forenames>
-      <Text>, O.B.E., Nominated European Unofficial Member (Mining Member) of Legislative Council of Gold Coast Colony</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +476,9 @@
       <Key>Markham</Key>
       <Title>Miss</Title>
       <Forenames>Violet</Forenames>
-      <Text>, C.H., Member, Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +503,9 @@
       <Key>Maxwell-Anderson</Key>
       <Title>Capt.</Title>
       <Forenames>Maxwell Hendry</Forenames>
-      <Text>, C.B.E., Knight ... '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +529,9 @@
     <MainItem>
       <Key>Moberly</Key>
       <Forenames>Walter Hamilton</Forenames>
-      <Text>, D. S.O., M.A., D.Litt., Knight</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +565,9 @@
       <Key>Mountain</Key>
       <Title>Major</Title>
       <Forenames>Ronald Ger-</Forenames>
-      <Text>vase, M.C., Dintinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +583,10 @@
     <MainItem>
       <Key>Murraj</Key>
       <Forenames>William Alexander</Forenames>
-      <Text>, D. S.O., M.C., King's Counsel in Scotland</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +595,10 @@
       <Key>Newman</Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, K.C.B., M.D F.R.C.P., F.R.C.S., Member of the General Council of Medical Education and Registration of the United Kingdom</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +615,9 @@
       <Key>Owen</Key>
       <Title>The Honourable</Title>
       <Forenames>Langer Meade Loftus</Forenames>
-      <Text>, O.B.E., K.C., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +650,9 @@
       <Key>Peacock</Key>
       <Title>Sir</Title>
       <Forenames>Edward Robert</Forenames>
-      <Text>, K.G.C.V.O., Member, Royal Commission on Tithe Rentcharge</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +677,9 @@
       <Key>Priestman</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Kt., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4222</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +703,9 @@
     <MainItem>
       <Key>Rhodes</Key>
       <Title>Brigadier</Title>
-      <Text>General Godfrey Dean, C.B.E. D.S.O., Knight</Text>
+      <Text>
+        <Honour>C.B.E. D.S.O.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +763,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>., Grafton Elliot, M.D., Litt.D., D.Sc., F.R.S., F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -728,7 +801,10 @@
     <MainItem>
       <Key>Spurling</Key>
       <Forenames>Salisbury Stanley</Forenames>
-      <Text>, C.M.G., O.B.E., V.D., Knigiht</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +833,10 @@
       <Key>Strohmenger</Key>
       <Title>Sir</Title>
       <Forenames>Ernest John</Forenames>
-      <Text>, K.B.E., C.B., Deputy Chairman, Unemployment Assistance Board</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4334</PageNumber>
     </MainItem>
   </ItemGroup>

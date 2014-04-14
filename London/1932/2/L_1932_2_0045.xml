@@ -428,7 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H</Forenames>
       <PageNumber>2563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,6 +630,13 @@
   <SectionTitle>Royal Marines</SectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>3682</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Farleigh</Key>
       <Forenames>W.</Forenames>
       <Text>... :</Text>
@@ -647,8 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathes</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>3415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,7 +727,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Text>Rt. Hon. Sir L. O</Text>
+      <Title>Rt. Hon. Sir</Title>
+      <Forenames>L. O.</Forenames>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -770,7 +777,7 @@
   <ItemGroup>
     <MainItem>
       <Key>DoddsjG</Key>
-      <Text>E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>2718</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,8 +1031,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mara, W. L</Text>
+      <Key>O'Mara</Key>
+      <Forenames>W. L.</Forenames>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>

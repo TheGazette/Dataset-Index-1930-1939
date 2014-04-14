@@ -13,7 +13,9 @@
     <MainItem>
       <Key>Meiklejohn</Key>
       <Forenames>Roderick Sin-</Forenames>
-      <Text>clair, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +23,9 @@
     <MainItem>
       <Key>Menzies</Key>
       <Forenames>Frederick Norton Kay</Forenames>
-      <Text>, M.D., F.R.C.P.Ed., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +34,9 @@
       <Key>Metcalfe</Key>
       <Title>Captain</Title>
       <Forenames>Charles Campbell</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +63,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.B.E., C.M.G., Knight Commander, Order of St. Michael &amp; St. George</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +84,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Regimental Sergeant-</Forenames>
-      <Text>Major David, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -92,7 +103,11 @@
       <Key>Milward</Key>
       <Title>Colonel (temp. Brigadier)</Title>
       <Forenames>Clement Arthur</Forenames>
-      <Text>, CLE., C.B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +115,10 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>Frank Herbert</Forenames>
-      <Text>, C.B.E., M.D., Assistant private secretary to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +168,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Mon</Key>
-      <Text>|tea% David Taylor, O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,7 +206,9 @@
       <Key>Morgan</Key>
       <Title>Commander</Title>
       <Forenames>Horace Leslie</Forenames>
-      <Text>, D.S.O., Companion, Order of St. Michael &amp; St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +244,9 @@
     <MainItem>
       <Key>Mount</Key>
       <Forenames>Lieutenant</Forenames>
-      <Text>Colonel Alan Henry Lawrence, C. B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +279,9 @@
     <MainItem>
       <Key>Murray</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel John, D. S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +326,9 @@
     <MainItem>
       <Key>Needham</Key>
       <Title>Major</Title>
-      <Text>General Henry, C.M.G. D.S.O., Companion Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G. D.S.O.</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +336,9 @@
     <MainItem>
       <Key>Neville</Key>
       <Forenames>Squadron Leader Roo-er Henry Gartside</Forenames>
-      <Text>, M.C., Officer,Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,8 +380,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nickson</Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. George, D.D., Bishop of Bristol, Chaplain Order of St. John of Jerusalem</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>George</Forenames>
+      <Text>, D.D., Bishop of Bristol, Chaplain Order of St. John of Jerusalem</Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +390,9 @@
     <MainItem>
       <Key>Norman</Key>
       <Forenames>Alfred Clarence</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +400,9 @@
     <MainItem>
       <Key>Norris</Key>
       <Forenames>Arthur Herbert</Forenames>
-      <Text>. M.C., M.R.C.S., L.R.C.P., D.P.H., Commander, Order of tflie British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,14 +421,17 @@
     <MainItem>
       <Key>North</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Piers William, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Northampton</Key>
-      <Forenames>The Marquess</Forenames>
+      <Title>The</Title>
+      <Forenames>Marquess</Forenames>
       <Text>, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
@@ -433,28 +472,40 @@
     <MainItem>
       <Key>Oakes</Key>
       <Title>Colonel</Title>
-      <Text>(Richard, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Byrne, Hugh Morgan, Officer, Order oi the British Empire</Text>
+      <Key>O'Byrne</Key>
+      <Forenames>Hugh Morgan</Forenames>
+      <Text>, Officer, Order oi the British Empire</Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Captain Ernest William, D.S.C., Officer, Order of the British Empire</Text>
+      <Key>O'Connor</Key>
+      <Title>Captain</Title>
+      <Forenames>Ernest William</Forenames>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Capt. Sir James, K.C.M.G., Governor and Commander-in-Chief of the Falkland Islands</Text>
+      <Key>O'Grady</Key>
+      <Title>Capt. Sir</Title>
+      <Forenames>James</Forenames>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,14 +514,18 @@
       <Key>Oldfield</Key>
       <Title>Maj.</Title>
       <Forenames>John William</Forenames>
-      <Text>, O.B.E., M.C., Member of the Executive Council of Ceylon</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, Susannah Heunessy, M.B., Serving Sister, Order of St. John or Jerusalem</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>Susannah Heunessy</Forenames>
+      <Text>, M.B., Serving Sister, Order of St. John or Jerusalem</Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +592,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>Engineer Rear-</Forenames>
-      <Text>Admiral Herbert Lyell, O'.B.E., Companion, Order of Bath</Text>
+      <Forenames>Engineer</Forenames>
+      <Text>Rear-Admiral Herbert Lyell, O'.B.E., Companion, Order of Bath</Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +625,9 @@
     <MainItem>
       <Key>Patron</Key>
       <Forenames>Francis Joseph</Forenames>
-      <Text>, O.B.E., H.M. Consul at Vigo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>

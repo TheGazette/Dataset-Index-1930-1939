@@ -277,6 +277,27 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Belleroche</Key>
+      <Forenames>H. R. A.</Forenames>
+      <PageNumber>7352</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lavison</Key>
+      <Forenames>A. M. N .</Forenames>
+      <PageNumber>6616</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>M. V .</Forenames>
+      <PageNumber>6618</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dear</Key>
       <Forenames>P. D .</Forenames>
       <PageNumber>8138</PageNumber>
@@ -414,7 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Down</Key>
-      <Text>. H. C</Text>
+      <Forenames>H. C .</Forenames>
       <PageNumber>6616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +762,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Fane</Key>
-      <Text>de Salis, A. R</Text>
+      <Forenames>de Salis</Forenames>
+      <Text>, A. R</Text>
       <PageNumber>6617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1720,9 +1742,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harewood</Key>
-      <Title>The Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Rt. Hon. The Earl</Title>
+      <Text>of</Text>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,8 +1819,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvie</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>6969</PageNumber>
       <PageNumber>6970</PageNumber>
     </MainItem>

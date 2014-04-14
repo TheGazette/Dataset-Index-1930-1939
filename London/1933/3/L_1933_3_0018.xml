@@ -5,7 +5,10 @@
       <Key>Holt-Wilson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Eric Edward Boketon</Forenames>
-      <Text>, C.M.G., D.S.O., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +72,9 @@
     <MainItem>
       <Key>Jopson</Key>
       <Forenames>Reginald Keith</Forenames>
-      <Text>, M.B.E., Commercial Secretary to H.M. Legation at Helsingfors</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +98,9 @@
     <MainItem>
       <Key>Laurent</Key>
       <Forenames>Louis Edgar</Forenames>
-      <Text>, M.D., Unofficial Member of the Executive Council of Mauritius</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +124,9 @@
     <MainItem>
       <Key>Leitch</Key>
       <Forenames>Walter</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +134,9 @@
     <MainItem>
       <Key>Liaqat</Key>
       <Forenames>Hyat Khan</Forenames>
-      <Text>, Khan Bahadur Nawab, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +160,9 @@
     <MainItem>
       <Key>Lomax</Key>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +171,9 @@
       <Key>Lyons</Key>
       <Title>Maj.</Title>
       <Forenames>Henrv Edward</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +182,9 @@
       <Key>MoCarrison</Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, C.T.E.. M.D., F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,28 +192,35 @@
     <MainItem>
       <Key>McCorkell</Key>
       <Forenames>Dudley Evelyn Bruce</Forenames>
-      <Text>, M.B.E., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McGrath</Key>
-      <Text>. Joseph Charles, Knight</Text>
+      <Forenames>Joseph Charles</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mackereth</Key>
-      <Text>. Col. Gilbert. M.C., H.M. Consul at Damascus</Text>
+      <Title>Col. Gilbert.</Title>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mallet</Key>
-      <Text>. Victor Alexander Louis. Acting Counsellor of . Embassy in H.M. Legation at Tehran</Text>
+      <Forenames>Victor Alexander Louis</Forenames>
+      <Text>. Acting Counsellor of . Embassy in H.M. Legation at Tehran</Text>
       <PageNumber>4960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +235,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mann</Key>
-      <Text>. Frederick Wollaston, Knight</Text>
+      <Forenames>Frederick Wollaston</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +244,9 @@
     <MainItem>
       <Key>Marks</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,14 +261,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Meler</Key>
-      <Text>. Richard James, Knight</Text>
+      <Forenames>Richard James</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Melvin</Key>
-      <Text>. Sir Martin John. Baronet</Text>
+      <Title>Sir</Title>
+      <Forenames>Martin John</Forenames>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +289,9 @@
     <MainItem>
       <Key>Mercer</Key>
       <Forenames>John Swan</Forenames>
-      <Text>, O.B.E., Sheriff of Lanarkshire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +317,9 @@
       <Key>Mitchell</Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, K.C.M.G., LieutenantGovernor of Western Australia</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -299,7 +335,9 @@
     <MainItem>
       <Key>Monck</Key>
       <Forenames>John Berkeley</Forenames>
-      <Text>, C.V.O., Assistant Marshal of the Diplomatic Corps</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,15 +381,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, Owen St. Clair, O.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Key>O'Malley</Key>
+      <Forenames>Owen St</Forenames>
+      <Text>. Clair, O.M.G., Counsellor of Embassy in H.M. Diplomatic Service</Text>
       <PageNumber>5549</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Francis, H.M. Consul at Havre</Text>
+      <Key>O'Meara</Key>
+      <Forenames>Francis</Forenames>
+      <Text>, H.M. Consul at Havre</Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +407,9 @@
     <MainItem>
       <Key>Parr</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., H.M. Consul at Port Said</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +434,10 @@
       <Key>Perak</Key>
       <Title>H.H.</Title>
       <Forenames>Paduka Sri Sultan Iskandar Shah</Forenames>
-      <Text>, K.C.M.G., K.C.V.O., ibni Almerhum Sultan Idris, Sultan of, Knight Grand Cross of the Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4651</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +446,9 @@
       <Key>Phipps</Key>
       <Title>Sir</Title>
       <Forenames>Eric Clare Edmund</Forenames>
-      <Text>, K.C.M.G., C. V.O., H.M. Ambassador Extraodinary and Plenipotentiary a t Berlin</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>5549</PageNumber>
     </MainItem>
     <SubItem>
@@ -422,7 +469,12 @@
       <Key>Price-Davies</Key>
       <Title>Maj. Gen.</Title>
       <Forenames>Llewelyn Alberic Eniilius</Forenames>
-      <Text>, V.C., C.B., C.M.G., D. S.O., one of H.M. Bodyguard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +549,11 @@
       <Key>Selby</Key>
       <Title>Sir</Title>
       <Forenames>Walford Har-</Forenames>
-      <Text>mood Montague, K.C.M.G., C.B., C.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Austria</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +569,9 @@
     <MainItem>
       <Key>Selous</Key>
       <Forenames>Gerald Holgate</Forenames>
-      <Text>, O.B.E., Commercial Secretary, First Grade, attached to H.M. High Commission at Cairo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +587,9 @@
     <MainItem>
       <Key>Simmonds</Key>
       <Forenames>Sidney</Forenames>
-      <Text>, M.B.E., Commercial Secretary to H.M. Legation at Tehran</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +598,11 @@
       <Key>Sinderson</Key>
       <Title>Maj.</Title>
       <Forenames>Harry Chap-</Forenames>
-      <Text>man, O.B.E., M.D., R.A.M.O. (Militia), Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4715</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +636,10 @@
       <Key>Stevenson</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Ivor</Forenames>
-      <Text>, M.B.E., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -580,7 +647,9 @@
     <MainItem>
       <Key>Stonehewer-Bird</Key>
       <Forenames>Francis Hugh William</Forenames>
-      <Text>, O.B.E., H.M. Consul at Casablanca (Dar al Baida)</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +682,9 @@
     <MainItem>
       <Key>Summerhayes</Key>
       <Forenames>Christopher Henry</Forenames>
-      <Text>, M.B.E., H.M. Consul at Sofia</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +734,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Trotter</Key>
-      <Text>. Thomas. Counsel to H.M. the King</Text>
+      <Title>Thomas.</Title>
+      <Forenames>Counsel</Forenames>
+      <Text>to H.M. the King</Text>
       <PageNumber>5486</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,14 +750,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Vibert</Key>
-      <Text>. McTnroy Este\ ViceConsul at Cologne</Text>
+      <Text>McTnroy Este\ ViceConsul at Cologne</Text>
       <PageNumber>5187</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Villiers</Key>
-      <Text>. Thomas Lister, Knight</Text>
+      <Forenames>Thomas Lister</Forenames>
+      <Text>, Knight</Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>

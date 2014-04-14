@@ -109,8 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collard</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. O</Text>
+      <Forenames>B. St. O</Forenames>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfrey</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R.</Forenames>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,8 +258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>R. St. P</Forenames>
       <PageNumber>2331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parry</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>R. St. P</Forenames>
       <PageNumber>2215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,8 +690,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronyn</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
+      <Title>St. J.</Title>
       <PageNumber>3226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,8 +882,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marescaux</Key>
-      <Forenames>G. D. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>G. D. St. Q</Forenames>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1081,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caslon</Key>
-      <Text>H. D</Text>
+      <Forenames>H. D .</Forenames>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1089,8 +1084,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. St. G</Forenames>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1209,6 +1203,13 @@
       <Key>Dillon-Robinson</Key>
       <Forenames>J. C. T.</Forenames>
       <PageNumber>2492</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Boulay</Key>
+      <Forenames>C. J. H.</Forenames>
+      <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

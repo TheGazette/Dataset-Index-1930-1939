@@ -260,7 +260,9 @@
       <Key>Boxall</Key>
       <Title>Sir</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bray</Key>
-      <Text>. W. N</Text>
+      <Forenames>W. N.</Forenames>
       <PageNumber>5116</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,7 +1106,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>D. B.</Forenames>
-      <Text>(R.A.M.C.) 5213</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5482</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -17,8 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marindin</Key>
-      <Forenames>F. J.</Forenames>
-      <Text>de V</Text>
+      <Forenames>F. J. de V</Forenames>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,8 +234,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, S. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>S. E.</Forenames>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,8 +248,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, N. C</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>N. C.</Forenames>
       <PageNumber>4456</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -784,8 +783,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wellborne</Key>
-      <Forenames>C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>C. de M</Forenames>
       <PageNumber>4056</PageNumber>
       <PageNumber>4456</PageNumber>
     </MainItem>
@@ -1132,8 +1130,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, J. P</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1161,8 +1159,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rebeiro</Key>
-      <Forenames>F. V.</Forenames>
-      <Text>de V</Text>
+      <Forenames>F. V. de V</Forenames>
       <PageNumber>3004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,10 +1436,9 @@
       <Forenames>A. E. S.</Forenames>
       <PageNumber>3778</PageNumber>
     </MainItem>
-    <SubSubSectionTitle>
-      <Text>Retired List</Text>
-    </SubSubSectionTitle>
+    <SubSubSectionTitle>Retired List</SubSubSectionTitle>
     <SubItem>
+      <Text>Retired List.</Text>
       <PageNumber>2917</PageNumber>
     </SubItem>
   </ItemGroup>

@@ -782,7 +782,9 @@
       <Key>Pigott-Brown</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1908,7 +1910,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Randies</Key>
-      <Text>K. A. McK</Text>
+      <Forenames>K. A.</Forenames>
+      <Text>McK</Text>
       <PageNumber>2435</PageNumber>
       <PageNumber>2435</PageNumber>
       <PageNumber>2922</PageNumber>

@@ -70,14 +70,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Truro</Key>
-      <Text>§ee of, Bishop of, Ven: Joseph Wellington Hunkin, O.B.E., M.C., D.D., recommended for election as</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>(See under Agriculture and Fisheries, Ministry of.) Tyneside, Royal Commission on conditions of Local Government on, members : Roberts, Charles Henry</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Tyneside</Forenames>
+      <Text>, Royal Commission on conditions of Local Government on, members : Roberts, Charles Henry</Text>
       <PageNumber>3042</PageNumber>
     </MainItem>
     <SubItem>
@@ -171,7 +176,10 @@
       <Key>Viscount</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, Baron Bledisloe, G.C.M.G., K.B.E., Viscount Bledisloe of Lydney</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
       <PageNumber>4160</PageNumber>
     </MainItem>

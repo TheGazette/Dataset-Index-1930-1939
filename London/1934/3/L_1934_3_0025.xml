@@ -516,9 +516,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. B</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. B.</Forenames>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +533,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vandeleur</Key>
-      <Text>. G. A. M</Text>
+      <Forenames>G. A. M.</Forenames>
       <PageNumber>5606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -993,28 +992,28 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. W</Text>
+      <Forenames>W .</Forenames>
       <PageNumber>5523</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whiteitig</Key>
-      <Text>. J. F</Text>
+      <Forenames>J. F.</Forenames>
       <PageNumber>5120</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitty</Key>
-      <Text>. J. P. N</Text>
+      <Forenames>J. P. N.</Forenames>
       <PageNumber>4521</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitwell</Key>
-      <Text>. P. F</Text>
+      <Forenames>P. F.</Forenames>
       <PageNumber>5680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1217,14 +1216,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Withineton</Key>
-      <Text>. A. G. P</Text>
+      <Forenames>A. G. P.</Forenames>
       <PageNumber>5976</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. B. W</Text>
+      <Forenames>B. W .</Forenames>
       <PageNumber>4434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,8 +1441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Forenames>E. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>E. A. de L</Forenames>
       <PageNumber>5522</PageNumber>
     </MainItem>
   </ItemGroup>

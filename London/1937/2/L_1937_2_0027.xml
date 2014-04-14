@@ -15,7 +15,10 @@
       <Key>Abbott</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Reginald Stuart</Forenames>
-      <Text>, M.C., A.D.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -23,7 +26,9 @@
     <MainItem>
       <Key>Abraham</Key>
       <Forenames>John Conrad</Forenames>
-      <Text>, M.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +53,10 @@
       <Key>Addison</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Christopher</Forenames>
-      <Text>, M.D., B.S., F.R.C.S., Baron Addison of Stallingborough</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>3856</PageNumber>
     </MainItem>
@@ -100,7 +108,9 @@
       <Key>Aitken</Key>
       <Title>Maj.</Title>
       <Forenames>David Brunton</Forenames>
-      <Text>, D.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +131,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Robert Stanley, M.C., A.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +151,12 @@
       <Key>Alexander</Key>
       <Title>Maj.</Title>
       <Forenames>James Ulick Francis Canning</Forenames>
-      <Text>, C.M.G., C.V.O., O.B.E., Knight Commander, . Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +196,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Walter</Forenames>
-      <Text>McArthur, K.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +223,9 @@
     <MainItem>
       <Key>Ancaster</Key>
       <Forenames>Gilbert</Forenames>
-      <Text>, Earl of, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +289,10 @@
       <Key>Anson</Key>
       <Title>Lt.-Col. The Hon.</Title>
       <Forenames>George Augustus</Forenames>
-      <Text>, C.B.E., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,9 +373,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Princess Louise, Duchess of. Dame Grand Cross, Royal Victorian Order</Text>
+      <Title>H.R.H. The Princess</Title>
+      <Forenames>Louise</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +434,9 @@
       <Key>Arthur</Key>
       <Title>Col.</Title>
       <Forenames>Charles Gordon</Forenames>
-      <Text>, M.C., V.D., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +468,9 @@
     <MainItem>
       <Key>Astor</Key>
       <Forenames>Nancy Witcher</Forenames>
-      <Text>, Viscountess, LL.D., M.P., Member, Companion of Honour, Order of the</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +496,11 @@
       <Key>Atkins</Key>
       <Title>Col. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.M.G., M.B., F.R.C.S., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,8 +533,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aubrey</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Melbourn Evans, M.A., Member, Order of the Companion of Honour</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Melbourn Evans</Forenames>
+      <Text>, M.A., Member, Order of the Companion of Honour</Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +543,9 @@
     <MainItem>
       <Key>Auker</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. Lawrence, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +553,9 @@
     <MainItem>
       <Key>Aveling</Key>
       <Forenames>Arthur Francis</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +580,9 @@
       <Key>Babington</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Anthony Brutus</Forenames>
-      <Text>, K.C., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -560,7 +602,11 @@
     <MainItem>
       <Key>Baden-Powell</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Robert Stephenson Smythe, Baron, G.C.M.G., G.C.V.O., K.C.B., Order of Merit</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +640,9 @@
     <MainItem>
       <Key>Baird-Smith</Key>
       <Forenames>David</Forenames>
-      <Text>, C.B.E., LL.D., Member of Board of Trustees of National Library of Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -644,7 +692,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Stanley</Forenames>
-      <Text>, M.P., Knight of the Order of the Garter</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3508</PageNumber>
     </MainItem>
     <SubItem>

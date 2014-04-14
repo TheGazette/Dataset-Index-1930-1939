@@ -4,14 +4,19 @@
     <MainItem>
       <Key>Graigie</Key>
       <Forenames>Robert Leslie</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3476</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grawtford</Key>
-      <Text>and Balcarres, Rt. Hon. the Earl of, K.T., Chairman of Royal Fine Art Commission</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,7 +32,9 @@
     <MainItem>
       <Key>Crewe</Key>
       <Forenames>Bertie Gibson</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +69,9 @@
     <MainItem>
       <Key>Curie</Key>
       <Forenames>Alexander Ormiston</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +87,9 @@
     <MainItem>
       <Key>Cutforth</Key>
       <Forenames>John Ashlin</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +97,9 @@
     <MainItem>
       <Key>Dain</Key>
       <Forenames>George Rutherford</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +132,9 @@
     <MainItem>
       <Key>Dalton</Key>
       <Forenames>Ernest Albert Llewellyn</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +181,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Conrad Hughes</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +193,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William John</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul at Tokyo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +224,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Steuart Spencer</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -257,6 +278,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>Eliot Arthur</Forenames>
+      <Text>, Knight,</Text>
+      <PageNumber>3473</PageNumber>
+      <PageNumber>3874</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dibley</Key>
       <Title>Warrant Officer</Title>
       <Forenames>Class</Forenames>
@@ -292,7 +322,9 @@
     <MainItem>
       <Key>Dosabhai</Key>
       <Forenames>Framji Panthaki</Forenames>
-      <Text>, M.B.E., Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +373,10 @@
     <MainItem>
       <Key>Duggan</Key>
       <Forenames>George Chester</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +400,10 @@
     <MainItem>
       <Key>Dunhill</Key>
       <Forenames>Thomas Peel</Forenames>
-      <Text>, C.M.G., M.D., Honorary Surgeon to H.M. The King</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +420,9 @@
       <Key>Dunnell</Key>
       <Title>Sir</Title>
       <Forenames>Robert Francis</Forenames>
-      <Text>, K.C.B., Commissioner under Railway and Canal Traffic Act, 1888</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>2645</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +431,9 @@
       <Key>Dunning</Key>
       <Title>Sir</Title>
       <Forenames>Leonard</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3473</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +442,9 @@
       <Key>Durham</Key>
       <Title>Warrant Officer</Title>
       <Forenames>Class</Forenames>
-      <Text>II, Sqdn. Sergt.-Maj. William, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -450,7 +494,9 @@
     <MainItem>
       <Key>Edmonds</Key>
       <Forenames>Cecil John</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +522,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>Alderman George</Forenames>
-      <Text>, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -496,7 +544,9 @@
       <Key>Elliott</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Godfrey</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +556,9 @@
       <Key>Ellis</Key>
       <Title>Capt.</Title>
       <Forenames>Lionel Frederic</Forenames>
-      <Text>, D.S.O., M.C, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +599,10 @@
       <Key>Erskine</Key>
       <Title>The Hon. Sir</Title>
       <Forenames>William Augustus Forbes</Forenames>
-      <Text>, K.C.M.G., M.V.O., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3477</PageNumber>
     </MainItem>
     <SubItem>
@@ -594,7 +649,10 @@
     <MainItem>
       <Key>Faulkner</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, C.B., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3474</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -627,7 +685,9 @@
     <MainItem>
       <Key>Ferauson-Davie</Key>
       <Forenames>Henry Augus-</Forenames>
-      <Text>tus, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3473</PageNumber>
       <PageNumber>3874</PageNumber>
     </MainItem>
@@ -636,7 +696,9 @@
     <MainItem>
       <Key>Fernandez</Key>
       <Forenames>Rudolf</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +725,10 @@
       <Key>Finnis</Key>
       <Title>Col.</Title>
       <Forenames>Frank Alexander</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +745,9 @@
     <MainItem>
       <Key>Forbes</Key>
       <Title>Maj. and Brevet Lt.</Title>
-      <Text>Col. Richard Robert, D. S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,7 +755,9 @@
     <MainItem>
       <Key>Forster</Key>
       <Forenames>Samuel John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3484</PageNumber>
     </MainItem>
   </ItemGroup>

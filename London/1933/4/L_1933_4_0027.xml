@@ -334,8 +334,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, E. F</Text>
+      <Key>St. John</Key>
+      <Forenames>E. F.</Forenames>
       <PageNumber>7107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>G. P</Text>
+      <Forenames>G. P.</Forenames>
       <PageNumber>8127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -748,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spedding</Key>
-      <Text>C. F. C</Text>
+      <Forenames>C. F. C</Forenames>
       <PageNumber>8445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -888,7 +888,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevens</Key>
-      <Text>K. de P</Text>
+      <Forenames>K.</Forenames>
+      <Text>de P</Text>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,7 +1241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>J. N</Text>
+      <Forenames>J. N</Forenames>
       <PageNumber>7539</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,7 +1395,7 @@
       <PageNumber>7869</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>C. C.</Text>
+      <Text>C. C</Text>
       <PageNumber>7539</PageNumber>
     </SubItem>
   </ItemGroup>

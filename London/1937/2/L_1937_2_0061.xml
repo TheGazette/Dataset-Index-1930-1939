@@ -26,6 +26,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Bruyne</Key>
+      <Forenames>G</Forenames>
+      <Text>-</Text>
+      <PageNumber>3758</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deakin</Key>
       <Forenames>C. C.</Forenames>
       <PageNumber>2975</PageNumber>
@@ -556,8 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. B. de W</Forenames>
       <PageNumber>2974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,8 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>2975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1116,8 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. St. J</Forenames>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,8 +1145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Becher</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. St. J</Forenames>
       <PageNumber>3756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1380,8 +1384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Channer</Key>
-      <Forenames>G. O.</Forenames>
-      <Text>de R</Text>
+      <Forenames>G. O. de R</Forenames>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>

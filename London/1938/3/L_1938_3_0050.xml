@@ -1946,9 +1946,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Froberville</Forenames>
-      <Text>, M. J. P. F. H. DA</Text>
+      <Key>De Froberville</Key>
+      <Forenames>M. J. P. F. H.</Forenames>
+      <Text>DA</Text>
+      <PageNumber>4817</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pencier</Key>
+      <Forenames>A. E.</Forenames>
+      <PageNumber>5678</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Ville</Key>
+      <Forenames>E</Forenames>
       <PageNumber>4817</PageNumber>
     </MainItem>
   </ItemGroup>

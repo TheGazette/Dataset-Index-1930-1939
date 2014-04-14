@@ -116,7 +116,9 @@
       <Key>Ewing</Key>
       <Title>Sir</Title>
       <Forenames>N. A. Orr</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +384,9 @@
       <Key>Ford</Key>
       <Title>Sir</Title>
       <Forenames>R</Forenames>
-      <Text>Forestier-Walker, Sir G. F. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6902</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fowler</Key>
-      <Text>. G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>6300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallownv</Key>
-      <Text>. I. C. P</Text>
+      <Forenames>I. C. P</Forenames>
       <PageNumber>7226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +604,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garnons-Williams</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>8038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,8 +731,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Forenames>P. St</Forenames>
-      <Text>. L. C</Text>
+      <Forenames>P. St. L</Forenames>
+      <Text>. C</Text>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,7 +1223,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gurnell</Key>
-      <Text>. W. N</Text>
+      <Forenames>W. N.</Forenames>
       <PageNumber>8357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1708,8 +1712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hickman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>8356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,8 +1861,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -30,14 +30,17 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Gerald</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at New York</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3644</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Forenames>The Reverend George Aloysius</Forenames>
+      <Title>The</Title>
+      <Forenames>Reverend George Aloysius</Forenames>
       <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
@@ -81,7 +84,8 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>The Most</Forenames>
+      <Title>The</Title>
+      <Forenames>Most</Forenames>
       <Text>Rev. William Marlborough, D.D., Knight 'Commander, Order of St. Michael and St. George</Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
@@ -155,7 +159,9 @@
     <MainItem>
       <Key>Chalkley</Key>
       <Forenames>Harry Owen</Forenames>
-      <Text>, C.B.E. Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +196,9 @@
       <Key>Chater</Key>
       <Title>Brevet-Major</Title>
       <Forenames>Arthur Reginald</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +222,10 @@
     <MainItem>
       <Key>Chill</Key>
       <Forenames>Edwin Albert</Forenames>
-      <Text>, O.B.E., M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +234,9 @@
       <Key>Christophers</Key>
       <Title>Colonel</Title>
       <Forenames>Samuel Richard</Forenames>
-      <Text>, M.B., CLE., . O.B.E., F.R.S., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +281,9 @@
       <Key>Clementi</Key>
       <Title>Sir</Title>
       <Forenames>Cecil</Forenames>
-      <Text>, K.C.M.G., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +298,10 @@
     <MainItem>
       <Key>Cochrane</Key>
       <Forenames>Arthur William Steuart</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +410,9 @@
     <MainItem>
       <Key>Coombs</Key>
       <Forenames>Arthur Thomas</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +436,9 @@
     <MainItem>
       <Key>Cotton</Key>
       <Forenames>Charles William Eger-</Forenames>
-      <Text>ton, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +499,10 @@
       <Key>Creedy</Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, K.C.B., K.C.V.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -502,7 +527,9 @@
       <Key>Critchett</Key>
       <Title>Sir</Title>
       <Forenames>George Monta-</Forenames>
-      <Text>gue, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +537,10 @@
     <MainItem>
       <Key>Crosfield</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel George Rowlandson, D.S.O., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +548,10 @@
     <MainItem>
       <Key>Crouch</Key>
       <Forenames>Commissioned Gunner Walter George Colling-</Forenames>
-      <Text>wood, D.S.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +560,9 @@
       <Key>Cruickshank</Key>
       <Title>Miss</Title>
       <Forenames>Joanna Margaret</Forenames>
-      <Text>, C.B.E., R.R.C, Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +579,10 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>George</Forenames>
-      <Text>, CLE., O.B.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dale</Key>
-      <Forenames>The Reverend Edmund</Forenames>
+      <Title>The</Title>
+      <Forenames>Reverend Edmund</Forenames>
       <Text>, M.A., D.Litt., Officer, Order of the British Empire</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
@@ -612,7 +651,9 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>John Wallace Ord</Forenames>
-      <Text>, O.B.E., H.M. Consul, in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,8 +703,18 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>Lieutenant</Forenames>
+      <Text>(Senior Assistant Surgeon) Alexander Nicol, Member, Order of the British Empire .;</Text>
+      <PageNumber>3630</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
-      <Text>MeL Henry Lawson, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,8 +722,22 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Salis</Forenames>
-      <Text>, Cecil Fane, D.L., J.P., Companion Order or the Bath</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>Lieutenant-</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
+      <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

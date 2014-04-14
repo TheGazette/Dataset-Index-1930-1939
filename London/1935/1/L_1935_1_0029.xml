@@ -5,7 +5,10 @@
       <Key>Denham</Key>
       <Title>Sir</Title>
       <Forenames>Edward Brandis</Forenames>
-      <Text>, K.C.M.G., K.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,9 @@
     <MainItem>
       <Key>Dening</Key>
       <Forenames>Maberly Esler</Forenames>
-      <Text>, M.B.E., H.M. Vice-Consul at Harbin</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>1091</PageNumber>
       <PageNumber>2124</PageNumber>
     </MainItem>
@@ -33,7 +38,12 @@
     <MainItem>
       <Key>Derby</Key>
       <Forenames>Edward George Villiers</Forenames>
-      <Text>,' Earl of, K.G., P.O., G.C.B., G.C.V.O., T.D., Royal Victorian Chain</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +58,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dick</Key>
-      <Text>' William Reid, R.A., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +100,9 @@
     <MainItem>
       <Key>Doorly</Key>
       <Forenames>Charles William</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -96,7 +110,9 @@
     <MainItem>
       <Key>Dorrell</Key>
       <Forenames>William John</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +153,9 @@
       <Key>Drummond</Key>
       <Title>Colonel the Hon.</Title>
       <Forenames>Maurice Charles Andrew</Forenames>
-      <Text>, CM.G., D.S.O., Assistant Commissioner of Police of the Metropolis</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>379</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +163,11 @@
     <MainItem>
       <Key>Dugan</Key>
       <Title>H.E. Maj .</Title>
-      <Text>-General Sir Winston, K.C.M.G.. C.B., D.S.O., Knight of .' Grace, Order of St. John .. of Jerusalem '</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +176,9 @@
       <Key>Duggan</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Jamshedji Nasarvanji</Forenames>
-      <Text>, C.I.E., O.B.E., L.M. and S., F.C.P.S. (Bombay), D.O. ... Oxon), Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +194,9 @@
     <MainItem>
       <Key>Eales</Key>
       <Forenames>Shirley</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +205,11 @@
       <Key>Eames</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles William</Forenames>
-      <Text>, D.S.O., T.D., M.D., M.R.C.S., Serving Brother, . Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +232,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Eccles</Key>
-      <Text>. Lancelot William Gregory, M.C., Nominated Official Member, Legislative Council, Northern Rhodesia ... ... — ..:</Text>
+      <Forenames>Lancelot William Gregory</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1980</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +250,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonds</Key>
-      <Text>.William Stanley, C. M.G., O.B.E., H.M. Consul-General at Strasbourg</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +278,9 @@
       <Key>Elkins</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>William Henry Pferingcr</Forenames>
-      <Text>, D. S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +330,10 @@
       <Key>Etches</Key>
       <Title>Maj.</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +351,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Vice</Forenames>
-      <Text>Adm. Edward Ratcliffe Garth Russell, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,14 +396,17 @@
     <MainItem>
       <Key>Fairweather</Key>
       <Forenames>William Gem-</Forenames>
-      <Text>mel, O.B.E., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1980</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Farrow</Key>
-      <Text>. Company Serst.-Maj. Harry, Member, Order of the British Empire</Text>
+      <Forenames>Company Serst</Forenames>
+      <Text>.-Maj. Harry, Member, Order of the British Empire</Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +422,9 @@
     <MainItem>
       <Key>Fell</Key>
       <Forenames>Bryan Hugh</Forenames>
-      <Text>, C.B., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +470,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Frank Drummond Shuttleworth</Forenames>
-      <Text>, M.C., Officer, Order of the . British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +513,10 @@
     <MainItem>
       <Key>Fleming</Key>
       <Title>Maj.</Title>
-      <Text>-&lt;Gen. George, C. B.E., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +549,9 @@
       <Key>Forrest</Key>
       <Title>Miss</Title>
       <Forenames>Emily Vaughan</Forenames>
-      <Text>, R.R.C., Officer, Order of , St. John of Jerusalem</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +588,9 @@
       <Key>Fowle</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>Trenchard Craven William</Forenames>
-      <Text>, C.B.E., H.M. Consul-General at Bushire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +663,9 @@
       <Key>Fuller</Key>
       <Title>Rev.</Title>
       <Forenames>Arthur Rose</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +691,10 @@
     <MainItem>
       <Key>Furse</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir William Thomas, K.C.B., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,9 +734,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Galway</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>The</Forenames>
-      <Text>Viscount, O.B.E., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. The Viscount</Title>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
     <SubItem>

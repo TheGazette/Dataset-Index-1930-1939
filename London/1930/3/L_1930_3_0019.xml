@@ -5,7 +5,9 @@
       <Key>Chetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -36,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chipper</Key>
-      <Text>. C</Text>
+      <Forenames>C</Forenames>
       <PageNumber>5492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -819,8 +821,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>5359</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,18 +900,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Morgan</Forenames>
-      <Text>, R. B</Text>
+      <Key>De Morgan</Key>
+      <Forenames>R. B.</Forenames>
       <PageNumber>4498</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Pree</Forenames>
-      <Text>, H. D</Text>
+      <Key>De Pree</Key>
+      <Forenames>H. D .</Forenames>
       <PageNumber>4362</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend-Fenton</Key>
+      <Forenames>J. D. L .</Forenames>
+      <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1096,8 +1102,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Draper</Key>
-      <Title>St.</Title>
-      <Forenames>J .</Forenames>
+      <Title>St. J .</Title>
       <PageNumber>4577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,6 +1138,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Vallon</Key>
+      <Forenames>H. D. de J</Forenames>
+      <PageNumber>5573</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Duckett</Key>
       <Forenames>N. G .</Forenames>
       <PageNumber>5812</PageNumber>
@@ -1162,7 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan-Johnstone</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C.</Forenames>
       <PageNumber>5361</PageNumber>
     </MainItem>
   </ItemGroup>

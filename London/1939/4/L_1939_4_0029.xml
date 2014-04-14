@@ -73,7 +73,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolter</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J .</Forenames>
       <PageNumber>8093</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,8 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boone</Key>
-      <Forenames>F. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>F. E. de B</Forenames>
       <PageNumber>7477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -796,8 +795,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Brachi</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J. M</Text>
+      <Forenames>A. St. J</Forenames>
+      <Text>. M</Text>
       <PageNumber>8392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1198,8 +1197,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>E. T. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>E. T. St. M</Forenames>
       <PageNumber>8020</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,8 +1643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>H. S.</Forenames>
-      <Text>von P</Text>
+      <Forenames>H. S. von P</Forenames>
       <PageNumber>8576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1992,7 +1989,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>H. E.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2052,7 +2051,9 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Forenames>T. M.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7026</PageNumber>
     </MainItem>
   </ItemGroup>

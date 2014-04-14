@@ -182,7 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taverner</Key>
-      <Text>R. L</Text>
+      <Forenames>R. L.</Forenames>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -918,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P</Forenames>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1093,8 +1093,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>R.</Forenames>
-      <Text>de M. G</Text>
+      <Forenames>R. de M</Forenames>
+      <Text>. G</Text>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitman</Key>
-      <Text>B. E</Text>
+      <Forenames>B. E.</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1789,8 +1789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodward</Key>
-      <Forenames>L. H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>L. H. de C</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>

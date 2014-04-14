@@ -186,15 +186,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, R. P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>5941</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, F</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>F .</Forenames>
       <PageNumber>5941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,8 +229,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H .</Forenames>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,8 +327,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pattle</Key>
-      <Forenames>M. T. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. T. St. J</Forenames>
       <PageNumber>5941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +844,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>B. T</Text>
+      <Forenames>B. T .</Forenames>
       <PageNumber>5941</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,7 +884,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shand</Key>
-      <Text>W. P</Text>
+      <Forenames>W. P .</Forenames>
       <PageNumber>4674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1056,21 +1055,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Staoleton</Key>
-      <Text>D. C. -</Text>
+      <Forenames>D. C.</Forenames>
+      <Text>-</Text>
       <PageNumber>4821</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Starkev</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>6916</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Steele</Key>
-      <Text>T. F</Text>
+      <Forenames>T. F.</Forenames>
       <PageNumber>4317</PageNumber>
     </MainItem>
   </ItemGroup>

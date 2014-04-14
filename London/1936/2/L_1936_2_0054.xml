@@ -104,8 +104,8 @@
   <SubSectionTitle>Emergency List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, A. H</Text>
+      <Key>O'Malley</Key>
+      <Forenames>A. H.</Forenames>
       <PageNumber>2801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,8 +695,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Morford, A. C</Text>
+      <Key>St. Clair-Morford</Key>
+      <Forenames>A. C.</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -932,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coe</Key>
-      <Text>. N. J</Text>
+      <Forenames>N. J.</Forenames>
       <PageNumber>3587</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1347,8 +1347,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, L. E...,</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>L. E.</Forenames>
+      <Text>..,</Text>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>

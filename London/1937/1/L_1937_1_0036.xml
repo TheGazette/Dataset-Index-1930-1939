@@ -12,7 +12,9 @@
     <MainItem>
       <Key>More</Key>
       <Title>Paymr.</Title>
-      <Text>-Cdr. John McLeod, D.S.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -31,7 +33,10 @@
       </Key>
       <Title>Gapt.</Title>
       <Forenames>Llewellyn Vaughan</Forenames>
-      <Text>, M.V.O., D.S.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +85,10 @@
         <KeyDitto>—— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Owen Temple</Forenames>
-      <Text>, King's Counsel ... rgro Morris-Jones, John Henry, M.C., L.R.C.P., L.R.C.S., L.R.F.P.S., J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -123,7 +131,11 @@
     <MainItem>
       <Key>Morshead</Key>
       <Forenames>Owen Frederick</Forenames>
-      <Text>, D.S.O., M.V.O., M.C.: Assistant Keeper of the King's Archives</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1405</PageNumber>
     </MainItem>
     <SubItem>
@@ -135,7 +147,9 @@
     <MainItem>
       <Key>Morton</Key>
       <Forenames>Desmond John Falkiner</Forenames>
-      <Text>, M.C., Companion Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +166,10 @@
       <Key>Mountbatten</Key>
       <Title>Commander Lord</Title>
       <Forenames>Louis Francis Albert Victor Nicholas</Forenames>
-      <Text>, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +220,10 @@
     <MainItem>
       <Key>Muspratt</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sydney Frederick, C.B., C.S.I., C.I.E., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +290,9 @@
       <Key>Nichols</Key>
       <Title>Cdr.</Title>
       <Forenames>Charles</Forenames>
-      <Text>(Alfred Godfrey, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +317,9 @@
       <Key>Nixon</Key>
       <Title>The Rev.</Title>
       <Forenames>Leigh Hunter</Forenames>
-      <Text>, M.V.O., M.A., Honorary Priest, Chapels Royal</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +345,10 @@
       <Key>Norman</Key>
       <Title>Col. (hon. Brig.)</Title>
       <Forenames>Compton Cardew</Forenames>
-      <Text>,, C.M.G., D. S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +375,9 @@
     <MainItem>
       <Key>Norris</Key>
       <Forenames>Charles Arthur</Forenames>
-      <Text>, O.B.E., F.I.A., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +385,11 @@
     <MainItem>
       <Key>North</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Dudley, Burton Napier, C.B., C.S.I., C.M.G., C.V.O., Extra Equerry to His Majesty ..\</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +420,10 @@
     <MainItem>
       <Key>Norton</Key>
       <Forenames>Clifford John</Forenames>
-      <Text>, C.M.G., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +440,10 @@
       <Key>Nugent</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Terence Edmund Gascoigne</Forenames>
-      <Text>, M.V.O., M.C.: Comptroller, Lord Chamberlain's Office ... ... r4o</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>
@@ -466,7 +505,9 @@
     <MainItem>
       <Key>Oppe</Key>
       <Forenames>Adolph Paul</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +524,9 @@
       <Key>Ormsby-Gore</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William George</Forenames>
-      <Text>, M.P., Member of Board of Trustees, British Museum,</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +534,9 @@
     <MainItem>
       <Key>Osgood</Key>
       <Forenames>Frederic Stanley</Forenames>
-      <Text>; C.B.E., M.V.Q., Sergt.-atArms to His Majesty</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +545,13 @@
       <Key>Outschoorn</Key>
       <Title>Dr.</Title>
       <Forenames>Dunstan Denis Stanislaus</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem Oxford, The Rt. Rev. Thomas Banks,Bishop of, G.B.E., Clerk of the Closet, H.M. Household Packe, Lt.-Col. Frederick Edward, M.V.O., O.B.E., Gentleman Usher to His Majesty ... Paley, Col. Alan Thomas, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>

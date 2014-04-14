@@ -487,8 +487,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -838,7 +837,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P</Forenames>
       <PageNumber>8441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +961,11 @@
       <PageNumber>6271</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stirling, Colonel Sir George Murray Home, Bart., C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7122</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -972,7 +975,9 @@
       <Key>Carmarthen</Key>
       <Title>Major</Title>
       <Forenames>Grismond Picton Philipps</Forenames>
-      <Text>, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +986,10 @@
       <Key>Norfolk</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Leigh Hare</Forenames>
-      <Text>, Bart., M.A.O. J.P., D.L</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>7731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -989,7 +997,11 @@
     <MainItem>
       <Key>AVorcester</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Francis John Davies, K.C.B., K.C.M.G., K.C.V.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O</Honour>
+      </Text>
       <PageNumber>6907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1008,7 +1020,9 @@
       <Key>Cardigan</Key>
       <Title>Major</Title>
       <Forenames>Herbert Owain Pugh</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1034,7 +1048,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Balfour, Colonel John Edmond Heugh, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1050,7 +1066,10 @@
     <MainItem>
       <Key>Fitzpatrick</Key>
       <Title>Brig.</Title>
-      <Text>-General Ernest Richard, C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1078,9 @@
       <Key>Goldsmith</Key>
       <Title>Colonel</Title>
       <Forenames>Harry Dundas</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1088,10 @@
     <MainItem>
       <Key>Halliday</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Lewis Stratford Tollemache, V.C., K.C.B</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.B</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1083,7 +1107,10 @@
     <MainItem>
       <Key>Ingles</Key>
       <Title>Brig.</Title>
-      <Text>-General John Darnley, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1119,9 @@
       <Key>Oerton</Key>
       <Title>Colonel</Title>
       <Forenames>Gerald Baildon</Forenames>
-      <Text>, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1130,10 @@
       <Key>Woollcombe</Key>
       <Title>Admiral</Title>
       <Forenames>Louis Charles Stirling</Forenames>
-      <Text>, C.B., M.V.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>6840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1109,7 +1141,9 @@
     <MainItem>
       <Key>Dorset</Key>
       <Forenames>Ellenborough</Forenames>
-      <Text>, Major Henry Astell Baron, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1117,7 +1151,9 @@
     <MainItem>
       <Key>East</Key>
       <Forenames>Riding</Forenames>
-      <Text>and Kingstonupon-Hull: Dunnington Jefferson, Lieut.-Colonel John Alexander, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>8440</PageNumber>
     </MainItem>
     <SubItem>
@@ -1139,7 +1175,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucestershire</Key>
-      <Text>and Bristol: Birchall, Major Sir John Dearman, T.D., M.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>7647</PageNumber>
     </MainItem>
     <SubItem>
@@ -1148,6 +1187,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>7647</PageNumber>
       </Text>
       <PageNumber>7647</PageNumber>
@@ -1157,18 +1197,24 @@
       <PageNumber>7647</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Stephens, Gen. Sir Reginald Byng, K.C.B., C. M.G</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7647</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Turner, Brevet Lt.-Col. Charles Edward, D. S.O., T.D</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7647</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lanark</Key>
-      <Text>: Despard, Capt. Herbert John, C.B.E., resignation</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8288</PageNumber>
     </MainItem>
     <SubItem>
@@ -1198,12 +1244,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Orkney</Key>
-      <Text>and Zetland : Hebden, Maj. Harry Hamilton, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6436</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
         <PageNumber>6436</PageNumber>
+        <Honour>M.D.</Honour>
       </Text>
       <PageNumber>6436</PageNumber>
     </SubItem>
@@ -1213,7 +1264,9 @@
       <Key>Pembroke</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Thomas Frederick Meyrick</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8232</PageNumber>
     </MainItem>
   </ItemGroup>

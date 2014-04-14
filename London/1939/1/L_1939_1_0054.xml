@@ -646,7 +646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grogan</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,8 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallows</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. A. de B</Forenames>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1000,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardy</Key>
-      <Text>. T. E</Text>
+      <Forenames>T. E.</Forenames>
       <PageNumber>1931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1429,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>P. J .</Forenames>
+      <Title>St. P.</Title>
+      <Forenames>J .</Forenames>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>

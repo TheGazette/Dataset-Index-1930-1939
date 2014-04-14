@@ -57,7 +57,10 @@
       </Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Hugh Stephenson</Forenames>
-      <Text>, K.B.E., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +89,10 @@
       <Key>Tweedsmuir</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, Lord, G.C.M.G., C.H., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>3506</PageNumber>
     </MainItem>
@@ -95,7 +101,9 @@
     <MainItem>
       <Key>Twynam</Key>
       <Forenames>Henry Joseph</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +146,10 @@
     <MainItem>
       <Key>Utterson-Kelso</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. John Edward, D.S.O., M.C, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +201,9 @@
     <MainItem>
       <Key>Vemey</Key>
       <Forenames>Air Commodore Reynell Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire '</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +228,9 @@
     <MainItem>
       <Key>Vivian</Key>
       <Forenames>Sylvanus Percival</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -247,8 +262,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wade</Key>
-      <Forenames>Armigel</Forenames>
-      <Text>de Vins, C.M.G., O.B.E., Knight</Text>
+      <Forenames>Armigel de Vins</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3077</PageNumber>
       <PageNumber>3921</PageNumber>
     </MainItem>
@@ -281,8 +299,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakehurst</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord, Knight, Order of St. John of Jerusalem</Text>
+      <Title>The Lord</Title>
+      <Text>, Knight, Order of St. John of Jerusalem</Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +365,10 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward John Pat-</Forenames>
-      <Text>teson Travis, O.B.E., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +379,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,8 +416,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Walkey</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. James Rowland, M.A., K.H.C, Commander, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>James Row-</Forenames>
+      <Text>land, M.A., K.H.C, Commander, Order of the British Empire</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -403,11 +427,17 @@
       <Key>Wallace</Key>
       <Title>Sir</Title>
       <Forenames>Cuthbert Sidney</Forenames>
-      <Text>, K.C.M.G., C.B., M.B., B. S., D.Sc, L.R.C.P., F.R.C.S., Baronet</Text>
-      <PageNumber>3075</PageNumber>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
     </MainItem>
-    <SubItem>
+    <Honour>
+      <PageNumber>3075</PageNumber>
       <Text>Baronet</Text>
+    </Honour>
+    <SubItem>
       <PageNumber>4010</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -477,7 +507,11 @@
       <Key>Ward</Key>
       <Title>Col. Sir</Title>
       <Forenames>Albert Lambert</Forenames>
-      <Text>, Bt., D.S.O., M.P., Treasurer of the Household</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +544,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>John Chappell</Forenames>
-      <Text>, C.M.G., CLE., D.S.O., M.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -542,7 +580,11 @@
     <MainItem>
       <Key>Warwick</Key>
       <Forenames>Norman Richard Coombe</Forenames>
-      <Text>, M.V.O., O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,7 +592,9 @@
     <MainItem>
       <Key>Waterfall</Key>
       <Forenames>Charles Francis</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +602,9 @@
     <MainItem>
       <Key>Waters</Key>
       <Forenames>Charles Philip</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +621,10 @@
       <Key>Watson</Key>
       <Title>Miss</Title>
       <Forenames>Edith Margaret</Forenames>
-      <Text>, C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +634,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +654,10 @@
     <MainItem>
       <Key>Watt</Key>
       <Forenames>Michael Herbert</Forenames>
-      <Text>, C.B.E., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +718,10 @@
     <MainItem>
       <Key>Welch</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.C., T.D., M.Sc, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -697,7 +754,9 @@
       <Key>West</Key>
       <Title>Miss</Title>
       <Forenames>Margaret Florence</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -706,7 +765,10 @@
       <Key>Westbury</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederic Newell</Forenames>
-      <Text>, O.B.E., M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -723,7 +785,9 @@
       <Key>Westlake</Key>
       <Title>Capt. (Qrmr.)</Title>
       <Forenames>Henry</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>

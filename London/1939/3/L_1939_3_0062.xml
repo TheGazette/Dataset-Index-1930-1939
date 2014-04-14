@@ -425,7 +425,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sturroch</Key>
-      <Text>. T. C. W</Text>
+      <Forenames>T. C. W.</Forenames>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -439,7 +439,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sugden</Key>
-      <Text>. W. B. ... '</Text>
+      <Forenames>W. B.</Forenames>
+      <Text>... '</Text>
       <PageNumber>4764</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -963,7 +964,9 @@
       <Key>Tate</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5117</PageNumber>
       <PageNumber>6182</PageNumber>
     </MainItem>

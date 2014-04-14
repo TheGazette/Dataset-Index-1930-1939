@@ -1099,7 +1099,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Perry</Key>
-      <Text>R. B</Text>
+      <Forenames>R. B .</Forenames>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1542,7 +1542,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Text>C. F. S</Text>
+      <Forenames>C. F. S</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1591,7 +1591,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Text>F. St. P</Text>
+      <Forenames>F. St. P</Forenames>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,7 +1613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorke</Key>
-      <Text>J. .IS</Text>
+      <Forenames>J.</Forenames>
+      <Text>.IS</Text>
       <PageNumber>1864</PageNumber>
     </MainItem>
   </ItemGroup>

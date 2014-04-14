@@ -60,15 +60,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>M. M</Text>
+      <Forenames>M. M.</Forenames>
       <PageNumber>5554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,8 +88,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, H. J. B</Text>
+      <Key>O'Neil</Key>
+      <Forenames>H. J. B.</Forenames>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -677,8 +677,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Barbe, G. F</Text>
+      <Key>St. Barbe</Key>
+      <Forenames>G. F.</Forenames>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,8 +1073,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>S. O'R</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Theobald</Key>
-      <Text>F. K</Text>
+      <Forenames>F. K.</Forenames>
       <PageNumber>4441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,7 +1260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1317,7 +1316,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townend</Key>
-      <Text>H. S</Text>
+      <Forenames>H. S.</Forenames>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1489,7 +1488,9 @@
       <Key>Ward</Key>
       <Title>Sir</Title>
       <Forenames>A. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1558,8 +1559,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Forenames>M.</Forenames>
-      <Text>de H</Text>
+      <Forenames>M. de H</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>

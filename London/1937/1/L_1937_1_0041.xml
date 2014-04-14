@@ -5,7 +5,11 @@
       <Key>Whitmore</Key>
       <Title>Col.</Title>
       <Forenames>Francis Henry Douglas Charlton</Forenames>
-      <Text>, C.B., C. M.G., D.S.O., T.D., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,10 @@
       <Key>Whitton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>David Alex-</Forenames>
-      <Text>ander, O.B.E., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +65,9 @@
       <Key>Wickham</Key>
       <Title>Maj.</Title>
       <Forenames>John Lamp-</Forenames>
-      <Text>lugh, M.V.O., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +75,9 @@
     <MainItem>
       <Key>Widdows</Key>
       <Forenames>Archibald Edwards</Forenames>
-      <Text>, C.B., Member of Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +85,9 @@
     <MainItem>
       <Key>Wigley</Key>
       <Forenames>Wilfrid Murray</Forenames>
-      <Text>, O.B.E., Chief Justice, Leeward Islands</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +96,10 @@
       <Key>Wigram</Key>
       <Title>Col. The Rt. Hon.</Title>
       <Forenames>Clive</Forenames>
-      <Text>, Baron, G.C.B., G.C.V.O., C.S.I.: Keeper of the King's Archives</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1405</PageNumber>
     </MainItem>
     <SubItem>
@@ -99,7 +115,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Forenames>G. A.</Forenames>
-      <Text>, .M.C.,. Secretary of Standing Committees under Merchandise Marks Act</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +128,11 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Montagu Grant</Forenames>
-      <Text>, C.B., C.M.G., C.V.O., Extra Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +141,9 @@
       <Key>Willans</Key>
       <Title>Sir</Title>
       <Forenames>Frederic Jeune</Forenames>
-      <Text>, K.C.V.O., M.R.C.S., L.R.C.P., Surgeon Apothecary to the Household at Sandringham</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +200,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Oliver Morrice</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +229,10 @@
       <Key>Wilson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Henry Mait-</Forenames>
-      <Text>land, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +250,9 @@
     <MainItem>
       <Key>Wingfield</Key>
       <Forenames>Anthony Henry</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -234,7 +265,10 @@
       </Key>
       <Title>Col. the Hon.</Title>
       <Forenames>Maurice Anthony</Forenames>
-      <Text>, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +304,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Evelyn</Forenames>
-      <Text>FitzGerald Michell, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -306,7 +344,9 @@
       <Key>Woods</Key>
       <Title>Col.</Title>
       <Forenames>Harold Edwin Manthorpe</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -317,7 +357,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Wilfrid Wentworth</Forenames>
-      <Text>, K.C.M.G., Member of Commission of Government of Island of Newfoundland and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,7 +370,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William Talbot</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of St. John of Jerusalem Woof, Miss Lucy Elizabeth Talbot, Officer, Order of St. John of Jerusalem Wright, Arthur Alban, Companion, ... Order of St Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +384,12 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Wallace Duffield</Forenames>
-      <Text>, V.C., C.B., C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +409,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Stirling</Forenames>
-      <Text>, M.C., M.A., B.Sc, M.D., Regius Professor of Pathology, Aberdeen University</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +421,11 @@
       <Key>Younghusband</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>George John</Forenames>
-      <Text>, K.C.M.G., K.C.I.E., C.B., Keeper of the Jewel House, Tower of London</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,9 +440,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of. Earl of Ulster</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of. Earl of Ulster</Text>
       <PageNumber>1642</PageNumber>
       <PageNumber>1642</PageNumber>
     </MainItem>
@@ -393,9 +449,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, Earl of St. Andrews</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of, Earl of St. Andrews</Text>
       <PageNumber>1642</PageNumber>
       <PageNumber>1642</PageNumber>
     </MainItem>
@@ -403,7 +458,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>.D.C. to The King: Connaught and St rath earn, H.R.H. The Duke of</Text>
+      <Text>
+        <Honour>D.C.</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
     <SubItem>
@@ -414,7 +471,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>. A.D.C. to The King: Bikaner, H.H. Marahajahiraja Raj Rajeshwar Shiromani Maharaja Shri Si r G a n g a Singh, Bahadur, Maharaja of</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>996</PageNumber>
     </MainItem>
     <SubItem>
@@ -726,7 +785,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coryton</Key>
-      <Text>. R. H. O</Text>
+      <Forenames>R. H. O.</Forenames>
       <PageNumber>557</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -145,7 +145,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Peters-Smith</Key>
-      <Text>. M. V</Text>
+      <Forenames>M. V</Forenames>
       <PageNumber>3667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1613,8 +1613,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tettenborn</Key>
-      <Forenames>P. A.</Forenames>
-      <Text>de G</Text>
+      <Forenames>P. A. de G</Forenames>
       <PageNumber>2560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1704,8 +1703,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>3526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,8 +1840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyrrell</Key>
-      <Forenames>J. N.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. N. de M</Forenames>
       <PageNumber>3229</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosebery</Key>
-      <Text>the Earl of, D.S.O., M.C., Ensign, King's Bodyguard for Scotland '</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +23,10 @@
     <MainItem>
       <Key>Rotter</Key>
       <Forenames>Godfrey</Forenames>
-      <Text>, O.B.E., D.Sc, F.I.C., F.Inst.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,8 +49,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Royle</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Guy Charles Cecil, C.M.G., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Guy Charles Cecil</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -105,7 +115,9 @@
     <MainItem>
       <Key>Rydings</Key>
       <Forenames>Douglas Gerald</Forenames>
-      <Text>, O.B.E., H.M. Consul at Tegucigalpa</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +133,9 @@
     <MainItem>
       <Key>Sadul</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Rao Bahadur Thakur, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +219,9 @@
       <Key>Schomberg</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Reginald Charles Francis</Forenames>
-      <Text>, D.S.O., H.M. Consul-General at Pondicherry</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +247,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Harold</Forenames>
-      <Text>, M.D., F.R.C.P., Companion, . Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +265,9 @@
     <MainItem>
       <Key>Seray</Key>
       <Forenames>Mai Bapna</Forenames>
-      <Text>, Rai Bahadur, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +291,9 @@
     <MainItem>
       <Key>Seymour</Key>
       <Forenames>Horace James</Forenames>
-      <Text>, C.M.G., Commander, Royal Victoria Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +301,9 @@
     <MainItem>
       <Key>Shafaat</Key>
       <Forenames>Ahmad Khan</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +311,9 @@
     <MainItem>
       <Key>Sharp</Key>
       <Forenames>Walter Alexander Ramsay</Forenames>
-      <Text>, M.B., Ch.M., F.R.C.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +323,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Colonel (Qr.-Mr.) William, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +380,9 @@
       <Key>Sherwin</Key>
       <Title>Colonel</Title>
       <Forenames>John Arthur Hopkins</Forenames>
-      <Text>, V.D., M.D., F.R.A.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,15 +454,23 @@
     <MainItem>
       <Key>Sinderson</Key>
       <Forenames>Harry Chapman</Forenames>
-      <Text>, M.V.O., O.B.E., M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Skelton</Key>
-      <Forenames>Major-General Dud-</Forenames>
-      <Text>ley Sheridan, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Major-</Title>
+      <Forenames>General Dud-</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +503,9 @@
       <Key>Smith</Key>
       <Title>Miss</Title>
       <Forenames>Annie Hansley</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +639,10 @@
     <MainItem>
       <Key>Spaight</Key>
       <Forenames>James Molony</Forenames>
-      <Text>, C.B.E., LL.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +675,10 @@
     <MainItem>
       <Key>Sprawson</Key>
       <Title>Major</Title>
-      <Text>General Cuthbert Allan, CLE., M.D., F.R.C.P., D.Litt. K.H.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -656,7 +702,11 @@
     <MainItem>
       <Key>Stanhope</Key>
       <Title>Rt. Hon. Earl</Title>
-      <Text>, K.G., D.S.O., M.C., First Commissioner of Works and Public Buildings</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +723,9 @@
       <Key>Stebbing</Key>
       <Title>Capt.</Title>
       <Forenames>Thomas Henry Langdale</Forenames>
-      <Text>, M.C., M.A., Member, Order of the British Empire ,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4003</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -162,7 +162,9 @@
       <Key>Ramsden</Key>
       <Title>Sir</Title>
       <Forenames>E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -801,7 +803,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,8 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell-Jones</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>B. St. C</Forenames>
       <PageNumber>6857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1041,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Aldwyn, Earl</Text>
+      <Forenames>Aldwyn</Forenames>
+      <Text>, Earl</Text>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -105,7 +105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blandyr</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,8 +208,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Forenames>R. M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. M. St. J</Forenames>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +266,9 @@
       <Key>Bowen</Key>
       <Title>Sir</Title>
       <Forenames>E. C</Forenames>
-      <Text>, .Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>548</PageNumber>
       <PageNumber>1271</PageNumber>
     </MainItem>
@@ -324,7 +325,9 @@
     <MainItem>
       <Key>Boyle</Key>
       <Title>Tl.</Title>
-      <Text>: Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +343,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Bradford</Key>
-      <Text>. Sir E. M. A.,</Text>
+      <Title>Sir</Title>
+      <Forenames>E. M. A.</Forenames>
+      <Text>,</Text>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +395,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brind</Key>
-      <Text>. J. E. S</Text>
+      <Forenames>J. E. S .</Forenames>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +432,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brodie</Key>
-      <Text>. D. J</Text>
+      <Forenames>D. J</Forenames>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +446,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bromley</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>770</PageNumber>
       <PageNumber>774</PageNumber>
     </MainItem>
@@ -604,7 +609,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett-Stuart</Key>
-      <Forenames>Sir-J. T.</Forenames>
+      <Title>Sir-</Title>
+      <Forenames>J. T.</Forenames>
       <PageNumber>1633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -788,7 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Campbell</Key>
-      <Text>. A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -846,15 +852,16 @@
     <MainItem>
       <Key>Carew</Key>
       <Title>Pofle.</Title>
-      <Text>' Sir J. G., Bt,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>L. F.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. F. de V</Forenames>
       <PageNumber>61</PageNumber>
       <PageNumber>62</PageNumber>
     </MainItem>
@@ -1041,7 +1048,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>. E. W*</Text>
+      <Forenames>E. W</Forenames>
+      <Text>*</Text>
       <PageNumber>1271</PageNumber>
       <PageNumber>1555</PageNumber>
     </MainItem>
@@ -1149,7 +1157,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clark</Key>
-      <Text>. F. W</Text>
+      <Forenames>F. W.</Forenames>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Claude</Forenames>
-      <Text>' Emile, M.B.E., nominated Unofficial Member of the Legislative' Council of the Colony of Sierra Leone</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -528,7 +530,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,8 +592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>6711</PageNumber>
     </MainItem>
   </ItemGroup>

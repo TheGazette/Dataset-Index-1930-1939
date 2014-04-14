@@ -440,8 +440,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montagu</Key>
-      <Forenames>W. B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>W. B. St. J</Forenames>
       <PageNumber>4883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +587,9 @@
       <Key>Mount</Key>
       <Title>Sir</Title>
       <Forenames>W. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mullin</Key>
-      <Text>. W. S</Text>
+      <Forenames>W. S .</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,15 +900,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, P. J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>4680</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, T. U. L. S</Text>
+      <Key>O'Connor</Key>
+      <Forenames>T. U. L. S.</Forenames>
       <PageNumber>4679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -922,15 +923,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hea, J. J-</Text>
+      <Key>O'Hea</Key>
+      <Forenames>J.</Forenames>
+      <Text>J-</Text>
       <PageNumber>4333</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keefe, H. J</Text>
+      <Key>O'Keefe</Key>
+      <Forenames>H. J.</Forenames>
       <PageNumber>5358</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,8 +963,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, E. T</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>E. T.</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>

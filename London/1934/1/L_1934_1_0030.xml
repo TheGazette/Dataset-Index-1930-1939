@@ -85,7 +85,9 @@
     <MainItem>
       <Key>Patron</Key>
       <Forenames>Francis Joseph</Forenames>
-      <Text>, O.B.E., H.M. Consul at Seattle</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +104,9 @@
       <Key>Peake</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Gerard</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +114,10 @@
     <MainItem>
       <Key>Pearce</Key>
       <Forenames>Seward</Forenames>
-      <Text>C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +150,9 @@
     <MainItem>
       <Key>Percival</Key>
       <Forenames>Harold Fez</Forenames>
-      <Text>, O.B.E., M.R.C.S., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +197,9 @@
       <Key>Perring</Key>
       <Title>Col.</Title>
       <Forenames>John Ernest</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -197,7 +208,9 @@
     <MainItem>
       <Key>Peters</Key>
       <Forenames>Jessie Emmeline</Forenames>
-      <Text>, Lady, A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,7 +247,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Williams</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the British Empire Pickering, Ernest, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +300,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Plender</Key>
-      <Text>the Lord, G.B.E., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +318,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Plunkett</Key>
-      <Text>Ernie Erie Drax, Vice-Adm.the Hon. Reginald Aylmer Ranfurly C.B., D.S.O., Knight Commander, Order of the Bath Pocknell, William George, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +370,9 @@
     <MainItem>
       <Key>Primrose</Key>
       <Forenames>Guy Rosebery</Forenames>
-      <Text>, Member, 5th Class, Royal Victorian Order ... ... '</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +413,11 @@
     <MainItem>
       <Key>Pybus</Key>
       <Forenames>Percy John</Forenames>
-      <Text>, C.B.E., M.I.E.E., M.P., Baronet,</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>604</PageNumber>
     </MainItem>
@@ -426,7 +453,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Niel</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India ... Member of the Executive Council of the Governor of Bengal ... Relf, Joseph, Member, Order of the British Empire ... Rentoul, Sir Gervais Squire Chittick, K.C, Metropolitan Police Court Magistrate Rhodes, Steven Bankole, Nominated Unofficial Member of the Legislative Council of Nigeria</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>1776</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +465,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John</Forenames>
-      <Text>, Commander, Order of St. John of Jerusalem ... ... ... Robertson, Col. (Hon. Brig.Gen.), Alexander Brown, C.M.G., D.S.O., Companion, Order of the Bath Robinson, Sydney Walter, J.P., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1526</PageNumber>
     </MainItem>
@@ -447,7 +480,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Philip Graham</Forenames>
-      <Text>, CLE., H.M. Consul at Florence Ronald, Nigel Bruce, Companion, Order of St. Michael and St. Gcirgo Rosair, Marvyn James Stiles, Member, Order of the British Empire ... ... Rose, Geoffrey Keith, M.C., Metropolitan Police Court Magistrate</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>

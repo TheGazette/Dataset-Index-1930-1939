@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Albert</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -14,7 +16,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Herbert</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +28,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Francis Edward James</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,7 +40,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Louis</Forenames>
-      <Text>' William, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +61,9 @@
     <MainItem>
       <Key>Spurgeon</Key>
       <Forenames>Ernest Edward</Forenames>
-      <Text>, Member Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +72,10 @@
       <Key>Stamp</Key>
       <Title>Sir</Title>
       <Forenames>Josiah Charles</Forenames>
-      <Text>, G.C.B., G.B.E., Baron Stamp of Shortlands</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +83,10 @@
     <MainItem>
       <Key>Steel</Key>
       <Forenames>Samuel Strang</Forenames>
-      <Text>of Philiphaugh, T.D., Baronet</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +145,9 @@
     <MainItem>
       <Key>Toy</Key>
       <Forenames>Henry</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +155,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Samuel</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +173,10 @@
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>. Paw Tun, The Hon., Knighted</Text>
+      <Forenames>Paw Tun</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +194,9 @@
       <Key>Vulliamy</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Colwyn Henry Hughes</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +212,9 @@
     <MainItem>
       <Key>Walsh</Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Maj. Francis James, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +223,10 @@
       <Key>Waters</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas Zachariah</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +235,10 @@
       <Key>Weigall</Key>
       <Title>Sir</Title>
       <Forenames>William Ernest George Archibald</Forenames>
-      <Text>of Woodhall Spa, K.C.M.G., Baronet,</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +257,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Douglas</Forenames>
-      <Text>, Baron, G.C.B., Viscount Weir of Eastwood</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +267,10 @@
     <MainItem>
       <Key>Wells</Key>
       <Forenames>Sydney Richard</Forenames>
-      <Text>, M.P., Knighted</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +278,9 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Oswald</Forenames>
-      <Text>, C.M.G., H.M. Consul-General at Mukden</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +288,9 @@
     <MainItem>
       <Key>Whitfield</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., Nominated European Unofficial Member of the Legislative Council of the Gold Coast) Colony</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>57</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +298,11 @@
     <MainItem>
       <Key>Williams</Key>
       <Title>Lt.-Col.</Title>
-      <Text>(now Col. (now temp. Brig.) ) Aubrey Ellis, D.S.O., M.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +310,10 @@
     <MainItem>
       <Key>Wiltshire</Key>
       <Forenames>Frank Henry Cufaude</Forenames>
-      <Text>, M.C., Knighted</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +322,9 @@
       <Key>Wingate</Key>
       <Title>Capt.</Title>
       <Forenames>Orde Charles</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +332,9 @@
     <MainItem>
       <Key>Wood</Key>
       <Forenames>James Lockwood</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +343,9 @@
       <Key>Young</Key>
       <Title>Maj.</Title>
       <Forenames>Gordon Drum-</Forenames>
-      <Text>mond, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5281</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -297,7 +353,9 @@
   <ItemGroup>
     <MainItem>
       <Key>A</Key>
-      <Text>.D.C. to The King, Wootten, R. M</Text>
+      <Text>
+        <Honour>D.C.</Honour>
+      </Text>
       <PageNumber>5831</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,6 +574,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B</Forenames>
+      <PageNumber>4242</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delaman</Key>
       <Forenames>W. T.</Forenames>
       <PageNumber>4677</PageNumber>
@@ -667,8 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glover</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. de C</Forenames>
       <PageNumber>4813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +767,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon-Finlayson</Key>
-      <Text>. Sir R</Text>
+      <Title>Sir</Title>
+      <Forenames>R.</Forenames>
       <PageNumber>4968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,6 +1219,13 @@
       <Key>Tidbury</Key>
       <Forenames>O. H.</Forenames>
       <PageNumber>5474</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Cutsem</Key>
+      <Forenames>W. E.</Forenames>
+      <PageNumber>5675</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -243,7 +243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fraser</Key>
-      <Text>. W. A. K</Text>
+      <Forenames>W. A. K.</Forenames>
       <PageNumber>795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chaloner</Key>
-      <Text>. G. T</Text>
+      <Forenames>G. T.</Forenames>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1451,8 +1451,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. D</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. D</Text>
       <PageNumber>1827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1642,6 +1642,13 @@
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___ ___</KeyDitto>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>1334</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dean</Key>

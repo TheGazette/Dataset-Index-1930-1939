@@ -36,7 +36,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallin</Key>
-      <Text>'son, William, J.P, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +112,9 @@
     <MainItem>
       <Key>Marchant</Key>
       <Forenames>Stanley</Forenames>
-      <Text>, Mus.D, ' Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +139,9 @@
     <MainItem>
       <Key>Marr</Key>
       <Title>Maj</Title>
-      <Text>: the Hon. Charles William Clanan, D.S.O, M.C, V.D, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -186,7 +192,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>Albert Edward, M.B.E, Companion, Imperial Service Order</Text>
+      <Forenames>Albert Edward</Forenames>
+      <Text>, M.B.E, Companion, Imperial Service Order</Text>
       <PageNumber>3615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +225,10 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>John</Forenames>
-      <Text>' Stuart, D.S.O, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +247,9 @@
       <Key>Martelli</Key>
       <Title>Capt.</Title>
       <Forenames>Howard</Forenames>
-      <Text>de Courcy. M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +312,9 @@
       <Key>Mason</Key>
       <Title>Sir</Title>
       <Forenames>William James Peake</Forenames>
-      <Text>, Bt, J.P, Baron ' Blackford of Compton 'Pauncefoot</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
       <PageNumber>4160</PageNumber>
     </MainItem>
@@ -316,7 +330,9 @@
     <MainItem>
       <Key>Matthews</Key>
       <Forenames>Very</Forenames>
-      <Text>Rev. Walter Robert, D-D, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +387,10 @@
       <Key>Maxwell</Key>
       <Title>Hon. Major</Title>
       <Forenames>Maxwell Hyslop</Forenames>
-      <Text>, C.B.E, V.D, D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -402,7 +421,9 @@
       <Key>May</Key>
       <Title>Sir</Title>
       <Forenames>George Ernest</Forenames>
-      <Text>, Bt, K.B.E, Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +491,9 @@
       <Key>Mellor</Key>
       <Title>Sir</Title>
       <Forenames>John Serocold Paget</Forenames>
-      <Text>, Bart, Member of Parliament for Tamworth Division</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +512,9 @@
     <MainItem>
       <Key>Melville</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Charles William Francis, M.B, F.R.C.S, Edin, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +576,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harold Tibbatts</Forenames>
-      <Text>, M.B.E. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +588,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Paym.</Title>
-      <Text>. Capt. Hugh, D.S.O, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,7 +698,9 @@
     <MainItem>
       <Key>Minter</Key>
       <Forenames>Frederick Albert</Forenames>
-      <Text>, C.Y.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,7 +734,9 @@
     <MainItem>
       <Key>Modlin</Key>
       <Forenames>Isaac Gibson</Forenames>
-      <Text>, O.B.E., M.D, Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>

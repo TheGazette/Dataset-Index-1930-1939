@@ -99,7 +99,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitken</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A .</Forenames>
       <PageNumber>2807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +568,9 @@
     <MainItem>
       <Key>Barke</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -691,8 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bate</Key>
-      <Forenames>R. E.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. E. de B</Forenames>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1023,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. A. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2735</PageNumber>
     </MainItem>
   </ItemGroup>

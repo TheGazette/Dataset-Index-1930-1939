@@ -158,7 +158,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Pitman</Key>
-      <Text>Butler, P</Text>
+      <Forenames>Butler</Forenames>
+      <Text>, P</Text>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,8 +367,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pulley</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>1605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +456,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ranee</Key>
-      <Text>H. E</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -613,7 +613,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>C J</Text>
+      <Forenames>C</Forenames>
+      <Text>J</Text>
       <PageNumber>1230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +628,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>G, W</Text>
+      <Forenames>G</Forenames>
+      <Text>, W</Text>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,21 +1044,24 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Aubyn, R</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, R</Text>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, E. R. G</Text>
+      <Forenames>John</Forenames>
+      <Text>, E. R. G</Text>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Leger, G. M Salim IChan, Nawabzada Sidi</Text>
+      <Forenames>Leger</Forenames>
+      <Text>, G. M Salim IChan, Nawabzada Sidi</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
     <SubItem>
@@ -1082,7 +1087,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sandford</Key>
-      <Text>H. R</Text>
+      <Forenames>H. R .</Forenames>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1240,8 +1245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1922,7 +1926,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steveni</Key>
-      <Text>G. E.'</Text>
+      <Forenames>G. E.</Forenames>
+      <Text>'</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>

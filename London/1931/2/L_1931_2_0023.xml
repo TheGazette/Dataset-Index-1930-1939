@@ -102,7 +102,9 @@
       <Key>Williams</Key>
       <Title>Rev.</Title>
       <Forenames>Frank Gar-</Forenames>
-      <Text>field Hodder, O.B.E., to the Deanery of Manchester</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +127,9 @@
     <MainItem>
       <Key>Abraham</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel John William, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +153,10 @@
     <MainItem>
       <Key>Addison</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Albert Percy, C.B., C.M.G., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +174,10 @@
       <Key>Airey</Key>
       <Title>Col.</Title>
       <Forenames>Robert Berkeley</Forenames>
-      <Text>, C.M.G., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +185,9 @@
     <MainItem>
       <Key>Aitken</Key>
       <Forenames>Charles</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +222,9 @@
       <Key>Allan</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William David</Forenames>
-      <Text>, O.B.E., Assistant Commissioner of the Metropolitan Police</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +262,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Walter</Forenames>
-      <Text>McArthur, K.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,16 +297,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Anglesey</Key>
-      <Forenames>The Marquess</Forenames>
-      <Text>, G.C.V.O., Officer, Order, of St. John of Jerusalem</Text>
+      <Title>The</Title>
+      <Forenames>Marquess</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Archdale</Key>
-      <Title>Lieut.</Title>
-      <Text>-Commander Patrick Mervyn, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lieut.-Commander</Title>
+      <Forenames>Patrick Mervyn</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +333,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Forenames>Major-General Alex-</Forenames>
-      <Text>ander Augustus Frederick William Alfred George, iEairl of, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., Member of H.M. Privy Council</Text>
+      <Title>Major-</Title>
+      <Forenames>General Alex-</Forenames>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
       <PageNumber>4241</PageNumber>
     </MainItem>
@@ -348,7 +375,9 @@
       <Key>Audland</Key>
       <Title>Captain</Title>
       <Forenames>Edward Gordon</Forenames>
-      <Text>, M.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +408,9 @@
     <MainItem>
       <Key>Baillie</Key>
       <Forenames>James Black</Forenames>
-      <Text>, O.B.E., M.A., LL.D., D.Phil., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
     </MainItem>
   </ItemGroup>

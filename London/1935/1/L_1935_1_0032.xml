@@ -28,9 +28,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., G.C.M.G., G.C.V.O., H.M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -138,7 +141,11 @@
       <Key>Kinghorn</Key>
       <Title>Col.</Title>
       <Forenames>Henry Jack-</Forenames>
-      <Text>son, T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +189,9 @@
       <Key>Knott</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Garbutt</Forenames>
-      <Text>, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +199,9 @@
     <MainItem>
       <Key>Knox</Key>
       <Forenames>Geoffrey George</Forenames>
-      <Text>; C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +211,9 @@
         <KeyDitto>___ —</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Harry Hugh Sidney, O.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,14 +237,18 @@
     <MainItem>
       <Key>Kunwar</Key>
       <Forenames>Jagdish Prasad</Forenames>
-      <Text>, C.S.I., CLE., O.B.E., Member of the Executive Council of the Governor General of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1175</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Kydd</Key>
-      <Text>. Miss Mary AVinnifred, Officer, Order of St. John of Jerusalem .,</Text>
+      <Title>Miss</Title>
+      <Forenames>Mary</Forenames>
+      <Text>AVinnifred, Officer, Order of St. John of Jerusalem .,</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +315,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Florence Barrie</Forenames>
-      <Text>, C.B.E., . M.B., Officer, Order of St. John of J erusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +355,9 @@
       <Key>Langdon-Brown</Key>
       <Title>Prof.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.A., M.D., F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -368,21 +389,29 @@
   <ItemGroup>
     <MainItem>
       <Key>Lauder</Key>
-      <Text>. James, Member, Order of the . British Empire</Text>
+      <Forenames>James</Forenames>
+      <Text>, Member, Order of the . British Empire</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Laurie</Key>
-      <Text>. Lt.-Col. Percy, Robert, C.B.E., D.S.O., Knight Commander, Royal Victorian Order Lavingtoh. Miss Evelyn Bossell.Member, Order of the British Empire</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Percy</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lawford</Key>
-      <Text>. Valentine George, Third Secretary in H.M. Diplomatic Service</Text>
+      <Forenames>Valentine George</Forenames>
+      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +436,9 @@
       <Key>Lead</Key>
       <Title>Maj.</Title>
       <Forenames>William Choller-</Forenames>
-      <Text>' . ton, M.C... Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -415,7 +446,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leal</Key>
-      <Text>. Ernest/Augustus, Member. Order of the British Empire .... '</Text>
+      <Forenames>Ernest</Forenames>
+      <Text>/Augustus, Member. Order of the British Empire .... '</Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -423,7 +455,9 @@
     <MainItem>
       <Key>Leche</Key>
       <Forenames>John Hurleston</Forenames>
-      <Text>, O.B.E., Counsellor of Embassv in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +465,9 @@
     <MainItem>
       <Key>Leconfield</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>. Baron, Kniq-ht Grand Cross. Royal Victorian Order Lee, Charles Rene, H.M. Consul in China</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +484,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Leoper</Key>
-      <Text>. Alexnnder Wieram Allen, O.B.E., .Companion. -Order of St. Michael and St. George</Text>
+      <Forenames>Alexnnder Wieram Allen</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -466,7 +505,13 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Henning</Forenames>
-      <Text>, Member, Order of tho British Empire ... Lindsay, Charles William, Knight Commander, Order of the British Empire ... Linlithgow, Col. Alexander John, Marquess of, K.T., G.C.I.E., O.B.E., T.D., D.L., Member of H.M. . Privy Council ... ... List, Paul H.M. Consul at Luxemburg ... ... Lockhart, Charles Ramsdale, Commander, Order of the British Empire Loweth, Councillor Walter Ernest, J.P., Commander, Order of the British Empire Lowther, John Arthur, Private Secretary to ' the Duke of Kent Loxley, Peter Noel, Second Secretary in H.M. Diplomatic Service ... ... Loyd, Maj. Robert Lindsay, O.B.E., M.C, Officer, Order of St. John of Jerusalem Luke, Miss Edith Isobel Garnet, M.A., Member, Order of the British Empire Lyall, George, H.M. Consul at Berlin Lyons, Rt. Hon. Joseph Aloysius, Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +529,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macgregor</Key>
-      <Text>. John Proudfoot, H.M. Consul at Caracas</Text>
+      <Forenames>John Proudfoot</Forenames>
+      <Text>, H.M. Consul at Caracas</Text>
       <PageNumber>914</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +538,9 @@
     <MainItem>
       <Key>Machtig</Key>
       <Forenames>Eric Gustave</Forenames>
-      <Text>, O.B.E., 'Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>51</PageNumber>
     </MainItem>
     <SubItem>

@@ -27,7 +27,9 @@
     <MainItem>
       <Key>Maurice</Key>
       <Forenames>H. G.</Forenames>
-      <Text>, C.B., Chairman, White Fish Industry Joint Council</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +47,12 @@
       <Key>Maxwell</Key>
       <Title>Surgn. Capt.</Title>
       <Forenames>Joseph Archibald</Forenames>
-      <Text>, O.B.E., M.D., B.Ch., F.R.C.S., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +105,9 @@
     <MainItem>
       <Key>Mehmet</Key>
       <Forenames>Munir</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +116,9 @@
       <Key>Meikle</Key>
       <Title>Capt.</Title>
       <Forenames>Archibald Robert</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +228,9 @@
       <Key>Mildren</Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +410,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Henry R u t h v e n, C.V.O., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +439,9 @@
       <Key>Morgan</Key>
       <Title>Mrs.</Title>
       <Forenames>Eleanor Elizabeth Bamlet</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +508,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Una Frances Marie</Forenames>
-      <Text>, M.D., B.S., M.R.C.S., L.R.C.P., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +637,9 @@
     <MainItem>
       <Key>Narayan</Key>
       <Forenames>Raghavan Pillai</Forenames>
-      <Text>, C.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +648,10 @@
       <Key>Nathan</Key>
       <Title>Col.</Title>
       <Forenames>Harry Louis</Forenames>
-      <Text>, D.L., J.P., M.P., Associate Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -682,7 +708,9 @@
       <Key>Nettleton</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +718,9 @@
     <MainItem>
       <Key>Newnham</Key>
       <Forenames>Hubert Ernest</Forenames>
-      <Text>, C.M.G., V.D., Member of State Council, Island of Ceylon</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2586</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,7 +775,10 @@
       <Key>Nicholls</Key>
       <Title>Surgeon</Title>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Percival Thomas, C.B., M.R.C.S., . L.R.C.P., K.H.P., Knight Commander Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3853</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +787,9 @@
       <Key>Nichols</Key>
       <Title>Mrs.</Title>
       <Forenames>Mary Annie</Forenames>
-      <Text>, A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>

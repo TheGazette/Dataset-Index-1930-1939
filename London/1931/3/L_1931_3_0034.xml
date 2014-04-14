@@ -24,7 +24,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Puri</Key>
-      <Text>T. O. ... '</Text>
+      <Forenames>T. O.</Forenames>
+      <Text>... '</Text>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +96,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>O.M. E</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>5626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +204,9 @@
       <Key>Dickens</Key>
       <Title>Capt.</Title>
       <Forenames>G. C</Forenames>
-      <Text>, C.M.G</Text>
+      <Text>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +222,9 @@
       <Key>Talbot</Key>
       <Title>Capt.</Title>
       <Forenames>C. P.</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5244</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -741,7 +748,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Saunders</Key>
-      <Text>J. E</Text>
+      <Forenames>J. E</Forenames>
       <PageNumber>4340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -885,8 +892,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Pasquier</Key>
+      <Forenames>F. V</Forenames>
+      <PageNumber>6105</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Fothergill</Key>
-      <Text>R. N</Text>
+      <Forenames>R. N</Forenames>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,8 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Millington</Key>
-      <Forenames>R. C. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>R. C. St. V</Forenames>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,8 +1095,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edmonstone</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>

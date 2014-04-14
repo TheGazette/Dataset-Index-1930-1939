@@ -226,8 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keays</Key>
-      <Forenames>H.</Forenames>
-      <Text>de J</Text>
+      <Forenames>H. de J</Forenames>
       <PageNumber>5245</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +317,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenron-Fuller</Key>
-      <Text>L. M</Text>
+      <Forenames>L. M.</Forenames>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +339,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kidd</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F.</Forenames>
       <PageNumber>4342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,8 +403,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milne</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>4942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,8 +1648,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>N. St. L</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1844,7 +1841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nasservanji</Key>
-      <Text>Dhanjisha Bilimoria</Text>
+      <Forenames>Dhanjisha Bili-</Forenames>
+      <Text>moria</Text>
       <PageNumber>6624</PageNumber>
     </MainItem>
   </ItemGroup>

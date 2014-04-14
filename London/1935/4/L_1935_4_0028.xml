@@ -42,7 +42,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wanstead</Key>
-      <Text>. and Woodford Urban District Council, petition for Municipal Charter of Incorporation</Text>
+      <Text>and Woodford Urban District Council, petition for Municipal Charter of Incorporation</Text>
       <PageNumber>8035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,8 +118,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yugoslavia</Key>
-      <Forenames>H.M. The</Forenames>
-      <Text>King of, Envoy Extraordinary and Minister Plenipotentiary S 1 a v k o Grouitch</Text>
+      <Forenames>H.M.</Forenames>
+      <Text>The King of, Envoy Extraordinary and Minister Plenipotentiary S 1 a v k o Grouitch</Text>
       <PageNumber>6973</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +214,10 @@
       <Key>Acland</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Francis Dyke</Forenames>
-      <Text>, Bart,, M.P. for Cornwall, Northern</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +227,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Richard Thomas Dyke</Forenames>
-      <Text>, M.P. for Barnstaple</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +247,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>David Morgan</Forenames>
-      <Text>, M.P. for South Poplar</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +259,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Samuel Vyvyan Trerice</Forenames>
-      <Text>, M.P. for Leeds, West</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +269,9 @@
     <MainItem>
       <Key>Adamson</Key>
       <Forenames>William Murdoch</Forenames>
-      <Text>, M.P. for Cannock</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7504</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +279,9 @@
     <MainItem>
       <Key>Agnew</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Peter Garnett, M.P. for Camborne</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +289,9 @@
     <MainItem>
       <Key>Albery</Key>
       <Forenames>Irving James</Forenames>
-      <Text>, M.P. for Gravesend</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +299,9 @@
     <MainItem>
       <Key>Alexander</Key>
       <Forenames>Albert Victor</Forenames>
-      <Text>, M.P. for Hillsborough</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +313,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, K.B.E. C.M.G., D.S.O., M.P. for Glasgow, Central</Text>
+      <Text>
+        <Honour>K.B.E. C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +326,11 @@
       <Key>Allen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Sandeman</Forenames>
-      <Text>M.C., T.D., M.P. for Birkenhead West</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +341,11 @@
       </Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>William James</Forenames>
-      <Text>, K.B.E., D.S.O., M.P. for Armagh</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7508</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +362,9 @@
       <Key>Amery</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Leopold</Forenames>
-      <Text>' Charles Maurice Stennett, M.P. for Sparkbrook</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +372,9 @@
     <MainItem>
       <Key>Amnion</Key>
       <Forenames>Charles George</Forenames>
-      <Text>, M.P. for Camberwell, North</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +383,9 @@
       <Key>Anderson</Key>
       <Title>Sir</Title>
       <Forenames>Alan Garrett</Forenames>
-      <Text>, Kt:; M.P. for City of London</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +395,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frank</Forenames>
-      <Text>, M.P. for Whitehaven</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +412,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Anstruther</Key>
-      <Text>Gray, William John, M.P. for Lanark, Northern</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +422,9 @@
     <MainItem>
       <Key>Apsley</Key>
       <Forenames>Allen Algernon Bathurst</Forenames>
-      <Text>, Lord, M.P. for Bristol, Central</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +442,10 @@
       <Key>Aske</Key>
       <Title>Sir</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, Bart.,M.P. for Newcastleupon-Tyne, East</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7502</PageNumber>
     </MainItem>
   </ItemGroup>

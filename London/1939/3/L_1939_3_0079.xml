@@ -1505,7 +1505,9 @@
       <Key>Colt</Key>
       <Title>Sir</Title>
       <Forenames>H. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4932</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1706,7 +1708,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Copsey</Key>
-      <Text>. E. F. V. -</Text>
+      <Forenames>E. F. V.</Forenames>
+      <Text>-</Text>
       <PageNumber>5484</PageNumber>
     </MainItem>
   </ItemGroup>

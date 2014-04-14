@@ -252,9 +252,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince of, and Duke ofCornwall</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>of, and Duke ofCornwall</Text>
       <PageNumber>5428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G</Forenames>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Willouehby</Key>
-      <Text>. G Wills, R. A</Text>
+      <Forenames>G</Forenames>
+      <Text>Wills, R. A</Text>
       <PageNumber>4880</PageNumber>
       <PageNumber>5575</PageNumber>
     </MainItem>
@@ -564,7 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>4114</PageNumber>
       <PageNumber>5298</PageNumber>
     </MainItem>
@@ -696,7 +696,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Essex</Key>
-      <Text>: Buxton, Brevet Lt.-Col. Edward North, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5029</PageNumber>
     </MainItem>
     <SubItem>
@@ -705,6 +707,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>K.C.V.O.</Honour>
         <PageNumber>4273</PageNumber>
       </Text>
       <PageNumber>4273</PageNumber>
@@ -729,7 +732,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>4273</PageNumber>
+        <Honour>D.S.O</Honour>
       </Text>
       <PageNumber>4273</PageNumber>
     </SubItem>
@@ -737,7 +742,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Cowell. Lt.-Col. Ernest Marshall, D.S.O.. M.D., F.R.C.S., R.A.M.C.. T.A</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4501</PageNumber>
     </MainItem>
     <SubItem>
@@ -765,7 +775,10 @@
     <MainItem>
       <Key>Clackmannan</Key>
       <Title>Rt. Hon.</Title>
-      <Text>the Viscount Younger of . Leckie, D.S.O., J.P., D.L</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>5812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -782,7 +795,9 @@
       <Key>Midlothian</Key>
       <Title>Rt. Hon. Lord</Title>
       <Forenames>Elphinstone</Forenames>
-      <Text>, K.T</Text>
+      <Text>
+        <Honour>K.T</Honour>
+      </Text>
       <PageNumber>4361</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -127,7 +127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coulthurst</Key>
-      <Text>W. M</Text>
+      <Forenames>W. M.</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -191,7 +191,11 @@
       <Key>Lincoln</Key>
       <Title>Major Sir</Title>
       <Forenames>Ernest Sleight</Forenames>
-      <Text>, Bart., O.B.E., T.D., J.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +219,10 @@
       <Key>Stafford</Key>
       <Title>Col.</Title>
       <Forenames>Edgar Arthur Wilson</Forenames>
-      <Text>, M.C., T.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>1054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +230,9 @@
     <MainItem>
       <Key>Southampton</Key>
       <Title>Lieut.</Title>
-      <Text>General Sir Henry Edward Burstall, K.C.B., K.C.M.G</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>209</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +241,11 @@
     <MainItem>
       <Key>Norfolk</Key>
       <Title>Earl</Title>
-      <Text>of Albemarle, K.C.V.O.. C.B., T.D</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>495</PageNumber>
     </MainItem>
   </ItemGroup>

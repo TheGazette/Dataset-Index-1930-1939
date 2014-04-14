@@ -5,7 +5,9 @@
       <Key>Withers</Key>
       <Title>Sir</Title>
       <Forenames>John James</Forenames>
-      <Text>, M.P. for Cambridge University</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7496</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
     <MainItem>
       <Key>Womersley</Key>
       <Forenames>Walter James</Forenames>
-      <Text>, M.P. for Grimsby</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7499</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,8 +41,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>The Rt</Forenames>
-      <Text>. Hon! Sir Howard Kingsley, Kt., . M.P. for Woolwich, West</Text>
+      <Title>The Rt.</Title>
+      <Forenames>Hon</Forenames>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +54,9 @@
       <Key>Woods</Key>
       <Title>The Rev.</Title>
       <Forenames>George Saville</Forenames>
-      <Text>, M.P. for Pinsbury</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -72,7 +81,9 @@
     <MainItem>
       <Key>Wragg</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.P. for Belper</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7497</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +104,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>Arthur Stewart Leslie</Forenames>
-      <Text>, M.P. for Partick</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -104,7 +117,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, Kt.; O.B.E., M.P. for Newton</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7500</PageNumber>
     </MainItem>
     <SubItem>
@@ -132,7 +148,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baker</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6377</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +226,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bois</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>7225</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +379,9 @@
       <Key>Cunyngham</Key>
       <Title>Sir</Title>
       <Forenames>C. K</Forenames>
-      <Text>D., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +956,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ponsonby</Key>
-      <Text>. H. C. ... '</Text>
+      <Forenames>H. C.</Forenames>
+      <Text>... '</Text>
       <PageNumber>6299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1023,7 +1042,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott-Elliot</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>7671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,7 +1086,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swynnerton</Key>
-      <Text>. C. R. A</Text>
+      <Forenames>C. R. A.</Forenames>
       <PageNumber>6471</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1102,7 +1121,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thnrburn</Key>
-      <Text>. R, G</Text>
+      <Forenames>R</Forenames>
+      <Text>, G</Text>
       <PageNumber>7510</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1385,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6472</PageNumber>
     </MainItem>
   </ItemGroup>

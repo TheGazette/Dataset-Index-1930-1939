@@ -526,8 +526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greer</Key>
-      <Forenames>H. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>H. O'B</Forenames>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,8 +680,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamersley</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>7698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Text>Sir S. W</Text>
+      <Title>Sir</Title>
+      <Forenames>S. W</Forenames>
       <PageNumber>8224</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1169,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hook</Key>
-      <Text>R J</Text>
+      <Forenames>R</Forenames>
+      <Text>J</Text>
       <PageNumber>8316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1229,8 +1229,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howells</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>7869</PageNumber>
     </MainItem>
   </ItemGroup>

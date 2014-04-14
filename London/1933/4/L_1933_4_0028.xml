@@ -244,7 +244,7 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Text>G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,7 +827,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Biggs</Key>
-      <Text>A. J</Text>
+      <Forenames>A. J</Forenames>
       <PageNumber>6526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +903,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodie</Key>
-      <Text>A. J. G \</Text>
+      <Forenames>A. J. G</Forenames>
+      <Text>\</Text>
       <PageNumber>7109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,7 +918,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Booth</Key>
-      <Text>C. F</Text>
+      <Forenames>C. F.</Forenames>
       <PageNumber>6612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1222,7 +1223,9 @@
       <Key>Byass</Key>
       <Title>Sir</Title>
       <Forenames>G. R. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1778,8 +1781,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crowdy</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>7282</PageNumber>
     </MainItem>
   </ItemGroup>

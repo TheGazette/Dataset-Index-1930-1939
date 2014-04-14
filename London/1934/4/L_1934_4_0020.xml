@@ -62,7 +62,11 @@
     <MainItem>
       <Key>Hanbury-Williams</Key>
       <Title>Maj.</Title>
-      <Text>Gen. Sir John, G.C.V.O., K.C.B., C.M.G., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +74,9 @@
     <MainItem>
       <Key>Hanworth</Key>
       <Forenames>Ernest Murray</Forenames>
-      <Text>, Baron, K.C.B.E., Member, Royal Commission on the King's Bench Division ..:</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +94,9 @@
       <Key>Heath</Key>
       <Title>Sir</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, G. B.E., K.C.B., Member of the Governing Body of the Imperial College of Science and Technology</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>8437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +130,12 @@
     <MainItem>
       <Key>Hore-Ruthven</Key>
       <Title>Brig.</Title>
-      <Text>-General the Hon. Sir Alexander Gore Arkwright, V.C, K.C.M.G., C.B., D.S.O., Governor of New South Wales and its Dependencies</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +149,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hotham</Key>
-      <Text>'.Admiral Alan Geoffrey, C.B., C.M.G., Gentleman Usher of the Blue Road, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +168,9 @@
     <MainItem>
       <Key>Jack</Key>
       <Forenames>Henry Walton</Forenames>
-      <Text>, M.B.E., Nominated . Member, Legislative Council, Colony of Fiji</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,16 +242,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade-Fetherstonhaugh</Key>
-      <Forenames>Ad-</Forenames>
-      <Text>miral the Hon. Sir Herbert, G.C.V.O., C.B., D.S.O., Extra Equerry to His Majesty The King</Text>
+      <Title>Ad-</Title>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8121</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Micklethwait</Key>
-      <Title>St.</Title>
-      <Forenames>John Gore</Forenames>
+      <Forenames>St. John Gore</Forenames>
       <Text>, K.C., Deputy Chairman, Middlesex Quarter Sessions</Text>
       <PageNumber>6549</PageNumber>
     </MainItem>
@@ -258,7 +279,9 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Henry Monck-Mason</Forenames>
-      <Text>, C.M.G., Governor and Commander-in-Chief of Colony of Sierra Leone</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6981</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +330,9 @@
     <MainItem>
       <Key>Paget-Cooke</Key>
       <Forenames>Oliver Dayrell Paget</Forenames>
-      <Text>, M.V.O., Comptroller of H.R.H. Princess Beatrice's Household</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8121</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +356,10 @@
     <MainItem>
       <Key>Peel</Key>
       <Forenames>William Robert Wellesley</Forenames>
-      <Text>, Earl, K.G.S.I., K.G.B.E., T.D., Chairman, Royal Commission on the King's Bench Division</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +393,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +461,9 @@
     <MainItem>
       <Key>Rennell</Key>
       <Title>Rt. Hon. Lord</Title>
-      <Text>, G. C. B., G. C. M. G., .G.C.V.O., Member of the Council of the British School at Rome</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +487,9 @@
       <Key>Robinson</Key>
       <Title>Sir</Title>
       <Forenames>Roy Lister</Forenames>
-      <Text>, O.B.E., Chairman, Forestry Commission</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +517,9 @@
       <Key>Rodger</Key>
       <Title>Sir</Title>
       <Forenames>Alexander</Forenames>
-      <Text>, O.B.E., Forestry Commissioner</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -507,7 +543,9 @@
     <MainItem>
       <Key>Safford</Key>
       <Forenames>Archibald</Forenames>
-      <Text>, M.C., Recorder of the Borough of Faversham</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6860</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +562,9 @@
       <Key>Schuster</Key>
       <Title>Sir</Title>
       <Forenames>Claud</Forenames>
-      <Text>, K.G.B., C.V.O., K.C.,. Member, Royal Commission on the King's Bench Division</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +604,9 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Knighted</Forenames>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +650,9 @@
       <Key>Stanley</Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, K.C.M.G., Governor and Commander in Chief, Colony of Southern Rhodesia</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7925</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +661,9 @@
       <Key>Steel</Key>
       <Title>Major</Title>
       <Forenames>Samuel Strang</Forenames>
-      <Text>, T.D., Forestry Commissioner</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +704,9 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>John Dinald</Forenames>
-      <Text>, C.B.E., Forestry Commissioner</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>

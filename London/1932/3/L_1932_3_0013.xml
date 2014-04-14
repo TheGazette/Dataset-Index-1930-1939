@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Binyon</Key>
       <Forenames>Robert Laurence</Forenames>
-      <Text>, C.H., Keeper of the Department of Prints and Drawings, British iMuseum</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +31,11 @@
       <Key>Buzzard</Key>
       <Title>Sir</Title>
       <Forenames>Edward Farquhar</Forenames>
-      <Text>, Bt., K.C.V.O., M.D., Physician in Ordinary to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -45,7 +51,9 @@
     <MainItem>
       <Key>Cassidy</Key>
       <Forenames>Maurice Alan</Forenames>
-      <Text>, C.B., M.A., F.R.C.P., Physician Extraordinary to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +69,11 @@
     <MainItem>
       <Key>Cook</Key>
       <Forenames>Albert Ruskin</Forenames>
-      <Text>, C.M.G., O.B.E., M.D., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,7 +82,10 @@
       <Key>Collins</Key>
       <Title>Sir</Title>
       <Forenames>Godfrey Patfison</Forenames>
-      <Text>, K.B.E., C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6243</PageNumber>
     </MainItem>
     <SubItem>
@@ -108,7 +123,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Text>ISir Steuart Spencer, Kt., C.M.G., Governor and Commander in-Chief, Island of St. Helena</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +149,9 @@
     <MainItem>
       <Key>Elliot</Key>
       <Title>Major</Title>
-      <Text>the Rt. Hon. Walter, M.C., Minister of Agriculture and Fisheries</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6243</PageNumber>
       <PageNumber>6244</PageNumber>
     </MainItem>
@@ -165,7 +184,10 @@
     <MainItem>
       <Key>Gilmour</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel the Right Hon. Sir John, Bt., D. S.O., Secretary of State for Home Affairs</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +195,9 @@
     <MainItem>
       <Key>Goodall</Key>
       <Forenames>Edward Basil Her-</Forenames>
-      <Text>bert, M.B.E., Nominated Official Member, Legislative Council, Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +246,10 @@
       <Key>Hutchison</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, K.O.M.G.,, C.B., D.S.O., Baron Hutchison of Montrose</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +264,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Irwin</Key>
-      <Text>the Rt. Hon. Edward Frederick Lindley, Lord, K.G., G.C.S.I., G.C.I.E., President, Board of Education</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>4775</PageNumber>
       <PageNumber>4788</PageNumber>
     </MainItem>
@@ -255,7 +284,10 @@
       <Key>Kellv</Key>
       <Title>Admiral Sir</Title>
       <Forenames>John Donald</Forenames>
-      <Text>, K.C.B.; Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +303,10 @@
     <MainItem>
       <Key>Kingsford-Smith</Key>
       <Forenames>Air Commo-</Forenames>
-      <Text>dore Charles Edward, M.C., A.F.C., knighted</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +387,10 @@
       <Key>Nelson</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>, K.C.I.E., O.B.E., acting Governor, Central Provinces</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,28 +407,34 @@
       <Key>Northmore</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>John Alfred</Forenames>
-      <Text>, K.C.M.G., LL.B., Lieutenant-Governor of Western Australia and Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Peter</Key>
-      <Text>Gregor McGregor, Member,' Executive Council, Island of St. Lucia</Text>
+      <Forenames>Gregor</Forenames>
+      <Text>McGregor, Member,' Executive Council, Island of St. Lucia</Text>
       <PageNumber>5954</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pratt</Key>
-      <Text>John Lhind. Recorder of Bournemouth</Text>
+      <Forenames>John Lhind</Forenames>
+      <Text>. Recorder of Bournemouth</Text>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>R</Key>
-      <Text>ait. Robert Sangster, C.B.E.. M.A.. LL.D.. Member of Board of Trustees of National Library of Scotland ... '</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +450,12 @@
       <Key>Rolleston</Key>
       <Title>Sir</Title>
       <Forenames>Humphrv Daw</Forenames>
-      <Text>, Bt.. G.C.V.O., K.C.B., M.D., Physician Extraordinary to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +466,11 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Round</Forenames>
-      <Text>way, Brig. Gen. Edward Murray Baron, C.M.G., D.S.O., M.V.O., Exon of ' H.M. Body Guard of the Yeomen of the Guard</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4464</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,7 +478,9 @@
     <MainItem>
       <Key>Ryle</Key>
       <Forenames>John Alfred</Forenames>
-      <Text>, M.D., F.R.C.P., Physician to H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +489,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>Robert Russell</Forenames>
-      <Text>, K.C.B., C.S.I., Secretary and Registrar, Imperiial Service Order</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +540,10 @@
       <Key>Storrs</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Ronald</Forenames>
-      <Text>, K.C.M.G., C.B.E., Governor and Commander-inChief, Northern Rhodesia</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +580,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Thomas Shenton Whitelegge</Forenames>
-      <Text>, K.O.M.G., O.B.E., Governor and Commander in Chief, Gold Coast Colony</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +615,10 @@
       <Key>Watson</Key>
       <Title>Admiral Sir</Title>
       <Forenames>Hugh Dudley Richards</Forenames>
-      <Text>, K.C.B., C. V.O., C.B.E., Member of the Royal Patriotic Fund Corporation</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,7 +635,10 @@
       <Key>Young</Key>
       <Title>Major Sir</Title>
       <Forenames>Hubert Winthrop</Forenames>
-      <Text>, Kt., C.M.G., D. S.O., Governor and Commander in Chief, Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +649,9 @@
       </Key>
       <Title>Rev.</Title>
       <Forenames>William Paulin</Forenames>
-      <Text>, M.O., D.O.M., Unofficial Member of the Legislative Council, Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,7 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Badham-Thornhill</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +702,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beddington</Key>
-      <Text>W. R</Text>
+      <Forenames>W. R .</Forenames>
       <PageNumber>6023</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +716,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>J. E. M. -</Text>
+      <Forenames>J. E. M.</Forenames>
+      <Text>-</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>

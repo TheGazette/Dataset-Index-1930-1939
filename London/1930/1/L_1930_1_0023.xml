@@ -5,7 +5,11 @@
       <Key>Butler</Key>
       <Title>Sir</Title>
       <Forenames>Montagu Sherard Dawes</Forenames>
-      <Text>, K.C.S.I., C.B., CLE., C.V.O., O.B.E.., Governor of the Central Provinces, India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +36,9 @@
       <Key>Byatt</Key>
       <Title>Sir .</Title>
       <Forenames>Horace Archer</Forenames>
-      <Text>, K.C.M.G., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +71,9 @@
       <Key>Caldwell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alexander Francis Somerville</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +109,11 @@
       </Key>
       <Title>Admiral</Title>
       <Forenames>Henry Hervey</Forenames>
-      <Text>, C.B., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +123,9 @@
         <KeyDitto>-— ___ ___</KeyDitto>
       </Key>
       <Forenames>Ronald Hugh</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to France</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,7 +166,9 @@
     <MainItem>
       <Key>Cardew</Key>
       <Forenames>Arthur Barrett</Forenames>
-      <Text>, M.B., F.R.C.S., Ed., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +246,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ca</Key>
-      <Text>'ssells, Hugh Hutchison, Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +256,10 @@
     <MainItem>
       <Key>Cassidy</Key>
       <Forenames>Maurice Alan</Forenames>
-      <Text>, C.B., M.A., M.D., B.Ch., F.R.C.P., M.R.C.S., Physician to the Household of H.M. the. King</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1413</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +306,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chenevix</Key>
-      <Text>Trench, Lt.-Col. Richard Henry, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +317,9 @@
       <Key>Chilton</Key>
       <Title>Rev. Preb.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, D.D., Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +360,9 @@
     <MainItem>
       <Key>Chulan</Key>
       <Forenames>Baja</Forenames>
-      <Text>, C.M.G., bin Sultan Abdullah, the Raja di Hilir of Perak, Honorary Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +395,10 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>Ernest</Forenames>
-      <Text>, K.C.B., CB.E., Member of Joint Exchequer Board</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>CB</Honour>
+      </Text>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,7 +417,9 @@
       <Key>Clarke</Key>
       <Title>Col.</Title>
       <Forenames>Astley Vavasour</Forenames>
-      <Text>, M.D., M.R.C.S., L.R.C.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +461,9 @@
     <MainItem>
       <Key>Cluett</Key>
       <Forenames>Alfred William Ayers</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +479,9 @@
     <MainItem>
       <Key>Cohen</Key>
       <Forenames>Leonard Lionel</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +490,10 @@
       <Key>Cole</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Walter George</Forenames>
-      <Text>, C.S.I., C.V.O., O.B.E., Knight</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1574</PageNumber>
     </MainItem>
@@ -475,14 +514,19 @@
       <Key>Colman</Key>
       <Title>Sir</Title>
       <Forenames>Jeremiah</Forenames>
-      <Text>, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Colquhoun</Key>
-      <Text>. Sir Iain, Bt., D.S.O., Ecclesiastical Commissioner for Scotland</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +545,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Wilford</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem Coote, Edward Osborne, First Secretary, in H.M. Diplomatic Service ... ... Coppinger, Lt.-Col. Walter Valentine, D.S.O., M.D., F.R.C.S.I., Companion, Order of the Indian .Umpire Cornish, Henry Dauncey, Judge of the High .Court of Judicature at Madras Cotching, Eva, Mrs., M.B., Member,. Order of the British Empire ... ... Coutts, Mary lnglis Davidson, Mrs., Member, Order of the British .Empire Cox, Frank Nutter, H.M. Consul at San. Jose . . ... Cran, Major Robert David, M.R.C.S L.R.C.P. R.A.M.C' (T), Officer, Order of St. John of Jerusalem Cranston, Janet Dempster, Mrs., Member, Order of the British Empire C r e a g h Osborne, Lt.-Col. Herbert Pearson Officer, Order of the British Empire Crean, Bernard Arthur, Puisne Judge of the Supreme Court of Cyprus</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,7 +559,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Nigel George</Forenames>
-      <Text>, C.B.E., Knight ... ... .... Davies, Francis Maurice. Russell, King's Counsel</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -520,7 +569,10 @@
     <MainItem>
       <Key>Death</Key>
       <Forenames>John Ernest</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... ... Denchfield, . Mrs. Emily Jane Martha, Officer, Order of St. John of Jerusalem ... Denham, Sir, Edward Brandis, K.B.E., C.M.G., Governor and Commander-in-Chief of British Guiana</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1308</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,15 +44,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J .</Forenames>
       <PageNumber>4086</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. J</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. J.</Forenames>
       <PageNumber>4086</PageNumber>
       <PageNumber>4087</PageNumber>
     </MainItem>
@@ -303,8 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>4086</PageNumber>
       <PageNumber>4087</PageNumber>
     </MainItem>
@@ -662,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>G. E. A</Text>
+      <Forenames>G. E. A.</Forenames>
       <PageNumber>2786</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -790,8 +789,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>G. B. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>G. B. St. P</Forenames>
       <PageNumber>2157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,9 +1001,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. C</Text>
+      <Key>de Burgh</Key>
+      <Forenames>F</Forenames>
+      <PageNumber>2330</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Butts</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>2528</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1852,8 +1856,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>H. R. M.</Forenames>
-      <Text>du P</Text>
+      <Forenames>H. R. M. du P</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>

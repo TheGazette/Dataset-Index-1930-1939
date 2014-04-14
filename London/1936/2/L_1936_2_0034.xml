@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Michils</Key>
       <Forenames>Austin Clement</Forenames>
-      <Text>, Member 5th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +41,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Robert Baird</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +51,9 @@
     <MainItem>
       <Key>Milne</Key>
       <Forenames>Robert Baird</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +64,10 @@
       </Key>
       <Title>Colonel (temp. Brigadier)</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +83,10 @@
     <MainItem>
       <Key>Miskin</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel and Brevet Colonel Christopher Harold, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +112,9 @@
       <Key>Moore</Key>
       <Title>Captain</Title>
       <Forenames>Hartley Russell Gwennap</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +124,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Robert Foster</Forenames>
-      <Text>, O.B.E., F.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +135,9 @@
     <MainItem>
       <Key>Morgan</Key>
       <Forenames>Gilbert Thomas</Forenames>
-      <Text>, O.B.E., D.Sc., LL.D., F.I.C, F.R.S., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +145,9 @@
     <MainItem>
       <Key>Moriarty</Key>
       <Forenames>Cecil Charles Hudson</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jersalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +171,9 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>Owen Temple</Forenames>
-      <Text>, M.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -237,7 +260,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Yamin Khan</Forenames>
-      <Text>, CLE., M.L.A., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +304,11 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Colonel. Sir Malcolm Donald, K.C.V.O., C.B., CLE., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +316,9 @@
     <MainItem>
       <Key>Mutta</Key>
       <Forenames>Venkatasubba Rao</Forenames>
-      <Text>, the Hon. Mr. Justice, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +327,9 @@
       <Key>Myers</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Michael</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3436</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +362,10 @@
       <Key>Nelson-Ward</Key>
       <Title>Admiral</Title>
       <Forenames>Philip</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +382,9 @@
     <MainItem>
       <Key>Newbold</Key>
       <Forenames>Eric</Forenames>
-      <Text>, O.B.E., Nominated Unofficial Member, Legislative Council, Straits Settlements</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +418,9 @@
       <Key>Newton</Key>
       <Title>Captain</Title>
       <Forenames>Hibbert Alan Stephen</Forenames>
-      <Text>, M.B., M.S., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +429,10 @@
       <Key>Nicholson</Key>
       <Title>Colonel</Title>
       <Forenames>Arthur Falkner</Forenames>
-      <Text>, T.D., J.P., D.L., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +450,9 @@
     <MainItem>
       <Key>Nixon</Key>
       <Forenames>John Carson</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +460,10 @@
     <MainItem>
       <Key>Noble</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Percy Lockhart Harnam, C.B., C.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +516,9 @@
     <MainItem>
       <Key>Oakes</Key>
       <Forenames>Arthur Podmore</Forenames>
-      <Text>, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,26 +532,31 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, John, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Key>O'Brien</Key>
+      <Forenames>John</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>4015</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, Terence James, K.C, Solicitor-General</Text>
+      <Key>O'Connor</Key>
+      <Forenames>Terence James</Forenames>
+      <Text>, K.C, Solicitor-General</Text>
       <PageNumber>2155</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2976</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, John Chevalier. H.M. Vice-Consul at Munich</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>John Chevalier</Forenames>
+      <Text>. H.M. Vice-Consul at Munich</Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +588,9 @@
     <MainItem>
       <Key>Osborne</Key>
       <Forenames>Francis</Forenames>
-      <Text>DArcy Godolphin, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Holy See</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +624,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>H.E</Forenames>
-      <Text>, Sir Herbert Richmond, K.C.M.G., C.B.E., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +651,10 @@
     <MainItem>
       <Key>Pantin</Key>
       <Forenames>Charles Satchell</Forenames>
-      <Text>, M.D., B.S., F.R.C.S., L.R.C.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4005</PageNumber>
     </MainItem>
   </ItemGroup>

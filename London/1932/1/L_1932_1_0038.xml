@@ -402,8 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClenaghan</Key>
-      <Forenames>H. E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. E. St. G</Forenames>
       <PageNumber>636</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +799,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, H. DeO</Text>
+      <Key>O'Grady</Key>
+      <Forenames>H.</Forenames>
+      <Text>DeO</Text>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1094,8 +1094,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Maur, R. W. M</Text>
+      <Key>St. Maur</Key>
+      <Forenames>R. W. M</Forenames>
       <PageNumber>956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1330,8 +1330,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C D</Text>
+      <Forenames>J. St. C D.</Forenames>
       <PageNumber>1298</PageNumber>
     </MainItem>
   </ItemGroup>

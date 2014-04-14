@@ -210,6 +210,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>du Boiilay</Key>
+      <Forenames>C. J. H</Forenames>
+      <PageNumber>2626</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dunbar</Key>
       <Forenames>R. E. C</Forenames>
       <PageNumber>2707</PageNumber>
@@ -462,8 +469,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Edwards</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ingham</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>4140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,9 +855,8 @@
   <SubSectionTitle>Emergency List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Cane</Forenames>
-      <Text>, P</Text>
+      <Key>Du Cane</Key>
+      <Forenames>P</Forenames>
       <PageNumber>2315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,8 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brooke</Key>
-      <Forenames>R.</Forenames>
-      <Text>de L</Text>
+      <Forenames>R. de L</Forenames>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,8 +1104,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, S. A. G</Text>
+      <Key>St. John</Key>
+      <Forenames>S. A. G</Forenames>
       <PageNumber>3658</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1123,8 +1126,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Forenames>G. C. I. St</Forenames>
-      <Text>. B. S</Text>
+      <Forenames>G. C. I. St. B</Forenames>
+      <Text>. S</Text>
       <PageNumber>4060</PageNumber>
     </MainItem>
   </ItemGroup>

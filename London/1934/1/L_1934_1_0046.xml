@@ -421,8 +421,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hare</Key>
-      <Forenames>I. L. O</Forenames>
-      <Text>'H Harper, C. K. M [</Text>
+      <Forenames>I. L. O'H Harper</Forenames>
+      <Text>, C. K. M [</Text>
       <PageNumber>755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1054,7 +1054,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Munden</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P</Forenames>
       <PageNumber>151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nobbs</Key>
-      <Text>W</Text>
+      <Forenames>W</Forenames>
       <PageNumber>610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,8 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ross-Hurst</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1513,7 +1512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hon</Key>
-      <Text>Sardar Buta Singh</Text>
+      <Forenames>Sardar Buta Singh</Forenames>
       <PageNumber>317</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -598,7 +598,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Summerling</Key>
-      <Text>. H. O</Text>
+      <Forenames>H. O.</Forenames>
       <PageNumber>4271</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1152,9 +1152,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, A. W</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>A. W.</Forenames>
       <PageNumber>4944</PageNumber>
       <PageNumber>5232</PageNumber>
     </MainItem>
@@ -1215,9 +1214,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wales</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Prince of, and Duke of Cornwall</Text>
+      <Title>H.R.H. The Prince</Title>
+      <Text>of, and Duke of Cornwall</Text>
       <PageNumber>5424</PageNumber>
     </MainItem>
   </ItemGroup>

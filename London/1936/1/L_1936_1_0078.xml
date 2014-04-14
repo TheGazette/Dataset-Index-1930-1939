@@ -150,14 +150,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Langley</Key>
-      <Text>, B/Ose and W. E. White</Text>
+      <Forenames>B</Forenames>
+      <Text>/Ose and W. E. White</Text>
       <PageNumber>932</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lansdowne</Key>
-      <Forenames>Laundry</Forenames>
+      <Title>Laundry .</Title>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>La</Key>
-      <Text>.wrance Messer &amp; Co</Text>
+      <Text>wrance Messer &amp; Co</Text>
       <PageNumber>88</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +201,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leavey</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>1928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,21 +573,21 @@
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
-      <Text>.C. Tea Company</Text>
+      <Forenames>C. Tea Company</Forenames>
       <PageNumber>92</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>O</Key>
-      <Text>.D. Circulating Library</Text>
+      <Forenames>D. Circulating Library</Forenames>
       <PageNumber>1777</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell &amp; Brocksopp</Text>
+      <Key>O'Connell</Key>
+      <Text>&amp; Brocksopp</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +843,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reiss</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>90</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -871,8 +872,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rex</Key>
-      <Forenames>Cosmetic Co</Forenames>
-      <Text>. Reynolds, H. D. F. and Francomb</Text>
+      <Forenames>Cosmetic</Forenames>
+      <Text>Co. Reynolds, H. D. F. and Francomb</Text>
       <PageNumber>866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sobells</Key>
-      <Forenames>Stores</Forenames>
+      <Title>Stores .</Title>
       <PageNumber>407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1221,7 +1222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>2106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1254,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Text>(Lancing)</Text>
+      <Title>(Lancing)</Title>
       <PageNumber>2105</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1281,7 +1282,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Timezone</Key>
-      <Forenames>Press</Forenames>
+      <Title>Press .</Title>
       <PageNumber>407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1600,7 +1601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>

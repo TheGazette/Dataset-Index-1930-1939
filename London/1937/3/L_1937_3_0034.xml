@@ -435,8 +435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blackwood</Key>
-      <Forenames>J. N. O</Forenames>
-      <Text>'R</Text>
+      <Forenames>J. N. O'R</Forenames>
       <PageNumber>4818</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,8 +711,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brouard</Key>
-      <Forenames>N. H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>N. H. de C</Forenames>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1142,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christie</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P.</Forenames>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1809,8 +1807,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Forenames>D. T. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>D. T. St. H</Forenames>
       <PageNumber>4956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1860,6 +1857,13 @@
       <Forenames>Laszlo</Forenames>
       <Text>, J. A</Text>
       <PageNumber>6021</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>C. R.</Forenames>
+      <PageNumber>5330</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -1006,8 +1006,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forsyth</Key>
-      <Forenames>P. W.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. W. de B</Forenames>
       <PageNumber>5678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,8 +1578,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gower</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C. C</Text>
+      <Forenames>D. de C</Forenames>
+      <Text>. C</Text>
       <PageNumber>4815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1798,7 +1797,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hain</Key>
-      <Text>.R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>4539</PageNumber>
     </MainItem>
   </ItemGroup>

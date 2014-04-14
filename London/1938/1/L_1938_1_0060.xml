@@ -127,7 +127,9 @@
       <Key>Sturdee</Key>
       <Title>Sir</Title>
       <Forenames>L. A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +153,9 @@
       <Key>Sturdee</Key>
       <Title>Sir</Title>
       <Forenames>L. A. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>289</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +529,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Orpen</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. F. St. G</Forenames>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,8 +960,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. E</Forenames>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarke</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W</Forenames>
       <PageNumber>435</PageNumber>
     </MainItem>
   </ItemGroup>

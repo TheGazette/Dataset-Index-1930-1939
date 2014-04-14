@@ -228,7 +228,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reed</Key>
-      <Text>G. K. F</Text>
+      <Forenames>G. K. F.</Forenames>
       <PageNumber>5873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roch</Key>
-      <Text>H. S Roche, V. W</Text>
+      <Forenames>H. S</Forenames>
+      <Text>Roche, V. W</Text>
       <PageNumber>5723</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,8 +700,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roxburghe</Key>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>The Duke</Title>
+      <Text>of</Text>
       <PageNumber>5659</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +774,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Sale</Key>
-      <Text>R. E. \V</Text>
+      <Forenames>R. E.</Forenames>
+      <Text>\V</Text>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -905,7 +907,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1322,8 +1326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smilev</Key>
-      <Forenames>D.</Forenames>
-      <Text>de C</Text>
+      <Forenames>D. de C</Forenames>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1665,8 +1668,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>K.</Forenames>
-      <Text>de P</Text>
+      <Forenames>K. de P</Forenames>
       <PageNumber>5660</PageNumber>
     </MainItem>
   </ItemGroup>

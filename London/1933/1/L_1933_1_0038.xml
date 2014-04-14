@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerr</Key>
-      <Text>A. B</Text>
+      <Forenames>A. B.</Forenames>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,8 +106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>C.</Forenames>
-      <Text>de W</Text>
+      <Forenames>C. de W</Forenames>
       <PageNumber>1019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +277,9 @@
       <Key>Leighton</Key>
       <Title>Sir</Title>
       <Forenames>R. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1469,8 +1470,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Lone, R. J</Text>
+      <Key>O'Lone</Key>
+      <Forenames>R. J</Forenames>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>

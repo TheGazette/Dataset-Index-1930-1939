@@ -203,8 +203,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, M'</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>M</Forenames>
+      <Text>'</Text>
       <PageNumber>4362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,7 +1101,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, C. E. F</Text>
+      <Forenames>John</Forenames>
+      <Text>, C. E. F</Text>
       <PageNumber>5231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1491,7 +1493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Agar</Key>
-      <Text>. J. R. S</Text>
+      <Forenames>J. R. S .</Forenames>
       <PageNumber>4644</PageNumber>
     </MainItem>
   </ItemGroup>

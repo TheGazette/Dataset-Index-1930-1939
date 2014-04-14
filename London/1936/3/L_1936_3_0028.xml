@@ -63,8 +63,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ford</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L. W</Text>
+      <Forenames>C. de L</Forenames>
+      <Text>. W</Text>
       <PageNumber>4314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +473,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Garside</Key>
-      <Text>B. R, D</Text>
+      <Forenames>B. R</Forenames>
+      <Text>, D</Text>
       <PageNumber>5598</PageNumber>
     </MainItem>
   </ItemGroup>

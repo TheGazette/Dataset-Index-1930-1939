@@ -14,7 +14,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Colin Keppel</Forenames>
-      <Text>, C.I.E., O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
     <MainItem>
       <Key>Davies</Key>
       <Forenames>Alphonson William James</Forenames>
-      <Text>, I.S.O., M.B.E, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -43,7 +47,9 @@
       </Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>Harold Maldwyn</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,14 +86,25 @@
     <MainItem>
       <Key>Dawe</Key>
       <Forenames>Arthur James</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Ville Es Offrans</Forenames>
+      <Key>de Juan</Key>
+      <Title>Miss</Title>
+      <Forenames>Mary Josephine</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>3701</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De La</Key>
+      <Forenames>Ville Es Offrans</Forenames>
       <Text>, Rene, Mrs. Maingard, Member, Order of the British Empire</Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
@@ -97,7 +114,10 @@
       <Key>Debono</Key>
       <Title>the Hon.</Title>
       <Forenames>Peter Paul</Forenames>
-      <Text>, M.D., F.R.C.S., D.P.H., Officer, Order oi St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +175,9 @@
       <Key>Denton</Key>
       <Title>Asst. Surg. 4th CI.</Title>
       <Forenames>Ernest Percival</Forenames>
-      <Text>, Member, Order of the British Empire Dexter, Lt. Norman Lloyd, M.C.,' Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +193,9 @@
     <MainItem>
       <Key>Dickens</Key>
       <Forenames>William Samuel</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +214,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Alfred</Forenames>
-      <Text>, M.C., Nominated Official Member of the Legislative Council of Northern Rhodesia ... ... Ditton, Maj. Maurice Alfred Hugh, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +224,9 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>Francis Netherwood</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +239,15 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Percy Cunningham</Forenames>
-      <Text>, Officer, Order of the . British Empire ... Douglas-Matheson, Lt.-Col. Neil William, D.S.O., M.C., Officer, Order of St. John of Jerusalem ... ... Dow, Miss Catherine Smart, Member, Order of the British Empire Dowding, Rear-Admiral Arthur Ninian, Companion, Order of the Bath Drayton, Henry James, Serving Brother, Order of St. John of Jerusalem ... ... Dredge, Capt. Allen Lancelot Austin, H.M. Vice-Consul at Zahidan ... ... ___ ___ Drummond, ~Col. the Hon. Maurice Charles Andrew, C.M.G., D.S.O., Officer, Order of St. John of Jerusalem D'Souza, Nolasco Peter, Member, Order of the British Empire Dudley, the Earl of, M.C., T.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>407</PageNumber>
     </MainItem>
     <SubItem>
@@ -231,7 +267,9 @@
       <PageNumber>4071</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Edward-Collins, Col. (temp. Brig.) Gerald, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </SubItem>
     <SubItem>

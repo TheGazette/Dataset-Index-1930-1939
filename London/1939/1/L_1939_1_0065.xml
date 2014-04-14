@@ -618,8 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyster</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. L. St. G</Forenames>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,8 +880,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>S. St. L</Forenames>
       <PageNumber>2168</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,6 +931,13 @@
     <MainItem>
       <Key>Clarke</Key>
       <Forenames>C. P</Forenames>
+      <PageNumber>56</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>F. S. W</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1026,8 +1031,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burton</Key>
-      <Forenames>R.</Forenames>
-      <Text>de H</Text>
+      <Forenames>R. de H</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1184,8 +1188,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kitcat</Key>
-      <Forenames>J. P.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. P. de W</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1261,8 +1264,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin, C. F. W</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>C. F. W.</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1412,8 +1415,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentice</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,8 +1509,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, D. P</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>D. P.</Forenames>
       <PageNumber>2090</PageNumber>
     </MainItem>
   </ItemGroup>

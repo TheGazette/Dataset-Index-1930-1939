@@ -33,7 +33,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>McKellar, O.B.E., V.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>50</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +95,10 @@
       <Key>Romer</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Cecil Francis</Forenames>
-      <Text>, K.C.B., K.B.E C.M.G., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +106,9 @@
     <MainItem>
       <Key>Ronald</Key>
       <Forenames>Nigel Bruce</Forenames>
-      <Text>, O.M.G., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -109,7 +116,9 @@
     <MainItem>
       <Key>Roper</Key>
       <Forenames>Edgar Stanley</Forenames>
-      <Text>, M.V.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +146,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>Roderick</Forenames>
-      <Text>, C.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +183,13 @@
       <Key>Ruggles-Brise</Key>
       <Title>Col.</Title>
       <Forenames>Edward Archibald</Forenames>
-      <Text>, M.C., T.D., J.P., D.L., M.P., Baronet . lj</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +221,9 @@
     <MainItem>
       <Key>Sandlands</Key>
       <Forenames>Paul Ernest</Forenames>
-      <Text>, O.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +265,9 @@
       <Key>Saunders</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Macan</Forenames>
-      <Text>, D.S.O., Com. panion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,14 +335,18 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Henderson</Forenames>
-      <Text>, M.I.C.B., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sef</Key>
-      <Text>ton-Cohen, Arthur, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +389,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Reginald Henry</Forenames>
-      <Text>, O.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +441,10 @@
     <MainItem>
       <Key>Shorto</Key>
       <Forenames>William Alfred Thomas</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +461,13 @@
       <Key>Shute</Key>
       <Title>Col.</Title>
       <Forenames>John Joseph</Forenames>
-      <Text>, C.M.G.,' . D.S.O., T.D., J.P., D.L., M.P., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -457,7 +494,11 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Col Frank Robert</Forenames>
-      <Text>, T.D., J.P., D.L., Baronet</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>838</PageNumber>
     </MainItem>
@@ -468,7 +509,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Henry Antony, D.S.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Skeete</Key>
-      <Text>. Edward Brathwaite, Officer, Order of the British Empire</Text>
+      <Forenames>Edward Brathwaite</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +553,9 @@
       <Key>Smith</Key>
       <Title>Sir</Title>
       <Forenames>Charles George</Forenames>
-      <Text>, K.C.M.G., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +628,10 @@
     <MainItem>
       <Key>Somerville</Key>
       <Forenames>Rear-Adml</Forenames>
-      <Text>. James Fownes, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +671,9 @@
     <MainItem>
       <Key>Spencer-Churchill</Key>
       <Forenames>Augusta</Forenames>
-      <Text>, Lady Edward, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +689,10 @@
     <MainItem>
       <Key>Spriggs</Key>
       <Forenames>Edmund Ivens</Forenames>
-      <Text>, M.D., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +716,9 @@
     <MainItem>
       <Key>Stafford</Key>
       <Forenames>Northcote</Forenames>
-      <Text>, Geoffry Alexander, C.M.G., Governor and Commander-inOhief, Colony of British Guiana</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +727,9 @@
       <Key>Stamp</Key>
       <Title>Sir</Title>
       <Forenames>Josiah</Forenames>
-      <Text>, G.B.E., D.Sc, Sc.D.. LL.D., F.B.A., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +744,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stanley</Key>
-      <Text>the Lady Beatrix Taylonr, C.B.E., Imperial Order of the . Crown of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,14 +769,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Steel</Key>
-      <Text>. Air Marshal Sir John Miles. K.B.E., C.B., C.M.G., Knight Commander, Order of tihe Bath ... ;</Text>
+      <Forenames>Air Marshal</Forenames>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sterjhen</Key>
-      <Text>. Colin Campbell, ': Knight...'</Text>
+      <Forenames>Colin Campbell</Forenames>
+      <Text>, ': Knight...'</Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>

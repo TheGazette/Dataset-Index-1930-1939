@@ -45,7 +45,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Aubyn, C. E</Text>
+      <Forenames>Aubyn</Forenames>
+      <Text>, C. E</Text>
       <PageNumber>6561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,8 +233,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>J.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>6338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -573,8 +573,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Forenames>M. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. J. de C</Forenames>
       <PageNumber>8176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -708,8 +707,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fitzgerald</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>M. O'B</Forenames>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,8 +1329,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hill</Key>
-      <Forenames>A. P. St</Forenames>
-      <Text>. K</Text>
+      <Forenames>A. P. St. K</Forenames>
       <PageNumber>7266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,7 +1480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Briscoe</Key>
-      <Text>. J. D. M</Text>
+      <Forenames>J. D. M.</Forenames>
       <PageNumber>6633</PageNumber>
     </MainItem>
   </ItemGroup>

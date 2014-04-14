@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Wimperis</Key>
       <Forenames>Harry Egerton</Forenames>
-      <Text>, O.B.E., M.A., F.R.A.E.S., M.I.E.E., Companion^ Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -12,7 +14,9 @@
     <MainItem>
       <Key>Winfrey</Key>
       <Forenames>William Constantine</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -20,7 +24,9 @@
     <MainItem>
       <Key>Winstanley</Key>
       <Forenames>Herbert</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +58,10 @@
     <MainItem>
       <Key>Wohlmann</Key>
       <Forenames>Ward George</Forenames>
-      <Text>, I.S.O., Member Royal Victorian Order</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +99,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John Calder</Forenames>
-      <Text>, M.C., Nominated Official Member of Legislative Council of Nigeria</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2512</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +155,9 @@
     <MainItem>
       <Key>Worthington</Key>
       <Forenames>John Vigors</Forenames>
-      <Text>, M.R.C.S., L.R.C.P., M.P., Knight ... .:</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +175,9 @@
     <MainItem>
       <Key>Wortley</Key>
       <Forenames>Edward Jocelyn</Forenames>
-      <Text>, O.B.E., . Companion,. Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +220,9 @@
       </Key>
       <Title>Fit. Lt.</Title>
       <Forenames>Frank Nesbitt</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +230,9 @@
     <MainItem>
       <Key>Wyatt</Key>
       <Title>Reg. St.</Title>
-      <Text>-Maj. John, D.C.M.. Member, Order ' of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +249,9 @@
       <Key>Young</Key>
       <Title>Hon.</Title>
       <Forenames>James Alexan-</Forenames>
-      <Text>der, Knight Commander, , Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +272,9 @@
         <KeyDitto>___ —-</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>, C.B., Knight ... Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +283,10 @@
       <Key>Zanzibar</Key>
       <Title>H.H. Seyyid .</Title>
       <Forenames>Khalifa</Forenames>
-      <Text>bin Harub, Sultan of, K.C.M.G., K.B.E., Hon. Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +466,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>Cunyngham</Forenames>
-      <Text>,, Sir C. K., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,7 +1043,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Moscardi</Key>
-      <Text>H.. L. ... ...-</Text>
+      <Forenames>H.</Forenames>
+      <Text>. L. ... ...-</Text>
       <PageNumber>3222</PageNumber>
     </MainItem>
   </ItemGroup>

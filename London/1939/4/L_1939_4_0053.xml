@@ -564,7 +564,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7111</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,15 +1256,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, M. J</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>7861</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Clair-Johnson, N. F</Text>
+      <Key>St. Clair-Johnson</Key>
+      <Forenames>N. F.</Forenames>
       <PageNumber>8024</PageNumber>
       <PageNumber>8090</PageNumber>
     </MainItem>
@@ -1279,29 +1281,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, P. I</Text>
+      <Key>St. George</Key>
+      <Forenames>P. I.</Forenames>
       <PageNumber>8245</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>John, E. C</Text>
+      <Forenames>John</Forenames>
+      <Text>, E. C</Text>
       <PageNumber>8576</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Lawrence, R. V</Text>
+      <Key>St. Lawrence</Key>
+      <Forenames>R. V.</Forenames>
       <PageNumber>7868</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintin, L. E</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>L. E.</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Browett</Key>
       <Forenames>Leonard</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +25,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., Sheriff Substitute at Kirkwall</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +37,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., Sheriff Substitute of Ross, Cromarty, and Sutherland</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,8 +58,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. George Francis Graham, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>George Francis Graham</Forenames>
+      <Text>, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,7 +89,10 @@
       <Key>Browning</Key>
       <Title>Adm. Sir</Title>
       <Forenames>Mon-</Forenames>
-      <Text>tague Edward, G.C.B., G. C. M. G., M. V. O. Knight Grand Cross, Royal Victorian Order „</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +100,9 @@
     <MainItem>
       <Key>Brownlee</Key>
       <Forenames>John Innes</Forenames>
-      <Text>, M.B., D.S.O., V.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -97,7 +110,10 @@
     <MainItem>
       <Key>Bruce</Key>
       <Forenames>Charles Matthews</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +121,9 @@
     <MainItem>
       <Key>Buchanan</Key>
       <Forenames>Andrew Sinclair</Forenames>
-      <Text>, Member 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +140,9 @@
       <Key>Buckmaster</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Stanley Owen</Forenames>
-      <Text>, Baron, G.C.V.O., Viscount Buckmaster of Cheddington</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>1355</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +175,9 @@
     <MainItem>
       <Key>Cadbury</Key>
       <Forenames>Elizabeth Mary</Forenames>
-      <Text>, Mrs., O.B.E., Officer, Order of St John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +194,9 @@
     <MainItem>
       <Key>Camden</Key>
       <Forenames>John Charles</Forenames>
-      <Text>, The Marquess, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +204,10 @@
     <MainItem>
       <Key>Cameron</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Archibald Rice, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +274,9 @@
     <MainItem>
       <Key>Chadwick</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +294,9 @@
       <Key>Cheethain</Key>
       <Title>Maj. (Commissary)</Title>
       <Forenames>Henry Joseph</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +305,9 @@
       <Key>Chitty</Key>
       <Title>Col.</Title>
       <Forenames>Walter Willis</Forenames>
-      <Text>, . C.M.G., CLE., Commander, Royal Victorian Ordor</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +348,9 @@
     <MainItem>
       <Key>Clarkson</Key>
       <Forenames>Frank Cecil</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,15 +359,20 @@
       <Key>Clauson</Key>
       <Title>Capt.</Title>
       <Forenames>Gerard Leslie Makins</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Clayton</Key>
-      <Forenames>The Reverend Philip Thomas Byard</Forenames>
-      <Text>, M.C., M.A., F.S.A., Member, Order of the Companions of Honour</Text>
+      <Title>The</Title>
+      <Forenames>Reverend Philip Thomas Byard</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +396,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbett</Key>
-      <Text>Walter Willson, F.R.C.M., Commander, Order of the British Em, pire</Text>
+      <Forenames>Walter Willson</Forenames>
+      <Text>, F.R.C.M., Commander, Order of the British Em, pire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +423,10 @@
       <Key>Cole-Hamilton</Key>
       <Title>Colonel</Title>
       <Forenames>Claud George</Forenames>
-      <Text>, C.M.G., D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +460,11 @@
     <MainItem>
       <Key>Colvin</Key>
       <Forenames>George Lethbridge</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +491,10 @@
       <Key>Cooper</Key>
       <Title>Harry .</Title>
       <Forenames>Gordon</Forenames>
-      <Text>, M.B.E., MB., M.R.C.S., L.B.C.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -484,7 +535,10 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Mary Elizabeth</Forenames>
-      <Text>, Officer, Order of St. . John of Jerusalem ... Davis, Miss Elizabeth Date, Member, Order of the British Empire ... ... Dawson. Lt.-Col. Frederick Walter Whitney, M.B., Serving Brother, Order of St. John of Jerusalem... Day, John Hanks, Member, Order of the British Empire ... ... ... ... De Chair, Admiral Sir Dudley Rawson Stratford K.C.B., M.V.O., Knight . Commander, Order of St. Michael and St. George De Grasse, . William Bruce Mortimer, Unofficial Member of the Executive Council of Saint Christopher and Nevis ... ... de Lafontaine, Alfred Cart, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
     <SubItem>

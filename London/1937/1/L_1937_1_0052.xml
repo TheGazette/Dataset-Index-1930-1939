@@ -1085,7 +1085,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Text>. E. M</Text>
+      <Forenames>E. M .</Forenames>
       <PageNumber>1416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1744,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Burch</Key>
-      <Text>. A. V. E</Text>
+      <Forenames>A. V. E.</Forenames>
       <PageNumber>1644</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1887,8 +1887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Camden</Key>
-      <Forenames>The</Forenames>
-      <Text>Marquis</Text>
+      <Title>The Marquis .</Title>
       <PageNumber>1258</PageNumber>
     </MainItem>
   </ItemGroup>

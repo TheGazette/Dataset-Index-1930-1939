@@ -19,7 +19,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fielden</Key>
-      <Text>E. H</Text>
+      <Forenames>E. H</Forenames>
       <PageNumber>5794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +757,9 @@
       <Key>Hope</Key>
       <Title>Sir</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5793</PageNumber>
       <PageNumber>6078</PageNumber>
     </MainItem>
@@ -1320,8 +1322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leahy</Key>
-      <Forenames>D. F. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>D. F. O'M</Forenames>
       <PageNumber>5795</PageNumber>
     </MainItem>
   </ItemGroup>

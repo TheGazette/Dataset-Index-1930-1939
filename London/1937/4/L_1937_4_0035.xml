@@ -276,7 +276,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jones</Key>
-      <Text>. B. O</Text>
+      <Forenames>B. O.</Forenames>
       <PageNumber>6082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,8 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>H.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. de N</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -983,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reyne</Key>
-      <Forenames>G. Van R.</Forenames>
+      <Forenames>G. Van R</Forenames>
       <PageNumber>6705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1799,7 +1798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dver</Key>
-      <Text>. J. C</Text>
+      <Forenames>J. C.</Forenames>
       <PageNumber>6515</PageNumber>
     </MainItem>
   </ItemGroup>

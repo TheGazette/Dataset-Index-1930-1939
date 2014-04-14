@@ -631,8 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Atthill</Key>
-      <Forenames>H.</Forenames>
-      <Text>de S</Text>
+      <Forenames>H. de S</Forenames>
       <PageNumber>3022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,7 +1495,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>B. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1634,15 +1635,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulman</Key>
-      <Text>P</Text>
+      <Forenames>P.</Forenames>
       <PageNumber>3639</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>N. L. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>N. L. St. P</Forenames>
       <PageNumber>3351</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -268,7 +268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lake-A</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +340,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Leckie-Ewing</Key>
-      <Text>. R. -W</Text>
+      <Forenames>R.</Forenames>
+      <Text>-W</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +384,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>. A. H. W</Text>
+      <Forenames>A. H. W.</Forenames>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +500,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockhart</Key>
-      <Text>. G.. E</Text>
+      <Forenames>G.</Forenames>
+      <Text>. E</Text>
       <PageNumber>615</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -799,7 +801,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Massey</Key>
-      <Text>. N. A. E</Text>
+      <Forenames>N. A. E.</Forenames>
       <PageNumber>303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,7 +877,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Medcalf</Key>
-      <Text>. S. A</Text>
+      <Forenames>S. A.</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -977,7 +979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moleswortb</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B.</Forenames>
       <PageNumber>1095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nash</Key>
-      <Text>. R. D .. .-</Text>
+      <Forenames>R. D .</Forenames>
+      <Text>. .-</Text>
       <PageNumber>1272</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1244,8 +1247,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Wi</Text>
+      <Key>O'Brien</Key>
+      <Title>Wi .</Title>
       <PageNumber>774</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1273,8 +1276,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, L.' J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>L.</Forenames>
+      <Text>' J</Text>
       <PageNumber>1022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1717,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quantr</Key>
-      <Text>.ill, A. F</Text>
+      <Text>ill, A. F</Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>

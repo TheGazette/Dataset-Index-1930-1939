@@ -490,8 +490,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Johnston, J. H</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>J. H.</Forenames>
       <PageNumber>5696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +558,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaftoe</Key>
-      <Text>H. I</Text>
+      <Forenames>H. I.</Forenames>
       <PageNumber>4560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -822,8 +822,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steadman</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>4866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1639,8 +1638,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>The Earl</Title>
+      <Text>of</Text>
       <PageNumber>5436</PageNumber>
     </MainItem>
   </ItemGroup>

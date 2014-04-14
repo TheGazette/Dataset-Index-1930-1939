@@ -318,8 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +730,9 @@
       <Key>Chetwode</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -756,7 +757,9 @@
       <Key>Oheyne</Key>
       <Title>Sir</Title>
       <Forenames>J. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>368</PageNumber>
       <PageNumber>442</PageNumber>
     </MainItem>
@@ -780,7 +783,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1378,7 +1383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>CrimminjG</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>1256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1406,8 +1411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Croker</Key>
-      <Forenames>E. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>E. J. O'B</Forenames>
       <PageNumber>673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1648,8 +1652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daunt</Key>
-      <Forenames>W. J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>W. J. O'B</Forenames>
       <PageNumber>1859</PageNumber>
       <PageNumber>1859</PageNumber>
     </MainItem>
@@ -1812,6 +1815,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>E. B</Forenames>
+      <PageNumber>2041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mnralt</Key>
+      <Forenames>E. H. M</Forenames>
+      <PageNumber>744</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>H. W.</Forenames>
       <PageNumber>50</PageNumber>
@@ -1887,8 +1904,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devereux</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>442</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -26,7 +26,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chappelow</Key>
-      <Forenames>Leonard</Forenames>
+      <Title>Leonard .</Title>
       <PageNumber>8346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +42,9 @@
       <Key>Charles</Key>
       <Title>Sir.</Title>
       <Forenames>Richard Have-</Forenames>
-      <Text>lock, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cherry</Key>
-      <Forenames>Aaron</Forenames>
+      <Title>Aaron .</Title>
       <PageNumber>7310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -66,7 +68,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Maria</Forenames>
+      <Title>Maria .</Title>
       <PageNumber>8260</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +82,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Child</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>8089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +119,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Church</Key>
-      <Forenames>Abraham</Forenames>
+      <Title>Abraham .</Title>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +340,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cochrane</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>6590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coole</Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>7389</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +634,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cotton</Key>
-      <Text>,Charles. . Cathrow Carne</Text>
+      <Text>Charles. . Cathrow Carne</Text>
       <PageNumber>7567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1022,7 +1024,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davidson</Key>
-      <Forenames>Israel</Forenames>
+      <Title>Israel .</Title>
       <PageNumber>8477</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,7 +1152,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawe</Key>
-      <Forenames>Eliza</Forenames>
+      <Title>Eliza .</Title>
       <PageNumber>7576</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1216,6 +1218,13 @@
       <Key>Dayer</Key>
       <Forenames>Caroline Alberta</Forenames>
       <PageNumber>7118</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Buisseret</Key>
+      <Title>Francois .</Title>
+      <PageNumber>8005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1323,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Devall</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>7220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1411,7 +1420,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dixon</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>7049</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1541,7 +1550,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Draper</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>7117</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1632,7 +1641,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunderdale</Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>8015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Earles</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1744,7 +1753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eastwood</Key>
-      <Forenames>Susanna</Forenames>
+      <Title>Susanna .</Title>
       <PageNumber>8170</PageNumber>
     </MainItem>
   </ItemGroup>

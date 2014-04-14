@@ -371,7 +371,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,8 +511,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guille</Key>
-      <Forenames>J. D.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. D. de C</Forenames>
       <PageNumber>7501</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,8 +595,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>C.</Forenames>
-      <Text>de V</Text>
+      <Forenames>C. de V</Forenames>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -803,7 +803,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hayne</Key>
-      <Text>R. H. R</Text>
+      <Forenames>R. H. R</Forenames>
       <PageNumber>8257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -881,7 +881,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewson</Key>
-      <Text>A. B. M</Text>
+      <Forenames>A. B. M</Forenames>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1351,7 +1351,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1891,8 +1893,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. B</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. B</Text>
       <PageNumber>8384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1952,7 +1954,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis-Barnes</Key>
-      <Forenames>De S. H.</Forenames>
+      <Title>De S.</Title>
+      <Forenames>H.</Forenames>
       <PageNumber>8257</PageNumber>
     </MainItem>
   </ItemGroup>

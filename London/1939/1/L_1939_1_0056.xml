@@ -277,7 +277,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>H. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +448,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leckie</Key>
-      <Text>.-Ewing, R. W</Text>
+      <Text>-Ewing, R. W</Text>
       <PageNumber>544</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -929,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lund</Key>
-      <Text>. R. J. S</Text>
+      <Forenames>R. J. S</Forenames>
       <PageNumber>134</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>. H. J</Text>
+      <Forenames>H. J</Forenames>
       <PageNumber>759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,7 +1492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLeod</Key>
-      <Text>. D. N</Text>
+      <Forenames>D. N.</Forenames>
       <PageNumber>1071</PageNumber>
     </MainItem>
   </ItemGroup>

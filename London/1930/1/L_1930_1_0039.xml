@@ -76,7 +76,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden, Lord</Text>
+      <Forenames>de Walden</Forenames>
+      <Text>, Lord</Text>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -766,7 +767,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd-Williams</Key>
-      <Text>P</Text>
+      <Forenames>P.</Forenames>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,7 +1008,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacMichael</Key>
-      <Text>N</Text>
+      <Forenames>N.</Forenames>
       <PageNumber>1803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1021,7 +1022,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNaughton</Key>
-      <Text>J. C</Text>
+      <Forenames>J. C .</Forenames>
       <PageNumber>1893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macpherson</Key>
-      <Text>G. P. S</Text>
+      <Forenames>G. P. S.</Forenames>
       <PageNumber>429</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1635,8 +1636,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. W .</Forenames>
       <PageNumber>1892</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1649,8 +1650,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hanlon, A</Text>
+      <Key>O'Hanlon</Key>
+      <Forenames>A .</Forenames>
       <PageNumber>1578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1839,7 +1840,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Poile</Key>
-      <Text>R. S</Text>
+      <Forenames>R. S.</Forenames>
       <PageNumber>1223</PageNumber>
     </MainItem>
   </ItemGroup>

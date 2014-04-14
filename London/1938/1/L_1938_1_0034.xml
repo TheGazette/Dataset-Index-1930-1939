@@ -19,9 +19,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Gilmour</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>SirJohn</Forenames>
-      <Text>, Bart., G.C.V.O., D.S.O., H.M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Title>Rt. Hon. Sir-</Title>
+      <Forenames>John</Forenames>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -47,7 +51,9 @@
       <Key>Glynn-Jonefy</Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -63,7 +69,9 @@
     <MainItem>
       <Key>Gooch</Key>
       <Forenames>Eva Conway Everard</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +88,10 @@
     <MainItem>
       <Key>Goodall</Key>
       <Forenames>Stanley Vernon</Forenames>
-      <Text>, C.B., O.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +116,9 @@
     <MainItem>
       <Key>Goodwin</Key>
       <Forenames>John Thomas</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,16 +137,10 @@
       <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Christina</Forenames>
-      <Text>, Mrs., Member, Order of the British Empire</Text>
+    <SubItem>
+      <Text>Christina, Mrs., Member, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -156,7 +163,14 @@
     <MainItem>
       <Key>Gort</Key>
       <Forenames>General John Standish Surtees Prendergast</Forenames>
-      <Text>, Viscount, V.C., C.B., C.B.E., D.S.C., M.V.O., M.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,21 +190,17 @@
       <Text>, Lady, Commander, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>H. E.</Forenames>
-      <Text>Sir Hyde Clarendon, K.C.S.I., CLE., Knight,. Order of St. John of Jerusalem</Text>
+    <SubItem>
+      <Text>H. E. Sir Hyde Clarendon, K.C.S.I., CLE., Knight,. Order of St. John of Jerusalem</Text>
       <PageNumber>28</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Grafftey</Key>
-      <Text>Smith, Laurence Barton, O.B.E., H.M. Consul at Bagdad</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,16 +219,12 @@
       <Text>, A.R.C.A., Commander, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Theodore Grant</Forenames>
-      <Text>, M.B., Ch.B., M.P.C., Companion, Order of St. Michael and St. George</Text>
+    <SubItem>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -240,7 +246,9 @@
     <MainItem>
       <Key>Griffin</Key>
       <Forenames>Herbert John Gordon</Forenames>
-      <Text>, Commander, Order of the British Empire Grille, Frederick Louis, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +256,12 @@
     <MainItem>
       <Key>Grimble</Key>
       <Forenames>Arthur Francis</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George... Grimshaw, Helen Stringer, Mrs. Conway, Member, Order of the British Empire ... ... ... Gubbay, Mrs. Hannah, Associate Officer, Order of St. John of Jerusalem ... Guduvancheri Cathirvelu* Natarajan Mudaliar, Member, Order of the British Empire ... ... ... Gunston, Capt. Derrick Wellesley, M.C., M.P., Baronet</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>728</PageNumber>
     </MainItem>
@@ -266,18 +279,18 @@
     <MainItem>
       <Key>Gwynne</Key>
       <Forenames>Howell Arthur</Forenames>
-      <Text>, Member, Companion of Honour Hadfield, Alderman Ernest, O.B.E., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1068</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Joshua</Forenames>
-      <Text>, Member, Order of the British Empire ... Hagon, Frances Margaret, Mrs., Member, Order of the British Empire Haider Zaman Khan, Hon. Lt. Raja, Member, Order of the British Empire ... Haigh, Austin Anthony Francis, Second Secretary in H.M. Diplomatic Service</Text>
+      <Key>Hagon</Key>
+      <Forenames>Frances Margaret</Forenames>
+      <Text>, Mrs., Member, Order of the British Empire Haider Zaman Khan, Hon. Lt. Raja, Member, Order of the British Empire ... Haigh, Austin Anthony Francis, Second Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +299,11 @@
       <Key>Hale</Key>
       <Title>Col.</Title>
       <Forenames>Walter Churchill</Forenames>
-      <Text>, O.B.E., M.C., T.D., Officer, Order of St. John of Jerusalem ... ... Halford, Aubrey Seymour, Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>2084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,20 +312,21 @@
       <Key>Halifax</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Edward Frederick Lindley</Forenames>
-      <Text>, Viscount, K.G., G.C.S.I., G.C.I.E., Secretary of State</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>1339</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___</KeyDitto>
-      </Key>
-      <Forenames>Patrick Francis</Forenames>
-      <Text>, Third Secretary in H.M. Diplomatic Service</Text>
+      <Key>Hall</Key>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Edward George</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,19 +345,8 @@
       <Text>, Officer, Order of the British Empire Hargrove, Hilda Beatrice, Mrs. Harold, Member, Order of the British Empire ... Harrison, Mrs. Florence, Serving Sister, Order of St. John of Jerusalem ... Harrison, Geoffrey Wedgwood, Second Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>2085</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Helen Roberts</Forenames>
-      <Text>, A.R.R.C, Member, 9 Order of the British Empire</Text>
-      <PageNumber>11</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>___ ___ ___ Miss Mary, Serving Sister, Order of St. , John of Jerusalem</Text>
+      <Text>Miss Mary, Serving Sister, Order of St. , John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </SubItem>
     <SubItem>
@@ -347,7 +354,9 @@
       <PageNumber>11</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ Group Capt. Malcolm, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </SubItem>
     <SubItem>
@@ -355,7 +364,10 @@
       <PageNumber>30</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Holmes, Maurice Gerald, C.B., O.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </SubItem>
   </ItemGroup>

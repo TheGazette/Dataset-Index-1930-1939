@@ -152,8 +152,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Title>St.</Title>
-      <Forenames>A. B.</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B.</Forenames>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,8 +175,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Title>St.</Title>
-      <Forenames>A. B</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>4416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +223,9 @@
       <Key>Bowyer-Smyth</Key>
       <Title>Sir</Title>
       <Forenames>P. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +297,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mountbatten</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord Louis</Text>
+      <Title>The Lord</Title>
+      <Forenames>Louis</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,8 +428,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cronyn</Key>
-      <Title>St.</Title>
-      <Forenames>J.</Forenames>
+      <Title>St. J.</Title>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -512,8 +513,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>H.</Forenames>
-      <Text>du P</Text>
+      <Forenames>H. du P</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1007,8 +1007,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, T. J. '</Text>
+      <Key>O'Neil</Key>
+      <Forenames>T. J.</Forenames>
+      <Text>'</Text>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>

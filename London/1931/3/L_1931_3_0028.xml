@@ -194,7 +194,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stirling</Key>
-      <Text>P. St. J</Text>
+      <Forenames>P. St. J</Forenames>
       <PageNumber>5693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +612,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Symons</Key>
-      <Text>G. G</Text>
+      <Forenames>G. G.</Forenames>
       <PageNumber>6237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +649,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tarrant</Key>
-      <Text>V. F. D</Text>
+      <Forenames>V. F. D</Forenames>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1565,8 +1565,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>W. M. M. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>W. M. M. O'D</Forenames>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1696,7 +1695,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G</Forenames>
       <PageNumber>5333</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1807,8 +1806,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Forenames>E. E.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. E. de W</Forenames>
       <PageNumber>5968</PageNumber>
       <PageNumber>5968</PageNumber>
     </MainItem>
@@ -1878,7 +1876,9 @@
       <Key>Winnington</Key>
       <Title>Sir</Title>
       <Forenames>F. S. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1906,8 +1906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolfe</Key>
-      <Forenames>D. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>D. A. St. J</Forenames>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1921,7 +1920,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>J. M. J. F</Text>
+      <Forenames>J. M. J. F</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1937,8 +1936,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. O. R</Text>
+      <Forenames>A. St. O</Forenames>
+      <Text>. R</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1975,8 +1974,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>L. H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>L. H. de C</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -94,7 +94,9 @@
       <Key>Twysden</Key>
       <Title>Sir</Title>
       <Forenames>A. R. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5178</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -234,9 +236,8 @@
   <KeyDitto>___ ___ ...</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Cutsem</Forenames>
-      <Text>, R. H. E. J</Text>
+      <Key>Van Cutsem</Key>
+      <Forenames>R. H. E. J.</Forenames>
       <PageNumber>4406</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,8 +392,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vigors</Key>
-      <Forenames>R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. de C</Forenames>
       <PageNumber>6079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +494,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wainman</Key>
-      <Text>. P. R</Text>
+      <Forenames>P. R.</Forenames>
       <PageNumber>5030</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +540,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walch</Key>
-      <Text>. L. J</Text>
+      <Forenames>L. J.</Forenames>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,8 +681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. de W</Forenames>
       <PageNumber>5548</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -812,7 +811,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>. A. A. ... '</Text>
+      <Forenames>A. A.</Forenames>
+      <Text>... '</Text>
       <PageNumber>5024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -899,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wr</Key>
-      <Text>.rne, J. M. L</Text>
+      <Text>rne, J. M. L</Text>
       <PageNumber>5478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,8 +958,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W. R. G.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. R. G. de W</Forenames>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1168,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4881</PageNumber>
     </MainItem>
   </ItemGroup>

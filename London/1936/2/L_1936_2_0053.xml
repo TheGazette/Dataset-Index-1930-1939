@@ -387,8 +387,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brian, P. E</Text>
+      <Key>O'Brian</Key>
+      <Forenames>P. E.</Forenames>
       <PageNumber>3443</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +727,7 @@
   <ItemGroup>
     <MainItem>
       <Key>BehYB</Key>
-      <Text>. E. A</Text>
+      <Forenames>E. A</Forenames>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -839,7 +839,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keith-Roach</Key>
-      <Text>. M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -853,8 +853,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lamotte</Key>
-      <Forenames>J.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. de G</Forenames>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manners</Key>
-      <Text>. J. E</Text>
+      <Forenames>J. E</Forenames>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -889,8 +888,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nolan</Key>
-      <Forenames>A. R. J. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>A. R. J. St. Q</Forenames>
       <PageNumber>2451</PageNumber>
     </MainItem>
   </ItemGroup>

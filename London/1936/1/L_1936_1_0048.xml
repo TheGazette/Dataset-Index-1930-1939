@@ -571,8 +571,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, F. F. B</Text>
+      <Key>St. George</Key>
+      <Forenames>F. F. B.</Forenames>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -862,7 +862,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R. N. J. C</Forenames>
-      <Text>U., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1385</PageNumber>
     </MainItem>
   </ItemGroup>

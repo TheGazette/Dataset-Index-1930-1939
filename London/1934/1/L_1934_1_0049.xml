@@ -52,7 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haddinott</Key>
-      <Text>P. F</Text>
+      <Forenames>P. F.</Forenames>
       <PageNumber>1000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +123,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheeldon</Key>
-      <Text>T</Text>
+      <Forenames>T .</Forenames>
       <PageNumber>903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>A. W. M</Text>
+      <Forenames>A. W. M</Forenames>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +229,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hoare</Key>
-      <Text>N. .T.'</Text>
+      <Forenames>N.</Forenames>
+      <Text>.T.'</Text>
       <PageNumber>1425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parke</Key>
-      <Text>S. A</Text>
+      <Forenames>S. A</Forenames>
       <PageNumber>390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +260,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholls</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>1424</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +284,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrett</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J.</Forenames>
       <PageNumber>1706</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>F. W</Text>
+      <Forenames>F. W</Forenames>
       <PageNumber>678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,7 +308,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Parish</Key>
-      <Text>S. C</Text>
+      <Forenames>S. C</Forenames>
       <PageNumber>607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schofield</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>1865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +398,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>P. S. (D.)</Text>
+      <Forenames>P. S.</Forenames>
+      <Text>(D.)</Text>
       <PageNumber>2039</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +597,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Balfour</Key>
-      <Text>J. K. A</Text>
+      <Forenames>J. K. A</Forenames>
       <PageNumber>607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,8 +653,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahoney, M</Text>
+      <Key>O'Mahoney</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>

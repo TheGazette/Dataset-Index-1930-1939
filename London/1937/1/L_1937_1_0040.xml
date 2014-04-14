@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Tizard</Key>
       <Forenames>Henry Thomas</Forenames>
-      <Text>, C.B., A.F.C., F.R.S.: Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>691</PageNumber>
     </MainItem>
     <SubItem>
@@ -24,7 +27,10 @@
     <MainItem>
       <Key>Tottenham</Key>
       <Forenames>Vice</Forenames>
-      <Text>Admiral Francis Loftus, C.B., C.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,8 +45,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Tovey</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral John Cronyn, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>John Cronyn</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +59,11 @@
       <Key>Towse</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Ernest Beachcroft Beckwith</Forenames>
-      <Text>, V.C, K.C.V.O., C.B.E.: Sergeant at Arms to His Majesty r</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>408</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +83,9 @@
     <MainItem>
       <Key>Tripp</Key>
       <Forenames>Bernard Edward Howard</Forenames>
-      <Text>, C.B.E., Commander, Order of St, John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +109,9 @@
     <MainItem>
       <Key>Trotter</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, M.D., M.S., Serjeant Surgeon, H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -101,7 +119,9 @@
     <MainItem>
       <Key>Troup</Key>
       <Forenames>George Alexander</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
       <PageNumber>1487</PageNumber>
     </MainItem>
@@ -134,7 +154,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Albert Barr</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,8 +176,12 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Robert Ross, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Robert Ross</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,7 +206,9 @@
     <MainItem>
       <Key>Tyrer</Key>
       <Forenames>William Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,11 +282,17 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Hugh Dudley Richards</Forenames>
-      <Text>, K.C.B., C.V.O., C.B.E., Member of Royal Patriotic Fund Corporation ... Watson, Miss Phebe Naomi, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>698</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Webber, Lt.-Col. Henry Woolmington, M.D., 3 F.R.C.S.Ed., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -279,7 +313,10 @@
       <PageNumber>697</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wheatley, Brig.-Gen. Leonard Lane, C.M.G., D.S.O., 5 Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </SubItem>
     <SubItem>

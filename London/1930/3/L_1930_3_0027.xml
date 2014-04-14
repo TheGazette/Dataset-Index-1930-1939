@@ -599,7 +599,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thurgood</Key>
-      <Text>.G. B</Text>
+      <Forenames>G. B.</Forenames>
       <PageNumber>4500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +690,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Tyler</Key>
-      <Text>. J. H Tyndall, E. D</Text>
+      <Forenames>J. H</Forenames>
+      <Text>Tyndall, E. D</Text>
       <PageNumber>4431</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1365,7 +1366,9 @@
       <Key>Wrightson</Key>
       <Title>Sir</Title>
       <Forenames>T. G.</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1388,8 +1391,7 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Title>Sir</Title>
-      <Forenames>E. H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. H. de V</Forenames>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1424,7 +1426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Birnie</Key>
-      <Text>. E. St. J</Text>
+      <Forenames>E. St. J</Forenames>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1484,8 +1486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Forenames>A. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. D. St. G</Forenames>
       <PageNumber>4647</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1570,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Cobbe</Key>
-      <Text>. Sir A. S</Text>
+      <Title>Sir</Title>
+      <Forenames>A. S</Forenames>
       <PageNumber>6365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1584,8 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>4646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1633,9 +1634,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Freitas</Forenames>
-      <Text>, D. A. A</Text>
+      <Key>De Freitas</Key>
+      <Forenames>D. A. A</Forenames>
       <PageNumber>5365</PageNumber>
     </MainItem>
   </ItemGroup>

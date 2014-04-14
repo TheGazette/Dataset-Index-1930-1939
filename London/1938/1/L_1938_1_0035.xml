@@ -13,7 +13,10 @@
       <Key>Hopwood</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Alfred Henry</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +24,11 @@
     <MainItem>
       <Key>Horder</Key>
       <Forenames>Thomas Jeeves</Forenames>
-      <Text>, Baron, K.C.V.O., M.D., F.R.C.P., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +37,9 @@
       <Key>Horlick</Key>
       <Title>Col.</Title>
       <Forenames>James Nockells</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -67,16 +76,14 @@
       <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Lt.</Title>
-      <Text>-Gen. Geoffrey Weston, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+    <SubItem>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -86,16 +93,10 @@
       <Text>, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Gruffyd Rhys</Forenames>
-      <Text>, H.M. Vice-Consul at Lisbon</Text>
+    <SubItem>
+      <Text>William Gruffyd Rhys, H.M. Vice-Consul at Lisbon</Text>
       <PageNumber>2005</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -117,7 +118,9 @@
     <MainItem>
       <Key>Huard</Key>
       <Forenames>Louise Henrietta</Forenames>
-      <Text>, Mrs., M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,20 +138,18 @@
       <Key>Hudson</Key>
       <Title>Maj. the Hon.</Title>
       <Forenames>Robert James</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Robert Spear</Forenames>
-      <Text>, M.P., Member of H.M. Privy Council</Text>
+    <SubItem>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1231</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -182,23 +183,20 @@
       <Text>, L.R.C.P. and S.I., Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>William Edgar</Forenames>
-      <Text>, C.M.G., C.B.E., Knight</Text>
+    <SubItem>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1068</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Huntingfield</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Commander, Order of St. John of Jerusalem</Text>
+      <Title>The Lady, Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +212,9 @@
     <MainItem>
       <Key>Hutcheon</Key>
       <Forenames>Alexander Byres</Forenames>
-      <Text>, M.B.E., H.M. Consul at Caracas</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +246,9 @@
     <MainItem>
       <Key>Irving</Key>
       <Forenames>Stanley Gordon</Forenames>
-      <Text>, C.M.G., Commercial Counsellor in H.M. Embassy at Buenos Aires</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,7 +256,10 @@
     <MainItem>
       <Key>Isaacs</Key>
       <Forenames>Sydney Baber</Forenames>
-      <Text>, Member, Order of the British Empire Israel, Hyam Shalom, Member, Order of the British Empire Jackson, Arthur, Serving Brother, Order of St. John of Jerusalem Jacob, Field-Marshal Sir Claud William, G.C.B., G.C.S.I., K.C.M.G., Constable of the Tower of London</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,35 +284,26 @@
       <Key>James</Key>
       <Title>The Rev. Canon</Title>
       <Forenames>Perci-</Forenames>
-      <Text>val Ernest, Serving Brother, Order of St. John of Jerusalem Jamshed Dorabsha Kothawala, Capt., Associate Serving Brother, Order of St. John of Jerusalem Jawahir Lai Sinha, Rai Bahadur, Member, Order of the British Empire Jayne, Ronald Garland, O.B.E., Commander, Order of the British Empire Jeffries, Percy George, Serving Brother, Order of St. John of Jerusalem Jenkins, William Albert,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1068</PageNumber>
     </MainItem>
-    <SubItem>
-      <Text>Knight</Text>
-      <PageNumber>2</PageNumber>
-    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Jensen</Key>
       <Forenames>John Klunder</Forenames>
-      <Text>, Officer, Order of the British Empire Jerram, Cecil Bertrand, Companion, Order of St. Michael and St. George ... Jitendranath Sen Gupta, Member, Order of the British Empire ... Jobson, Edmund, Serving Brother, Order of St. John of Jerusalem Jogendra Narain Ray, Maharaja Rao, CLE., Knight Johnson, Major Maurice Alfred, M.M., Officer, Order of the British Empire Johnston, John, Officer, Order of the British Empire ... Johnstone, Kenneth Roy, First Secretary in H.M. Diplo-</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>2004</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Prof.</Title>
-      <Forenames>Robert James</Forenames>
-      <Text>, M.B., B.Ch., F.R.C.S.,</Text>
-      <PageNumber>1068</PageNumber>
-    </MainItem>
     <SubItem>
-      <Text>Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
+      <PageNumber>1068</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
@@ -318,15 +314,21 @@
       <PageNumber>1841</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Peter</Forenames>
-      <Text>, Member, Order of the British Empire ... Kachingwe, Harrison, Honorary Member, Order of the British Empire Kanthadai Rangaswami Ayyangar Avargal, M.R.Ry.Rao 16 Bahadur, I.S.O., Member, Order of the British Empire</Text>
+      <Key>Joly</Key>
+      <Forenames>Kenneth Henry</Forenames>
+      <Text>, Officer, Order of the British Empire Jones, Elsie Muriel, Mrs., Member, Order of the British Empire Eric George, Member, Order of the British Empire ... Muriel, Mrs., Aram, Member, . Order of the British Empire</Text>
+      <PageNumber>11</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Kachingwe</Key>
+      <Forenames>Harrison</Forenames>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
     <SubItem>
@@ -338,6 +340,5 @@
       <PageNumber>16</PageNumber>
     </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
 </Index>
 

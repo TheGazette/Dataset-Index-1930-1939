@@ -185,15 +185,15 @@
   <KeyDitto>___ ___ —</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, j. G. B. '</Text>
+      <Key>O'Hagan</Key>
+      <Text>j. G. B. '</Text>
       <PageNumber>8229</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, H. C</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>H. C</Forenames>
       <PageNumber>2738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +499,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynell</Key>
-      <Text>R. C</Text>
+      <Forenames>R. C</Forenames>
       <PageNumber>4251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -793,8 +793,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>A. H. J.</Forenames>
-      <Text>de P</Text>
+      <Forenames>A. H. J. de P</Forenames>
       <PageNumber>2738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,7 +1071,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trinder</Key>
-      <Text>F. N</Text>
+      <Forenames>F. N.</Forenames>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1118,8 +1117,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaizey</Key>
-      <Forenames>G.</Forenames>
-      <Text>de H</Text>
+      <Forenames>G. de H</Forenames>
       <PageNumber>2422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1499,7 +1497,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Berks</Key>
-      <Text>: Cayley, Maj .-Gen. Sir Walter de Sausmarez, K.O.M.G., C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>3490</PageNumber>
     </MainItem>
     <SubItem>
@@ -1508,6 +1508,7 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
         <PageNumber>3490</PageNumber>
         <SubCategoryTitle>Smith, Brig.-Gen</SubCategoryTitle>
       </Text>
@@ -1540,7 +1541,9 @@
       </SubItem>
     </SubCategoryTitle>
     <SubItem>
-      <Text>Stopford, Maj. Gen. Sir Lionel Arthur Montagu, K.C.V.O., O.B</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3147</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1561,7 +1564,10 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>2649</PageNumber>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>2649</PageNumber>
       </Text>
       <PageNumber>2649</PageNumber>
@@ -1583,6 +1589,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
         <PageNumber>2334</PageNumber>
         <PageNumber>2334</PageNumber>
       </Text>

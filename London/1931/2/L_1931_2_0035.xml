@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lambooy</Key>
-      <Text>A. P</Text>
+      <Forenames>A. P</Forenames>
       <PageNumber>3655</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,8 +33,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Landon</Key>
-      <Forenames>G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>G. de L</Forenames>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>E. A</Text>
+      <Forenames>E. A.</Forenames>
       <PageNumber>3322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +55,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bell</Key>
-      <Text>M. D</Text>
+      <Forenames>M. D</Forenames>
       <PageNumber>2648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -424,7 +423,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Banks</Key>
-      <Text>S. S</Text>
+      <Forenames>S. S</Forenames>
       <PageNumber>3227</PageNumber>
       <PageNumber>3227</PageNumber>
     </MainItem>
@@ -583,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>B</Text>
+      <Forenames>B</Forenames>
       <PageNumber>3917</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,7 +664,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bigg</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T</Forenames>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +693,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Black</Key>
-      <Text>A. T</Text>
+      <Forenames>A. T</Forenames>
       <PageNumber>4248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +708,9 @@
     <MainItem>
       <Key>Blake</Key>
       <Title>Sir</Title>
-      <Text>1. T., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -731,7 +732,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bland</Key>
-      <Text>J. E. M</Text>
+      <Forenames>J. E. M</Forenames>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,8 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boys</Key>
-      <Forenames>E. J.</Forenames>
-      <Text>de C</Text>
+      <Forenames>E. J. de C</Forenames>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -979,8 +979,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bremner</Key>
-      <Forenames>A. D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. D. St. G</Forenames>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1036,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brinckman</Key>
-      <Text>R. N</Text>
+      <Forenames>R. N.</Forenames>
       <PageNumber>2332</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1051,7 +1050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Broad</Key>
-      <Text>C. N. F</Text>
+      <Forenames>C. N. F</Forenames>
       <PageNumber>2492</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1251,7 +1250,9 @@
     <MainItem>
       <Key>Burnett</Key>
       <Forenames>A. E.</Forenames>
-      <Text>... Burnett of Leys, Sir J. L. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1629,7 +1630,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3227</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1806,8 +1809,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>S. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>S. St. B</Forenames>
       <PageNumber>3145</PageNumber>
     </MainItem>
   </ItemGroup>

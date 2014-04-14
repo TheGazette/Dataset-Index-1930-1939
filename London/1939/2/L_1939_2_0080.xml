@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bird</Key>
-      <Text>R. A</Text>
+      <Forenames>R. A.</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,8 +176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>3704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +219,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hillmah</Key>
-      <Text>H. H</Text>
+      <Forenames>H. H.</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -313,8 +312,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Keeffe, J. M</Text>
+      <Key>O'Keeffe</Key>
+      <Forenames>J. M.</Forenames>
       <PageNumber>4243</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxleyi</Key>
-      <Text>O. A. G</Text>
+      <Forenames>O. A. G.</Forenames>
       <PageNumber>3188</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,22 +1227,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donoghue, D. J</Text>
+      <Key>O'Donoghue</Key>
+      <Forenames>D. J.</Forenames>
       <PageNumber>2344</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, P. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>P. J.</Forenames>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, P. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>P. J</Forenames>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>

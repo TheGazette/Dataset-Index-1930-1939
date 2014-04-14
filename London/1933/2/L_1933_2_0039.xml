@@ -90,30 +90,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. W.</Forenames>
       <PageNumber>2857</PageNumber>
     </MainItem>
   </ItemGroup>
   <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell0. W</Text>
+      <Key>O'Connell</Key>
+      <Text>0. W</Text>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dwyer, P. G</Text>
+      <Key>O'Dwyer</Key>
+      <Forenames>P. G.</Forenames>
       <PageNumber>3456</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn.D. J. E</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. J. E.</Forenames>
       <PageNumber>2287</PageNumber>
       <PageNumber>2667</PageNumber>
     </MainItem>
@@ -143,8 +143,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, C. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>C. P.</Forenames>
       <PageNumber>2858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +218,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Palmer</Key>
-      <Text>. T. C</Text>
+      <Forenames>T. C.</Forenames>
       <PageNumber>3100</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1079,14 +1079,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair, G. J. P</Text>
+      <Forenames>Clair</Forenames>
+      <Text>, G. J. P</Text>
       <PageNumber>3967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Ford, P</Text>
+      <Key>St. Clair-Ford</Key>
+      <Forenames>P</Forenames>
       <PageNumber>4382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1292,9 @@
       <Key>Smiley</Key>
       <Title>Sir</Title>
       <Forenames>H. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3968</PageNumber>
     </MainItem>
   </ItemGroup>

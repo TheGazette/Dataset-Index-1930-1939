@@ -5,15 +5,18 @@
       <Key>Bond</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Lionel Vivian</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Bonhomme</Key>
-      <Forenames>The Rt</Forenames>
-      <Text>. Revd. Monseigneur . Joseph Cyprien, O.M.I., Officer, Order of the British Empire</Text>
+      <Title>The Rt. Revd. Monseigneur .</Title>
+      <Forenames>Joseph Cyprien</Forenames>
+      <Text>, O.M.I., Officer, Order of the British Empire</Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,25 +47,24 @@
     <MainItem>
       <Key>Boyd</Key>
       <Forenames>Edmund Blaikie</Forenames>
-      <Text>, C.M.G., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Thomas Heibert</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+    <SubItem>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brabourne</Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, C.I., Dame, Order of St. John of Jerusalem</Text>
+      <Title>The Lady</Title>
+      <Text>, C.I., Dame, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +73,9 @@
       <Key>Bradfield</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ernest William Charles</Forenames>
-      <Text>, CLE., O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,19 +83,15 @@
     <MainItem>
       <Key>Bradley</Key>
       <Forenames>Leslie Ripley</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>William</Forenames>
-      <Text>, M.B-E., Officer, Order of the British Empire</Text>
+    <SubItem>
+      <Text>William, M.B-E., Officer, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -130,11 +130,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Bridge</Key>
-      <Text>-Lt.-Col. Charles Edward Dunscomb, D.S.O., M.C., Companion, Order of St. Michael and. St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Brindley</Key>
@@ -146,11 +148,12 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Philip</Forenames>
-      <Text>, First Secretary in H.M. Diplomatic Ser-</Text>
+      <Key>Bristow</Key>
+      <Forenames>Christopher</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,12 +168,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Louie</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
+      <Key>Brooks</Key>
+      <Forenames>Alderman Alfred</Forenames>
+      <Text>, J.P., Officer, Order of the British Empire Miss Louie, Officer, Order of the British Empire</Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,36 +185,28 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Title>Charles.</Title>
       <Forenames>Herbert</Forenames>
       <Text>, K.C, Sheriff of Chancery</Text>
       <PageNumber>364</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Frank Leslie</Forenames>
-      <Text>, M.C, Officer, Order of the British Empire</Text>
+    <SubItem>
+      <Text>Frank Leslie, M.C, Officer, Order of the British Empire</Text>
       <PageNumber>15</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ —— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>Henry Isaac Close</Forenames>
       <Text>, Knight 3</Text>
       <PageNumber>1163</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
       <Key>Bruce-Gardner</Key>
@@ -228,7 +220,37 @@
     <MainItem>
       <Key>Bubekr</Key>
       <Forenames>Al Kaf</Forenames>
-      <Text>, Seiyid, Commander, Order of the British Empire ... ... Buckland, Col. (temp. Brig.) Gerald Charles Balfour, D.S.O., M.C., Companion, Order of the Bath ... Buckler, Commander John Oswald, Officer, Order of the British Empire ... Bullock, Guy Henry, H.M. Minister Resident to the Republic of Ecuador</Text>
+      <Text>, Seiyid, Commander, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buckland</Key>
+      <Title>Col. (temp. Brig.)</Title>
+      <Forenames>Gerald Charles Balfour</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>4</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Buckler</Key>
+      <Title>Commander</Title>
+      <Forenames>John Oswald</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Bullock</Key>
+      <Forenames>Guy Henry</Forenames>
+      <Text>, H.M. Minister Resident to the Republic of Ecuador</Text>
       <PageNumber>1841</PageNumber>
       <PageNumber>2003</PageNumber>
     </MainItem>
@@ -241,77 +263,182 @@
     <MainItem>
       <Key>Bunting</Key>
       <Forenames>Samuel</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem ... Burdett, Scott Langshaw, M.C., H.M. Consul in China</Text>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>29</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Burdett</Key>
+      <Forenames>Scott Langshaw</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Sibyl Mary</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem ... ... Butler-Henderson,. Capt. The Hon. Eric Brand, Commander, Order of St. John of Jerusalem ... ... Buxton, Eric Cunliffe, H.M. Consul-General at Havana Caldecott, Olive Mary, Lady, Commander, Order of St. John of Jerusalem ... Callaghan, Terence Dan, Member, Order of the British Empire ... ... ... Callender, Prof. Geoffrey Arthur Romaine, F.S.A., Knight</Text>
-      <PageNumber>2</PageNumber>
-    </MainItem>
-  </ItemGroup>
-  <KeyDitto>—— ___ ___</KeyDitto>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Miss</Title>
-      <Forenames>Sybil Jean</Forenames>
-      <Text>, Member, Order of the British . Empire ... ... ... Campion, Gilbert Francis Montridu, C.B., Knight Commander, Order of the Bath Carlebach, Col. Philip, C.M.G.„ T:D., Knight</Text>
-      <PageNumber>2</PageNumber>
+      <Key>Burgess</Key>
+      <Title>Maj.</Title>
+      <Forenames>Norman Francis Clifford</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
+      <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Buta</Key>
+      <Forenames>Singh</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
+      <PageNumber>1841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Butler-Henderson</Key>
+      <Text>. Capt. The Hon. Eric Brand, Commander, Order of St. John of Jerusalem ... ... Buxton, Eric Cunliffe, H.M. Consul-General at Havana</Text>
+      <PageNumber>2005</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Caldecott</Key>
+      <Forenames>Olive Mary</Forenames>
+      <Text>, Lady, Commander, Order of St. John of Jerusalem ... Callaghan, Terence Dan, Member, Order of the British Empire ... ... ... Callender, Prof. Geoffrey Arthur Romaine, F.S.A., Knight</Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1068</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>
-        <KeyDitto>___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
-      <Text>bald, K.C.I.E., C.B., Knight Commander, Order of the Bath ... Cavendish-Bentinck, Major Ferr dinand William, Unofficial Member of Executive Coun. cil, Kenya Colony ... Chapman, Anna, Mrs., J.P., Member, Order of the 15 British Empire</Text>
+      <Title>Brevet Col.</Title>
+      <Forenames>Bruce Atta</Forenames>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
+      <PageNumber>2</PageNumber>
+      <PageNumber>1068</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Carrington</Key>
+      <Title>Maj.-Gen.</Title>
+      <Forenames>Robert</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
+      <PageNumber>2005</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Carter</Key>
+      <Title>Qrmr. (Hon. Fit. Lt.)</Title>
+      <Forenames>Leslie Griffiths</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>___ ___ ___ Robert William, C.M.G., Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1842</PageNumber>
     </SubItem>
-    <SubItem>
-      <Text>Charlton, Frederick Raymond, Officer, Order of the British Empire</Text>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chapman-Andrews</Key>
+      <Forenames>Edwin Arthur</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
+      <PageNumber>1841</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chappie</Key>
+      <Forenames>Stewart</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
+      <PageNumber>10</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Charlton</Key>
+      <Forenames>Frederick Raymond</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>15</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>Chaudhri Bashir Ahmad Khan, Khan Sahib, Associate Serving Brother, Order of St. John of Jerusalem</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chau</Key>
+      <Forenames>Tsun-Nin</Forenames>
+      <Text>, Commander, Order of the British Empire</Text>
+      <PageNumber>15</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chaudhri</Key>
+      <Forenames>Bashir Ahmad Khan</Forenames>
+      <Text>, Khan Sahib, Associate Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>6 Christie, David Cannon, D.C.M., Officer, Order of the British Empire</Text>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Cheetham</Key>
+      <Forenames>Harry</Forenames>
+      <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Chesterton</Key>
+      <Forenames>Ada Elizabeth</Forenames>
+      <Text>, Mrs. Cecil, Officer, Order of the 7 British Empire</Text>
       <PageNumber>9</PageNumber>
-    </SubItem>
+    </MainItem>
     <SubItem>
-      <Text>——. ___ ___ George, Officer, Order of St. John of Jerusalem</Text>
+      <Text>Cheyney, Reginald Evelyn Peter Southouse, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>29</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>___ ___ John Smith, Member of Royal Fine Art Commis4 sion for Scotland</Text>
-      <PageNumber>1845</PageNumber>
+      <Text>Choon Foung, L., Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <PageNumber>30</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Clauson, Sir Albert Charles, Kt., C.B.E., Lord Jus4 tice of Appeal ... .;</Text>
-      <PageNumber>189</PageNumber>
+      <Text>——. George, Officer, Order of St. John of Jerusalem</Text>
+      <PageNumber>29</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Clifford, Hettie, Mrs. Rown4 tree, Officer, Order of the British Empire</Text>
-      <PageNumber>9</PageNumber>
+      <Text>Member of H.MPrivy Council</Text>
+      <PageNumber>1231</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>British Empire 8 Coast, James Percy Chatterton, Commander, Order of the</Text>
-      <PageNumber>8</PageNumber>
+      <Text>Clift, Florence. May. Dagmar, Mrs., Member, Order of the</Text>
+      <PageNumber>13</PageNumber>
     </SubItem>
   </ItemGroup>
 </Index>

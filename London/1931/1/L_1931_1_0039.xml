@@ -46,8 +46,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>1634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +200,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. C</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>674</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +422,9 @@
       <Key>Ahercromby</Key>
       <Title>Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>931</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -927,8 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blyth</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>232</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1505,7 +1508,9 @@
       <Key>Oblquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>306</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1579,8 +1584,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cowie</Key>
-      <Forenames>N. B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>N. B. St. J</Forenames>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,7 +1698,9 @@
     <MainItem>
       <Key>Curzon</Key>
       <Forenames>R. K.</Forenames>
-      <Text>.... R. D. Cusack-Smith, Sir W. J., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1804</PageNumber>
     </MainItem>
   </ItemGroup>

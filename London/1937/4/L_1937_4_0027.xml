@@ -426,8 +426,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>6820</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,8 +1312,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twohig</Key>
-      <Forenames>J. P. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. P. O'B</Forenames>
       <PageNumber>7738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1353,8 +1351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Unett</Key>
-      <Forenames>W. H.</Forenames>
-      <Text>de W</Text>
+      <Forenames>W. H. de W</Forenames>
       <PageNumber>6897</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,7 +1460,9 @@
       <Key>Wakeman</Key>
       <Title>Sir</Title>
       <Forenames>O.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6446</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,7 +1610,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>. M. F</Text>
+      <Forenames>M. F.</Forenames>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>

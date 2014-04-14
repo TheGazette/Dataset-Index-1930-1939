@@ -15,7 +15,9 @@
       <Key>Macmillan</Key>
       <Title>Rt. Rev.</Title>
       <Forenames>John Victor</Forenames>
-      <Text>, O.B.E., D.D., recommended for election as Bishop of Guildford</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +61,9 @@
       <Key>Sheppard</Key>
       <Title>Rev.</Title>
       <Forenames>Hugh Richard Lawrie</Forenames>
-      <Text>, C.H., M.A., D.D., appointed to the Canonry in tiie Cathedral Church of Saint Paul in London</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>6626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,8 +89,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Abercorn</Key>
-      <Forenames>H.G. The</Forenames>
-      <Text>Duke of, K.G., K.P., Governor of</Text>
+      <Forenames>H.G.</Forenames>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>_,</PageNumber>
     </MainItem>
     <SubItem>
@@ -97,7 +103,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Acland</Key>
-      <Text>the Rt. Hon. Sir Francis Dyke, Bart., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +123,10 @@
       <Key>Addison</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Christo-</Forenames>
-      <Text>pher, M.D., F.R.C.S., Member of Parliament for Swindon Division</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>6859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +145,11 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Robert George</Forenames>
-      <Text>, C.M.G., D.S.O., M.D., knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,8 +174,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Forenames>Major-General</Forenames>
-      <Text>the Rt. Hon. the Earl of, E.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., A.D.C., LL.D., Chancellor of the Order of St. Michael and St. George</Text>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>7154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +282,9 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, K.C.S.I., K.C.M.G., H.M. High Commissioner for Basutoland, Bechuanaland Protectorate and Swaziland</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +293,11 @@
       <Key>Give</Key>
       <Title>Lieut.-Gen. Sir</Title>
       <Forenames>George Sidney</Forenames>
-      <Text>, K.C.B., C.M.G., D.S.O., .Marshal of the Diplomatic Corps</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,23 +314,29 @@
       <Key>Collett</Key>
       <Title>Sir</Title>
       <Forenames>Charles Henry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7081</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cornwallis</Key>
-      <Title>Colonel</Title>
-      <Forenames>The</Forenames>
-      <Text>Lord, C.B.E., Bar to Order of Mercy</Text>
+      <Title>Colonel The Lord</Title>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8292</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Courthope</Key>
-      <Text>' Sir George Loyd, Bart., M.C., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +386,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Derbyshire</Key>
-      <Text>' Harold, M.C., K.C., knighted</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +432,9 @@
     <MainItem>
       <Key>Eccles</Key>
       <Forenames>Lancelot William</Forenames>
-      <Text>, M.C., Nominated Official Member of the Legislative Council of Northern-</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>_.</PageNumber>
     </MainItem>
     <SubItem>
@@ -434,7 +472,9 @@
     <MainItem>
       <Key>Fairweather</Key>
       <Forenames>William Gemmel</Forenames>
-      <Text>, . O.B.E., Nominated Official Member of the Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7681</PageNumber>
     </MainItem>
   </ItemGroup>

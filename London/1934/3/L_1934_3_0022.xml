@@ -235,7 +235,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>. H. W. R</Text>
+      <Forenames>H. W. R.</Forenames>
       <PageNumber>6040</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,8 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>6101</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -632,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hensman</Key>
-      <Text>. J. W</Text>
+      <Forenames>J. W</Forenames>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Herbert</Key>
-      <Text>. W. N</Text>
+      <Forenames>W. N.</Forenames>
       <PageNumber>4229</PageNumber>
       <PageNumber>4900</PageNumber>
     </MainItem>
@@ -669,7 +668,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hibbert</Key>
-      <Text>. J. D</Text>
+      <Forenames>J. D</Forenames>
       <PageNumber>5523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joly</Key>
-      <Text>de Lotbiniere,H</Text>
+      <Forenames>de Lotbiniere</Forenames>
+      <Text>,H</Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2033,7 +2033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>. J. T</Text>
+      <Forenames>J. T.</Forenames>
       <PageNumber>4230</PageNumber>
     </MainItem>
   </ItemGroup>

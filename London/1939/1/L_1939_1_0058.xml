@@ -55,8 +55,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, T. J</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>T. J .</Forenames>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +275,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Park</Key>
-      <Text>.^J. C</Text>
+      <Text>^J. C</Text>
       <PageNumber>688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pauli</Key>
-      <Text>.C. H. P</Text>
+      <Forenames>C. H. P .</Forenames>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,15 +1276,16 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>130</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Preston</Key>
-      <Forenames>C. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>C. O'D</Forenames>
       <PageNumber>760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1485,8 +1486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quarry</Key>
-      <Forenames>R. B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. B. St. J</Forenames>
       <PageNumber>1849</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1549,7 +1549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Randle</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>

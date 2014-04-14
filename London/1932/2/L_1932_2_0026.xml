@@ -5,7 +5,10 @@
       <Key>Follows</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, C. B.E., M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,10 @@
     <MainItem>
       <Key>Forber</Key>
       <Forenames>Edward Rodolph</Forenames>
-      <Text>, CB., C.B.E., Knight ___ Commander, Older of the Bath</Text>
+      <Text>
+        <Honour>CB</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +28,9 @@
       <Key>Ford</Key>
       <Title>Maj.</Title>
       <Forenames>Bertram Joseph Tottey</Forenames>
-      <Text>, T.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +40,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Lrt.</Title>
-      <Text>-Qol. Geoffrey Noel, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>3347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +51,9 @@
       <Key>Foster</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Neville John Acland</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +61,9 @@
     <MainItem>
       <Key>Franklin</Key>
       <Forenames>Leonard Benjamin</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -58,7 +72,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>John Hugh Ronald</Forenames>
-      <Text>, CLE,, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +91,9 @@
       <Key>Freeman</Key>
       <Title>Capt.</Title>
       <Forenames>Harold Augustus</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +102,12 @@
       <Key>Fremantle</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Francis Edward</Forenames>
-      <Text>, O.B.E., T.D., M.D., F.R.O.S., J.P., D. L., M.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3568</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -103,7 +126,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Wilfred Frankland, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +147,9 @@
       <Key>Fullerton</Key>
       <Title>Major</Title>
       <Forenames>John Parke</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -145,7 +173,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Garrod</Key>
-      <Text>Wing Commander Alfred Guy Roland, M.C., D.F.C., Officer, Order of the British Empire</Text>
+      <Forenames>Wing</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +235,9 @@
       <Key>Gibson</Key>
       <Title>Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>K.B.E., Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>3578</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,14 +266,19 @@
     <MainItem>
       <Key>Gilbert</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, M.V.O., D.C.L., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3872</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Giles</Key>
-      <Text>. Maj.-Gen. Edward Douglas, C.M.G., D.S.O., Companion Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,8 +302,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Glanusk</Key>
-      <Forenames>The</Forenames>
-      <Text>Lord, Officer, Order of St. John of Jerusalem</Text>
+      <Title>The Lord</Title>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +311,10 @@
     <MainItem>
       <Key>Gloucester</Key>
       <Title>H.R.H.</Title>
-      <Text>, the Duke of, K.G., P.O., G.C.V.O., Royal Victorian Chain</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +363,11 @@
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir Thomas Herbert John Chapman, K.C.B., C.M.G., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +376,9 @@
       <Key>Goolden</Key>
       <Title>Capt.</Title>
       <Forenames>Archibald Campbell</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -347,7 +395,10 @@
       <Key>Gore</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Frederick Law-</Forenames>
-      <Text>rence, CLE., O.B.E., Distinguished Service Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,8 +413,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Gower</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral the Hon. William Spencer Leveson, D.S.O., Companior, Order of the Bath</Text>
+      <Title>Rear-Admiral the Hon.</Title>
+      <Forenames>William Spencer Leveson</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +434,10 @@
       <Key>Graham</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Ronald William</Forenames>
-      <Text>, G.O.M.G., G.C.V.O., C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +473,10 @@
       <Key>Gray</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Olive Osric Vere</Forenames>
-      <Text>, C.M.G.. D.S.O., one of H.M. Body Guard of the Hon. Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2717</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +487,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>David Benjamin</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2957</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +521,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Text>. Marcar Sheridon, M.C., V.D., Officer, .Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +560,9 @@
     <MainItem>
       <Key>Grimes</Key>
       <Forenames>John</Forenames>
-      <Text>, M.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +579,10 @@
     <MainItem>
       <Key>Gumbley</Key>
       <Forenames>Douglas William</Forenames>
-      <Text>, O.B.E., I.S.O. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +638,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Hamilton</Key>
-      <Text>of Dalzell, the Rt. Hon. Lord, K.T., C.V.O., M.C, Member of the Royal Fine Art Commis-</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +664,9 @@
     <MainItem>
       <Key>Hannam</Key>
       <Title>Wt. Offr.</Title>
-      <Text>, CI. I, Regmtl. Serg.-Maj. Frederick Albert, D.C.M., Member Order of the</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3575</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +717,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Douglas Gordon</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>

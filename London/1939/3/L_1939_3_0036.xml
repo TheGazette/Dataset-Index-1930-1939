@@ -33,7 +33,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weddell</Key>
-      <Text>.J. M: ... ' ... —</Text>
+      <Forenames>J. M</Forenames>
+      <Text>: ... ' ... —</Text>
       <PageNumber>5479</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +548,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>M. O.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1193,8 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yolland</Key>
-      <Forenames>N.</Forenames>
-      <Text>de C</Text>
+      <Forenames>N. de C</Forenames>
       <PageNumber>5979</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1276,8 +1278,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de D</Text>
+      <Forenames>J. de D</Forenames>
       <PageNumber>5916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1556,7 +1557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dallas</Key>
-      <Text>. P. T</Text>
+      <Forenames>P. T</Forenames>
       <PageNumber>5316</PageNumber>
     </MainItem>
   </ItemGroup>

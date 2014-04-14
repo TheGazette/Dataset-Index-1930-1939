@@ -238,7 +238,9 @@
       <Key>Pryce-Jones</Key>
       <Title>Sir</Title>
       <Forenames>P. V.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -962,7 +964,9 @@
       <Key>Sebright</Key>
       <Title>Sir</Title>
       <Forenames>Giles E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4106</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1872,8 +1876,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Surridge</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'R,</Text>
+      <Forenames>S. O'R</Forenames>
+      <Text>,</Text>
       <PageNumber>2272</PageNumber>
     </MainItem>
   </ItemGroup>

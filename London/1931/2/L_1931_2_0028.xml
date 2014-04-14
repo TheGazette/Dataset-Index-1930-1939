@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Hollinghurst</Key>
       <Forenames>Squadron Leader Leslie Norman</Forenames>
-      <Text>, D.F.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>4152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +54,9 @@
     <MainItem>
       <Key>Hoops</Key>
       <Forenames>Albert Launcelot</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -69,7 +73,9 @@
       <Key>Hornsby</Key>
       <Title>Major</Title>
       <Forenames>Frederick Middleton</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -77,7 +83,11 @@
     <MainItem>
       <Key>Horsey</Key>
       <Forenames>Paymaster</Forenames>
-      <Text>Captain Frank Lankester, O.B.E., D.S.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +113,9 @@
       <Key>Hotson</Key>
       <Title>Sir</Title>
       <Forenames>John Ernest Buttery</Forenames>
-      <Text>, K.C.S.I., O.B.E., Temporary Governor of Bombay</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2581</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -112,7 +124,10 @@
       <Key>Houston</Key>
       <Title>Major Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -128,7 +143,10 @@
     <MainItem>
       <Key>Howell</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Geoffrey Bulmer, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +162,9 @@
     <MainItem>
       <Key>Hoyland</Key>
       <Forenames>Harold Allan Dilke</Forenames>
-      <Text>, M.B.E., H.M. Consul at Kermanshah</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +251,10 @@
       <Key>Hutchinson</Key>
       <Title>Colonel</Title>
       <Forenames>Alan George Caldwell</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +286,9 @@
     <MainItem>
       <Key>Inglefield</Key>
       <Forenames>Julia Katharine Margaret</Forenames>
-      <Text>, Lady, O.B.E., Dame of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -314,7 +339,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Wilfrid Edward Francis</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -331,7 +358,9 @@
       <Key>Jaffrey</Key>
       <Title>Sir</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, LL.D., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
       <PageNumber>4152</PageNumber>
     </MainItem>
@@ -350,7 +379,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Battery Sergeant-</Forenames>
-      <Text>Major Donald Wilson, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,8 +390,12 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Thomas Norman, M.V.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Thomas Norman</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +418,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jobberns</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Joseph Brewer, Dean of Brechin, Officer, Order of the British Empire</Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
@@ -409,7 +445,11 @@
     <MainItem>
       <Key>Johnston</Key>
       <Forenames>Wing</Forenames>
-      <Text>Commander Ernest Henry, O.B.E., D.F.C., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.F.C.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +483,9 @@
     <MainItem>
       <Key>Joughin</Key>
       <Forenames>John Clague</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +494,9 @@
       <Key>Jowitt</Key>
       <Title>Sir</Title>
       <Forenames>William</Forenames>
-      <Text>' Allen, K.C., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
       <PageNumber>4241</PageNumber>
     </MainItem>
@@ -470,7 +514,9 @@
       <Key>Keech</Key>
       <Title>Captain (QuarterMaster)</Title>
       <Forenames>James Henry</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +590,9 @@
     <MainItem>
       <Key>Khan</Key>
       <Forenames>Mohammad Khan</Forenames>
-      <Text>, Badahur, I.O.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +629,10 @@
       </Key>
       <Title>The Hon.</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, M.D., M.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +682,9 @@
     <MainItem>
       <Key>Knatchbull-Hugessen</Key>
       <Forenames>Hughe Montgomery</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republics of Estonia, Latvia and Lithuania</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3758</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +693,9 @@
       <Key>Knollys</Key>
       <Title>Captain</Title>
       <Forenames>Erskine</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +704,9 @@
       <Key>Knox</Key>
       <Title>Captain</Title>
       <Forenames>Alexander Campbell White</Forenames>
-      <Text>, M.C., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +731,11 @@
       <Key>Lambe</Key>
       <Title>Air Vice-Marshal</Title>
       <Forenames>Charles Laverock</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., Knight Commander, Order of thb Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>

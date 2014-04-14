@@ -32,8 +32,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisman</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. de V</Forenames>
       <PageNumber>606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1338,8 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Forenames>His Majesty The</Forenames>
+      <Forenames>His Majesty</Forenames>
+      <Text>The</Text>
       <PageNumber>1743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1619,8 +1619,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McClosky</Key>
-      <Forenames>A. L. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>A. L. St. A</Forenames>
       <PageNumber>1241</PageNumber>
     </MainItem>
   </ItemGroup>

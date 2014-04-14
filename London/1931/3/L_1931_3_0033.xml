@@ -130,8 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kelly</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>5472</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,8 +167,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>4867</PageNumber>
       <PageNumber>4344</PageNumber>
     </MainItem>
@@ -248,8 +246,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>H.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. de N</Forenames>
       <PageNumber>5905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mills</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W</Forenames>
       <PageNumber>5905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,8 +567,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, R</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>R</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1032,8 +1029,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1463,14 +1459,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughbv</Key>
-      <Text>V. W. D</Text>
+      <Forenames>V. W. D.</Forenames>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>G. R</Text>
+      <Forenames>G. R .</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1495,8 +1491,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C. R</Text>
+      <Forenames>A. St. C</Forenames>
+      <Text>. R</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1504,8 +1500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>4344</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1651,7 +1646,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dutta</Key>
-      <Text>P. C</Text>
+      <Forenames>P. C .</Forenames>
       <PageNumber>5335</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1680,7 +1675,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gollerkeri</Key>
-      <Text>G. V</Text>
+      <Forenames>G. V .</Forenames>
       <PageNumber>4867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1863,15 +1858,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. A</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L Papatja Pattabhiramaiya . ...</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L</Forenames>
+      <Text>Papatja Pattabhiramaiya . ...</Text>
       <PageNumber>___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

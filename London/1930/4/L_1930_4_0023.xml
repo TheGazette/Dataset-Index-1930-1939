@@ -87,7 +87,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grossman</Key>
-      <Text>F. L. M</Text>
+      <Forenames>F. L. M</Forenames>
       <PageNumber>6176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,8 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welchman</Key>
-      <Forenames>G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>G. de V</Forenames>
       <PageNumber>8078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,8 +462,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, C. C. Saunders</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>C. C. Saunders</Forenames>
       <PageNumber>6248</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,8 +520,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. B</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. B</Text>
       <PageNumber>8079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1165,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>R. S.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. S. de C</Forenames>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>

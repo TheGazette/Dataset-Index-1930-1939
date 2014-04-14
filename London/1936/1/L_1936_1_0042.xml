@@ -698,15 +698,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, M. J</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, F. F. B</Text>
+      <Key>St. George</Key>
+      <Forenames>F. F. B.</Forenames>
       <PageNumber>975</PageNumber>
       <PageNumber>1164</PageNumber>
     </MainItem>
@@ -911,8 +911,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severin</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>I. St. Q</Forenames>
       <PageNumber>1237</PageNumber>
     </MainItem>
   </ItemGroup>

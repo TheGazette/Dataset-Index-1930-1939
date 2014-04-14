@@ -755,6 +755,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>6018</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dening</Key>
       <Forenames>B. C</Forenames>
       <PageNumber>5049</PageNumber>
@@ -1198,8 +1205,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, M. P</Text>
+      <Key>O'Leary</Key>
+      <Forenames>M. P</Forenames>
       <PageNumber>5048</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1700,8 +1707,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bennett</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. P. J</Text>
+      <Forenames>H. St. P</Forenames>
+      <Text>. J</Text>
       <PageNumber>4889</PageNumber>
     </MainItem>
   </ItemGroup>

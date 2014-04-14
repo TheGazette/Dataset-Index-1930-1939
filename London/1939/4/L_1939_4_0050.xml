@@ -814,7 +814,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>A. H.</Forenames>
-      <Text>(R.A.P.C.)</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>7478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1047,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>N. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1092,7 +1096,9 @@
       <Key>Pechell</Key>
       <Title>Sir</Title>
       <Forenames>P. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8582</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1512,8 +1518,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>7485</PageNumber>
     </MainItem>
   </ItemGroup>

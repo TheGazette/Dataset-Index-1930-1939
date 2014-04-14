@@ -291,8 +291,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, E. H. M</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>E. H. M</Forenames>
       <PageNumber>3390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,8 +328,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, J. G. B</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>J. G. B</Forenames>
       <PageNumber>2487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,8 +377,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, J. J</Text>
+      <Key>O'Meara</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +458,8 @@
       <Key>
         <KeyDitto />
       </Key>
-      <Forenames>O</Forenames>
-      <Text>'Shea, D. G</Text>
+      <Forenames>O'Shea</Forenames>
+      <Text>, D. G</Text>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +472,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, G. R</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>G. R.</Forenames>
       <PageNumber>4453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1268,8 +1268,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>C. St. Q</Forenames>
       <PageNumber>2489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1439,8 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Power</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>2926</PageNumber>
     </MainItem>
   </ItemGroup>

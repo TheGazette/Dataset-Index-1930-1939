@@ -1212,7 +1212,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>T. H.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7784</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1855,8 +1857,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lethbridge</Key>
-      <Forenames>R. F.St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. F.St. G</Forenames>
       <PageNumber>8171</PageNumber>
     </MainItem>
   </ItemGroup>

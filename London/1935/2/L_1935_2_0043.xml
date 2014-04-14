@@ -46,7 +46,9 @@
       <Key>Rose</Key>
       <Title>Sir (Hugh)</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, D.S.O, LL.D, J.P, D.L, . Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +105,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Round-Turner</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Charles Wolfran, C.M.G, Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Charles Wolfran</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +172,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Rumbold</Key>
-      <Text>; Rt. Hon. Sir Horace, Bt, G.C.B, . G.C.M.G, M.V.O, Member of Committee of the Privy Council, on Official Roll of Baronets</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,9 +197,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Title>Paym.</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Henshaw Robert, C.B, O.M.G, Knight Cbm. mander, Order of the British Empire</Text>
+      <Title>Paym. Rear-Admiral</Title>
+      <Forenames>Henshaw Robert</Forenames>
+      <Text>, C.B, O.M.G, Knight Cbm. mander, Order of the British Empire</Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +235,9 @@
     <MainItem>
       <Key>Sachse</Key>
       <Forenames>Frederic Alexander</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +245,9 @@
     <MainItem>
       <Key>Sadler</Key>
       <Forenames>George William</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +347,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Satya</Key>
-      <Text>Charan Mukherjee, Rai Bahadur, C.B.E, . M.L.A, Knight</Text>
+      <Forenames>Charan Mukherjee</Forenames>
+      <Text>, Rai Bahadur, C.B.E, . M.L.A, Knight</Text>
       <PageNumber>2662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +393,9 @@
     <MainItem>
       <Key>Savage</Key>
       <Forenames>Edward Graham</Forenames>
-      <Text>, Companion, Order of the Bath ... . ... '.,</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +404,9 @@
       <Key>Schreiber</Key>
       <Title>Lt.</Title>
       <Forenames>Derek Shuld-</Forenames>
-      <Text>ham, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +423,9 @@
       <Key>Scorgie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Norman Gibb</Forenames>
-      <Text>, C.B.E, M.V.O, Commander,. Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +514,9 @@
       <Key>Sergison-Brooke</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Bertram Norman</Forenames>
-      <Text>, C.M.G, D.S.O, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -539,7 +559,9 @@
     <MainItem>
       <Key>Shapcott</Key>
       <Forenames>Louis Edward</Forenames>
-      <Text>, M.V.O, I.S.O, Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -671,7 +693,9 @@
       <Key>Simon</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G. C.S.I, K.CV.O, O.B.E., Principal Secretary of State</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -113,8 +113,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Twidale</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>E. St. A</Forenames>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -506,7 +505,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Guild</Key>
-      <Text>. A. B</Text>
+      <Forenames>A. B.</Forenames>
       <PageNumber>4722</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Russell</Key>
-      <Text>. B. F. B</Text>
+      <Forenames>B. F. B.</Forenames>
       <PageNumber>5488</PageNumber>
       <PageNumber>5866</PageNumber>
     </MainItem>
@@ -853,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Danby</Key>
-      <Text>. O. F. S</Text>
+      <Forenames>O. F. S</Forenames>
       <PageNumber>6014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -914,8 +913,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wake</Key>
-      <Title>St.</Title>
-      <Forenames>A. B</Forenames>
+      <Title>St. A.</Title>
+      <Forenames>B</Forenames>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +930,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>. G. C</Text>
+      <Forenames>G. C</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1081,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bodell</Key>
-      <Text>. G. W</Text>
+      <Forenames>G. W</Forenames>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1147,7 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Came</Key>
-      <Text>. W. P</Text>
+      <Forenames>W. P</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1219,8 +1218,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicolson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L. ... ,</Text>
+      <Forenames>H. St. L</Forenames>
+      <Text>. ... ,</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1242,7 +1241,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. H. S. M. ,</Text>
+      <Forenames>H. S. M.</Forenames>
+      <Text>,</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1407,7 +1407,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salter</Key>
-      <Text>. G. L. M</Text>
+      <Forenames>G. L. M.</Forenames>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1429,7 +1429,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smale</Key>
-      <Text>. W. G :</Text>
+      <Forenames>W. G</Forenames>
+      <Text>:</Text>
       <PageNumber>4475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1488,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Beard</Key>
-      <Text>. K. -W</Text>
+      <Forenames>K.</Forenames>
+      <Text>-W</Text>
       <PageNumber>4963</PageNumber>
     </MainItem>
   </ItemGroup>

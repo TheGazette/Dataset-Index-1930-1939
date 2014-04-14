@@ -301,7 +301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>R. A. E</Text>
+      <Forenames>R. A. E.</Forenames>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +353,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Verdon-Roe</Key>
-      <Text>E. A</Text>
+      <Forenames>E. A.</Forenames>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +382,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallis</Key>
-      <Text>C. B. B</Text>
+      <Forenames>C. B. B.</Forenames>
       <PageNumber>2238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Text>G. W. C</Text>
+      <Forenames>G. W. C.</Forenames>
       <PageNumber>3930</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +461,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>J. F</Text>
+      <Forenames>J. F .</Forenames>
       <PageNumber>2826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,14 +557,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>I. S</Text>
+      <Forenames>I. S .</Forenames>
       <PageNumber>2237</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Williamson</Key>
-      <Text>K</Text>
+      <Forenames>K.</Forenames>
       <PageNumber>2442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +641,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Flint</Key>
-      <Text>Rear-Adm. Rafe Grenville, Rowley-Conwy, C.M.G</Text>
+      <Forenames>Rear-Adm</Forenames>
+      <Text>. Rafe Grenville, Rowley-Conwy, C.M.G</Text>
       <PageNumber>3620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,7 +659,9 @@
     <MainItem>
       <Key>Lincoln</Key>
       <Forenames>George Edward</Forenames>
-      <Text>, Baron Heneage, O.B.E, j;p, D.L</Text>
+      <Text>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>2595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -675,7 +678,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Text>: Aberdeen and Temair, Most Hon. Marquis of, O.B.E</Text>
+      <Text>
+        <Honour>O.B.E</Honour>
+      </Text>
       <PageNumber>2325</PageNumber>
     </MainItem>
     <SubItem>
@@ -688,7 +693,10 @@
       <Key>Ayr</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Edward Chad-</Forenames>
-      <Text>wyck-Healey, Bart, C.B.E</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>3448</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +718,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Monmouth</Key>
-      <Text>: Jenour, Brig.-Gen. Arthur Stawell, C.B C.M.G, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3929</PageNumber>
     </MainItem>
     <SubItem>
@@ -740,12 +750,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Peebles</Key>
-      <Text>: Miller-Cunningham, Sir George, K.B.E, C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>2237</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>2237</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>2237</PageNumber>
       </Text>
       <PageNumber>2237</PageNumber>

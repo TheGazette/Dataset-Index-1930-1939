@@ -144,7 +144,9 @@
     <MainItem>
       <Key>Skinner</Key>
       <Forenames>A. W.</Forenames>
-      <Text>M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>4935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +199,9 @@
       <Key>Smiley</Key>
       <Title>Sir</Title>
       <Forenames>H. H.</Forenames>
-      <Text>., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +348,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southcliffe</Key>
-      <Text>W. O</Text>
+      <Forenames>W. O.</Forenames>
       <PageNumber>4470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +420,9 @@
       <Key>Stanier</Key>
       <Title>Sir</Title>
       <Forenames>A. B. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4469</PageNumber>
       <PageNumber>6094</PageNumber>
     </MainItem>
@@ -720,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Temperlev</Key>
-      <Text>G. F. V</Text>
+      <Forenames>G. F. V.</Forenames>
       <PageNumber>4703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -827,21 +833,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Tod</Key>
-      <Text>C D</Text>
+      <Forenames>C</Forenames>
+      <Text>D</Text>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tomlinson</Key>
-      <Text>V. B</Text>
+      <Forenames>V. B.</Forenames>
       <PageNumber>5061</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Toms</Key>
-      <Text>E, 0</Text>
+      <Forenames>E</Forenames>
+      <Text>, 0</Text>
       <PageNumber>5367</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -891,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trimble</Key>
-      <Text>A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>5435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -940,8 +948,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. L. St. J</Forenames>
       <PageNumber>6024</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,9 +1020,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, J. F. T</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>J. F. T.</Forenames>
       <PageNumber>5623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1037,7 +1043,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>5226</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,15 +1073,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Veale</Key>
-      <Forenames>W. F.</Forenames>
-      <Text>de C</Text>
+      <Forenames>W. F. de C</Forenames>
       <PageNumber>5956</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vears</Key>
-      <Text>L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>4559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1096,7 +1101,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>F. H</Text>
+      <Forenames>F. H.</Forenames>
       <PageNumber>5561</PageNumber>
     </MainItem>
   </ItemGroup>

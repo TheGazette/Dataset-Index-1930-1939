@@ -746,7 +746,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beale</Key>
-      <Text>. R. T. G. C</Text>
+      <Forenames>R. T. G. C</Forenames>
       <PageNumber>3825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boileau</Key>
-      <Text>. D. W</Text>
+      <Forenames>D. W.</Forenames>
       <PageNumber>2938</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -972,7 +972,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Borthwick</Key>
-      <Text>. H. G. E</Text>
+      <Forenames>H. G. E</Forenames>
       <PageNumber>3968</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1191,7 +1191,9 @@
       <Key>Buchanan</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1394,8 +1396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>H. St. M</Forenames>
       <PageNumber>3205</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,7 +1534,9 @@
       <Key>Child</Key>
       <Title>Sir</Title>
       <Forenames>C. John</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockburn</Key>
-      <Text>. A. A</Text>
+      <Forenames>A. A</Forenames>
       <PageNumber>3876</PageNumber>
     </MainItem>
   </ItemGroup>

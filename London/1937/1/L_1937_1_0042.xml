@@ -23,6 +23,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>R. W. M .</Forenames>
+      <Text>.. i«&gt;&lt;j,</Text>
+      <PageNumber>2087</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dimoline</Key>
       <Forenames>W. A.</Forenames>
       <PageNumber>788</PageNumber>
@@ -172,9 +180,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, Earl of Ulster</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of, Earl of Ulster</Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -271,7 +278,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haugh</Key>
-      <Text>. J. W. N</Text>
+      <Forenames>J. W. N</Forenames>
       <PageNumber>265</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,9 +455,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, Earl of St. Andrews</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of, Earl of St. Andrews</Text>
       <PageNumber>687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,8 +609,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mallins</Key>
-      <Forenames>S. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>S. O'C</Forenames>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1038,7 +1043,9 @@
       <Key>Warner</Key>
       <Title>Sir</Title>
       <Forenames>E. C. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,7 +1137,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yeo</Key>
-      <Text>. C. J</Text>
+      <Forenames>C. J .</Forenames>
       <PageNumber>2087</PageNumber>
     </MainItem>
   </ItemGroup>

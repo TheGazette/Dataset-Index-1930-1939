@@ -165,7 +165,9 @@
       <Key>Gilmour</Key>
       <Title>Sir</Title>
       <Forenames>J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4943</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1243,7 +1245,9 @@
       <Key>Lees</Key>
       <Title>Sir</Title>
       <Forenames>J. V. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1264,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>A. H. W</Text>
+      <Forenames>A. H. W</Forenames>
       <PageNumber>4865</PageNumber>
     </MainItem>
   </ItemGroup>

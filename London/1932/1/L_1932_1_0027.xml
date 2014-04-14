@@ -283,8 +283,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bulguy</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1124,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coombes</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J</Forenames>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1474,15 +1473,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalrymple</Key>
-      <Forenames>The Visct</Forenames>
+      <Title>The Visct.</Title>
       <PageNumber>486</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>B. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. B. St. G</Forenames>
       <PageNumber>630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1679,9 +1677,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Cateret</Key>
+      <Forenames>A. G.</Forenames>
+      <PageNumber>632</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>deClermont</Key>
       <Forenames>P. H. V.</Forenames>
       <PageNumber>631</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>F. W</Forenames>
+      <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

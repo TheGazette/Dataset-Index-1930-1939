@@ -14,7 +14,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>. D. G</Text>
+      <Forenames>D. G.</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,8 +52,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caulfeild</Key>
-      <Forenames>T. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>T. St. G</Forenames>
       <PageNumber>607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -81,8 +80,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cazenove</Key>
-      <Forenames>A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>A. de L</Forenames>
       <PageNumber>59</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +493,9 @@
       <Key>Coates</Key>
       <Title>Sir</Title>
       <Forenames>F. G. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>684</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +607,9 @@
       <PageNumber>682</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Sir T. G., Bt. ... ___ ___ 609 N. J. C</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1638</PageNumber>
     </SubItem>
   </ItemGroup>

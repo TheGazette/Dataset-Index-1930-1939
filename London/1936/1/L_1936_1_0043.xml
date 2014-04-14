@@ -10,7 +10,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sword</Key>
-      <Text>E. R</Text>
+      <Forenames>E. R</Forenames>
       <PageNumber>458</PageNumber>
       <PageNumber>1467</PageNumber>
     </MainItem>
@@ -760,7 +760,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Varian</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -774,7 +774,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>1561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vickers</Key>
-      <Text>W. G. H</Text>
+      <Forenames>W. G. H.</Forenames>
       <PageNumber>909</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +810,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vink</Key>
-      <Text>K. T</Text>
+      <Forenames>K. T.</Forenames>
       <PageNumber>668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,7 +845,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wainmati</Key>
-      <Text>P. R</Text>
+      <Forenames>P. R.</Forenames>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walmslev</Key>
-      <Text>L</Text>
+      <Forenames>L.</Forenames>
       <PageNumber>1740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -961,14 +961,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Walwyn</Key>
-      <Text>F. T. T</Text>
+      <Forenames>F. T. T.</Forenames>
       <PageNumber>975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>C. E</Text>
+      <Forenames>C. E .</Forenames>
       <PageNumber>1468</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -984,35 +984,36 @@
   <ItemGroup>
     <MainItem>
       <Key>Warden</Key>
-      <Text>W. A. P</Text>
+      <Forenames>W. A. P.</Forenames>
       <PageNumber>670</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wardle</Key>
-      <Text>M. M</Text>
+      <Forenames>M. M.</Forenames>
       <PageNumber>911</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wark</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warland</Key>
-      <Text>G. E. J. ,</Text>
+      <Forenames>G. E. J.</Forenames>
+      <Text>,</Text>
       <PageNumber>1975</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warner</Key>
-      <Text>E. W. R</Text>
+      <Forenames>E. W. R.</Forenames>
       <PageNumber>1237</PageNumber>
       <PageNumber>1384</PageNumber>
     </MainItem>
@@ -1027,7 +1028,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Text>E. .T</Text>
+      <Forenames>E.</Forenames>
+      <Text>.T</Text>
       <PageNumber>1307</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1050,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watkins</Key>
-      <Text>A. P</Text>
+      <Forenames>A. P.</Forenames>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1098,14 +1100,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>A. E. ... ::</Text>
+      <Forenames>A. E.</Forenames>
+      <Text>... ::</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wavell</Key>
-      <Text>A. J. A</Text>
+      <Forenames>A. J. A.</Forenames>
       <PageNumber>671</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,7 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Webber</Key>
-      <Text>N. W</Text>
+      <Forenames>N. W.</Forenames>
       <PageNumber>1165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1167,7 +1170,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>G. A</Text>
+      <Forenames>G. A.</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1197,7 +1200,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wells</Key>
-      <Text>C. I. B</Text>
+      <Forenames>C. I. B.</Forenames>
       <PageNumber>1058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,7 +1256,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westmorland</Key>
-      <Text>H. L</Text>
+      <Forenames>H. L.</Forenames>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1289,7 +1292,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whale</Key>
-      <Text>H. E</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>135</PageNumber>
     </MainItem>
   </ItemGroup>

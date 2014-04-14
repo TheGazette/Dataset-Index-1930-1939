@@ -155,6 +155,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>S. B.</Forenames>
+      <PageNumber>4257</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Disbrowe</Key>
       <Forenames>E. F</Forenames>
       <PageNumber>4257</PageNumber>
@@ -393,7 +400,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Text>. M. L</Text>
+      <Forenames>M. L</Forenames>
       <PageNumber>5470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,9 +417,10 @@
       <Forenames>G. C. A.</Forenames>
       <PageNumber>5929</PageNumber>
     </MainItem>
-    <SubSectionTitle>Engineer Commanders</SubSectionTitle>
+    <SubSectionTitle>
+      <Text>Engineer Commanders</Text>
+    </SubSectionTitle>
     <SubItem>
-      <Text>Engineer Commanders.</Text>
       <PageNumber>4257</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -679,8 +687,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Newby</Key>
-      <Forenames>C. H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. H. de B</Forenames>
       <PageNumber>5410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +875,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. W</Forenames>
       <PageNumber>5740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,7 +974,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duval</Key>
-      <Text>. H. S</Text>
+      <Forenames>H. S .</Forenames>
       <PageNumber>4525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1170,7 +1177,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Kasteele, W. J</Text>
+      <Forenames>de Kasteele</Forenames>
+      <Text>, W. J</Text>
       <PageNumber>5657</PageNumber>
     </MainItem>
   </ItemGroup>

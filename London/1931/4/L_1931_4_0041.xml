@@ -224,9 +224,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Penning</Forenames>
-      <Text>, J. F</Text>
+      <Key>de Gruyther</Key>
+      <Forenames>C. G</Forenames>
+      <PageNumber>6781</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Penning</Key>
+      <Forenames>J. F</Forenames>
       <PageNumber>8165</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +310,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hendricks</Key>
-      <Title>St.</Title>
-      <Forenames>J. E</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>E</Forenames>
       <PageNumber>6311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lahiri</Key>
-      <Text>P. N</Text>
+      <Forenames>P. N</Forenames>
       <PageNumber>6311</PageNumber>
       <PageNumber>6781</PageNumber>
     </MainItem>
@@ -531,7 +537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Salt</Key>
-      <Text>J. S</Text>
+      <Forenames>J. S</Forenames>
       <PageNumber>7662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +572,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shave</Key>
-      <Text>E. D</Text>
+      <Forenames>E. D</Forenames>
       <PageNumber>6311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,8 +816,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Benn</Key>
-      <Forenames>E. P. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. P. St. J</Forenames>
       <PageNumber>7985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +986,10 @@
     <MainItem>
       <Key>Henderson</Key>
       <Forenames>O.</Forenames>
-      <Text>, C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1071,8 +1079,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donald</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. St. C</Forenames>
       <PageNumber>6699</PageNumber>
     </MainItem>
   </ItemGroup>

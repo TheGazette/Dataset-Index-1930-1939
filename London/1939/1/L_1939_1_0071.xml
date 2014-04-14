@@ -518,7 +518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ellor</Key>
-      <Text>. J. F. ... '</Text>
+      <Forenames>J. F.</Forenames>
+      <Text>... '</Text>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,8 +562,7 @@
     <MainItem>
       <Key>Erskine</Key>
       <Title>Hon.</Title>
-      <Forenames>P. G. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. G. A. St. C</Forenames>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,8 +596,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>F. M. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>F. M. St. H</Forenames>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,8 +627,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L..V</Text>
+      <Forenames>M. H. de L</Forenames>
+      <Text>..V</Text>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1269,7 +1268,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gell</Key>
-      <Text>.W. C. C</Text>
+      <Forenames>W. C. C .</Forenames>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,8 +1790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greig</Key>
-      <Forenames>A. W. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. W. St. C</Forenames>
       <PageNumber>692</PageNumber>
     </MainItem>
   </ItemGroup>

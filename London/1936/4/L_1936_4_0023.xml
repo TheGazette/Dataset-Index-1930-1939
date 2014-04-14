@@ -30,7 +30,10 @@
       <Key>Erskine</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, G. C.V.O.,D.S.O., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +93,12 @@
       <Key>Game</Key>
       <Title>Air Vice-Marshal Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, G.B.E., K.C.B., K.C.M.G., D.S.O., Member, Coronation Executive Committee----</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
@@ -110,7 +118,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Gidlow-Jackson</Key>
-      <Text>. Capt. Roger M y 1 e s, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +141,9 @@
     <MainItem>
       <Key>Grierson</Key>
       <Forenames>Francis Hamilton</Forenames>
-      <Text>, M.B.E., Sheriff Substitute of Inverness</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6537</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +152,9 @@
       <Key>Hacking</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Douglas Hewitt</Forenames>
-      <Text>, O.B.E., Member, General Council of Medical Education and Registration of. the United Kingdom</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8282</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee ... 8185</CategoryTitle>
@@ -159,7 +173,10 @@
       <Key>Harding</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, K.C.B., K.C.M.G., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee 8185-6</CategoryTitle>
@@ -218,8 +235,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunter</Key>
-      <Forenames>Major-General A. J.</Forenames>
-      <Text>, C.B., C:M.G., D.S:0., M.O., Member, Coronar tion Executive Committee</Text>
+      <Title>Major-</Title>
+      <Forenames>General A. J.</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +256,10 @@
       <Key>Jeffrey</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.B., C.B.E., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8365</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,16 +274,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., K.T., G.C.M.G., G. C.V.O., President, British School at Rome</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>6536</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Khalifa</Key>
-      <Text>bin Harub, HH. S e y y i d , G.B.E., K.C.M.G., Sultan of Zanzibar, Knight Grand Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +316,9 @@
       <Key>Knatchbull-Hugessen</Key>
       <Title>Sir</Title>
       <Forenames>Hughe Montgomery</Forenames>
-      <Text>, K.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary at Peking</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6536</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +343,9 @@
       <Key>Lead</Key>
       <Title>Major Sir</Title>
       <Forenames>William C</Forenames>
-      <Text>, M.C., Unofficial Member, Legislative Council, Tanganyika Territory</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7916</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +366,9 @@
     <MainItem>
       <Key>Lloyd-Blood</Key>
       <Forenames>Lancelot Ivan Neptune</Forenames>
-      <Text>, M.C., Member, Executive Council of Cyprus</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6609</PageNumber>
     </MainItem>
     <CategoryTitle>Claims Committee 8185-6</CategoryTitle>

@@ -733,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>. C. D</Text>
+      <Forenames>C. D.</Forenames>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -928,7 +928,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Hey</Key>
-      <Text>wood, Sir G. P., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>

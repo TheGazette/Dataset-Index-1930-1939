@@ -66,6 +66,14 @@
   <SubSectionTitle>Emergency List</SubSectionTitle>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Hon.</Title>
+      <Forenames>M. J. R.</Forenames>
+      <PageNumber>3019</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Drew</Key>
       <Forenames>D. H.</Forenames>
       <PageNumber>3266</PageNumber>
@@ -202,8 +210,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warren</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de M</Text>
+      <Forenames>J. R. de M</Forenames>
       <PageNumber>2152</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,8 +389,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cameron</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>C. St. C</Forenames>
       <PageNumber>4076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,6 +725,14 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Emergency List</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Title>Hon.</Title>
+      <Forenames>M. J. R.</Forenames>
+      <PageNumber>3019</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SubSubSectionTitle>Retired List</SubSubSectionTitle>
   <ItemGroup>
     <MainItem>
@@ -885,7 +899,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nuthall</Key>
-      <Text>R. B</Text>
+      <Forenames>R. B</Forenames>
       <PageNumber>3890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,8 +1176,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>C. G.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. G. de L</Forenames>
       <PageNumber>2781</PageNumber>
     </MainItem>
   </ItemGroup>

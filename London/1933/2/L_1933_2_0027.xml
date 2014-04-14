@@ -34,6 +34,19 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Sir</Title>
+      <Forenames>Geoffrey Fitzhervey</Forenames>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
+      <PageNumber>4198</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Debney</Key>
       <Forenames>George John</Forenames>
       <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
@@ -44,7 +57,9 @@
     <MainItem>
       <Key>Denman</Key>
       <Forenames>Gertrude Mary</Forenames>
-      <Text>, Baroness, C.B.E., Dame Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +113,10 @@
       <Key>Dickie</Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +132,9 @@
     <MainItem>
       <Key>Diwan</Key>
       <Forenames>Abdul Hamid</Forenames>
-      <Text>, Khan Bahadur, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +143,9 @@
       <Key>Dixon</Key>
       <Title>Maj.</Title>
       <Forenames>James Herbert</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -147,7 +169,9 @@
     <MainItem>
       <Key>Doncaster</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., J:P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +179,9 @@
     <MainItem>
       <Key>Dosabhai</Key>
       <Forenames>Framji Panthaki</Forenames>
-      <Text>, M.B.E., Associate Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +189,9 @@
     <MainItem>
       <Key>Douglas</Key>
       <Forenames>Alexander Joseph</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +210,10 @@
     <MainItem>
       <Key>Dowding</Key>
       <Forenames>Air Marshal Hugh Caswall Tremehheere</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -211,7 +242,10 @@
       <Key>Drum</Key>
       <Title>Col.</Title>
       <Forenames>Lorne</Forenames>
-      <Text>, C.B.E., M.D., Commander, Order -of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +262,9 @@
     <MainItem>
       <Key>Duff-Assheton-</Key>
       <Forenames>Smith</Forenames>
-      <Text>, Sir Michael Robert Vivian, Bt., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +272,9 @@
     <MainItem>
       <Key>Duggan</Key>
       <Forenames>Jamshedji Nasar-</Forenames>
-      <Text>vanji, O.B.E., L.M. and S., F.C.P.S., D.O. (Oxon), Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +282,10 @@
     <MainItem>
       <Key>Duke-Elder</Key>
       <Forenames>William Stewart</Forenames>
-      <Text>, D.Sc, Ph.D, M.D., Ch.B., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +302,11 @@
       <Key>Dunhill</Key>
       <Title>Col.</Title>
       <Forenames>Thomas Peel</Forenames>
-      <Text>, C.M.G., M.D., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +322,9 @@
     <MainItem>
       <Key>Dutton</Key>
       <Forenames>Frederick Hugh</Forenames>
-      <Text>, O.B.E., M.A., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +350,9 @@
     <MainItem>
       <Key>Eaton</Key>
       <Forenames>Walter Cecil</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -328,14 +377,21 @@
       <Key>Elgar</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, Bart., O.M., K.C.V.O., Knight Grand Cross, Royal. Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Elgin</Key>
-      <Text>and Kincardine, Edward James, Earl of, C.M.G., T.D., Knight of the Thistle</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +409,9 @@
       <Key>Elsdale</Key>
       <Title>Maj.</Title>
       <Forenames>Robinson</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +498,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Fairweather</Forenames>
-      <Text>, Wallace, D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,7 +518,10 @@
       <Key>Falkner</Key>
       <Title>Brig.</Title>
       <Forenames>Eric Felton</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +589,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Adm.</Title>
-      <Text>of the Fleet Sir Frederick Laurence, K.C.B., K.C.M.G., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +611,9 @@
       <Key>Finch</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Flad-</Forenames>
-      <Text>gate, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +654,9 @@
     <MainItem>
       <Key>Fitzpatrick</Key>
       <Forenames>James Alexander Ossory</Forenames>
-      <Text>, CLE., C.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -623,7 +693,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Coy. Sgt.</Title>
-      <Text>-Maj. William, D.C.M., Member, Order of British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +729,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Samuel</Forenames>
-      <Text>, John, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>

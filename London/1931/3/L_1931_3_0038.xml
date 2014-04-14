@@ -64,7 +64,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodd</Key>
-      <Text>G. G. R</Text>
+      <Forenames>G. G. R.</Forenames>
       <PageNumber>5695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +146,9 @@
       <Key>Sassoon</Key>
       <Title>Sir</Title>
       <Forenames>P. A. G</Forenames>
-      <Text>D., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5970</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Text>H. A</Text>
+      <Forenames>H. A.</Forenames>
       <PageNumber>4633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -895,7 +897,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5471</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>5471</PageNumber>
     </SubItem>
@@ -903,11 +907,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Text>: Briscoe, Captain Richard George M.O., M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>4944</PageNumber>
       </Text>
       <PageNumber>4944</PageNumber>
@@ -921,6 +930,9 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>6238</PageNumber>
       </Text>
       <PageNumber>6238</PageNumber>
@@ -929,14 +941,23 @@
   <ItemGroup>
     <MainItem>
       <Key>Devon</Key>
-      <Text>: Alexander, Maj. Gen. Ernest Wright, V.C., C. B., C.M.G</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+      </Text>
       <PageNumber>4788</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
         <PageNumber>4788</PageNumber>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>4788</PageNumber>
+        <Honour>Bart</Honour>
         <PageNumber>4788</PageNumber>
+        <Honour>T.D.</Honour>
       </Text>
       <PageNumber>4788</PageNumber>
     </SubItem>
@@ -946,7 +967,9 @@
       <Key>Worcester</Key>
       <Title>Sir</Title>
       <Forenames>Richard Christopher Brooke</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>5027</PageNumber>
     </MainItem>
   </ItemGroup>

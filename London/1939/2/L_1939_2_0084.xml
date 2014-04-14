@@ -1003,7 +1003,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crichton</Key>
-      <Text>M. D</Text>
+      <Forenames>M. D</Forenames>
       <PageNumber>4256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1580,8 +1580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Forenames>D. T. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>D. T. St. H</Forenames>
       <PageNumber>2755</PageNumber>
       <PageNumber>3480</PageNumber>
     </MainItem>
@@ -1652,6 +1651,20 @@
       </Key>
       <Forenames>M. D .</Forenames>
       <PageNumber>4253</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruchy</Key>
+      <Forenames>N. E.</Forenames>
+      <PageNumber>3113</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Worms</Key>
+      <Forenames>G. P. G.</Forenames>
+      <PageNumber>4456</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

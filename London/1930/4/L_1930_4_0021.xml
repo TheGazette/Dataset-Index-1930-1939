@@ -69,7 +69,9 @@
       <Key>Allan</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William David</Forenames>
-      <Text>, O.B.E., Inspector under the County and Borough Police Act, 1856</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -78,7 +80,9 @@
       <Key>Amulree</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Warrender</Forenames>
-      <Text>, Lord, G.B.E., Member of H.M. Privy Council, and Air Minister</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +90,9 @@
     <MainItem>
       <Key>Andrews-Speed</Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E., Unofficial Member of the Executive Council of the City and Garrison of Gibraltar</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -95,7 +101,12 @@
       <Key>Barrow</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Harold Percy Waller</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., O.B.E., Official Member of the Executive Council of the Presidency of Antigua</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8154</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +122,9 @@
     <MainItem>
       <Key>Belcher</Key>
       <Forenames>Charles Frederic</Forenames>
-      <Text>, O.B.E., Chief Justice of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6945</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +132,9 @@
     <MainItem>
       <Key>Bennett</Key>
       <Forenames>John Cecil Sterndale</Forenames>
-      <Text>, C.M.G., M.C.i First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +203,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Alfred Trego</Forenames>
-      <Text>, M.C.. Genealogist to the Order of the Bath</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -197,7 +214,11 @@
       <Key>Byrne</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Joseph</Forenames>
-      <Text>K.C.M.G., K.B.E., C.B., Governor and Commander-in-Chief of Kenya</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +235,12 @@
       <Key>Chebwode</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Philip Walhouse</Forenames>
-      <Text>, Bt., G.C.B., K.C.M.G., D.S.O., Member of the Executive Council of the Governor-General of India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7256</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,7 +274,9 @@
       <Key>Cotterell</Key>
       <Title>Sir</Title>
       <Forenames>John Richard Geers</Forenames>
-      <Text>, Bt., Member of the Royal Commission on Historical Monuments (England), in respect of Herefordshire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +329,10 @@
     <MainItem>
       <Key>Dawkins</Key>
       <Forenames>Horace Christian</Forenames>
-      <Text>, C.B., M.B.E., Knight Commander of the Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6738</PageNumber>
     </MainItem>
     <SubItem>
@@ -311,10 +342,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Villiers</Key>
+      <Title>Hon.</Title>
+      <Forenames>Jacob</Forenames>
+      <Text>, Member of H.M. Privy Council</Text>
+      <PageNumber>8141</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dillon</Key>
       <Title>Col.</Title>
       <Forenames>Eric Fitzgerald</Forenames>
-      <Text>, C.M.G., D.S.O., Member of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +381,10 @@
       <Key>Dudgeon</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Robert Maxwell</Forenames>
-      <Text>, D.S.O., M.C., Inspector of Constabulary for Scotland</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +408,10 @@
     <MainItem>
       <Key>Dyke</Key>
       <Forenames>Arthur James</Forenames>
-      <Text>, C.B., C.B.E., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +453,10 @@
       <Key>Gallagher</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Albert Ernest</Forenames>
-      <Text>, C.B.E., D.S.O., Nominated Official Member, Legislative Council, Cyprus</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +488,10 @@
     <MainItem>
       <Key>Grylls</Key>
       <Forenames>Charles John Tench Bed-</Forenames>
-      <Text>ford, C.B., C.B.E., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +500,9 @@
       <Key>Gfwyer</Key>
       <Title>Sir</Title>
       <Forenames>Maurice Linford</Forenames>
-      <Text>, K.C.B., one of H.M. Counsel learned in the Law</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>7573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -534,7 +591,9 @@
     <MainItem>
       <Key>Khwaja</Key>
       <Forenames>Muhammad Nur</Forenames>
-      <Text>, Khan Bahadur, C.B.E., Judge of the High Court of Judicature at Patna</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +663,9 @@
     <MainItem>
       <Key>Luke</Key>
       <Forenames>Harry Charles</Forenames>
-      <Text>, C.M.G., Lt.^Governor of Malta and its Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6016</PageNumber>
     </MainItem>
     <SubItem>

@@ -21,14 +21,19 @@
       <Key>Pott</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Helme</Forenames>
-      <Text>, D.S.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Potter</Key>
-      <Text>Col. Jacob Leslie, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Col.</Title>
+      <Forenames>Jacob Leslie</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -51,7 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Powell</Key>
-      <Text>; Maj. and Brevet Lt.Col. Frederick John T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +100,10 @@
     <MainItem>
       <Key>Prickard</Key>
       <Forenames>Thomas Francis Vaughan</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +120,9 @@
     <MainItem>
       <Key>Pringle</Key>
       <Forenames>Seton Sidney</Forenames>
-      <Text>, O.B.E.. P.R.C.S.I., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +149,9 @@
     <MainItem>
       <Key>Pugh</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, C.B.E.. J.P., ... Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +177,9 @@
       <Key>Quill</Key>
       <Title>Maj.</Title>
       <Forenames>Raymond Hum-</Forenames>
-      <Text>phrey, Member. Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +194,9 @@
     <MainItem>
       <Key>Raghbir</Key>
       <Forenames>Singh</Forenames>
-      <Text>, Risaldar, 1. D.S.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -203,7 +221,9 @@
     <MainItem>
       <Key>Ramsey</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Charles Gordon, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,7 +281,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Raza</Key>
-      <Text>AH, Saiyid, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +291,10 @@
     <MainItem>
       <Key>Rea</Key>
       <Forenames>Walter Russell</Forenames>
-      <Text>, M.P., Baronet</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -277,7 +302,9 @@
     <MainItem>
       <Key>Read</Key>
       <Forenames>Alexander Llewellyn</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +315,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, K.C.M.G., O.B., Knight Grand Cross, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +344,10 @@
       <Key>Ready</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Felix For-</Forenames>
-      <Text>dati, K.C.B., O.S.I., C.M.G., D.S.O Knight Grand Cross, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -323,7 +355,9 @@
     <MainItem>
       <Key>Redrup</Key>
       <Forenames>Gertrude Fenella</Forenames>
-      <Text>, Mrs., R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +438,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Louis George Stanley</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -449,7 +485,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Richards</Key>
-      <Text>Arthur Frederick, C.M.G., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Forenames>Arthur Frederick</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +540,9 @@
       <Key>Ridout</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Dudley Howard</Forenames>
-      <Text>, K.B.E., OB., C. M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +576,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Charles John</Forenames>
-      <Text>, O.B.E., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +618,11 @@
       <Key>Ritson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Anthony Sidney</Forenames>
-      <Text>, D.S.O., M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +651,9 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>George Fossett</Forenames>
-      <Text>, O.B.E., T.r&gt;., J.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +671,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Forenames>Air Commodore Edmund Digby Maxwell</Forenames>
-      <Text>, D. F.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +692,10 @@
       <Key>Robin</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Alfred William</Forenames>
-      <Text>, K.C.M.G., C.B., Knight of Grace, Order of St. John of Jerusalehi</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>

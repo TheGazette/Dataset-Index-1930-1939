@@ -607,8 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Avery</Key>
-      <Forenames>A. H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. H. St. J</Forenames>
       <PageNumber>5269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,6 +1002,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>H. J. St. V</Forenames>
+      <PageNumber>4686</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dent</Key>
       <Forenames>W. P.</Forenames>
       <PageNumber>4846</PageNumber>
@@ -1011,7 +1017,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dill</Key>
-      <Text>. R. H</Text>
+      <Forenames>R. H</Forenames>
       <PageNumber>4686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1148,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fenwick</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G</Forenames>
       <PageNumber>4527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1190,15 +1196,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Fox</Key>
-      <Forenames>R.</Forenames>
-      <Text>de V. R</Text>
+      <Forenames>R. de V</Forenames>
+      <Text>. R</Text>
       <PageNumber>4846</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>. H. C</Text>
+      <Forenames>H. C</Forenames>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1325,7 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>. J. S</Text>
+      <Forenames>J. S</Forenames>
       <PageNumber>5412</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1461,8 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hewett</Key>
-      <Forenames>W. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. G. O'C</Forenames>
       <PageNumber>5799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1691,16 +1696,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Lovett</Key>
-      <Forenames>O.</Forenames>
-      <Text>de T</Text>
+      <Forenames>O. de T</Forenames>
       <PageNumber>5269</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lucas</Key>
-      <Forenames>H.</Forenames>
-      <Text>de N</Text>
+      <Forenames>H. de N</Forenames>
       <PageNumber>4346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1849,7 +1852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D</Forenames>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1925,8 +1928,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flaherty, J</Text>
+      <Key>O'Flaherty</Key>
+      <Forenames>J.</Forenames>
       <PageNumber>5109</PageNumber>
     </MainItem>
   </ItemGroup>

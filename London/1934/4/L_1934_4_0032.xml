@@ -402,8 +402,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnett</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>G. St. J</Forenames>
       <PageNumber>6177</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. St. P</Forenames>
       <PageNumber>7157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1498,7 +1496,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Kasteele, W. J</Text>
+      <Forenames>de Kasteele</Forenames>
+      <Text>, W. J</Text>
       <PageNumber>6982</PageNumber>
     </MainItem>
   </ItemGroup>

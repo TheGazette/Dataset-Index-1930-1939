@@ -24,8 +24,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Maiden</Key>
-      <Forenames>R. G.</Forenames>
-      <Text>de V. Capell, Visct</Text>
+      <Forenames>R. G. de V</Forenames>
+      <Text>. Capell, Visct</Text>
       <PageNumber>4556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +493,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, W. H. M</Text>
+      <Key>O'Connor</Key>
+      <Forenames>W. H. M</Forenames>
       <PageNumber>6286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,8 +537,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, W. S</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>W. S</Forenames>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,8 +551,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, G. E,</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>G. E</Forenames>
+      <Text>,</Text>
       <PageNumber>5865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +582,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ozanne</Key>
-      <Text>. H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>5301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,8 +1067,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Johnston, T. E</Text>
+      <Key>St. Johnston</Key>
+      <Forenames>T. E</Forenames>
       <PageNumber>5046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1726,7 +1727,9 @@
       <Key>Tuck</Key>
       <Title>Sir</Title>
       <Forenames>W. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4888</PageNumber>
     </MainItem>
   </ItemGroup>

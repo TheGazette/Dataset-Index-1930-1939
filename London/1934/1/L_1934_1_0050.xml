@@ -117,8 +117,8 @@
   <SubSectionTitle>itoyal Naval Volunteer Officer, Decoration conferred on</SubSectionTitle>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. D</Forenames>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -254,8 +254,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrington</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'B. S</Text>
+      <Forenames>M. O'B</Forenames>
+      <Text>. S</Text>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,6 +685,20 @@
       <Key>Curzon</Key>
       <Forenames>R. K</Forenames>
       <PageNumber>2041</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>D. R. C. Barrois</Forenames>
+      <PageNumber>1867</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Satge</Key>
+      <Forenames>M. V</Forenames>
+      <PageNumber>837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1191,21 +1205,24 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooper</Key>
-      <Text>C...A. N</Text>
+      <Forenames>C.</Forenames>
+      <Text>..A. N</Text>
       <PageNumber>543</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hoskin</Key>
-      <Text>M. .C</Text>
+      <Forenames>M.</Forenames>
+      <Text>.C</Text>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hotham</Key>
-      <Text>J..A ... House, E. A</Text>
+      <Forenames>J.</Forenames>
+      <Text>.A ... House, E. A</Text>
       <PageNumber>1158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,7 +1243,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hudleston</Key>
-      <Text>E. C</Text>
+      <Forenames>E. C</Forenames>
       <PageNumber>758</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -49,7 +49,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-Gon. James Ronald Edmondston C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -83,7 +87,9 @@
       <Key>Ohettle</Key>
       <Title>Major</Title>
       <Forenames>Hcnrv Francis</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -100,7 +106,9 @@
     <MainItem>
       <Key>Christian</Key>
       <Forenames>William</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +133,12 @@
       <Key>Codrington</Key>
       <Title>Colonel</Title>
       <Forenames>Geoffrev Ronald</Forenames>
-      <Text>, D.S.O., O.B.E., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +156,9 @@
       <Key>Collins</Key>
       <Title>The Hon.</Title>
       <Forenames>Stephen Ogle Henn</Forenames>
-      <Text>, C.B.E., King's Counsel</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +182,9 @@
     <MainItem>
       <Key>Condon</Key>
       <Forenames>Thomas William</Forenames>
-      <Text>, Officer, Order of the British Empire ... ... S Connell. Col. Arthur Mayers, F.R.C.S.Ed., T.D..Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -175,7 +192,9 @@
     <MainItem>
       <Key>Cook</Key>
       <Title>Mrs. Katheririe.</Title>
-      <Text>M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,14 +203,18 @@
       <Key>Obppinger</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Walter Valentine</Forenames>
-      <Text>, C.I.E., D.S.O., M.D., F.R.C.S.I., I.M.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>45</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Corby</Key>
-      <Text>William Fellowes, Member, Order of the British Empire</Text>
+      <Forenames>William Fellowes</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +223,11 @@
       <Key>Corkran</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Charles Edward</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +295,9 @@
       <Key>Crutchley</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Ernest Trestam</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +315,9 @@
       <Key>Cunningham</Key>
       <Title>Capt. (local Maj.)</Title>
       <Forenames>John</Forenames>
-      <Text>McAdam, M.C., Officer, Order of the British .Umpire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +333,10 @@
     <MainItem>
       <Key>Dale</Key>
       <Forenames>Henry Hallett</Forenames>
-      <Text>, C.B.E., M.D., F.R.C.P., F.R.S., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -314,7 +348,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Henry Ha</Forenames>
-      <Text>.llett, C.B.E., F.R.S., M.D., F.R.C.P., Member of the General Council of Medical Education and Registration of the United Kingdom</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +370,9 @@
       <Key>Dalrymple</Key>
       <Title>The Hon.</Title>
       <Forenames>Hew Hamilton</Forenames>
-      <Text>, Knight Commander, Royal Victorian Order ..'</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,14 +457,18 @@
       </Key>
       <Title>Sir (Henry)</Title>
       <Forenames>Waif</Forenames>
-      <Text>ord, O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>Hubert Augustus, Member, Order of the British Empire</Text>
+      <Forenames>Hubert Augustus</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +477,14 @@
       <Key>Dent</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Wilkinson</Forenames>
-      <Text>, C.B.E., D.S.O., Companion, Order of the Bath Diiishah Dosabhai Khambata, Lt.-Col., Khan Bahadur, V.D., Officer, Order of the British Empire ... . ... Dixon, Charles William, O.B.E., Companion. Order of St. Michael and St. George ... ... ... Dobson, Alban Tabor Austin, C.B.E., Commander, Royal Victorian Order ... Dodd, John Richard, Member, Order of the British Empire ... ... ... Dodson, Gerald, LL.M., Recorder of the Borough of Tenterden Drage, Benjamin, Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -443,7 +493,13 @@
     <MainItem>
       <Key>Dragten</Key>
       <Forenames>Frans Robert</Forenames>
-      <Text>, K.C., Officer, Order of the British Empire ... ... Dryland, Major Hubert Housby, Member, Order of the British Empire ... du Boil, Noel Antoine Guy Roger Morel, Unofficial Member of the Legislative Council of the Colony of Seychelles ... Duff (Charles*, Patrick, C.B., C.V.O., Knight Commander, Order of the Bath Dnffey. Miss Margaret Bridget, Officer, Order of the British Empire ... du Heaumc, Francis Hubert, Officer, Order of the British Empire Duke, Oriel St. Arnaud, M.M., Member, Order of the British Empire ... du Parcel, Herbert, K.C., Justice of H.M. High Court of Justice Knight Eady, Crawfurd Wilfrid, Companion, Order of St. Michael and St. George Eastes, Arthur Ernest, Companion, Order of St. Michael and St. George Ehrmann, Albert, O.B.E., M.R.C.S.. Serving Brother, Order of St. John of Jerusalem ... Ejaz Rasul Khan, Raja Muhammad, C.S.I., Knight ... ... ... Elliot, Major Walter Elliot, M.C., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.M.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>

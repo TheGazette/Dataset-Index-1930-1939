@@ -48,7 +48,10 @@
     <MainItem>
       <Key>Blandford</Key>
       <Forenames>Alfred</Forenames>
-      <Text>, D.C.M., M.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +68,9 @@
       <Key>Bolton</Key>
       <Title>Bvt. Cod.</Title>
       <Forenames>Geoffrey George Hargreaves</Forenames>
-      <Text>, M.C., Serving Brother, Order or St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +89,10 @@
       </Key>
       <Title>Surg.</Title>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. Regi. nald St. George Smallridge, O.B., F.R.C.P., F.R.C.S., M.B., CM., D.P.H., K.H.P., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +126,9 @@
     <MainItem>
       <Key>Braithwaite</Key>
       <Forenames>Edward Ainslie</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +176,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Briggs</Key>
-      <Text>. Prof. Henry, O.B.E., Officer, Order of St. John of Jerusalem '</Text>
+      <Title>Prof.</Title>
+      <Forenames>Henry</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -192,7 +206,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>W. Rowley</Forenames>
-      <Text>, F.R.C.S.. Member of 'the Civil Consulting Staff of King Edward VII's Hospital, Osborne</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +240,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Brook</Key>
-      <Text>. Lt.-Col. Frank, D.S.O., M:C, Serving Brother, Order of St. John of .Jerusalem .-</Text>
+      <Title>Lt.-Col.</Title>
+      <Forenames>Frank</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -232,7 +252,9 @@
     <MainItem>
       <Key>Brooke</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Basil Vernon, O.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +271,9 @@
       <Key>Brothers</Key>
       <Title>Cdr.</Title>
       <Forenames>Walter Francis</Forenames>
-      <Text>, R.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -305,7 +329,10 @@
     <MainItem>
       <Key>Brownrigg</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Henry John Studholme, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +356,9 @@
     <MainItem>
       <Key>Buchan</Key>
       <Forenames>John</Forenames>
-      <Text>CH., H.M. High Commissioner to the General Assembly of the Church of Scotland</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>2564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +411,10 @@
       <Key>Burnell-Nugent</Key>
       <Title>Col. (temp.; Brig.)</Title>
       <Forenames>Frank Henry</Forenames>
-      <Text>, D.S?0., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +447,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Nevile Montagu</Forenames>
-      <Text>, Commander, Royal Victorian Order ... ... :</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +474,9 @@
     <MainItem>
       <Key>Cairns</Key>
       <Forenames>James</Forenames>
-      <Text>, O.B.E., M.B., Officer, Order of St. John of Jerusalem ,</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +501,9 @@
     <MainItem>
       <Key>Calvert</Key>
       <Forenames>Hubert</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +541,9 @@
     <MainItem>
       <Key>Campbell</Key>
       <Forenames>Edward Taswell</Forenames>
-      <Text>, M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +564,11 @@
       </Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Hector</Forenames>
-      <Text>, D.S.O., M.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -545,7 +589,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, C.S.I., O.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +600,9 @@
       <Key>Campbell-Ross</Key>
       <Title>Col. (Hon. Brig.)</Title>
       <Forenames>Alan</Forenames>
-      <Text>, D.SiO., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +644,9 @@
     <MainItem>
       <Key>Carling</Key>
       <Forenames>E. Rock</Forenames>
-      <Text>, M.B., B.S., F.R.C.S., Member of the Civil Consulting Staff of : King Edward VII's Hospital, Osborne</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -604,7 +654,9 @@
     <MainItem>
       <Key>Carr</Key>
       <Forenames>Albert Bonus</Forenames>
-      <Text>, M.B.E., Nominated Unofficial. Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +732,10 @@
     <MainItem>
       <Key>Cassels</Key>
       <Title>Gen.</Title>
-      <Text>Sir Robert Archibald, K.C.B., C.S.I.,D.S.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>

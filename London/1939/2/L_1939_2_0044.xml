@@ -55,7 +55,9 @@
       <Key>Toll</Key>
       <Title>Hon. Col.</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, D.S.O., V.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +178,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Title>Warrt. Offr.</Title>
-      <Text>CI. I D.C.M., Member, Order of (R.S.M.) George Frederick, the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3861</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +200,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Jack</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,7 +228,11 @@
       <Key>Tweedsmuir</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>John</Forenames>
-      <Text>, Baron, G.C.M.G., C.H., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.H.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +240,9 @@
     <MainItem>
       <Key>Tyndale-Biscoe</Key>
       <Forenames>Cecil Julian</Forenames>
-      <Text>, M.C., Nominated Official Member, Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +299,9 @@
     <MainItem>
       <Key>Vickery</Key>
       <Forenames>Philip Crawford</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +310,9 @@
       <Key>Vidal</Key>
       <Title>Col.</Title>
       <Forenames>Francis Peter</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -333,7 +349,10 @@
     <MainItem>
       <Key>Waddington</Key>
       <Forenames>Eubule John</Forenames>
-      <Text>, C.M.G., O.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +410,9 @@
     <MainItem>
       <Key>Wallace</Key>
       <Title>Capt.</Title>
-      <Text>the Rt. Hon. David Euan, M.C., Minister of Transport</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2823</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +436,9 @@
       <Key>Walter</Key>
       <Title>Miss</Title>
       <Forenames>Lavinia Edna</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +454,10 @@
     <MainItem>
       <Key>Walwyn</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Sir Humphrey Thomas, K.C.S.I., C.B., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +490,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward-Walker</Key>
-      <Text>' Lt.-Col. &amp; Bt. Col. Arthur Westfield, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -518,7 +547,10 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Charles</Forenames>
-      <Text>, M.C., M.P., Treasurer of H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +593,9 @@
     <MainItem>
       <Key>Watt</Key>
       <Forenames>Ernest</Forenames>
-      <Text>, M.D., D.Sc, M.R.C.P.Ed., D.P.H., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +631,9 @@
     <MainItem>
       <Key>Way</Key>
       <Forenames>Inman</Forenames>
-      <Text>, MB., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>MB</Honour>
+      </Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +651,9 @@
     <MainItem>
       <Key>Weaver</Key>
       <Forenames>Percy William</Forenames>
-      <Text>, M.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,7 +678,9 @@
       <Key>Webbe</Key>
       <Title>Sir</Title>
       <Forenames>William Harold</Forenames>
-      <Text>, Kt., C.B.E., Member of Parliament for Westminster, Abbey Division</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -648,7 +688,9 @@
     <MainItem>
       <Key>Weighell</Key>
       <Forenames>Walter</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -657,7 +699,10 @@
       <Key>Weir</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -683,7 +728,9 @@
       <Key>Wemher</Key>
       <Title>Sir</Title>
       <Forenames>Harold</Forenames>
-      <Text>, K.C.V.O., Member, Imperial College of Science and Technology</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +763,9 @@
     <MainItem>
       <Key>Wheldon</Key>
       <Forenames>Wynn Powell</Forenames>
-      <Text>, D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +784,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Edwin Francis</Forenames>
-      <Text>, F.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>

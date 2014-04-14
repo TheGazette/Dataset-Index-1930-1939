@@ -204,19 +204,39 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Blois</Forenames>
-      <Text>, H. C</Text>
+      <Key>De Blois</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Domenico</Forenames>
-      <Text>, G. E</Text>
+      <Key>de Courcy</Key>
+      <Forenames>G. L.</Forenames>
+      <PageNumber>3837</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Domenico</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>3665</PageNumber>
       <PageNumber>3665</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Heidenstam</Key>
+      <Forenames>R.</Forenames>
+      <Text>II. G</Text>
+      <PageNumber>4093</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wend-Fenton</Key>
+      <Forenames>J. D. L.</Forenames>
+      <PageNumber>3920</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -522,6 +542,13 @@
       <Key>Drysdale</Key>
       <Forenames>J. K. M.</Forenames>
       <PageNumber>3523</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>du Cros</Key>
+      <Forenames>E. H.</Forenames>
+      <PageNumber>2557</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1346,9 +1373,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>4016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1596,8 +1622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grubb</Key>
-      <Forenames>R. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>R. R. de C</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1640,7 +1665,9 @@
     <MainItem>
       <Key>Haden</Key>
       <Forenames>G. F. C. Haggerston</Forenames>
-      <Text>, Sir H. C. de M., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4160</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Watson</Key>
       <Forenames>Herbert Adolphus Grant</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Republic of Cuba</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +39,9 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>Leonard Henry</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -46,7 +50,9 @@
       <Key>Wheeler</Key>
       <Title>Maj.</Title>
       <Forenames>Edmund George</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +68,10 @@
     <MainItem>
       <Key>Williamson</Key>
       <Title>Brig.</Title>
-      <Text>Gen. Frederic Herbert, C.B., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,8 +282,10 @@
     <MainItem>
       <Key>Gethin</Key>
       <Title>Sir</Title>
-      <Forenames>R. W. St</Forenames>
-      <Text>. L., Bt</Text>
+      <Forenames>R. W. St. L</Forenames>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,8 +417,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, E. R</Text>
+      <Key>O'Hara</Key>
+      <Forenames>E. R</Forenames>
       <PageNumber>5197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wain</Key>
-      <Text>.wright, H. G</Text>
+      <Text>wright, H. G</Text>
       <PageNumber>4887</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1254,7 +1265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bain</Key>
-      <Text>. P. W</Text>
+      <Forenames>P. W .</Forenames>
       <PageNumber>6015</PageNumber>
     </MainItem>
   </ItemGroup>

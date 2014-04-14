@@ -58,7 +58,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Selby-Boothroyd</Key>
-      <Text>C.B</Text>
+      <Text>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>6904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -627,7 +629,9 @@
         <KeyDitto>___ ___ —___ ___</KeyDitto>
       </Key>
       <Forenames>R. M</Forenames>
-      <Text>RD</Text>
+      <Text>
+        <Honour>RD</Honour>
+      </Text>
       <PageNumber>40</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1114,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. E</Text>
+      <Forenames>E.</Forenames>
       <PageNumber>7956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1711,8 +1715,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, J. F</Text>
+      <Key>O'Grady</Key>
+      <Forenames>J. F.</Forenames>
       <PageNumber>7228</PageNumber>
     </MainItem>
   </ItemGroup>

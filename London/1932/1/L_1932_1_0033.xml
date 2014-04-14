@@ -5,7 +5,9 @@
       <Key>Thompson</Key>
       <Title>Sir</Title>
       <Forenames>T. R. L.</Forenames>
-      <Text>, Bt. o34 Tidbury, 0. H</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1387,6 +1389,20 @@
       </Key>
       <Forenames>S. P</Forenames>
       <PageNumber>1215</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy</Key>
+      <Forenames>C.</Forenames>
+      <PageNumber>634</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Uphaugh</Key>
+      <Forenames>R. G. D.</Forenames>
+      <PageNumber>422</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ .</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>

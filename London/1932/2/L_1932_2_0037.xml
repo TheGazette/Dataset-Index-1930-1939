@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paton</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +544,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>R. A. De B.</Forenames>
+      <Forenames>R. A. De B</Forenames>
       <PageNumber>3590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,8 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ryan</Key>
-      <Forenames>T. L. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>T. L. O'C</Forenames>
       <PageNumber>2294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,8 +651,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, F. F. B. ... Samdeman, D. G. Sanderson, J</Text>
+      <Key>St. George</Key>
+      <Forenames>F. F. B.</Forenames>
+      <Text>... Samdeman, D. G. Sanderson, J</Text>
       <PageNumber>4212</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +712,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Text>B. C</Text>
+      <Forenames>B. C</Forenames>
       <PageNumber>3590</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1329,7 +1329,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Text>E. iM</Text>
+      <Forenames>E.</Forenames>
+      <Text>iM</Text>
       <PageNumber>4115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1527,7 +1528,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1688,7 +1691,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Watts</Key>
-      <Text>G. N</Text>
+      <Forenames>G. N</Forenames>
       <PageNumber>2719</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1878,7 +1881,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>p.</Text>
+      <Text>p</Text>
       <PageNumber>2216</PageNumber>
     </SubItem>
   </ItemGroup>

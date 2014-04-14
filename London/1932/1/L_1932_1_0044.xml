@@ -3,7 +3,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Williams</Key>
-      <Text>M. F. D</Text>
+      <Forenames>M. F. D.</Forenames>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +249,9 @@
       <Key>Haverfordwest</Key>
       <Title>Sir</Title>
       <Forenames>Henry Erasmus Edward Philipps</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>113</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,11 +270,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Holland, Sir Thomas Henry, K.O.S.I., K.C.I.E., F.R.S., LL.D., D.Sc., F.G.S</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>879</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Wilson, Major Andrew, O.B.E., M.Inst.C.E., F.R.S.E</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>956</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -284,9 +290,13 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
         <PageNumber>422</PageNumber>
         <PageNumber>422</PageNumber>
         <PageNumber>422</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
       </Text>
       <PageNumber>422</PageNumber>
     </SubItem>
@@ -312,7 +322,12 @@
       <Key>Middlesex</Key>
       <Title>Col.</Title>
       <Forenames>Cecil Henry Pank</Forenames>
-      <Text>, C.M.G., D.S.O., T.D., A.D.C. !</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>423</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +336,9 @@
       <Key>Norfolk</Key>
       <Title>Capt.</Title>
       <Forenames>Bertram Fran-</Forenames>
-      <Text>cis Gurdon Baron Cranworth, M.C., resignation of commission</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2036</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +359,10 @@
       <Key>Salop</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Newson Bruff Garrett</Forenames>
-      <Text>, C.B.E., T.D., commission relinquished</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +372,9 @@
       <Key>Lancaster</Key>
       <Title>Captain</Title>
       <Forenames>Edward Montagu Cavendish</Forenames>
-      <Text>, M.C., Lord Stanley</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +383,9 @@
       <Key>Southampton</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Ber-</Forenames>
-      <Text>tram Percy Portal, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1952</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Finch</Key>
-      <Forenames>H. Du P.</Forenames>
+      <Forenames>H. Du P</Forenames>
       <PageNumber>3302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -441,7 +441,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fuller</Key>
-      <Text>O. G</Text>
+      <Forenames>O. G.</Forenames>
       <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,14 +457,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Fullerton</Key>
-      <Text>A. H. T. F</Text>
+      <Forenames>A. H. T. F.</Forenames>
       <PageNumber>3302</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Furneaux</Key>
-      <Text>O. H</Text>
+      <Forenames>O. H</Forenames>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,8 +574,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gethin</Key>
-      <Forenames>R. P. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>R. P. St. L</Forenames>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -640,9 +639,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>3617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -658,8 +656,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godferv</Key>
-      <Forenames>M.</Forenames>
-      <Text>van S</Text>
+      <Forenames>M. van S</Forenames>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1566,7 +1563,9 @@
       <Key>Hickman</Key>
       <Title>Sir</Title>
       <Forenames>A. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2321</PageNumber>
     </MainItem>
   </ItemGroup>

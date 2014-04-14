@@ -15,7 +15,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>George Alfred Duncan</Forenames>
-      <Text>, C.M.G., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -55,7 +58,10 @@
     <MainItem>
       <Key>Hay</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -173,7 +179,9 @@
       <Key>Hellis</Key>
       <Title>Capt.</Title>
       <Forenames>Robert William</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -218,7 +226,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Lionel Denham</Forenames>
-      <Text>, M.C., T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +275,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Guy Anderson</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3701</PageNumber>
     </MainItem>
     <SubItem>
@@ -277,7 +290,9 @@
       <Key>Heron</Key>
       <Title>Col.</Title>
       <Forenames>George Wykeham</Forenames>
-      <Text>, C. B.E., D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +308,9 @@
     <MainItem>
       <Key>Hibbard</Key>
       <Title>Warrt. Offr.</Title>
-      <Text>CI. I (R.S.M.) Walter Henry, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +365,10 @@
       <Key>Hippisley-Cox</Key>
       <Title>Col.</Title>
       <Forenames>Edward Geoffrey</Forenames>
-      <Text>, C.B.E., T.D., D. L., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +385,10 @@
       <Key>Hobson</Key>
       <Title>Sqd. Ldr.</Title>
       <Forenames>Eric Ralph Carrington</Forenames>
-      <Text>, D.F.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +397,9 @@
       <Key>Hodge</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Humfrey Vere</Forenames>
-      <Text>, M.D., B.Ch. (Camb.), M.R.C.S. (Eng.), F.R.C.P. (Lond.), Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -456,7 +481,10 @@
       <Key>Holbrook</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Claude Vivian</Forenames>
-      <Text>, C.B.E., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +524,9 @@
     <MainItem>
       <Key>Holloway</Key>
       <Title>Warrt. Offr.</Title>
-      <Text>CI. II (Bty. S.M.) Ernest George, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +556,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>James William</Forenames>
-      <Text>, T.D., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3695</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +580,9 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>William George</Forenames>
-      <Text>, D.S.O., Companion, . Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +592,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Reginald Vesey, D.S.O., M.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +622,10 @@
       <Key>Hotham</Key>
       <Title>Adml.</Title>
       <Forenames>Alan Geoffrey</Forenames>
-      <Text>, C.B., C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +650,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Howard</Key>
-      <Text>de Walden and Seaford, the Lady, C.B.E., Dame of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +695,10 @@
       <Key>Hurcomb</Key>
       <Title>Sir</Title>
       <Forenames>Cyril William</Forenames>
-      <Text>, K.B.E., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +707,9 @@
       <Key>Hurdon</Key>
       <Title>Miss</Title>
       <Forenames>Elizabeth</Forenames>
-      <Text>, M.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -670,7 +718,9 @@
       <Key>Huskisson</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>William</Forenames>
-      <Text>, C.M.G., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>

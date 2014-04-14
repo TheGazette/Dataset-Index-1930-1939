@@ -218,14 +218,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett-Stuart</Key>
-      <Text>Sir Jo T</Text>
+      <Title>Sir</Title>
+      <Forenames>Jo T.</Forenames>
       <PageNumber>1154</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Burns</Key>
-      <Text>E. R. V</Text>
+      <Forenames>E. R. V.</Forenames>
       <PageNumber>752</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -375,7 +376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Caldbeck</Key>
-      <Text>W. E</Text>
+      <Forenames>W. E.</Forenames>
       <PageNumber>235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -652,7 +653,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chance</Key>
-      <Text>R. F. L</Text>
+      <Forenames>R. F. L.</Forenames>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -666,7 +667,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>J. L</Text>
+      <Forenames>J. L.</Forenames>
       <PageNumber>680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1066,8 +1067,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conry</Key>
-      <Forenames>J.</Forenames>
-      <Text>de L</Text>
+      <Forenames>J. de L</Forenames>
       <PageNumber>1605</PageNumber>
       <PageNumber>1605</PageNumber>
     </MainItem>
@@ -1655,7 +1655,9 @@
       <PageNumber>609</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bt —</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>679</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1666,6 +1668,27 @@
       </Key>
       <Forenames>R. J. H.</Forenames>
       <PageNumber>541</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Carteret</Key>
+      <Forenames>H.</Forenames>
+      <PageNumber>149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Foriblanque</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>679</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gex</Key>
+      <Text>.G. F</Text>
+      <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1682,9 +1705,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Home</Key>
+      <Forenames>M. A. J.</Forenames>
+      <PageNumber>641</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Text>la Bere, H. C</Text>
       <PageNumber>756</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Putron</Key>
+      <Forenames>C</Forenames>
+      <PageNumber>1945</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1693,6 +1730,13 @@
       <Forenames>Salis</Forenames>
       <Text>, S. C. F</Text>
       <PageNumber>755</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sausmarez</Key>
+      <Forenames>H. J. St. V</Forenames>
+      <PageNumber>1531</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

@@ -144,8 +144,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, H. E. G</Text>
+      <Key>St. George</Key>
+      <Forenames>H. E. G.</Forenames>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -617,7 +617,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stockley</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M.</Forenames>
       <PageNumber>1174</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +662,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sykes</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D.</Forenames>
       <PageNumber>1173</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +815,7 @@
       <PageNumber>304</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>R. S</Text>
+      <Text>R. S.</Text>
       <PageNumber>919</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1244,7 +1244,8 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. C D</Text>
+      <Forenames>C</Forenames>
+      <Text>D</Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1645,7 +1646,9 @@
       <Key>Byass</Key>
       <Title>Sir</Title>
       <Forenames>G. R. S.</Forenames>
-      <Text>, Bt. '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1985</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1832,7 +1835,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Judge</Key>
-      <Text>. F</Text>
+      <Forenames>F.</Forenames>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1905,7 +1908,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>. H. D. L</Text>
+      <Forenames>H. D. L.</Forenames>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1919,7 +1922,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Portway</Key>
-      <Text>. C</Text>
+      <Forenames>C .</Forenames>
       <PageNumber>1984</PageNumber>
     </MainItem>
   </ItemGroup>

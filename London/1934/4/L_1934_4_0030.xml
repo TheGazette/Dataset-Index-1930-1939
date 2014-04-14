@@ -409,6 +409,20 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>6985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblamque</Key>
+      <Forenames>E. B.</Forenames>
+      <PageNumber>6985</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dibben</Key>
       <Forenames>H. C.</Forenames>
       <PageNumber>6985</PageNumber>
@@ -571,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Laing</Key>
-      <Forenames>S. Van B.</Forenames>
+      <Forenames>S. Van B</Forenames>
       <PageNumber>7929</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,7 +1001,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bald</Key>
-      <Text>E. A</Text>
+      <Forenames>E. A</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1101,7 +1115,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Boucher</Key>
-      <Text>C. H</Text>
+      <Forenames>C. H.</Forenames>
       <PageNumber>8298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1534,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grant</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D</Forenames>
       <PageNumber>7928</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1578,8 +1592,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardinge</Key>
-      <Forenames>L. B. H.</Forenames>
-      <Text>von D</Text>
+      <Forenames>L. B. H. von D</Forenames>
       <PageNumber>6790</PageNumber>
     </MainItem>
   </ItemGroup>

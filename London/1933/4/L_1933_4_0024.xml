@@ -136,7 +136,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>A. E. B</Text>
+      <Forenames>A. E. B.</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrne</Key>
-      <Text>A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>6611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +868,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Collins</Key>
-      <Forenames>A. F. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>A. F. St. C</Forenames>
       <PageNumber>6761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1141,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crump</Key>
-      <Text>A. M</Text>
+      <Forenames>A. M</Forenames>
       <PageNumber>6525</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,8 +1185,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>B. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. B. St. G</Forenames>
       <PageNumber>6524</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1292,6 +1290,13 @@
       <Forenames>P. L. M.</Forenames>
       <PageNumber>7194</PageNumber>
       <PageNumber>7453</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Robeck</Key>
+      <Forenames>B. L</Forenames>
+      <PageNumber>7697</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1513,7 +1518,9 @@
       <Key>Dundas</Key>
       <Title>Sir</Title>
       <Forenames>P.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1842,8 +1849,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Findlay</Key>
-      <Forenames>G.</Forenames>
-      <Text>de C. E</Text>
+      <Forenames>G. de C</Forenames>
+      <Text>. E</Text>
       <PageNumber>7768</PageNumber>
     </MainItem>
   </ItemGroup>

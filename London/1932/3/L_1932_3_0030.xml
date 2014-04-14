@@ -121,7 +121,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Argyll</Key>
-      <Text>: Allan, Bt. Col. Bryce, O.B.E., T.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>5958</PageNumber>
     </MainItem>
     <SubItem>
@@ -130,12 +134,16 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>5958</PageNumber>
       </Text>
       <PageNumber>5958</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.C.B.</Honour>
         <PageNumber>5958</PageNumber>
       </Text>
       <PageNumber>5958</PageNumber>
@@ -174,7 +182,9 @@
       <PageNumber>5436</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Turner, Lt.-Col. Arthur Montagu, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>5436</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -186,6 +196,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
         <PageNumber>5302</PageNumber>
       </Text>
       <PageNumber>5140</PageNumber>
@@ -211,7 +222,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Orkney</Key>
-      <Text>and Zetland, Nicolson, Sir Arthur John Frederick William, Bart., J.P., D.L</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.L</Honour>
+      </Text>
       <PageNumber>5366</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +306,9 @@
       <PageNumber>5266</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>London, Textile House, 30-31, Golden Square, and 8, 9 and 10, Upper John Street (Anglo South American Bank Ltd. v. R.M.C. Textiles (1928) Ltd.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6142</PageNumber>
     </SubItem>
     <SubItem>

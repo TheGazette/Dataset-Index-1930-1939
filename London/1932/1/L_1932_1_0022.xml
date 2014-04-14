@@ -24,7 +24,9 @@
       <Key>Maclean</Key>
       <Title>Major</Title>
       <Forenames>Charles Wilberforce</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,9 @@
     <MainItem>
       <Key>MacMichael</Key>
       <Forenames>Harold Alfred</Forenames>
-      <Text>, C. M.G., D.S.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +111,10 @@
     <MainItem>
       <Key>Manisty</Key>
       <Forenames>Paymaster Rear-</Forenames>
-      <Text>Admiral Henry Wilfred Eldon, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +155,9 @@
       <Key>Merriman</Key>
       <Title>Sir</Title>
       <Forenames>Frank Boyd</Forenames>
-      <Text>, O.B.E., K.C H.M. Solicitor-General</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +183,9 @@
     <MainItem>
       <Key>Menzies</Key>
       <Forenames>Frederick Norton Kay</Forenames>
-      <Text>, M.D., F.R.C.P.Ed., D. P.H., F.R.S.E., Knight .Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -210,7 +221,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Aberdein</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +240,10 @@
     <MainItem>
       <Key>Milford</Key>
       <Forenames>Haven</Forenames>
-      <Text>, Commander George Louis Victor Henry Serge, Marquess of, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +289,9 @@
       <Key>Mills</Key>
       <Title>Colonel (temporary Brigadier)</Title>
       <Forenames>Arthur Mor-</Forenames>
-      <Text>daunt, D.S.O., Companion; Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -283,7 +302,10 @@
       </Key>
       <Title>Major</Title>
       <Forenames>John Digby</Forenames>
-      <Text>, T.D., M.P. for New Forest and Christchurch Division</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>951</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +323,9 @@
       <Key>Zvlilnes</Key>
       <Title>Miss</Title>
       <Forenames>Alice Eva Marion</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,7 +334,10 @@
       <Key>Mitchell</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Mal-</Forenames>
-      <Text>colm, O.B.E., M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +356,11 @@
       <Key>Mitchell-Thomson</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>William Lowson</Forenames>
-      <Text>, Bt., K.B.E., M.P., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +368,9 @@
     <MainItem>
       <Key>Montague-Douglas-</Key>
       <Forenames>Scott</Forenames>
-      <Text>, Lt.Col. Lord Francis George, D.S.O., Member of the Executive Council of the Colony of Kenya</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,8 +385,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Mooney</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. George Elderkin, M.B.E., M.A., Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>George Elderkin</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +397,9 @@
     <MainItem>
       <Key>Moore</Key>
       <Forenames>Harold</Forenames>
-      <Text>, O.B.E., Ph.D., D.Sc, F.I.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +442,9 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>Ernest William</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -446,7 +486,10 @@
     <MainItem>
       <Key>Moylan</Key>
       <Forenames>John</Forenames>
-      <Text>FitzGerald, C.B., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1418</PageNumber>
     </MainItem>
@@ -456,7 +499,9 @@
       <Key>Murchie</Key>
       <Title>Captain</Title>
       <Forenames>Peter Archibald</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +533,9 @@
     <MainItem>
       <Key>Oppenheim</Key>
       <Forenames>Ernest Ferdinand</Forenames>
-      <Text>, Companion, Order of the Indian Empire ... ... Osbaldeston-Mitford, Lt.-Col. William Bertram Joseph, Commander, Order of St. John of Jerusalem ... Osbourne, John Beaumont Darnley, Member, Order of the British Empire ... Osmond, George Percy, Member, Order of the British Empire ... ... ... Owen, Richard, M.D., Officer, Order of St. John of Jerusalem ... ... ... Pack, Arthur Joseph, Commercial Secretary, Second Grade, at H.M. Embassy at Santiago</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1045</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +555,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>John Low</Forenames>
-      <Text>, Member, Order of the British Empire ... ... ... Panna, His Highness Maharaja Mahrendra Sir Yadvendra Singh Bahadur, K.C.I.E.. Maharaja of, Knight Commander, Order of the Star of India Parnham, Henry Wilson, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

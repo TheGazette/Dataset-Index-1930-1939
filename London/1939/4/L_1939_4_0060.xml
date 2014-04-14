@@ -253,7 +253,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>W. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +664,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>W.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1383,9 @@
       <Key>Woolley</Key>
       <Title>Sir</Title>
       <Forenames>C. L.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1712,7 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrigley</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

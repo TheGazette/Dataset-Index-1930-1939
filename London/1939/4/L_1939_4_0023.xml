@@ -189,7 +189,9 @@
       <Key>Bell</Key>
       <Title>Capt.</Title>
       <Forenames>Frederick Seeker</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +200,9 @@
       <Key>Benson</Key>
       <Title>Capt.</Title>
       <Forenames>Richard Stod-</Forenames>
-      <Text>dart, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +210,11 @@
     <MainItem>
       <Key>Bernard</Key>
       <Title>Lieut.</Title>
-      <Text>-General Sir Denis J. C. K., K.C.B., C.M.G., D.S.O., Governor and Commander-in-Chief of the Bermudas or Somers Islands</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6871</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +222,9 @@
     <MainItem>
       <Key>Bickford</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Edward Oscar, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +233,9 @@
       <Key>Birg</Key>
       <Title>Dr.</Title>
       <Forenames>George</Forenames>
-      <Text>, M.B.E., LL.D., Nominated Member of Executive Council of Malta</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +268,9 @@
       <Key>Bowater</Key>
       <Title>Sir</Title>
       <Forenames>Frank Henry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>7038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +287,9 @@
     <MainItem>
       <Key>Browne</Key>
       <Forenames>Julius Basil</Forenames>
-      <Text>, C.B.E., H.M. Consul at Seville</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +317,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Calvert</Forenames>
-      <Text>, Albert Spencer, O.B.E., H.M. Consul at Boston</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +327,9 @@
     <MainItem>
       <Key>Cane</Key>
       <Forenames>Cyril Hubert</Forenames>
-      <Text>, M.B.E., H.M. Consul at Detroit</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +346,10 @@
       <Key>Casey</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Richard Gardiner</Forenames>
-      <Text>, D.S.O., M.C., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7405</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +373,9 @@
     <MainItem>
       <Key>Cleugh</Key>
       <Forenames>Eric Arthur</Forenames>
-      <Text>, M.V.O., H.M. Consul at Los Angeles</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6949</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +398,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Courthope</Key>
-      <Text>the Rt. Hon. Sir George Loyd, Bart, M.C., T.D., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +411,9 @@
       <Key>Craddock</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>A. B.</Forenames>
-      <Text>, O.B.E., Commissioner, Indian Military Widows' and Orphans' Fund</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +422,10 @@
       <Key>Creswell</Key>
       <Title>Capt.</Title>
       <Forenames>George Hector</Forenames>
-      <Text>, D.S.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +433,9 @@
     <MainItem>
       <Key>Crisford</Key>
       <Forenames>George Northcote</Forenames>
-      <Text>, C.B.E., H.M. Consul a.t Rhodes</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +469,9 @@
       <Key>Daniel</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Saumarez</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +489,9 @@
       <Key>Drew</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Dinham</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +499,10 @@
     <MainItem>
       <Key>Edmonds</Key>
       <Forenames>William Stanley</Forenames>
-      <Text>, C.M.G., O.B.E., H.M. Consul-General at Genoa</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +511,9 @@
       <Key>Edmondson</Key>
       <Title>Major Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, M.P., Vice-Chambeflain of the Household</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>7635</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +522,9 @@
       <Key>Ellis</Key>
       <Title>Sir</Title>
       <Forenames>Robert Geoffrey</Forenames>
-      <Text>, Bart., Chairman, West Riding Quarter Session</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>8033</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,7 +533,9 @@
       <Key>EIrington</Key>
       <Title>Maj.</Title>
       <Forenames>Maxwell</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8529</PageNumber>
     </MainItem>
   </ItemGroup>

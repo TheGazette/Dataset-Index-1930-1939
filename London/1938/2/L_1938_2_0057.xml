@@ -102,8 +102,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, J. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. J .</Forenames>
       <PageNumber>3567</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -570,8 +570,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>R. de W</Forenames>
       <PageNumber>3720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -732,8 +731,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>2652</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,8 +1045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kiddle</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1132,8 +1129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Molony</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de W</Text>
+      <Forenames>J. B. de W</Forenames>
       <PageNumber>2334</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1146,15 +1142,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. A</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. A</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L</Forenames>
       <PageNumber>3425</PageNumber>
     </MainItem>
   </ItemGroup>

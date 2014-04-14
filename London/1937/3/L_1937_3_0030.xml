@@ -23,6 +23,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Wilton</Key>
+      <Forenames>C. S</Forenames>
+      <PageNumber>474</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dennis</Key>
       <Forenames>S.</Forenames>
       <PageNumber>4885</PageNumber>
@@ -250,7 +257,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harley</Key>
-      <Text>. J. A. G</Text>
+      <Forenames>J. A. G</Forenames>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -752,22 +759,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. P. R. J</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. P. R. J.</Forenames>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donell, B. H</Text>
+      <Key>O'Donell</Key>
+      <Forenames>B. H.</Forenames>
       <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, G. C</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>G. C.</Forenames>
       <PageNumber>5444</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1186,8 +1193,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1339,7 +1345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carey</Key>
-      <Text>de L</Text>
+      <Title>de L.</Title>
       <PageNumber>5960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1391,6 +1397,13 @@
       <Key>Cummins</Key>
       <Forenames>P. H .</Forenames>
       <PageNumber>5960</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Gruyther</Key>
+      <Forenames>A. N</Forenames>
+      <PageNumber>5562</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1672,22 +1685,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, J. E</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>J. E.</Forenames>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C.C. G</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C.C. G</Forenames>
       <PageNumber>5180</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, J. D</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>J. D</Forenames>
       <PageNumber>5447</PageNumber>
     </MainItem>
   </ItemGroup>

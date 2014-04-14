@@ -38,7 +38,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>B. W</Text>
+      <Forenames>B. W.</Forenames>
       <PageNumber>5968</PageNumber>
       <PageNumber>5968</PageNumber>
     </MainItem>
@@ -125,7 +125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oakes</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>4631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,8 +140,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien-Butler, P. T</Text>
+      <Key>O'Brien-Butler</Key>
+      <Forenames>P. T.</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -155,7 +155,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ogilvie</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P.</Forenames>
       <PageNumber>5830</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,8 +212,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Reilly, C. H</Text>
+      <Key>O'Reilly</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>5692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,8 +255,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oswald</Key>
-      <Forenames>M. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>M. St. J</Forenames>
       <PageNumber>5622</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1426,8 +1425,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>John, R. E. T</Text>
+      <Key>St. John</Key>
+      <Forenames>R. E. T.</Forenames>
       <PageNumber>5624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1529,8 +1528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1815,8 +1813,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>H. St. L</Forenames>
       <PageNumber>6106</PageNumber>
     </MainItem>
   </ItemGroup>

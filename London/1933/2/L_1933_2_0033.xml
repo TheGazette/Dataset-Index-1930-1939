@@ -5,7 +5,9 @@
       <Key>Redmond</Key>
       <Title>Col.</Title>
       <Forenames>Charles Henry Stennott</Forenames>
-      <Text>T.D., A.M.S., M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +24,9 @@
       <Key>Reid</Key>
       <Title>Sir</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, Bt., C.B:E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +115,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>George</Forenames>
-      <Text>, Bt., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -122,7 +128,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Helen</Forenames>
-      <Text>, R.R.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.R.C.</Honour>
+      </Text>
       <PageNumber>3810</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -130,7 +138,9 @@
     <MainItem>
       <Key>Robertson</Key>
       <Title>Wint. Off. Reg. Sgt.</Title>
-      <Text>-Maj. Edward, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +184,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Text>. Frederic Gardiner, M.D.. Member, Order of the British Empire</Text>
+      <Forenames>Frederic Gardiner</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3813</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +249,9 @@
     <MainItem>
       <Key>Rowcliffe</Key>
       <Forenames>Clementina Eliza-</Forenames>
-      <Text>beth Hope, Mrs., O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +267,9 @@
     <MainItem>
       <Key>Russell</Key>
       <Forenames>Hamer Field</Forenames>
-      <Text>, M.P., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +290,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +343,9 @@
     <MainItem>
       <Key>Ryley</Key>
       <Forenames>Lachlan Macpherson</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -340,7 +361,9 @@
     <MainItem>
       <Key>Salmon</Key>
       <Forenames>Joseph Harold</Forenames>
-      <Text>, M.B.E., F.S.I., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +371,9 @@
     <MainItem>
       <Key>San</Key>
       <Forenames>Crombie Po</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +381,9 @@
     <MainItem>
       <Key>Samuel</Key>
       <Forenames>Samuel</Forenames>
-      <Text>, M.P., Associate Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -408,7 +435,9 @@
     <MainItem>
       <Key>Scott</Key>
       <Forenames>Angus Newton</Forenames>
-      <Text>, J.P., D.L. F.C.A., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +447,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Eustace Lindsay</Forenames>
-      <Text>, O.B.E., M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +460,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Harold Richard</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +531,9 @@
       <Key>Severs</Key>
       <Title>Cdr.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, R.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>3811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -521,7 +557,11 @@
     <MainItem>
       <Key>Shaw-Stewart</Key>
       <Title>Col. Sir</Title>
-      <Text>(Michael Hugh, Bt., C.B., T.D. Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -571,7 +611,9 @@
     <MainItem>
       <Key>Short</Key>
       <Forenames>Percy William</Forenames>
-      <Text>, M.M., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -588,7 +630,9 @@
       <Key>Shute</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cyril Aveling</Forenames>
-      <Text>, C.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +689,9 @@
     <MainItem>
       <Key>Sladen</Key>
       <Forenames>Reginald John Lam-</Forenames>
-      <Text>bart, F.R.C.S., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -654,7 +700,10 @@
       <Key>Slater</Key>
       <Title>Sir</Title>
       <Forenames>Alexander Rans-</Forenames>
-      <Text>ford, K.C.M.G., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -680,7 +729,11 @@
       <Key>Smart</Key>
       <Title>Cdr.</Title>
       <Forenames>Morton</Forenames>
-      <Text>, O.V.O., D.S.O., M.D., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>

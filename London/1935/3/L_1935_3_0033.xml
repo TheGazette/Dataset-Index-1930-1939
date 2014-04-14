@@ -648,7 +648,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holtom</Key>
-      <Text>. EC</Text>
+      <Text>EC</Text>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -713,7 +713,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonnell</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L.</Forenames>
       <PageNumber>5796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cooke</Key>
-      <Text>. S. C. S</Text>
+      <Forenames>S. C. S</Forenames>
       <PageNumber>5410</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -795,7 +795,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Greerw</Key>
-      <Text>...Mr... \.. Z</Text>
+      <Text>..Mr... \.. Z</Text>
       <PageNumber>5656</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,8 +1090,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gregory</Key>
-      <Forenames>B. O</Forenames>
-      <Text>'Fv</Text>
+      <Forenames>B. O'Fv</Forenames>
       <PageNumber>4257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,7 +1187,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tighe</Key>
-      <Text>. W. G. S</Text>
+      <Forenames>W. G. S.</Forenames>
       <PageNumber>5530</PageNumber>
     </MainItem>
   </ItemGroup>

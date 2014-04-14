@@ -106,7 +106,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pudsey-Dawson</Key>
-      <Forenames>Willoughby</Forenames>
+      <Title>Willoughby.</Title>
       <PageNumber>7692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhymes</Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>7457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -383,7 +383,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>6993</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,8 +392,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Ernest</Forenames>
-      <Text>... !</Text>
+      <Title>Ernest .</Title>
+      <Text>.. !</Text>
       <PageNumber>7302</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,15 +465,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Ridgway</Key>
-      <Forenames>Penrose</Forenames>
+      <Title>Penrose .</Title>
       <PageNumber>7297</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ridout</Key>
-      <Title>Sarah .</Title>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Sarah .Elizabeth .</Title>
       <PageNumber>7532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +638,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>7535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +654,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>Alice</Forenames>
+      <Title>Alice .</Title>
       <PageNumber>8155</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -664,7 +663,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Amanda</Forenames>
+      <Title>Amanda .</Title>
       <PageNumber>8084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +741,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robson</Key>
-      <Forenames>Lancelot</Forenames>
+      <Title>Lancelot .</Title>
       <PageNumber>7373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -892,7 +891,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rowbotham</Key>
-      <Forenames>Louisa</Forenames>
+      <Title>Louisa .</Title>
       <PageNumber>6325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -959,7 +958,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Hannah</Forenames>
+      <Title>Hannah .</Title>
       <PageNumber>6322</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1009,8 +1008,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Quintin, Emma Catherine Sladen</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>Emma Catherine Sladen</Forenames>
       <PageNumber>7305</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1073,21 +1072,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanderson</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>6500</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sandilands</Key>
-      <Text>Hon. . Maude Bayard</Text>
+      <Title>Hon.</Title>
+      <Text>. Maude Bayard</Text>
       <PageNumber>7883</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sands</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,21 +1166,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Saville</Key>
-      <Forenames>Alexander</Forenames>
+      <Title>Alexander .</Title>
       <PageNumber>6394</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Sawbridge</Key>
-      <Forenames>Bertha</Forenames>
+      <Title>Bertha .</Title>
       <PageNumber>7375</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scatchard</Key>
-      <Forenames>Margretta</Forenames>
+      <Title>Margretta.</Title>
       <PageNumber>6804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1201,8 +1201,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Schmalz</Key>
-      <Forenames>Herbert</Forenames>
-      <Text>... -</Text>
+      <Title>Herbert .</Title>
+      <Text>.. -</Text>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,14 +1249,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Scovell</Key>
-      <Forenames>Susannah</Forenames>
+      <Title>Susannah .</Title>
       <PageNumber>7457</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Scrase</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>6862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1277,7 +1277,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Searles</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred.</Title>
       <PageNumber>6734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1291,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sedgwick</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>6493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1356,7 +1356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shearn</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>6796</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1381,7 +1381,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,8 +1437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sieveking</Key>
-      <Forenames>Isabel</Forenames>
-      <Text>de Giberne</Text>
+      <Forenames>Isabel de Giberne</Forenames>
       <PageNumber>6327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1452,7 +1451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sillitoe</Key>
-      <Forenames>Helen</Forenames>
+      <Title>Helen .</Title>
       <PageNumber>7700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1470,7 +1469,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Ephraim</Forenames>
+      <Title>Ephraim .</Title>
       <PageNumber>8158</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1479,7 +1478,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Edward</Forenames>
+      <Title>Edward .</Title>
       <PageNumber>6799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1493,7 +1492,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Simpson</Key>
-      <Forenames>Eliza</Forenames>
+      <Title>Eliza .</Title>
       <PageNumber>6316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1554,7 +1553,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slocombe</Key>
-      <Forenames>Jessie</Forenames>
+      <Title>Jessie .</Title>
       <PageNumber>6503</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1616,7 +1615,7 @@
       <Key>
         <KeyDitto>___</KeyDitto>
       </Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>8242</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1670,8 +1669,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Title>Mrs.</Title>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Mrs. Elizabeth .</Title>
       <PageNumber>7612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1689,8 +1687,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>George Rainier</Forenames>
-      <Text>de Heriez</Text>
+      <Forenames>George Rainier de Heriez</Forenames>
       <PageNumber>6733</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1876,7 +1873,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Southerton</Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>

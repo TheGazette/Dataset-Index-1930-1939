@@ -54,7 +54,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vick</Key>
-      <Text>. P. P</Text>
+      <Forenames>P. P .</Forenames>
       <PageNumber>1312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +219,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>I. P. A. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1391</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +231,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J.</Forenames>
-      <Text>(R.A.M.C.)</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>60</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -705,7 +709,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Way</Key>
-      <Text>. D. E</Text>
+      <Forenames>D. E .</Forenames>
       <PageNumber>1141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -733,7 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wears</Key>
-      <Text>. P. S. H</Text>
+      <Forenames>P. S. H.</Forenames>
       <PageNumber>1314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -865,7 +869,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westby</Key>
-      <Text>. L. C.^</Text>
+      <Forenames>L. C.</Forenames>
+      <Text>^</Text>
       <PageNumber>1467</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +981,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>. D</Text>
+      <Forenames>D .</Forenames>
       <PageNumber>613</PageNumber>
     </MainItem>
   </ItemGroup>

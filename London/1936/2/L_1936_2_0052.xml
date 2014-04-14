@@ -11,7 +11,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Passy</Key>
-      <Forenames>W. De L.</Forenames>
+      <Forenames>W. De L</Forenames>
       <PageNumber>4095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +500,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Taylor</Key>
-      <Text>. A. D</Text>
+      <Forenames>A. D.</Forenames>
       <PageNumber>2804</PageNumber>
       <PageNumber>2985</PageNumber>
     </MainItem>
@@ -714,8 +714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1177,9 +1176,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Kent</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1215,9 +1213,8 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>of</Text>
       <PageNumber>4012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,9 +1477,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, R. H. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>R. H. F</Forenames>
       <PageNumber>3521</PageNumber>
     </MainItem>
   </ItemGroup>

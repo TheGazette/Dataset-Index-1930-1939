@@ -48,7 +48,10 @@
     <MainItem>
       <Key>Viscount</Key>
       <Forenames>Willingdon</Forenames>
-      <Text>, Freeman Viscount, G.C.S.I., G.C.M.G., G.C.I.IE., G.B.E. (Viscount Ratendone of Willihgdon)</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>1283</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +111,9 @@
     <MainItem>
       <Key>Windsor</Key>
       <Forenames>Herald</Forenames>
-      <Text>of Arms, Alfred Trego Butler, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +236,12 @@
       <Key>Abbay</Key>
       <Title>Col.</Title>
       <Forenames>Bryan Norman</Forenames>
-      <Text>, Companion, Order of the Bath Abbiss, . George, M.B.E., Officer, Order of St. John of Jerusalem ... Aberdeen and Temair, Ishbel Maria, Marchioness of, Dame Grand Cross, Order of the British Empire ... Ablewhite, Capt. Walter Murray, M.C., Officer, Order of the British Empire Acton, Lt.-Col. Hugh William, Companion, Order of the Indian Empire Adam;, Pierre, O.B.E., Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +249,12 @@
     <MainItem>
       <Key>Aders</Key>
       <Forenames>William Mansfield</Forenames>
-      <Text>, Ph.D., Officer, Order of the British Empire Albemarle, Arnold Allan Cecil, Earl of K.C.V.O., C. B., Knight Grand Cross, Royal Victorian Order Alderson, Sir Edward Hall, K.B.E., C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +345,9 @@
       <Key>Armstrong</Key>
       <Title>Sir</Title>
       <Forenames>Harry Gloster</Forenames>
-      <Text>, K.B.E., Knight Commander, Order of St. Michael and St. George Armstrong-Jones, Lady Margaret Elizabeth, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>64</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +380,11 @@
       <Key>Asser</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Verney</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath Atchia, Goolam Mahomed Dawjee, Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +393,10 @@
       <Key>Atkin</Key>
       <Title>Maj.</Title>
       <Forenames>Benjamin George</Forenames>
-      <Text>, D. S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,12 +405,16 @@
       <Key>Attlee</Key>
       <Title>Major</Title>
       <Forenames>Clement</Forenames>
-      <Text>54 Richard, M.P., Postmaster-General</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1525</PageNumber>
       <PageNumber>1801</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Avice, Tristan, O.B.E., Member of Council of Government of Mauritius</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </SubItem>
     <SubItem>

@@ -145,8 +145,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, A. H</Text>
+      <Key>O'Malley</Key>
+      <Forenames>A. H</Forenames>
       <PageNumber>673</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,8 +404,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, M</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>M.</Forenames>
       <PageNumber>1450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -828,7 +828,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houchen</Key>
-      <Text>G. W</Text>
+      <Forenames>G. W.</Forenames>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1359,8 +1359,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>458</PageNumber>
     </MainItem>
   </ItemGroup>

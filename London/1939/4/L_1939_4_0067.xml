@@ -307,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moore</Key>
-      <Text>C. G</Text>
+      <Forenames>C. G.</Forenames>
       <PageNumber>8314</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1072,8 +1072,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, T. H</Text>
+      <Key>O'Brien</Key>
+      <Forenames>T. H .</Forenames>
       <PageNumber>7401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1088,15 +1088,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bryen, W. J</Text>
+      <Key>O'Bryen</Key>
+      <Forenames>W. J .</Forenames>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, A. P. K</Text>
+      <Key>O'Connor</Key>
+      <Forenames>A. P. K.</Forenames>
       <PageNumber>6851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1111,8 +1111,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Ferrall, G. M</Text>
+      <Key>O'Ferrall</Key>
+      <Forenames>G. M.</Forenames>
       <PageNumber>7489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1188,8 +1188,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shaughnessy, L. F</Text>
+      <Key>O'Shaughnessy</Key>
+      <Forenames>L. F.</Forenames>
       <PageNumber>6782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,8 +1202,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>C .</Forenames>
       <PageNumber>6942</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1552,7 +1552,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>L. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1667,8 +1669,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pipers</Key>
-      <Forenames>R. D.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. D. de B</Forenames>
       <PageNumber>8028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1822,7 +1823,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pragnell</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>7955</PageNumber>
     </MainItem>
   </ItemGroup>

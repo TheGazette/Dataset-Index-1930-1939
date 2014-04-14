@@ -29,7 +29,13 @@
       <Key>Peel</Key>
       <Title>Colonel the Hon.</Title>
       <Forenames>Sidney Cornwallis</Forenames>
-      <Text>, C.B., D.S.O., T.D., D.L., Baronet</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -37,7 +43,9 @@
     <MainItem>
       <Key>Pender</Key>
       <Title>Brevet</Title>
-      <Text>Colonel William: Stanhope, M.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +110,9 @@
     <MainItem>
       <Key>Poate</Key>
       <Forenames>Wing-Comdr</Forenames>
-      <Text>. Hugh Raymond Guy, M.B., F.R.C.S., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4013</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +121,10 @@
       <Key>Poe</Key>
       <Title>Colonel</Title>
       <Forenames>William Skeffing-</Forenames>
-      <Text>ton, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -136,7 +149,9 @@
       </Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Hugh</Forenames>
-      <Text>McDowell, J.P., D.L., Member, Order of the Companion of Honour</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -193,7 +208,11 @@
       <Key>Pownall</Key>
       <Title>Colonel</Title>
       <Forenames>Henry Royds</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,7 +220,9 @@
     <MainItem>
       <Key>Poyntz</Key>
       <Title>Lt.</Title>
-      <Text>^Colonel Hugh Stainton, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -251,7 +272,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Pughe</Key>
-      <Text>.Sydney Richard, M.B.E., Companion of the Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4011</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -284,7 +307,10 @@
       <Key>Quinan</Key>
       <Title>Colonel (temp. Brigadier)</Title>
       <Forenames>Edward Pellew</Forenames>
-      <Text>, O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -355,8 +381,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Ramsay</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Bertram Home, M.V.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Ber-</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
       <PageNumber>4089</PageNumber>
     </MainItem>
@@ -423,7 +453,10 @@
       <Key>Rasch</Key>
       <Title>Colonel</Title>
       <Forenames>Guy Elland Carne</Forenames>
-      <Text>, D.S.O., . Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +498,9 @@
       <Key>Reed</Key>
       <Title>The Hon.</Title>
       <Forenames>John Ranken</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,7 +516,9 @@
     <MainItem>
       <Key>Reid</Key>
       <Forenames>Charles</Forenames>
-      <Text>, O.B.E., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +527,9 @@
       <Key>Renton</Key>
       <Title>Capt.</Title>
       <Forenames>James Malcolm Leslie</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,7 +566,9 @@
       <Key>Rich</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>George Edward</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>2791</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,7 +585,9 @@
     <MainItem>
       <Key>Richmond</Key>
       <Forenames>John Ritchie</Forenames>
-      <Text>, C.B.E., Member of the Royal Fine Art Commission for Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3371</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +629,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Riversdale</Key>
-      <Text>Elliot, Sqdn. Leader Kenneth Harries, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2984</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +676,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>Colonel James Ronald, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -692,7 +739,10 @@
     <MainItem>
       <Key>Rose</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Frank Forrester, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>

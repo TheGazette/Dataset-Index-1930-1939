@@ -67,6 +67,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>T. P.</Forenames>
+      <Text>.,</Text>
+      <PageNumber>4633</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Denman</Key>
       <Forenames>J. L.</Forenames>
       <PageNumber>6239</PageNumber>
@@ -237,8 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. L. St. J</Forenames>
       <PageNumber>4788</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Few</Key>
-      <Text>L. M</Text>
+      <Forenames>L. M</Forenames>
       <PageNumber>5402</PageNumber>
       <PageNumber>5555</PageNumber>
     </MainItem>
@@ -544,7 +551,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardman</Key>
-      <Text>E. P</Text>
+      <Forenames>E. P</Forenames>
       <PageNumber>6239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -742,7 +749,9 @@
       <Key>Hope</Key>
       <Title>Sir</Title>
       <Forenames>A. P.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,8 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hubbard</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>T. O'B</Forenames>
       <PageNumber>5969</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -786,8 +794,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Forenames>J. G.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. G. de V</Forenames>
       <PageNumber>6108</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1611,8 +1618,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, R. P</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>R. P.</Forenames>
       <PageNumber>6239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1655,8 +1662,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Loughlin, H. C</Text>
+      <Key>O'Loughlin</Key>
+      <Forenames>H. C.</Forenames>
       <PageNumber>5555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1920,7 +1927,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reid</Key>
-      <Text>D. W</Text>
+      <Forenames>D. W .</Forenames>
       <PageNumber>4944</PageNumber>
       <PageNumber>4944</PageNumber>
     </MainItem>

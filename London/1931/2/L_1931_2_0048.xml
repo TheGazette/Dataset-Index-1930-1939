@@ -199,8 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jordan</Key>
-      <Forenames>F. M.</Forenames>
-      <Text>de E</Text>
+      <Forenames>F. M. de E</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -222,8 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>R. St. C</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,6 +251,13 @@
       <Key>Carpenter</Key>
       <Forenames>G .</Forenames>
       <PageNumber>2302</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Ireland</Key>
+      <Forenames>B. W.</Forenames>
+      <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -321,8 +326,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leathens</Key>
-      <Forenames>R. C.</Forenames>
-      <Text>de M</Text>
+      <Forenames>R. C. de M</Forenames>
       <PageNumber>4246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +481,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blundell</Key>
-      <Text>A. N ;</Text>
+      <Forenames>A. N</Forenames>
+      <Text>;</Text>
       <PageNumber>3144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +895,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>J. P</Text>
+      <Forenames>J. P .</Forenames>
       <PageNumber>2646</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1053,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>R. P</Text>
+      <Forenames>R. P.</Forenames>
       <PageNumber>2302</PageNumber>
     </MainItem>
   </ItemGroup>

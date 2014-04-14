@@ -693,7 +693,7 @@
     <KeyDitto>___ ___</KeyDitto>
     <KeyDitto>___ ___</KeyDitto>
     <SubItem>
-      <Text>W. E. R</Text>
+      <Text>W. E. R.</Text>
       <PageNumber>2919</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1273,7 +1273,9 @@
       <Key>Church</Key>
       <Title>Sir</Title>
       <Forenames>G. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3294</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1462,8 +1464,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>R. St. J</Forenames>
       <PageNumber>3974</PageNumber>
     </MainItem>
   </ItemGroup>

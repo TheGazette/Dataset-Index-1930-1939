@@ -2,16 +2,16 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="049" pageID="https://www.thegazette.co.uk/id/London/index/year/1937/volume/1/page/049" pagePDF="https://www.thegazette.co.uk/London/index/year/1937/volume/1/page/049" pageRDF="https://www.thegazette.co.uk/London/index/year/1937/volume/1/page/049?view=linked-data" type="index" volume="1" year="1937">
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Gorman, J. A</Text>
+      <Key>O'Gorman</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>1748</PageNumber>
       <PageNumber>1748</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, C. J</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>C. J</Forenames>
       <PageNumber>1643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,8 +24,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B. J</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B. J</Forenames>
       <PageNumber>266</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,15 +54,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, C. C. Saunders</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>C. C. Saunders</Forenames>
       <PageNumber>82</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K: G</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K</Forenames>
+      <Text>: G</Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,8 +104,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, H. B</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>H. B</Forenames>
       <PageNumber>714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -465,7 +466,7 @@
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>J. W.</Text>
+      <Text>J. W</Text>
       <PageNumber>7</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -620,7 +621,9 @@
       <Key>Pile</Key>
       <Title>Sir</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -935,8 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prynne</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1080,7 +1082,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>. J. A. J</Text>
+      <Forenames>J. A. J .</Forenames>
       <PageNumber>713</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1897,8 +1899,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair, Hon. C. M. k</Text>
+      <Key>St. Clair</Key>
+      <Title>Hon.</Title>
+      <Forenames>C. M.</Forenames>
+      <Text>k</Text>
       <PageNumber>619</PageNumber>
     </MainItem>
   </ItemGroup>

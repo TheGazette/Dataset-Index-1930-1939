@@ -586,7 +586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haigh</Key>
-      <Text>. C. F. T</Text>
+      <Forenames>C. F. T.</Forenames>
       <PageNumber>4565</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -616,7 +616,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Haines</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>4566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,7 +1434,9 @@
       <Key>Head</Key>
       <Title>Sir</Title>
       <Forenames>F. D. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5919</PageNumber>
     </MainItem>
   </ItemGroup>

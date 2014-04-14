@@ -5,7 +5,10 @@
       <Key>Ropner</Key>
       <Title>Colonel</Title>
       <Forenames>Leonard</Forenames>
-      <Text>, M.C., T.D., Forestry Commissioner</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -22,7 +25,9 @@
     <MainItem>
       <Key>Rowland</Key>
       <Forenames>Frederick</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +44,9 @@
     <MainItem>
       <Key>Sarell</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Richard Iwan Alexander, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +81,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Charles Howard</Forenames>
-      <Text>, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary at Copenhagen</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7268</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -89,7 +98,9 @@
     <MainItem>
       <Key>Somerville</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Phillip, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +118,10 @@
       <Key>Steel</Key>
       <Title>Major Sir</Title>
       <Forenames>Samuel Strang</Forenames>
-      <Text>, Bart., T.D., Forestry Commissioner</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +137,9 @@
     <MainItem>
       <Key>Strickland</Key>
       <Title>Lord (Count Delia Catena)</Title>
-      <Text>, G.C.M.G., Nominated Member of Executive Council of Malta</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>7038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +156,9 @@
       <Key>Sutherland</Key>
       <Title>Sir</Title>
       <Forenames>John Donald</Forenames>
-      <Text>, C.B.E., Forestry Commissioner</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8102</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +175,9 @@
       <Key>Talbot</Key>
       <Title>Capt. Arthur .</Title>
       <Forenames>George</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +225,9 @@
     <MainItem>
       <Key>Urquhart</Key>
       <Forenames>Robert William</Forenames>
-      <Text>, O.B.E., Inspector-General of H.M. Consular Establishments</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7494</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +236,9 @@
       <Key>Veasev</Key>
       <Title>Maj.</Title>
       <Forenames>Harley Gerald</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8529</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +262,9 @@
     <MainItem>
       <Key>Warr</Key>
       <Forenames>George Godfrey</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +305,9 @@
       <Key>White</Key>
       <Title>Sir</Title>
       <Forenames>Rudolph Dymoke</Forenames>
-      <Text>, Bart., Member of Parliament for Fareham</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>6794</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +316,9 @@
       <Key>Wickham</Key>
       <Title>Maj.</Title>
       <Forenames>John Lam-</Forenames>
-      <Text>plugh, M.V.O., Private Secretary to H.M. Queen Mary</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
     <SubItem>
@@ -342,7 +372,10 @@
     <MainItem>
       <Key>Woodhall</Key>
       <Title>Lt.</Title>
-      <Text>-Cdr. Eric Langton, M.V.O., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>8546</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +384,9 @@
       <Key>Woodhouse</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Henry Lawrence</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>8545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +394,9 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Claude Emile</Forenames>
-      <Text>, M.B.E., Nominated Unofficial Member of Legislative Council, Sierra Leone Colony</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +417,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7393</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -508,7 +547,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Carton</Key>
-      <Text>de Wiart, A</Text>
+      <Forenames>de Wiart</Forenames>
+      <Text>, A</Text>
       <PageNumber>7623</PageNumber>
       <PageNumber>8305</PageNumber>
     </MainItem>
@@ -541,8 +581,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Creaeh</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'M</Text>
+      <Forenames>M. O'M</Forenames>
       <PageNumber>6711</PageNumber>
       <PageNumber>6711</PageNumber>
       <PageNumber>8165</PageNumber>
@@ -553,6 +592,13 @@
       <Key>Dawson</Key>
       <Forenames>J. A.</Forenames>
       <PageNumber>7779</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Fonblanaue</Key>
+      <Forenames>P.</Forenames>
+      <PageNumber>7393</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -901,7 +947,9 @@
       <Key>Scott</Key>
       <Title>Sir</Title>
       <Forenames>D. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7779</PageNumber>
     </MainItem>
   </ItemGroup>

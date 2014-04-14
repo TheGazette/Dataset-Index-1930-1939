@@ -17,7 +17,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Squire</Key>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Elizabeth .</Title>
       <PageNumber>1172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,7 +120,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steele</Key>
-      <Forenames>Joshua</Forenames>
+      <Title>Joshua .</Title>
       <PageNumber>382</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +149,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stephens</Key>
-      <Forenames>Emma</Forenames>
+      <Title>Emma .</Title>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,8 +163,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Steven</Key>
-      <Forenames>Robert</Forenames>
-      <Text>... '</Text>
+      <Title>Robert .</Title>
+      <Text>.. '</Text>
       <PageNumber>321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Steventon</Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>992</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stonev</Key>
-      <Forenames>Edwin</Forenames>
+      <Title>Edwin .</Title>
       <PageNumber>1639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +281,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stopford</Key>
-      <Text>, .Catherine Charlotte</Text>
+      <Text>.Catherine Charlotte</Text>
       <PageNumber>1728</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +346,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stubhs</Key>
-      <Text>. Joseph</Text>
+      <Forenames>Joseph</Forenames>
       <PageNumber>2000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Studd</Key>
-      <Text>,, Ellen Kimber</Text>
+      <Text>, Ellen Kimber</Text>
       <PageNumber>451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +391,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Surmont</Key>
-      <Text>. Edmund</Text>
+      <Forenames>Edmund</Forenames>
       <PageNumber>1800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,7 +412,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinburn</Key>
-      <Forenames>Henry</Forenames>
+      <Title>Henry .</Title>
       <PageNumber>316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Swinnerton</Key>
-      <Text>, . Jane Anne</Text>
+      <Text>. Jane Anne</Text>
       <PageNumber>602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +480,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot</Key>
-      <Text>. Rose</Text>
+      <Forenames>Rose</Forenames>
       <PageNumber>1091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,7 +522,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tate</Key>
-      <Forenames>Alfred</Forenames>
+      <Title>Alfred .</Title>
       <PageNumber>250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -548,7 +548,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tatham</Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>1640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -764,7 +764,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>John</Forenames>
+      <Title>John .</Title>
       <PageNumber>2003</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,7 +798,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>Fanny</Forenames>
+      <Title>Fanny .</Title>
       <PageNumber>1906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -850,7 +850,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomson</Key>
-      <Forenames>Jane</Forenames>
+      <Title>Jane .</Title>
       <PageNumber>1348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -893,7 +893,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thorold</Key>
-      <Forenames>Muriel</Forenames>
+      <Title>Muriel .</Title>
       <PageNumber>1557</PageNumber>
       <PageNumber>1804</PageNumber>
     </MainItem>
@@ -915,21 +915,21 @@
   <ItemGroup>
     <MainItem>
       <Key>Thwaytes</Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>321</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tidmarsh</Key>
-      <Forenames>Ambrose</Forenames>
+      <Title>Ambrose .</Title>
       <PageNumber>838</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Tillett</Key>
-      <Text>. Sarah Ellen</Text>
+      <Forenames>Sarah Ellen</Forenames>
       <PageNumber>1915</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +964,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tippins</Key>
-      <Forenames>Samuel</Forenames>
+      <Title>Samuel .</Title>
       <PageNumber>666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,7 +985,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tomkins</Key>
-      <Forenames>Frederick</Forenames>
+      <Title>Frederick .</Title>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1001,7 +1001,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tdmlinson</Key>
-      <Forenames>Fanny</Forenames>
+      <Title>Fanny .</Title>
       <PageNumber>2068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1045,7 +1045,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Townshend</Key>
-      <Forenames>Charles</Forenames>
+      <Title>Charles .</Title>
       <PageNumber>453</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1082,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>84</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1110,7 +1110,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Trengrouse</Key>
-      <Forenames>Florence</Forenames>
+      <Title>Florence .</Title>
       <PageNumber>1555</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1138,7 +1138,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Truman</Key>
-      <Forenames>Annie</Forenames>
+      <Title>Annie .</Title>
       <PageNumber>383</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1290,14 +1290,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Varney</Key>
-      <Forenames>Susannah</Forenames>
+      <Title>Susannah .</Title>
       <PageNumber>533</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Vasey</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1318,7 +1318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernon</Key>
-      <Forenames>George</Forenames>
+      <Title>George .</Title>
       <PageNumber>2071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1397,7 +1397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wakely</Key>
-      <Text>, AVilliam</Text>
+      <Text>AVilliam</Text>
       <PageNumber>600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1444,7 +1444,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1628,7 +1628,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>William</Forenames>
+      <Title>William .</Title>
       <PageNumber>665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1660,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warrender</Key>
-      <Forenames>Benjamin</Forenames>
+      <Title>Benjamin .</Title>
       <PageNumber>2002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1674,7 +1674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wastle</Key>
-      <Forenames>Edward</Forenames>
+      <Title>Edward .</Title>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1746,7 +1746,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1875,8 +1875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Title>Alfred.</Title>
-      <Forenames>Charles</Forenames>
+      <Title>Alfred. Charles .</Title>
       <PageNumber>669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1885,7 +1884,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>Arthur</Forenames>
+      <Title>Arthur .</Title>
       <PageNumber>1730</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1924,7 +1923,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whale</Key>
-      <Text>,' Catherine Anne</Text>
+      <Text>' Catherine Anne</Text>
       <PageNumber>995</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1940,7 +1939,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wharton</Key>
-      <Text>. Sarah</Text>
+      <Forenames>Sarah</Forenames>
       <PageNumber>1253</PageNumber>
     </MainItem>
   </ItemGroup>

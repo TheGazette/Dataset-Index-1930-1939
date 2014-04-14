@@ -199,6 +199,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>E</Forenames>
+      <PageNumber>7755</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deigbton</Key>
       <Forenames>P. J.</Forenames>
       <PageNumber>6906</PageNumber>
@@ -687,7 +694,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Storey-Coo</Key>
-      <Text>.per, E. S</Text>
+      <Text>per, E. S</Text>
       <PageNumber>6906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -860,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Text>. C. G</Text>
+      <Forenames>C. G</Forenames>
       <PageNumber>7419</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -964,7 +971,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Berklev</Key>
-      <Text>. W. V</Text>
+      <Forenames>W. V</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1245,8 +1252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cole</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>6905</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1369,7 +1375,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dalvi</Key>
-      <Text>. K. iB</Text>
+      <Forenames>K.</Forenames>
+      <Text>iB</Text>
       <PageNumber>6701</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1383,7 +1390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>. O</Text>
+      <Forenames>O.</Forenames>
       <PageNumber>8199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1519,7 +1526,7 @@
   <ItemGroup>
     <MainItem>
       <Key>EChlin</Key>
-      <Text>. P. C</Text>
+      <Forenames>P. C .</Forenames>
       <PageNumber>6219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1615,7 +1622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Francis</Key>
-      <Text>. R. F</Text>
+      <Forenames>R. F .</Forenames>
       <PageNumber>6545</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1636,7 +1643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gamble</Key>
-      <Text>. W. iM. F</Text>
+      <Forenames>W.</Forenames>
+      <Text>iM. F</Text>
       <PageNumber>6702</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1673,7 +1681,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillmore</Key>
-      <Text>. H. F</Text>
+      <Forenames>H. F.</Forenames>
       <PageNumber>6546</PageNumber>
     </MainItem>
   </ItemGroup>

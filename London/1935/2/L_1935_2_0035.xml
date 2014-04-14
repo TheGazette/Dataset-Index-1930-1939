@@ -30,7 +30,9 @@
       <Key>Hadfield</Key>
       <Title>Capt.</Title>
       <Forenames>Rowland Hurst</Forenames>
-      <Text>, R.A.M.C., L.R.C.P., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +56,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Halifax</Key>
-      <Text>. Rt. Hon. Edward Frederick Lindley, Viscount, K.G.. G.C.S.I., G.C.I.E., Principal Secretary of State</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +77,9 @@
       </Key>
       <Title>Instr. Capt.</Title>
       <Forenames>Arthur Edward</Forenames>
-      <Text>,. O.B.E., A.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -84,7 +90,9 @@
       </Key>
       <Title>Prof.</Title>
       <Forenames>Arthur John</Forenames>
-      <Text>, M.A., M.D.. D.Sc., F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +102,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Duncan Hamilton</Forenames>
-      <Text>, I.S.O., Nominated' Member of the Legislative Council of the Island of Jamaica</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -105,7 +115,9 @@
       </Key>
       <Title>Capt. Geoffrey .</Title>
       <Forenames>Fowler</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3599</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -116,7 +128,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>Hamilton Burnett</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +150,9 @@
       <Key>Hallinari</Key>
       <Title>Maj.</Title>
       <Forenames>Thomas John</Forenames>
-      <Text>, C.B.E., Nominated Member of the Legislative Council of the Island of Jamaica</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +182,9 @@
     <MainItem>
       <Key>Hanbury</Key>
       <Forenames>Cecil</Forenames>
-      <Text>, M.P. Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +208,9 @@
     <MainItem>
       <Key>Harbord</Key>
       <Forenames>Alderman Arthur</Forenames>
-      <Text>, J.P., M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +235,10 @@
     <MainItem>
       <Key>Harding</Key>
       <Forenames>Alfred John</Forenames>
-      <Text>, C.M.G., C.B.E., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -244,7 +267,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.</Title>
-      <Text>-.Col. Francis Kyle, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +285,11 @@
     <MainItem>
       <Key>Harington</Key>
       <Forenames>H.E</Forenames>
-      <Text>; Gen. Sir Charles Harington, G.C.B., G.B.E., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +297,9 @@
     <MainItem>
       <Key>Harkness</Key>
       <Forenames>John Welsh Park</Forenames>
-      <Text>, . O.B.E. Officer. Orderof St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -356,7 +387,9 @@
       <Key>Harsant</Key>
       <Title>Maj.</Title>
       <Forenames>Arnold Guy</Forenames>
-      <Text>, . M.D., M.S., F.R.CS,, Officer. Order of . the . British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3602</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +417,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Brig.</Title>
-      <Text>Gen. . Herbert . Ernest, C.B., C.M.G.,. D.S.O., V.D., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +429,11 @@
     <MainItem>
       <Key>Hartigan</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. James' Andrew, C.B., C.M.G., D.S.O., M.B., D.Ch., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,14 +442,21 @@
       <Key>Harvev</Key>
       <Title>Col.</Title>
       <Forenames>Ralph Key</Forenames>
-      <Text>, T.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hawkes</Key>
-      <Text>Capt. William Arthur, R.D., A.D.C., Commander, Order of the British Empire</Text>
+      <Title>Capt.</Title>
+      <Forenames>William Arthur</Forenames>
+      <Text>
+        <Honour>R.D.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -426,14 +474,21 @@
       <Key>Headlam</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Cuthbert Morley</Forenames>
-      <Text>, D.S.O.. O.B.E., T.D., J.P., D.L., MP., Baronet</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3592</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Headland</Key>
-      <Text>Robert Vincent. O.B.E;, Commander of the British Empire</Text>
+      <Forenames>Robert Vincent</Forenames>
+      <Text>. O.B.E;, Commander of the British Empire</Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +507,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Edward Charles</Forenames>
-      <Text>, D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +521,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Sidney John</Forenames>
-      <Text>, M.B.E., M.C., Officer, Order of the British . Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +593,11 @@
       </Key>
       <Title>Cdr.</Title>
       <Forenames>Oscar</Forenames>
-      <Text>C.B.E.,' D.S.O., Commander, . . Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -540,7 +605,9 @@
     <MainItem>
       <Key>Hensman</Key>
       <Forenames>Henry Saumarez</Forenames>
-      <Text>, L.M.S-, M.R.C.S. (Eng.), L.R.C.P. (Loud.), M.P.C., Officer, Order of the British Empire ... .,</Text>
+      <Text>
+        <Honour>P.C.</Honour>
+      </Text>
       <PageNumber>3612</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +693,11 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Samuel</Forenames>
-      <Text>, Bt., G.C.S.I., G.B.E., C.M.G., Principal Secretary of State</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>

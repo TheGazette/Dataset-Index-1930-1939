@@ -102,14 +102,19 @@
     <MainItem>
       <Key>Agnew</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Albuquerque</Key>
-      <Text>. Capt. Victor Mansfield, F.R.C.S.(Eng.), L.R.CP. (London), Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>5282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -127,7 +132,9 @@
       <Key>Angus</Key>
       <Title>Maj.</Title>
       <Forenames>Tom Hardy</Forenames>
-      <Text>, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -135,7 +142,10 @@
     <MainItem>
       <Key>Ankers</Key>
       <Forenames>Wing-Comdr</Forenames>
-      <Text>. Burton, D.C.M., Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5292</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +163,10 @@
       <Key>Arnott</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Stanley</Forenames>
-      <Text>, M.D., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -161,7 +174,10 @@
     <MainItem>
       <Key>Ball</Key>
       <Forenames>William Girling</Forenames>
-      <Text>, F.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +185,9 @@
     <MainItem>
       <Key>Barnes</Key>
       <Forenames>KennethRalph</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +195,10 @@
     <MainItem>
       <Key>Bashford</Key>
       <Forenames>Henry Howarth</Forenames>
-      <Text>, M.D., B.S., M.R.C.P., M.R.C.S., Knighted</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -185,14 +206,18 @@
     <MainItem>
       <Key>Baxter</Key>
       <Forenames>Charles William</Forenames>
-      <Text>, M.C., Acting Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4326</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Beaumont</Key>
-      <Text>Nesbitt, Col. Frederick George, M.C, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +225,9 @@
     <MainItem>
       <Key>Benegal</Key>
       <Forenames>Narsinga Rau</Forenames>
-      <Text>, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +236,9 @@
       <Key>Betham</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Geoffrey Lawrence</Forenames>
-      <Text>, CLE., M.C., H.M. Envoy Extraordinary and Minister Plenipotentiary</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4326</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +262,9 @@
     <MainItem>
       <Key>Bomford</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, C.I.E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +296,9 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>John Alfred Arnesby</Forenames>
-      <Text>, R.A., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +315,10 @@
       <Key>Burns</Key>
       <Title>Maj.</Title>
       <Forenames>Lionel Bryan Douglas</Forenames>
-      <Text>, M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +326,9 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Paul Dalrymple</Forenames>
-      <Text>, C.M.G., H.M. ConsulGeneral at San Francisco</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -337,7 +375,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Clarendon</Key>
-      <Text>the Rt. Hon. George Herbert Hyde, Earl of, K.G., G.C.M.G., Lord Chamberlain of H.M. Household</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +387,9 @@
       <Key>Clark</Key>
       <Title>Sir</Title>
       <Forenames>Ernest</Forenames>
-      <Text>, K.C.B., C. B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4812</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +397,9 @@
     <MainItem>
       <Key>Clayton</Key>
       <Forenames>Hugh Byard</Forenames>
-      <Text>, C.I.E., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -363,7 +408,9 @@
       <Key>Churchman</Key>
       <Title>Sir</Title>
       <Forenames>William Alfred</Forenames>
-      <Text>of Melton, V.D., J.P., D. L., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -371,7 +418,9 @@
     <MainItem>
       <Key>Cosgrave</Key>
       <Forenames>William Alexander</Forenames>
-      <Text>, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -379,7 +428,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>Arthur John Edward</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,14 +448,19 @@
       <Key>Crisp</Key>
       <Title>Hon.</Title>
       <Forenames>Harold</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6005</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cromer</Key>
-      <Text>the Rt. Hon. Rowland Thomas, Earl of, G.C.B., G. C.I.E., G.C.V.O. Per-, manent Lord-in-Waiting to H. M. the King</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,14 +468,19 @@
     <MainItem>
       <Key>Cutforth</Key>
       <Forenames>Arthur Edwin</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dalton</Key>
-      <Text>Llewelyn Chisholm, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +496,9 @@
     <MainItem>
       <Key>Davison</Key>
       <Forenames>Ronald Conway</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +514,9 @@
     <MainItem>
       <Key>Dew</Key>
       <Forenames>Armine Roderick</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +533,9 @@
       <Key>Dick</Key>
       <Title>Sir</Title>
       <Forenames>William Reid</Forenames>
-      <Text>, K.C.V.O., R.A., F.R.B.S., Member of Royal Fine Arts Commission</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>6006</PageNumber>
     </MainItem>
     <SubItem>
@@ -480,14 +547,21 @@
     <MainItem>
       <Key>Dixon</Key>
       <Forenames>Francis Netherwood</Forenames>
-      <Text>, C.B.E., Knighted</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edmondstoune</Key>
-      <Text>Cranstoun, Lieutenant-Colonel Charles Joseph, D.S.O., T.D., J.P., D.L., Vice-Lieutenant for the County of Lanark</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>4966</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -496,7 +570,9 @@
       <Key>Edwards</Key>
       <Title>Bt. Col.</Title>
       <Forenames>Bartle Mordaunt Marsham</Forenames>
-      <Text>, M.C., Gentleman-at-Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -504,7 +580,9 @@
     <MainItem>
       <Key>Eggar</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, M.A., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +591,9 @@
       <Key>Embry</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>Basil Edward</Forenames>
-      <Text>, A.F.C, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,7 +610,9 @@
     <MainItem>
       <Key>Flower</Key>
       <Forenames>Walter Newman</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4532</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +620,10 @@
     <MainItem>
       <Key>Forbes</Key>
       <Title>Maj.</Title>
-      <Text>&amp; Bt. Lt.-Col. Alexander Moore, M.C, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4878</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +647,9 @@
     <MainItem>
       <Key>Francis</Key>
       <Forenames>Cyril Gerard</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>4740</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +665,9 @@
     <MainItem>
       <Key>Fyers</Key>
       <Title>Captain</Title>
-      <Text>FitzRoy Hubert, M.V.O., Comptroller to Duke of Connaught</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5353</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -124,7 +124,9 @@
       <Key>Peebles</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>William Thorburn</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +134,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Text>: Mackenzie, Col. Sir Victor Audley Falconer, Bt, M.V.O., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,14 +152,18 @@
   <ItemGroup>
     <MainItem>
       <Key>Caernarvon</Key>
-      <Text>: Finch, Lt.-Col. John Charles Wynne, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>6376</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cambridge</Key>
-      <Text>: Canning, Brevet Col. Cyril Victor, M.C.,</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
     <SubItem>
@@ -164,51 +174,69 @@
   <ItemGroup>
     <MainItem>
       <Key>Cardigan</Key>
-      <Text>: Evans, Col. Lewis Pugh, V.C., C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6899</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dorset</Key>
-      <Text>: Goodden, Lt.-Col. John Bemhard Harbin, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6969</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Edinburgh</Key>
-      <Text>: Pollock, Hon. Surgeon Commdr. John Donald, O.B.E., LL.D., M.D., D.Sc</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lancaster</Key>
-      <Text>: Denton, Major William, T.D., J.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>6823</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Southampton</Key>
-      <Text>: Brannon, Lt.-Col. Wilfrid, M.C., T.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7091</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>. Gower, Brig.-Gen. Philip Leveson, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7091</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Stafford</Key>
-      <Text>: Kent, Lt.-Col. William John, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>7267</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>7267</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>7267</PageNumber>
       </Text>
       <PageNumber>7267</PageNumber>
@@ -226,23 +254,33 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>Bart</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>7188</PageNumber>
+        <Honour>Bart</Honour>
       </Text>
       <PageNumber>7188</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Tomkin, Lt.-Col. James William Royce, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>7188</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warwick</Key>
-      <Text>: Cash, Lt.-Col. Reginald John, M.C., T.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>6310</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>6310</PageNumber>
       </Text>
       <PageNumber>___ ___</PageNumber>
@@ -251,7 +289,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Wigtown</Key>
-      <Text>: Stewart, Col. Patrick Alexander Vansittart, C.B.E., D.S.O</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>7519</PageNumber>
     </MainItem>
   </ItemGroup>

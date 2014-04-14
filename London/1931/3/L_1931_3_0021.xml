@@ -41,7 +41,10 @@
       <Key>Gibson</Key>
       <Title>Sir</Title>
       <Forenames>Herbert</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>5331</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +60,10 @@
     <MainItem>
       <Key>Gihnour</Key>
       <Title>Lt.-Col.</Title>
-      <Text>the Rt. Hon. Sir John, Bt., D. S.O., Minister of Agriculture and Fisheries</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
       <PageNumber>5617</PageNumber>
     </MainItem>
@@ -66,7 +72,9 @@
     <MainItem>
       <Key>Glaister</Key>
       <Forenames>John</Forenames>
-      <Text>, Junior, M.D., D.Sc, Regius Professor of Forensic Medicine at Glasgow University</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -98,7 +106,9 @@
     <MainItem>
       <Key>Gorst</Key>
       <Forenames>Edmund Julius</Forenames>
-      <Text>, M.C., H.M. Vice-Consul at Antwerp</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +164,11 @@
     <MainItem>
       <Key>Hendry</Key>
       <Forenames>Alexander</Forenames>
-      <Text>, C.V.O., M.D., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>6233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -163,7 +177,10 @@
       <Key>Hennessy</Key>
       <Title>Maj. Sir</Title>
       <Forenames>George Richard James</Forenames>
-      <Text>, O.B.E., M.P., Treasurer of H.M. Household</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5827</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -172,7 +189,9 @@
       <Key>Heywood</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, M.C., Commercial Secretary, Second Grade, to H.M. Legation, Berne</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +200,11 @@
       <Key>Hoare</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Samuel</Forenames>
-      <Text>, Bt., G.B.E., C.M.G., H.M. Secretary of State for India</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>G.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -189,7 +212,9 @@
     <MainItem>
       <Key>Hobson</Key>
       <Forenames>Henry Arthur</Forenames>
-      <Text>, M.B.E., H.M. ViceConsul at La Paz</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +237,9 @@
       <Key>Inskip</Key>
       <Title>Sir</Title>
       <Forenames>Thomas Walker Hobart</Forenames>
-      <Text>, C.B.E., K.C., H.M. Solicitor-General</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +247,11 @@
     <MainItem>
       <Key>Ironside</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Sir William Edmund, K.C.B., C.M.G., D.S.O., Lieutenant of the Tower of London</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4540</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -228,7 +259,9 @@
     <MainItem>
       <Key>Jenkin</Key>
       <Forenames>Francis Charles</Forenames>
-      <Text>, C.B.E., Member of H.M. Council for Hong Kong</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +302,10 @@
       <Key>Kennard</Key>
       <Title>Sir</Title>
       <Forenames>Howard William</Forenames>
-      <Text>, K.C.M.G., C.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to the Swiss Federation</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +370,11 @@
       <Key>Lindley</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Francis Oswald</Forenames>
-      <Text>, G.C.M.G., C.B., C.B.E., H.M. Ambassador Extraordinary a n d ' Plenipotentiary to H.M. the Emperor of Japan</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +382,10 @@
     <MainItem>
       <Key>Londonderry</Key>
       <Forenames>Most</Forenames>
-      <Text>Hon. Charles Stewart Henry, Marquess of, K.G., M.V.O., First Commissioner of Works and Public Buildings</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +402,9 @@
     <MainItem>
       <Key>Lothian</Key>
       <Forenames>Most</Forenames>
-      <Text>Hon. Philip Henry, Marquess of, C.H., Chancellor of the Duchy of Lancaster</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +412,9 @@
     <MainItem>
       <Key>Lucie-Smith</Key>
       <Forenames>John Alfred</Forenames>
-      <Text>, O.B.E., V.D., Judge of H.M. Supreme Court of Kenya</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4785</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +438,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Maclean</Key>
-      <Text>iRt. Hon. Sir Donald, K.B.E., President of the Board of Education</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
       <PageNumber>5617</PageNumber>
     </MainItem>
@@ -440,7 +489,9 @@
       <Key>Mavrogordato</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Stephen</Forenames>
-      <Text>, O.B.E., Nominated O ffi c i a 1 Member of the Legislative (Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6166</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +499,9 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>Thomas Joseph</Forenames>
-      <Text>, C.M.G., H.M. ConsulGeneral at Milan</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5688</PageNumber>
     </MainItem>
     <SubItem>
@@ -484,7 +537,9 @@
     <MainItem>
       <Key>Munro</Key>
       <Forenames>John Edwin</Forenames>
-      <Text>, O.B.E., Nominated Member of the Legislative Council of Grenada</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +555,9 @@
     <MainItem>
       <Key>Oakden</Key>
       <Forenames>Ralph</Forenames>
-      <Text>, C.S.I., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5551</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +566,10 @@
       <Key>Oldfield</Key>
       <Title>Maj.</Title>
       <Forenames>John William</Forenames>
-      <Text>, O.B.E., M.C., Member of the Executive Council of Ceylon</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -526,7 +586,9 @@
     <MainItem>
       <Key>Osborne</Key>
       <Forenames>Francis</Forenames>
-      <Text>DArcy Godolphin, C.M.G., H.M. Envoy Extraordinary and Minister Plenipotentiary at Washington</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -535,7 +597,10 @@
       <Key>Owen</Key>
       <Title>Maj.</Title>
       <Forenames>Goronwy</Forenames>
-      <Text>, D.S.O., ' M.P., Comptroller of H.M. Household</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -543,7 +608,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>Clarence Edward Stanhope</Forenames>
-      <Text>, D.S.C., H.M. Consul at Tabriz</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +618,9 @@
     <MainItem>
       <Key>Parr</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., H.M. Vice-Consul at Port Said</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,7 +637,9 @@
       <Key>Peel</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>William Robert Wellesley</Forenames>
-      <Text>, Earl, G.B.E., Lord Privy Seal</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>5899</PageNumber>
       <PageNumber>5963</PageNumber>
     </MainItem>
@@ -577,7 +648,9 @@
     <MainItem>
       <Key>Peers</Key>
       <Forenames>Charles Reed</Forenames>
-      <Text>. C.B.E., M.A., F.B.A., F.R.I.B.A., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +698,9 @@
     <MainItem>
       <Key>Prideaux-Brune</Key>
       <Forenames>Humphrey Ingelram</Forenames>
-      <Text>, O.B.E., H.M. Consul in China</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -641,7 +716,10 @@
     <MainItem>
       <Key>Pybus</Key>
       <Forenames>Percy John</Forenames>
-      <Text>, C.B.E., M.P., Minister of Transport</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5899</PageNumber>
     </MainItem>
   </ItemGroup>

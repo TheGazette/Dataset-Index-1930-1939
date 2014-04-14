@@ -3,7 +3,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Viscounts</Key>
-      <Text>: Stonehaven, Rt. Hon. John Lawrence, Baron, G.C.M.G., D.S.O., Viscount Stonehaven, of Ury</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3685</PageNumber>
       <PageNumber>4169</PageNumber>
     </MainItem>
@@ -21,32 +24,48 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>O.M.</Honour>
         <PageNumber>3020</PageNumber>
+        <Honour>O.M.</Honour>
         <PageNumber>3020</PageNumber>
+        <Honour>O.M.</Honour>
+        <Honour>O.M.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E. D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>O.M.</Honour>
       </Text>
       <PageNumber>3021</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>O.M.</Honour>
         <PageNumber>3021</PageNumber>
       </Text>
       <PageNumber>3020</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Nandlal Ghale, I.O.M.. Naik</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3020</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Ratan Singh, I.O.M., Sepoy</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3020</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Sardar Ali, I.O.M., Naik</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+      </Text>
       <PageNumber>3020</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
         <PageNumber>3020</PageNumber>
+        <Honour>O.M.</Honour>
       </Text>
       <PageNumber>3020</PageNumber>
     </SubItem>
@@ -182,7 +201,10 @@
       <Key>Abercromby</Key>
       <Title>Colonel Sir</Title>
       <Forenames>George William</Forenames>
-      <Text>, Baronet. D.S.O., Vice-Lieutenant for the County of Banff</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +263,9 @@
     <MainItem>
       <Key>Agnew</Key>
       <Forenames>Andrew</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +316,11 @@
       <Key>Alexander</Key>
       <Title>Maj.-Gen. The Hon.</Title>
       <Forenames>Harold Rupert Leofric George</Forenames>
-      <Text>, C.S.L, D.S.O., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +350,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>George James</Forenames>
-      <Text>, M.B.E., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +362,12 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. John Sandeman, M.C., T.D., M.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +448,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>Gen. Desmond Francis, C.M.G., D.S.O., Companion. Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>

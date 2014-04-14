@@ -629,7 +629,9 @@
       <Key>Laurie</Key>
       <Title>Sir</Title>
       <Forenames>J. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1333,7 +1335,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolnough</Key>
-      <Text>. G. F</Text>
+      <Forenames>G. F</Forenames>
       <PageNumber>864</PageNumber>
     </MainItem>
   </ItemGroup>

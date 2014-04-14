@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Seddon</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,7 +30,10 @@
     <MainItem>
       <Key>Sexton</Key>
       <Forenames>James</Forenames>
-      <Text>, C.B.E., J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -89,7 +94,11 @@
     <MainItem>
       <Key>Skelton</Key>
       <Forenames>Engineer Vice-</Forenames>
-      <Text>Admiral Reginald William, C.B., C.B.E., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +122,9 @@
     <MainItem>
       <Key>Slater</Key>
       <Forenames>George</Forenames>
-      <Text>, C.B.E., Member of the Fishery Board for Scotland</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -149,7 +160,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Frank Edward</Forenames>
-      <Text>, C.B., C.B.E., D.Sc. LL.D., F.R.S., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +235,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Malcolm</Forenames>
-      <Text>, K.B.E., Member of the Fishery . Board for Scotland</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1885</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +247,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Montague Bentley Talbot Paske</Forenames>
-      <Text>, C.B.E., H.M. Consul at Dairen</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>373</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +293,9 @@
     <MainItem>
       <Key>Snell</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Baron Snell of Plumstead</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1987</PageNumber>
     </MainItem>
     <SubItem>
@@ -354,7 +374,9 @@
     <MainItem>
       <Key>Stainton</Key>
       <Forenames>Lewis</Forenames>
-      <Text>, Member, 5th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +384,9 @@
     <MainItem>
       <Key>Stamp</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, M.A., F. S.A., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +410,9 @@
       <Key>Stanley</Key>
       <Title>Sir</Title>
       <Forenames>Herbert James</Forenames>
-      <Text>, G. C.M.G., High Commissioner for South Africa</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +431,9 @@
       <Key>Stanway</Key>
       <Title>Capt. and Brev. Lt.-Col.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, D. S.O., M.C, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -414,7 +442,10 @@
       <Key>Stanyforth</Key>
       <Title>Maj.</Title>
       <Forenames>Ronald Thomas</Forenames>
-      <Text>, M.C., Member, 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>299</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +461,10 @@
     <MainItem>
       <Key>Stead</Key>
       <Forenames>Charles</Forenames>
-      <Text>, C.B.E.. M.V.O., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -473,7 +507,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stevenson</Key>
-      <Text>Miss Amy Georgina Mary, Serving Sister, Order of St. John of Jerusalem</Text>
+      <Title>Miss</Title>
+      <Forenames>Amy Georgina Mary</Forenames>
+      <Text>, Serving Sister, Order of St. John of Jerusalem</Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -483,7 +519,19 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Francis William</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire ... Stirk, Fred, Member, Order of the British Empire ... Stirling, Charles Norman, Second Secretary in H.M. Diplomatic Service ... Stockwell, Capt. (Commodore 2nd Class) Henry, D.S.O., R.D., R.N.R. (Retired), Companion, Order of the Bath Stone, Arthur James, Member, Order of the British Empire Storrs, H. (E. Sir Ronald Henry Amherst, K.C.M.G., C.B.E., Knight of Justice, Order of St. John of Jerusalem ... Stout, Allan, Carmichael Blackburn, Member, Order of the British Empire ... Strachan, James, M.C, A.M.Inst.C.E., Officer, Order of the British Em. pire Strickland, Claude Francis, Companion, Order of the Indian Empire ... ... Stronge, Sir Herbert Cecil, Kt., Chief Justice of the Supreme Court of Cyprus Swanick, Helena Maria, Mrs., Order of the Companions of. Honour ... ... Sweeney, James Augustine, Companion, Order of the Indian Empire Symes, Brevet Lt.-Cbl. Sir George Stewart, K.B.E., C.M.G., D.S.O., Governor and Commander-in-Chief of Tanganyika Symons, Maj Henry John Hugh, M.C, I.M.S., H.M. Vice-Consul at Bushire Taj Mohammed Khan, Khan Bahadur, Officer, Order of the British Empire ... Tasker, Major Robert Inigo, T.D., J.P., D.L., Knight 2 Tate, Maj.-Gen. Godfrey Tate' C.I.E., I.M.S., House Governor and Medical Superintendent of King Edward VII Convalescent Home for Officers, Osborne</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>R.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -491,7 +539,13 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>James Hubert</Forenames>
-      <Text>, Commander, Order of the British Empire Tegart, Sir Charles Augustus, C. I.E., M.V.O., Companion, Order of the Star of India Temperlev, Col. (temp. Brig.) Arthur Cecil, C.M.G., D. S.O., Companion, Order of the Bath Tharkerav, Henry John, Serving Brother, Order of St. John of Jerusalem ... Thirtle, Thomas Robert. Member, Order of the British Empire Thomas. Daniel Lleufer, M.A., LL.D., J.P., Knight</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>

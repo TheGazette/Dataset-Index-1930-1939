@@ -554,7 +554,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Goddard</Key>
-      <Text>E. T</Text>
+      <Forenames>E. T</Forenames>
       <PageNumber>1869</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -676,7 +676,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Femwick</Key>
-      <Text>O. E</Text>
+      <Forenames>O. E</Forenames>
       <PageNumber>1081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -837,8 +837,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, R. P. C</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>R. P. C</Forenames>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -887,7 +887,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Talbot-Smith</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>441</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,7 +947,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Aldworth</Key>
-      <Text>R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>2190</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1062,8 +1062,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, T. J</Text>
+      <Key>O'Neil</Key>
+      <Forenames>T. J</Forenames>
       <PageNumber>301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1127,8 +1127,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Forenames>M. N.</Forenames>
-      <Text>de C</Text>
+      <Forenames>M. N. de C</Forenames>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>

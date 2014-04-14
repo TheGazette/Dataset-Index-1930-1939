@@ -362,7 +362,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morel</Key>
-      <Text>. M. P</Text>
+      <Forenames>M. P.</Forenames>
       <PageNumber>1217</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +431,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morrison</Key>
-      <Text>. I. G</Text>
+      <Forenames>I. G.</Forenames>
       <PageNumber>1552</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,8 +472,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. C. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>T. C. St. C</Forenames>
       <PageNumber>62</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -754,7 +753,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Norman</Key>
-      <Text>. C. T</Text>
+      <Forenames>C. T.</Forenames>
       <PageNumber>690</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -847,8 +846,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, D. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>D. D .</Forenames>
       <PageNumber>1214</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -886,8 +885,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kill, G. E. T</Text>
+      <Key>O'Kill</Key>
+      <Forenames>G. E. T.</Forenames>
       <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -900,8 +899,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, L. M</Text>
+      <Key>O'Leary</Key>
+      <Forenames>L. M .</Forenames>
       <PageNumber>2010</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,8 +932,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, C. J. S</Text>
+      <Key>O'Malley</Key>
+      <Forenames>C. J. S.</Forenames>
       <PageNumber>1771</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -947,8 +946,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, D. H Orbell, H. G. A</Text>
+      <Key>O'Neill</Key>
+      <Forenames>D. H</Forenames>
+      <Text>Orbell, H. G. A</Text>
       <PageNumber>399</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -976,7 +976,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ottley</Key>
-      <Text>. B. S</Text>
+      <Forenames>B. S.</Forenames>
       <PageNumber>1216</PageNumber>
     </MainItem>
   </ItemGroup>

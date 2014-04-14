@@ -956,8 +956,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenyon</Key>
-      <Forenames>J.</Forenames>
-      <Text>du M</Text>
+      <Forenames>J. du M</Forenames>
       <PageNumber>4247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1456,7 +1455,9 @@
       <Key>Loder</Key>
       <Title>Sir</Title>
       <Forenames>G. R.</Forenames>
-      <Text>, Bt. ... -</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5833</PageNumber>
     </MainItem>
   </ItemGroup>

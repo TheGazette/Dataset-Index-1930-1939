@@ -486,8 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. P. O'C</Forenames>
       <PageNumber>1982</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -938,7 +937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Underhill</Key>
-      <Text>. W. E</Text>
+      <Forenames>W. E.</Forenames>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1003,9 +1002,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Haeften</Forenames>
-      <Text>, J. F. H</Text>
+      <Key>Van Haeften</Key>
+      <Forenames>J. F. H.</Forenames>
       <PageNumber>218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1035,8 +1033,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Veale</Key>
-      <Forenames>W. F.</Forenames>
-      <Text>de C</Text>
+      <Forenames>W. F. de C</Forenames>
       <PageNumber>219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1140,7 +1137,9 @@
       <Key>Waedhter</Key>
       <Title>Sir</Title>
       <Forenames>H. L.</Forenames>
-      <Text>DArcy, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1731</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1259,7 +1258,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Text>. W. R</Text>
+      <Forenames>W. R</Forenames>
       <PageNumber>771</PageNumber>
     </MainItem>
     <SubItem>
@@ -2041,8 +2040,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Winterbotham</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. L</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. L</Text>
       <PageNumber>843</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -757,8 +757,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hallows</Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. A. de B</Forenames>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -912,7 +911,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Harris-St</Key>
-      <Text>John, E. D</Text>
+      <Forenames>John</Forenames>
+      <Text>, E. D</Text>
       <PageNumber>2711</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1459,7 +1459,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hovell</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H .</Forenames>
       <PageNumber>2712</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,7 +1658,9 @@
       <Key>Hutchison</Key>
       <Title>Sir</Title>
       <Forenames>E. A. O.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3023</PageNumber>
     </MainItem>
   </ItemGroup>

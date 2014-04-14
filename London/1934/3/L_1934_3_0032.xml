@@ -31,7 +31,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair-Ford, A</Text>
+      <Forenames>Clair-Ford</Forenames>
+      <Text>, A</Text>
       <PageNumber>5903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +351,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sullivan</Key>
-      <Text>. D. M</Text>
+      <Forenames>D. M</Forenames>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +458,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. R. W</Text>
+      <Forenames>R. W.</Forenames>
       <PageNumber>5263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -500,7 +501,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lendy</Key>
-      <Text>. T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -522,15 +523,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Beal</Key>
-      <Forenames>C. E. S. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>C. E. S. B. St. G</Forenames>
       <PageNumber>6039</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Brown</Key>
-      <Text>. G. R</Text>
+      <Forenames>G. R.</Forenames>
       <PageNumber>5191</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -931,7 +931,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carlisle</Key>
-      <Text>. J. S</Text>
+      <Forenames>J. S .</Forenames>
       <PageNumber>4971</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1253,8 +1253,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, P. E</Text>
+      <Key>O'Brien</Key>
+      <Forenames>P. E</Forenames>
       <PageNumber>5263</PageNumber>
     </MainItem>
   </ItemGroup>

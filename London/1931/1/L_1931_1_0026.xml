@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Jones</Key>
       <Forenames>Frederick Theodore</Forenames>
-      <Text>, M.V.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +35,9 @@
     <MainItem>
       <Key>Jopson</Key>
       <Forenames>Reginald Keith</Forenames>
-      <Text>, M.B.E., Commercial Secretary, Second Grade, H.M. [Embassy at Buenos Ayres</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -50,7 +54,9 @@
       <Key>Junagadh</Key>
       <Title>His Highness</Title>
       <Forenames>Nawab</Forenames>
-      <Text>Sir Mahabatkhan Rasulkhan, K.C.S.I., Nawab of, Knight Grand Commander, Order of the Indian Empire Kavasji Jamshedji Petigara. Khan Bahadur, I.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -68,7 +74,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral William Archibald Howard, C.B., C.M.G., M.V.O., Knight Commander, Order of the Bath ... Kelsall, Henry, H.M. Consul at Leopoldville</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>375</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -76,7 +86,9 @@
     <MainItem>
       <Key>Kennedy</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>999</PageNumber>
     </MainItem>
@@ -152,7 +164,9 @@
       <Key>Lamb</Key>
       <Title>Sir</Title>
       <Forenames>Ernest Henry</Forenames>
-      <Text>, C.M.G., J.P., Baron</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -258,7 +272,9 @@
     <MainItem>
       <Key>Limbdi</Key>
       <Forenames>Thakor Saheb Shri</Forenames>
-      <Text>Sir Daulatsinhji Jasvatsinhji, K.C.I.E., Thakor Saheb of, Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +283,11 @@
       <Key>Lindley</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>F</Forenames>
-      <Text>r a n c i s Oswald, K.C.M.G., C.B., C.B.E., Knight Grand Cross, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,7 +312,11 @@
     <MainItem>
       <Key>Lloyd</Key>
       <Forenames>Christopher</Forenames>
-      <Text>, M.V.O., ' M.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -300,7 +324,10 @@
     <MainItem>
       <Key>Lomax</Key>
       <Forenames>John Garnett</Forenames>
-      <Text>, M.B.E., M.C., Commercial Secretary, Second Grade, H.M. (Embassy at Rio de Janeiro</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,7 +396,15 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Lyon</Forenames>
-      <Text>, K.C., Member of the Fishery Board for Scotland Mackinney, Frederick Walter, Commander, Order of the British Empire Mackintosh, Ashley Watson, M.D., Knight Commander, Royal Victorian Order ... ... ... MacMahon, Maj.-Gen. Hugh Franci Edward, C.B.E. M.C., Companion, Order of the Bath McMillan, Lady Lucie Fairbanks, Commander, Order of the British Empire ... Macpherson, Col. (temp. Brig.) Alexander Duncan, C.M.G., D.S.O., Companion, Order of the Bath McPherson, Reginald McPherson, H.M. Consul at Osaka McPoland, Maj. (Commissary) Edward, Officer, Order of the British Empire ... Macrae, Alexander James, Clerk to the Justice of the Peace for Sutherland</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>C.B.E. M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2135</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +415,18 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Donald Christopher Stuart</Forenames>
-      <Text>, Officer, Order of St. John of Jerusalem McShine,' Arthur Hutton, M.D., Officer, Order of the British Empire Madden, Adm. of the Fleet Sir Charles Edward, Bt., G.C.B., G.C.V.O., K.C.M.G., Order of Merit Madoc, Lt.-Col. Henry William, C.B.E., M.V.O., Officer, Order of St. John of Jerusalem Major, Miss Edith Helen, M.A. F.R.H.S., Commander, Order of the British Empire Malcolm, Lady Jeanne Marie, M.B.E., Commander, Order of St. John of Jerusalem Malietoa Talumafili, Honorary Officer, Order of the British Empire Malkin, Sir Herbert William, K.C.M.G., C.B., King's Counsel</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>Bt</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -44,7 +44,9 @@
     <MainItem>
       <Key>Satow</Key>
       <Forenames>Harold Eustace</Forenames>
-      <Text>, O.B.E., Knight Commander. Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -61,7 +63,11 @@
       <Key>Schuster</Key>
       <Title>Sir</Title>
       <Forenames>George Ernest</Forenames>
-      <Text>, K.C.M.G., C.B.E., M.C., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -85,7 +91,10 @@
     <MainItem>
       <Key>Selby</Key>
       <Forenames>Walford Harmood Mon-</Forenames>
-      <Text>tague, C.B., C.V.O., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +134,9 @@
     <MainItem>
       <Key>Shaw</Key>
       <Forenames>George Ernest</Forenames>
-      <Text>, O.B.E., LL.B., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -168,7 +179,9 @@
     <MainItem>
       <Key>Shelmerdine</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel Francis Claude, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -177,7 +190,10 @@
       <Key>Sherwood</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Arthur Percy</Forenames>
-      <Text>, K.C.M.G., M.V.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -219,7 +235,9 @@
       <Key>Shrive</Key>
       <Title>Captain</Title>
       <Forenames>Richard</Forenames>
-      <Text>, M.C., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,7 +261,9 @@
     <MainItem>
       <Key>Simon</Key>
       <Forenames>Leon</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +272,9 @@
       <Key>Simpson</Key>
       <Title>Lieut.-Col.</Title>
       <Forenames>George Charles Edward</Forenames>
-      <Text>, O.B.E., M.B., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +311,11 @@
       <Key>Sleeman</Key>
       <Title>Col.</Title>
       <Forenames>James Lewis</Forenames>
-      <Text>, C.M.G., C.B.E., M.V.O., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +341,9 @@
     <MainItem>
       <Key>Smyth</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Geoffrey Henry Julian Skeffington, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +360,11 @@
       <Key>Solly-Flood</Key>
       <Title>Colonel (Honorary Brigadier-General)</Title>
       <Forenames>Jtich-</Forenames>
-      <Text>ard Elles, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -350,7 +382,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Homfray Welby</Forenames>
-      <Text>, O.B.E., Unofficial Member of the Executive Council of St. Helena</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +401,9 @@
       <Key>Sprigge</Key>
       <Title>Sir</Title>
       <Forenames>Squire</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -384,7 +420,9 @@
       <Key>Stancomb-Wills</Key>
       <Title>Dame</Title>
       <Forenames>Janet Stancomb Graham</Forenames>
-      <Text>, D.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +438,9 @@
     <MainItem>
       <Key>Stark</Key>
       <Forenames>John</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +472,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Text>Wallace, John Stewart, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +499,9 @@
       <Key>Stockley</Key>
       <Title>Major</Title>
       <Forenames>Henry Hudson Fraser</Forenames>
-      <Text>, M.V.O., ..—, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
     <SubItem>
@@ -477,7 +521,9 @@
     <MainItem>
       <Key>Stubbs</Key>
       <Forenames>Lawrence Morley</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -501,7 +547,9 @@
     <MainItem>
       <Key>Summerhayes</Key>
       <Forenames>Christopher Henry</Forenames>
-      <Text>, M.B.E., H.M. Vice-Consul at Hamadan</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3760</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +586,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Benjamin</Forenames>
-      <Text>, J.P., M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -581,7 +631,9 @@
       <Key>Thomson-Glover</Key>
       <Title>Major</Title>
       <Forenames>John William</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +659,10 @@
     <MainItem>
       <Key>Thorpe</Key>
       <Title>Major</Title>
-      <Text>General Gervase, C.M.G., B-.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>

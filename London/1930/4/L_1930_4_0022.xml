@@ -4,7 +4,9 @@
     <MainItem>
       <Key>McKay</Key>
       <Forenames>John Dewar</Forenames>
-      <Text>, O.B.E., European Unofficial Member of the Legislative Council of the Gold Coast Colony ... -</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +77,9 @@
     <MainItem>
       <Key>Parker</Key>
       <Forenames>Ernest Edward</Forenames>
-      <Text>, M.B.E., Accountant of Court under Judicial Factors (Scotland) Act, 1889</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +154,9 @@
     <MainItem>
       <Key>Sansom</Key>
       <Forenames>George Bailey</Forenames>
-      <Text>, C.M.G., Commercial Counsellor to H.M. Embassy at Tokio</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +190,9 @@
       <Key>Squires</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Richard Anderson</Forenames>
-      <Text>, K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +235,9 @@
       <Key>Street</Key>
       <Title>Hon. Sir</Title>
       <Forenames>Philip Whist-</Forenames>
-      <Text>ler, K.C.M.G., LieutenantGovernor of New South Wales and it6 Dependencies</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +277,10 @@
     <MainItem>
       <Key>Taylor</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Ernest Augustus, C.M.G., C.V.O., Member of Parliament for Paddington, South Division</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,7 +345,10 @@
       <Key>Waterlow</Key>
       <Title>Sir</Title>
       <Forenames>William Alfred</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6944</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -341,7 +357,10 @@
       <Key>Watkins</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Oscar Ferris</Forenames>
-      <Text>, C.B.E., D.S.O., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +393,11 @@
     <MainItem>
       <Key>Willan</Key>
       <Title>Surg.</Title>
-      <Text>-Capt. R. J., M.V.O., O.B.E., V.D., M.B., F.R.C.S., M.S., Honorary Surgeon to H.M. King</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7889</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +413,9 @@
     <MainItem>
       <Key>Wollaston</Key>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, M.V.O., Garter Principal King of Arms</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>6012</PageNumber>
     </MainItem>
     <SubItem>
@@ -402,7 +427,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>William</Forenames>
-      <Text>, C.B., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -767,7 +794,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -877,8 +906,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martelli</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C</Text>
+      <Forenames>H. de C</Forenames>
       <PageNumber>7252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1002,8 +1030,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansfeld</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>

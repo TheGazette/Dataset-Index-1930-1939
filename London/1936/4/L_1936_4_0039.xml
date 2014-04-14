@@ -23,8 +23,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, M. B. :</Text>
+      <Key>St. John</Key>
+      <Forenames>M. B.</Forenames>
+      <Text>:</Text>
       <PageNumber>7643</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,8 +516,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, J. F</Text>
+      <Key>O'Leary</Key>
+      <Forenames>J. F</Forenames>
       <PageNumber>7123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,6 +567,13 @@
     </MainItem>
   </ItemGroup>
   <SubSectionTitle>Surgeon Lieutenant-Commanders</SubSectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Labilliere</Key>
+      <Forenames>C. D. D.</Forenames>
+      <PageNumber>6274</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Flannery</Key>
@@ -1348,8 +1356,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Forenames>J. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. O'B</Forenames>
       <PageNumber>6837</PageNumber>
     </MainItem>
   </ItemGroup>

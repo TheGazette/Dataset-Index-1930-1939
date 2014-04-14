@@ -566,9 +566,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Oppen</Forenames>
-      <Text>, L. W</Text>
+      <Key>Van Oppen</Key>
+      <Forenames>L. W.</Forenames>
       <PageNumber>2650</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -880,18 +879,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Aberdeen</Key>
-      <Text>: . Fleming, Col. Frank, .D.S.O., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>2255</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Marnoch, Brevet Col. Sir John, K.C.V.O. M.A., M.B., CM</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>2256</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ayrshire</Key>
-      <Text>: Crauford, Brig. Gen. George Standish Gage, C. B., C.M.G., CLE., D. S.Q</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3072</PageNumber>
     </MainItem>
     <SubItem>
@@ -903,19 +909,26 @@
     <MainItem>
       <Key>Cambridgeshire</Key>
       <Forenames>Wker</Forenames>
-      <Text>, bray Frederick Vivian James Arthur, M.B.E</Text>
+      <Text>
+        <Honour>M.B.E</Honour>
+      </Text>
       <PageNumber>2148</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Devonshire</Key>
-      <Text>: Bastard, Lt.-Col. Reginald, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>3073</PageNumber>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>3073</PageNumber>
       </Text>
       <PageNumber>3073</PageNumber>
@@ -924,7 +937,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Dumbartonshire</Key>
-      <Text>: Barge, Lt.-Col. Kenneth, D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </MainItem>
     <SubItem>
@@ -935,15 +951,22 @@
   <ItemGroup>
     <MainItem>
       <Key>Glamorgan</Key>
-      <Text>: Carey-Thomas, Brevet Lt.Col. Arthur Percy, T.D., J.P</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8494</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Cope, Maj. Sir William, Bt., T.D., J.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Dunraven and MountEarl, Col. Windham Henry, Earl of, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -951,15 +974,26 @@
     <MainItem>
       <Key>Glamorgan</Key>
       <Title>(cont.)</Title>
-      <Text>: Gilling, Lt.-Col. Henry Thomas, O.B.E., T.D</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3494</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>3494</PageNumber>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
         <PageNumber>3494</PageNumber>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
         <PageNumber>3494</PageNumber>
+        <Honour>Bt</Honour>
         <PageNumber>3494</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.L.</Honour>
       </Text>
       <PageNumber>3494</PageNumber>
     </SubItem>
@@ -969,30 +1003,43 @@
       <Key>Hertfordshire</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Jdhn Babington Gilliat</Forenames>
-      <Text>, D.S.O, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>2966</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Inverness</Key>
-      <Text>: ... . Abinger, Lt.-Col. Hugh Richard, Baron, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2966</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Grant, Lt.-Col. John Peter, M.C, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>2966</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Monmouthshire</Key>
-      <Text>: Forestier Walker, Sir Charles Leolin, Bt., K.B.E., M.P</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.B.E.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>2331</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>T.D.</Honour>
         <PageNumber>2331</PageNumber>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
         <PageNumber>2331</PageNumber>
       </Text>
       <PageNumber>2331</PageNumber>
@@ -1017,10 +1064,18 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
         <PageNumber>2148</PageNumber>
         <PageNumber>2148</PageNumber>
+        <Honour>C.B.E.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>2148</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>C.B.</Honour>
         <PageNumber>2148</PageNumber>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>2148</PageNumber>
     </SubItem>
@@ -1030,7 +1085,11 @@
     <MainItem>
       <Key>Norfolk</Key>
       <Title>Earl</Title>
-      <Text>of. Albemarle, . K.C.V.O., C.B., T.D</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3723</PageNumber>
     </MainItem>
   </ItemGroup>

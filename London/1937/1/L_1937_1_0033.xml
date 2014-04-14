@@ -21,7 +21,9 @@
       <Key>Howard</Key>
       <Title>Brig.</Title>
       <Forenames>Charles Alfred</Forenames>
-      <Text>, D.S.O., Sergeant at Arms, House of Commons</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -32,7 +34,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Henry Cecil Lloyd</Forenames>
-      <Text>, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1409</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +64,10 @@
     <MainItem>
       <Key>Howitt</Key>
       <Forenames>Harold Gibson</Forenames>
-      <Text>, D.S.O., M.C., F.C.A., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>1324</PageNumber>
     </MainItem>
@@ -78,7 +86,9 @@
       <Key>Hudd</Key>
       <Title>The Hon.</Title>
       <Forenames>Herbert Sydney</Forenames>
-      <Text>, M.C., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +96,9 @@
     <MainItem>
       <Key>Huggins</Key>
       <Forenames>Godfrey Martin</Forenames>
-      <Text>, F.R.C.S., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +123,10 @@
       <Key>Hunlokc</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, K.C.V.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>693</PageNumber>
     </MainItem>
     <SubItem>
@@ -142,8 +157,9 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The Ven</Forenames>
-      <Text>. Archdeacon Leslie Stannard, M.A., Chaplain, H.M. Household</Text>
+      <Title>The Ven.</Title>
+      <Forenames>Archdeacon Leslie Stannard</Forenames>
+      <Text>, M.A., Chaplain, H.M. Household</Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,14 +175,20 @@
     <MainItem>
       <Key>Hutchinson</Key>
       <Forenames>Arthur Sydney</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hutchison</Key>
-      <Text>of Montrose, Maj.Gen. Robert, Baron, K.C.M.G., C.B., D.S.O., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>688</PageNumber>
       <PageNumber>707</PageNumber>
     </MainItem>
@@ -224,7 +246,10 @@
       <Key>Irvine</Key>
       <Title>Capt.</Title>
       <Forenames>Charles Alexander Lindsay</Forenames>
-      <Text>, M.V.O., O.B.E., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -243,11 +268,19 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William John Andrew</Forenames>
-      <Text>, Companion, Order of St. Michael and St. George Jude, Miss Gertrude Josephine, Serving Sister, Order of St. John of Jerusalem ... Juler, Frank Anderson, M.B., F.R.C.S., Surgeon Oculist to the Household, H.M. Household Jullien, Mrs. Rebecca Elizabeth, Officer, Order of St. John Of Jerusalem Kamey, Ira, Member, Order of the British Empire ... Kauntze, William Henry, M.B.E., M.D., Companion, Order of St. Michael and 5 St. George</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>692</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Kennedy, Maj.-Gen. John, C.B., C.M.G., D.S.O., 3 Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>694</PageNumber>
     </SubItem>
     <SubItem>
@@ -255,7 +288,9 @@
       <PageNumber>694</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>4 Khwaja Muhammad Nur, Khan Bahadur, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>689</PageNumber>
     </SubItem>
     <SubItem>

@@ -116,7 +116,9 @@
     <MainItem>
       <Key>McLeod</Key>
       <Forenames>Albert Reginald</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +136,13 @@
       <Key>Macmullen</Key>
       <Title>Gen. Sir</Title>
       <Forenames>Cyril Norman</Forenames>
-      <Text>, K.C.B., C.M.G., OLE., D.S.O., Knight Grand Cross, Order of the Bath McNaughton, Maj.-Gen. Andrew George Latta, C. M.G., D.S.O.. Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +158,9 @@
     <MainItem>
       <Key>Magowan</Key>
       <Forenames>John Hall</Forenames>
-      <Text>, O.B.E., Commercial Secretary at Berlin</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +194,9 @@
     <MainItem>
       <Key>Malcolm</Key>
       <Forenames>Harcourt Glad-</Forenames>
-      <Text>stone, O.B.E., K.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -241,7 +253,10 @@
       <Key>Martin</Key>
       <Title>Maj.-Gen. James .</Title>
       <Forenames>Fitzgerald</Forenames>
-      <Text>, ' C.M.G., C. B.E., M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +308,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Matthews</Key>
-      <Text>-Maj. Philip Edwin, . M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +328,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Flt.</Title>
-      <Text>-Lt. Wilfred Reid,. . D.F.C., Officer, Order of the. British Empire</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -360,7 +379,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Meade</Key>
-      <Text>Fetherstonhaugh Adm. the Hon. Sir Herbert, K.C.V.O., C.B., D. S.O., A.D.C., Knight Grand Cross, Royal. Victorian Order Meadmore, Geoffrey Harry, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +417,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Melchett</Key>
-      <Text>. Violet . Florence Mabel, Lady, D.B.E.,' Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -401,7 +427,9 @@
     <MainItem>
       <Key>Milanes</Key>
       <Forenames>John Henske</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -443,7 +471,10 @@
       <Key>
         <KeyDitto>___ —.—</KeyDitto>
       </Key>
-      <Text>1 ___ ___ Air Vice-Marsha], William Gore Sutherland, C.B.E., D.S.O., M.O., . A.F.O, Companion, Order' . of the Bath . .... ;...'</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -460,7 +491,9 @@
     <MainItem>
       <Key>Morris</Key>
       <Forenames>John William</Forenames>
-      <Text>, M.C., King's Counsel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +503,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Thomas Joseph</Forenames>
-      <Text>, C.M.G., H.M. Consul-General for Bolivia</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>1015</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +515,10 @@
         <KeyDitto>___ ___ ___ .</KeyDitto>
       </Key>
       <Forenames>William Shepherd</Forenames>
-      <Text>, M.C., M:A., K.C., M.P., Recorder of Walsall</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1381</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +526,9 @@
     <MainItem>
       <Key>Morrow</Key>
       <Forenames>Frederick Keenan</Forenames>
-      <Text>, Commander, Order of St. John of Jerusalem . Mort, Eric Laidley, M.A., Officer, Order of the British Empire Moss,.George Sinclair, C.B.E.; H.M. Consul-General in China</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -498,7 +538,9 @@
       <Key>Moyes</Key>
       <Title>Inst. Cdr.</Title>
       <Forenames>Morton Henry</Forenames>
-      <Text>, B.Sc, Officer, Order of the British Empire Muhammad Abdel Rahman Beidas, Sheikh, Hon. Member, Order of the British Empire Muhammad Abdul Mumin, Khan Bahador, M.L.O., Companion, Order of the Indian Empire Muhammad Bazl-ul-Lah Sahib, Bahadur, Khan Bahadur, O.I.E., O.B.E., Knight Muhammad Sal* ' Akbar Hydari, ' Companion, Order of the Indian Empire Mullings, Clement Tudway, C.S.I., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +551,11 @@
       </Key>
       <Title>Surg. Cdr. (D)</Title>
       <Forenames>Walter Cecil</Forenames>
-      <Text>, L.D.S., Officer, Order of the . British Empire .Nash, Ernest Conrad, Member, Order, of the British Empire ... ' ,Neill, Capt. George Johnson, Member,' Order, of the British Empire Nelson, George William, Officer, Order of St. John of Jerusalem ... ... Nettlefold, . Thomas Sydney, Officer Order of the British Empire Newbould, William Harold, H.M.Consul at Senggora Nicholl. Lt.-Col. John Iltyd Dillwyn.J.P., D.L., Member, Order of the British Empire NicollrJones, Miss Sarah, Member, Order of the British Empire ' Nicholson, Col.' (temp. Brig.) Francis Lothian, D.S.O., M.C., Companion, Order</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>

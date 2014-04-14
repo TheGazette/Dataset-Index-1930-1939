@@ -235,7 +235,9 @@
       <Key>Fortes</Key>
       <Title>Sir</Title>
       <Forenames>J. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>237</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1160,8 +1162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howells</Key>
-      <Forenames>B. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>B. St. J</Forenames>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1911,7 +1912,9 @@
       <Key>Levinge</Key>
       <Title>Sir</Title>
       <Forenames>R</Forenames>
-      <Text>, V. H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1946</PageNumber>
     </MainItem>
   </ItemGroup>

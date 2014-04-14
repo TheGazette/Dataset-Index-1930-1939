@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Deacon</Key>
       <Forenames>Henry Wade</Forenames>
-      <Text>, C.B.E., J.I., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -44,7 +46,9 @@
     <MainItem>
       <Key>Devitt</Key>
       <Forenames>Philip Henry</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baro-</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
       <PageNumber>4152</PageNumber>
     </MainItem>
@@ -71,7 +75,9 @@
       <Key>Digby-Beste</Key>
       <Title>Captain</Title>
       <Forenames>Henry Aloysius Bruno</Forenames>
-      <Text>, O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +120,9 @@
     <MainItem>
       <Key>Douglas</Key>
       <Forenames>Margaret Emmeline</Forenames>
-      <Text>, Mrs., A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +147,9 @@
     <MainItem>
       <Key>Downer</Key>
       <Forenames>Reginald Lionel Ernest</Forenames>
-      <Text>, M.D., M.R.C.S., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,15 +174,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Duncan</Key>
-      <Forenames>Major-General</Forenames>
-      <Text>Sir John, K.C.B., O.M.G., O.V.O., D.S.O., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dunk</Key>
-      <Text>Sergeant-Major 1st Class James William, Member, Order of the British Empire</Text>
+      <Forenames>Sergeant-</Forenames>
+      <Text>Major 1st Class James William, Member, Order of the British Empire</Text>
       <PageNumber>3631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -231,7 +246,10 @@
       <Key>Edwards</Key>
       <Title>Col.</Title>
       <Forenames>Guy Janion</Forenames>
-      <Text>, D.S.O.. M.C., Member of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -240,7 +258,11 @@
       <Key>Elgar</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, O.M., K.C.V.O., Mus. Doc, LL.D., Baronet</Text>
+      <Text>
+        <Honour>O.M.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3623</PageNumber>
       <PageNumber>4152</PageNumber>
     </MainItem>
@@ -265,7 +287,10 @@
     <MainItem>
       <Key>Emerson</Key>
       <Forenames>Herbert William</Forenames>
-      <Text>, C. I.E., C.B.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +299,9 @@
       <Key>Engineer</Key>
       <Title>Major</Title>
       <Forenames>Sorab Kaikhosru</Forenames>
-      <Text>, O.B.E., F.R.C.P.E., Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +309,10 @@
     <MainItem>
       <Key>Epps</Key>
       <Forenames>George Selby Wash-</Forenames>
-      <Text>ington, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -291,7 +321,11 @@
       <Key>Erskine</Key>
       <Title>Colonel</Title>
       <Forenames>Arthur Ed-</Forenames>
-      <Text>ward C.V.O., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +372,9 @@
       </Key>
       <Title>Colonel (temp. Brigadier)</Title>
       <Forenames>William Harry</Forenames>
-      <Text>, C.I.E., D.S.O., Companion Order of the Star of India</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +385,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>William Henry</Forenames>
-      <Text>, M.C., Unofficial Member of the Legislative Council of Nyasaland</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,8 +484,13 @@
   <ItemGroup>
     <MainItem>
       <Key>Finlayson</Key>
-      <Forenames>Major-General Robert Gordon</Forenames>
-      <Text>, C.M.G., D. S.O., Companion, Order of the Bath</Text>
+      <Title>Major-</Title>
+      <Forenames>General Robert Gordon</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -471,7 +514,9 @@
     <MainItem>
       <Key>Fitzgerald</Key>
       <Forenames>Thomas</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Kenya</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3068</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +535,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Harold</Forenames>
-      <Text>, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +614,9 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>William Stewart</Forenames>
-      <Text>O.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -608,7 +657,9 @@
       <Key>Gammon</Key>
       <Title>Captain</Title>
       <Forenames>Alexander Thomas</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -649,7 +700,11 @@
     <MainItem>
       <Key>Gaskell</Key>
       <Title>Surgeon</Title>
-      <Text>Vice Admiral Sir Arthur, K.C.B., C.B.E., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -667,7 +722,10 @@
       <Key>Gatt</Key>
       <Title>Captain</Title>
       <Forenames>Alfred Joseph</Forenames>
-      <Text>, O.B.E., M.C., Commander, Order of St. John or Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>

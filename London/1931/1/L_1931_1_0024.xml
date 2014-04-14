@@ -39,7 +39,9 @@
     <MainItem>
       <Key>Dobbs</Key>
       <Forenames>Cecil Moore</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +76,9 @@
       <Key>Doyle</Key>
       <Title>Maj.</Title>
       <Forenames>Erie Edward</Forenames>
-      <Text>, D. S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -107,7 +111,11 @@
       <Key>Duncan</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Henry Clare</Forenames>
-      <Text>, D.S.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -115,7 +123,10 @@
     <MainItem>
       <Key>Dyke</Key>
       <Forenames>Arthur James</Forenames>
-      <Text>, C.B., C.B.E., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,7 +155,10 @@
       <PageNumber>8</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>William Stanley, C.M.G., O.B.E., H.M. ConsulGeneral at Rabat</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>374</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -152,7 +166,9 @@
     <MainItem>
       <Key>Edwards</Key>
       <Forenames>Charles</Forenames>
-      <Text>, J.P., M.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,7 +203,9 @@
       <Key>Elliott</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>James Sands</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,7 +223,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Henry Arthur Augustus</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +259,9 @@
     <MainItem>
       <Key>Entwistle</Key>
       <Forenames>Cyril Fullard</Forenames>
-      <Text>, M.C., King's Counsel</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1201</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +278,9 @@
       <Key>Everett</Key>
       <Title>the Rev.</Title>
       <Forenames>Bernard Charles Spencer</Forenames>
-      <Text>, Member, 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +290,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Lionel Decimus Long-</Forenames>
-      <Text>croft, O.B.E., Serving Brother Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +301,9 @@
       <Key>Fanshawe</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Lionel Arthur</Forenames>
-      <Text>, D.S.O., O. B. E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -290,7 +318,10 @@
     <MainItem>
       <Key>Fawcus</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Harold Ben, C. B., C.M.G., D.S.O., D. C.L., M.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -307,14 +338,17 @@
       <Key>Fellowes</Key>
       <Title>the Rev.</Title>
       <Forenames>Edmund Horace</Forenames>
-      <Text>, Mus.Doc, Membe^ 4th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Field</Key>
-      <Text>Lt.-Com. George William, R.N. (retired), Officer, Order of the British Empire</Text>
+      <Title>Lt.</Title>
+      <Text>-Com. George William, R.N. (retired), Officer, Order of the British Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,7 +383,11 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Walter Har-</Forenames>
-      <Text>rington, O.B.E., T.D., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +411,10 @@
     <MainItem>
       <Key>Forber</Key>
       <Forenames>Edward Rodolph</Forenames>
-      <Text>, C.B., C.B.E., H.M. Commissioner of Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +431,11 @@
       <Key>Fortescue</Key>
       <Title>Capt. the Hon. Sir</Title>
       <Forenames>Seymour John</Forenames>
-      <Text>, K.C.V.O., C.M.G., R.N., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +451,10 @@
     <MainItem>
       <Key>Foster</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. John George, O.B.E., M.B., R.A.M.C.. Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -438,7 +486,9 @@
     <MainItem>
       <Key>Freitas</Key>
       <Forenames>Hubert St</Forenames>
-      <Text>. Clair, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -470,7 +520,9 @@
     <MainItem>
       <Key>Garrett</Key>
       <Forenames>Joseph Hugh</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +530,9 @@
     <MainItem>
       <Key>Gaselee</Key>
       <Forenames>Stephen</Forenames>
-      <Text>, C.B.E., F. S. A., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -486,14 +540,20 @@
     <MainItem>
       <Key>George</Key>
       <Title>H.R.H. Prince</Title>
-      <Text>, K.G., G. C.V.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gibbon</Key>
-      <Text>loan Gwilym, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,17 +576,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Gloucester</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., P.C., G.C.V.O., Bailiff Grand Cross, Order of St. John of Jerusalem</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gollcher</Key>
-      <Title>Elisa. Mrs.</Title>
-      <Text>, Commander, Order of St. John of Jerusalem</Text>
+      <Title>Elisa. Mrs., Com-</Title>
+      <Text>mander, Order of St. John of Jerusalem</Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +615,9 @@
     <MainItem>
       <Key>Goodchild</Key>
       <Forenames>William Alfred Cecil</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -561,7 +626,9 @@
       <Key>Goodley</Key>
       <Title>Capt.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., Officer, Order of John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +636,9 @@
     <MainItem>
       <Key>Goodwin</Key>
       <Forenames>John Thomas</Forenames>
-      <Text>, M.B.E., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +669,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Graham</Key>
-      <Text>Little, Ernest Gordon, M.D., F.R.C.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -624,7 +696,9 @@
     <MainItem>
       <Key>Greaves</Key>
       <Forenames>John Ernest</Forenames>
-      <Text>, C.B.E., Commander, Order or St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +707,9 @@
       <Key>Gregory</Key>
       <Title>Sir</Title>
       <Forenames>Richard Arman</Forenames>
-      <Text>, D.Sc, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>744</PageNumber>
     </MainItem>
@@ -642,7 +718,9 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>Francis Charles</Forenames>
-      <Text>, C.S.I., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -674,7 +752,10 @@
     <MainItem>
       <Key>Grylls</Key>
       <Forenames>Charles John Tench Bedford</Forenames>
-      <Text>, C.B., C.B.E.. H. M. Commissioner or Customs and Excise</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,23 +3,29 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Sydney Alexander, Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Sydney Alexander</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>of the Isles, Miss Celia, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>MacDonell</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Roderick Andrew, M.C., O.S.B., Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Roderick Andrew</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3096</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +62,9 @@
       <Key>Mace</Key>
       <Title>Comdr. (acting Capt.)</Title>
       <Forenames>Frederick William</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +142,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4009</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +164,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Moir</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3081</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +247,9 @@
       <Key>Maclean</Key>
       <Title>Maj.</Title>
       <Forenames>Lachlan Frederick Copeland</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +266,10 @@
       <Key>McLeod</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Donald Kenneth</Forenames>
-      <Text>, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +286,11 @@
       <Key>MacMahon</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Hugh Francis Edward</Forenames>
-      <Text>, C.B., C. B.E., M.C., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +307,9 @@
       <Key>McMullen</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Donald Jay</Forenames>
-      <Text>, D. S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +318,10 @@
       <Key>MacNalty</Key>
       <Title>Sir</Title>
       <Forenames>Arthur Salus-</Forenames>
-      <Text>bury, K.C.B., M.D., F.R.C.P., Member of General Council of Medical Education and Registration in the United Kingdom</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3734</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,7 +362,9 @@
       <Key>Macready</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3103</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +373,9 @@
       <Key>McRobert</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Leslie Har-</Forenames>
-      <Text>rison, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -353,7 +383,9 @@
     <MainItem>
       <Key>Madhorao</Key>
       <Forenames>Ganesh Deshpande</Forenames>
-      <Text>, Rao Bahadur, C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -361,7 +393,9 @@
     <MainItem>
       <Key>Magill</Key>
       <Forenames>Walter Alexander</Forenames>
-      <Text>, I.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +404,11 @@
       <Key>Maguire</Key>
       <Title>Col.</Title>
       <Forenames>Frederick Arthur</Forenames>
-      <Text>, C.M.G., D.S.O., V.D., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,7 +424,9 @@
     <MainItem>
       <Key>Major</Key>
       <Forenames>James Perrins</Forenames>
-      <Text>, M.D., B. Sc, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3095</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +434,9 @@
     <MainItem>
       <Key>Malcolm</Key>
       <Forenames>Ratanji Kothawala</Forenames>
-      <Text>, Khan Bahadur, M.B.E., Officer, Order of the Briitsh Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3097</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -476,7 +518,12 @@
     <MainItem>
       <Key>Marsh</Key>
       <Forenames>Edward Howard</Forenames>
-      <Text>, C.B., C.M.G., C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -494,7 +541,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Geoffrey</Forenames>
-      <Text>, O.B.E., M.D., D.R.C.P., Member of Civil Consulting Staff of Osborne Convalescent Home for Officers</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3864</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -531,7 +581,10 @@
       <Key>Martelli</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Horace</Forenames>
-      <Text>de Courcy, C.B., D.S.O., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,7 +639,9 @@
     <MainItem>
       <Key>Matheson</Key>
       <Forenames>Commodore Charles George</Forenames>
-      <Text>, D.S.O., Knight</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -602,7 +657,9 @@
     <MainItem>
       <Key>Maude</Key>
       <Forenames>Evelyn John</Forenames>
-      <Text>, C.B., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3089</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +677,9 @@
     <MainItem>
       <Key>Maudslay</Key>
       <Forenames>Cecil Winton</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +705,9 @@
       <Key>Maundrell</Key>
       <Title>Capt.</Title>
       <Forenames>Arthur Good-</Forenames>
-      <Text>all, CLE., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -719,7 +780,9 @@
       <Key>Maynard</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Francis Herbert</Forenames>
-      <Text>, M.C, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>

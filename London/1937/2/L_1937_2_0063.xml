@@ -87,6 +87,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Courcy-Wheeler</Key>
+      <Forenames>A. E. B.</Forenames>
+      <PageNumber>3189</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Doran</Key>
       <Forenames>B. J.</Forenames>
       <PageNumber>3189</PageNumber>
@@ -481,7 +488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oldham</Key>
-      <Text>. R. W</Text>
+      <Forenames>R. W</Forenames>
       <PageNumber>3665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -721,8 +728,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kell, T. B</Text>
+      <Key>O'Kell</Key>
+      <Forenames>T. B</Forenames>
       <PageNumber>2466</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1448,7 +1455,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooker</Key>
-      <Text>. J. J. S</Text>
+      <Forenames>J. J. S.</Forenames>
       <PageNumber>3511</PageNumber>
     </MainItem>
   </ItemGroup>

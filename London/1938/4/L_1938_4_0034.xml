@@ -90,7 +90,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davie</Key>
-      <Text>. E. D</Text>
+      <Forenames>E. D .</Forenames>
       <PageNumber>8311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,6 +184,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Havilland</Key>
+      <Forenames>P. H.</Forenames>
+      <PageNumber>8309</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Zoete</Forenames>
       <Text>, M. H</Text>
@@ -221,7 +228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Denison</Key>
-      <Text>. N. C. ... ... '</Text>
+      <Forenames>N. C.</Forenames>
+      <Text>... ... '</Text>
       <PageNumber>6692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,8 +303,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dickinson</Key>
-      <Forenames>A. B.</Forenames>
-      <Text>de C</Text>
+      <Forenames>A. B. de C</Forenames>
       <PageNumber>7351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +333,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diggle</Key>
-      <Text>. J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>6819</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -444,7 +451,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaldson</Key>
-      <Text>. T.</Text>
+      <Text>T.</Text>
       <PageNumber>8074</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +466,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Douglas</Key>
-      <Text>. A. S. K</Text>
+      <Forenames>A. S. K.</Forenames>
       <PageNumber>6891</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -593,17 +600,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Boulay</Forenames>
-      <Text>, T. H</Text>
+      <Key>Du Boulay</Key>
+      <Forenames>T. H.</Forenames>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Vivier</Forenames>
-      <Text>, R. A. C. .. Duckworth, G. S</Text>
+      <Key>Du Vivier</Key>
+      <Forenames>R. A. C.</Forenames>
+      <Text>.. Duckworth, G. S</Text>
       <PageNumber>7354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1480,8 +1486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forth</Key>
-      <Forenames>N. P. N.</Forenames>
-      <Text>de R</Text>
+      <Forenames>N. P. N. de R</Forenames>
       <PageNumber>7437</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,7 +1714,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gange</Key>
-      <Text>. W. S</Text>
+      <Forenames>W. S .</Forenames>
       <PageNumber>7789</PageNumber>
     </MainItem>
   </ItemGroup>

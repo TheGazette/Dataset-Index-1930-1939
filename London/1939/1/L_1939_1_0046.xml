@@ -314,8 +314,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>D. St</Forenames>
-      <Text>. L</Text>
+      <Forenames>D. St. L</Forenames>
       <PageNumber>946</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +372,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morcombe</Key>
-      <Text>. V. J</Text>
+      <Forenames>V. J.</Forenames>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +574,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mostyn</Key>
-      <Text>.H. P. R. LI</Text>
+      <Forenames>H. P. R.</Forenames>
+      <Text>LI</Text>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -725,7 +725,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nailer</Key>
-      <Text>. K. J. F</Text>
+      <Forenames>K. J. F</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -866,8 +866,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Forenames>C. A.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. A. de L</Forenames>
       <PageNumber>2171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1016,8 +1015,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Farrell, C. P. J. D</Text>
+      <Key>O'Farrell</Key>
+      <Forenames>C. P. J. D.</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,8 +1029,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Flynn, D. J. E</Text>
+      <Key>O'Flynn</Key>
+      <Forenames>D. J. E.</Forenames>
       <PageNumber>216</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1044,8 +1043,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hagan, B. D</Text>
+      <Key>O'Hagan</Key>
+      <Forenames>B. D.</Forenames>
       <PageNumber>609</PageNumber>
     </MainItem>
     <SubItem>
@@ -1064,8 +1063,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B. j. ... ..:</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B.</Forenames>
+      <Text>j. ... ..:</Text>
       <PageNumber>1465</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1086,8 +1086,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, K. G</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>K. G.</Forenames>
       <PageNumber>1210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1133,8 +1133,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Rorke, C. H</Text>
+      <Key>O'Rorke</Key>
+      <Forenames>C. H</Forenames>
       <PageNumber>1311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1196,7 +1196,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxley</Key>
-      <Text>. A. E</Text>
+      <Forenames>A. E</Forenames>
       <PageNumber>1210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1442,7 +1442,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patterson</Key>
-      <Text>. D. K</Text>
+      <Forenames>D. K.</Forenames>
       <PageNumber>127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1609,7 +1609,9 @@
       <Key>Peyton</Key>
       <Title>Sir</Title>
       <Forenames>A. T.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1697,15 +1699,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Pigott</Key>
-      <Text>. A. J. K</Text>
+      <Forenames>A. J. K.</Forenames>
       <PageNumber>460</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pilkington</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de G</Text>
+      <Forenames>J. R. de G</Forenames>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1727,7 +1728,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pink</Key>
-      <Text>. A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>1766</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1813,7 +1814,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Playford</Key>
-      <Text>. C. R. B</Text>
+      <Forenames>C. R. B.</Forenames>
       <PageNumber>757</PageNumber>
     </MainItem>
   </ItemGroup>

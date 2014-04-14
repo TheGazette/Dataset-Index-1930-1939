@@ -18,8 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Holbrook</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>J. St. C</Forenames>
       <PageNumber>7817</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,8 +562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kirke</Key>
-      <Forenames>W. M. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>W. M. St. G</Forenames>
       <PageNumber>6308</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,8 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>6700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1135,8 +1132,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRoberts</Key>
-      <Forenames>N.</Forenames>
-      <Text>de P</Text>
+      <Forenames>N. de P</Forenames>
       <PageNumber>6464</PageNumber>
       <PageNumber>7817</PageNumber>
     </MainItem>
@@ -1718,8 +1714,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. D</Forenames>
       <PageNumber>7157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1756,8 +1752,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, E</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>E</Forenames>
       <PageNumber>7411</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1845,7 +1841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Panet</Key>
-      <Text>de L. H. M</Text>
+      <Title>de L.</Title>
+      <Forenames>H. M.</Forenames>
       <PageNumber>7073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1904,7 +1901,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Patten</Key>
-      <Text>J. R</Text>
+      <Forenames>J. R .</Forenames>
       <PageNumber>7073</PageNumber>
     </MainItem>
   </ItemGroup>

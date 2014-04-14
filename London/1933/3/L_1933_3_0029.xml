@@ -24,7 +24,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Burke</Key>
-      <Text>. Sir R. J. C</Text>
+      <Title>Sir</Title>
+      <Forenames>R. J. C.</Forenames>
       <PageNumber>6017</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +94,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. H. De W.</Forenames>
+      <Forenames>J. H. De W</Forenames>
       <PageNumber>5488</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,8 +130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cleburne</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>J. St. H</Forenames>
       <PageNumber>6288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -248,17 +248,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Butts</Forenames>
-      <Text>, F. C</Text>
+      <Key>De Butts</Key>
+      <Forenames>F. C.</Forenames>
       <PageNumber>5200</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Vine</Forenames>
-      <Text>, J. C</Text>
+      <Key>De Vine</Key>
+      <Forenames>J. C .</Forenames>
       <PageNumber>4890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -603,7 +601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gradidge</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H.</Forenames>
       <PageNumber>6016</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1402,8 +1400,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. G</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. G.</Forenames>
       <PageNumber>5738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1416,8 +1414,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Morchoe, N. C</Text>
+      <Key>O'Morchoe</Key>
+      <Forenames>N. C.</Forenames>
       <PageNumber>5737</PageNumber>
     </MainItem>
   </ItemGroup>

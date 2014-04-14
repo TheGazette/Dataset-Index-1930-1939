@@ -766,8 +766,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rabbidge</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. B</Text>
+      <Forenames>G. St. B</Forenames>
       <PageNumber>8310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1265,7 +1264,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Text>. JG</Text>
+      <Text>JG</Text>
       <PageNumber>7998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1653,7 +1652,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>C. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8310</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1709,8 +1710,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Roy-Applin</Key>
-      <Title>St.</Title>
-      <Forenames>V. J</Forenames>
+      <Title>St. V.</Title>
+      <Forenames>J</Forenames>
       <Text>T</Text>
       <PageNumber>7919</PageNumber>
     </MainItem>
@@ -1814,8 +1815,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Clair-Bowman, A. A</Text>
+      <Key>St. Clair-Bowman</Key>
+      <Forenames>A. A.</Forenames>
       <PageNumber>7919</PageNumber>
     </MainItem>
   </ItemGroup>

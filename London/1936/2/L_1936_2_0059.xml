@@ -393,8 +393,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Woodhouse</Key>
-      <Forenames>H.</Forenames>
-      <Text>de C. A</Text>
+      <Forenames>H. de C</Forenames>
+      <Text>. A</Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -568,14 +568,19 @@
       <Key>Essex</Key>
       <Title>Colonel</Title>
       <Forenames>Francis Henry Douglas Charlton Whit-</Forenames>
-      <Text>more, C.B., O.M.G., D.S.O., T.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2553</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ross</Key>
-      <Text>and Cromarty, Sir Hector David Mackenzie, Bart., M.C</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>2800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +590,11 @@
       <Key>Cornwall</Key>
       <Title>Colonel</Title>
       <Forenames>Edward Treftry</Forenames>
-      <Text>, C.M.G., O.B.E., T.D</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>2696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -594,7 +603,11 @@
       <Key>Fife</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John Gil-</Forenames>
-      <Text>mour, Bart., G.O.V.O., D.S.O., J.P., M.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>2157</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -610,7 +623,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Caernarvon</Key>
-      <Text>: Owen, Major Goronwy, D.S.O., M.P</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3447</PageNumber>
     </MainItem>
     <SubItem>
@@ -621,11 +636,17 @@
   <ItemGroup>
     <MainItem>
       <Key>Denby</Key>
-      <Text>: Baillie, Bt. Maj. the Hon. George EVan Michael, M.C., T.D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>3591</PageNumber>
       </Text>
       <PageNumber>3591</PageNumber>
@@ -642,18 +663,23 @@
       <PageNumber>2558</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Stalbridge, Hugh Grosvenor, The Lord, M.C.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4020</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Dumfries</Key>
-      <Text>: Buccleuch and Queensberry, Colonel Walter John Duke of, G.C.V.O</Text>
+      <Text>
+        <Honour>G.C.V.O</Honour>
+      </Text>
       <PageNumber>3840</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>3840</PageNumber>
       </Text>
       <PageNumber>3840</PageNumber>
@@ -663,7 +689,10 @@
       <PageNumber>3840</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Johnson Ferguson, Brevet-Colonel Sir (Edward Alexander James, Bart., T.D</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3840</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -679,7 +708,10 @@
     <MainItem>
       <Key>Inverness</Key>
       <Title>Brig.</Title>
-      <Text>-General Duncan Alwyn Macfarlane, C.B., D.S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -688,19 +720,27 @@
       <Key>Kent</Key>
       <Title>Sir</Title>
       <Forenames>Mark Edlmann Collet</Forenames>
-      <Text>, Bart</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lincoln</Key>
-      <Text>: Amcotts, Major Weston Cracroft, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>2898</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
         <PageNumber>2161</PageNumber>
+        <Honour>G.C.B.</Honour>
+        <Honour>K.C.M.G.</Honour>
       </Text>
       <PageNumber>3666</PageNumber>
     </SubItem>
@@ -708,11 +748,17 @@
   <ItemGroup>
     <MainItem>
       <Key>London</Key>
-      <Text>: Ashwanden, Colonel Sydney William Louis, D.S.O., T.D., A.D.O</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Bruce-Porter, Col. Sir Harry Edwin Bruce, K.B.E., C.M.G</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G</Honour>
+      </Text>
       <PageNumber>3151</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -721,7 +767,10 @@
       <Key>Cunynghame</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Percy Francis</Forenames>
-      <Text>, Bart., O.B.E., J.P</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -730,7 +779,10 @@
       <Key>Lea</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Thomas</Forenames>
-      <Text>, C.B., T.D</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -738,7 +790,9 @@
     <MainItem>
       <Key>Loweth</Key>
       <Forenames>Walter Ernest</Forenames>
-      <Text>, O.B.E., J.P</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -746,8 +800,8 @@
     <MainItem>
       <Key>Manning</Key>
       <Title>Lt.</Title>
-      <Forenames>Brian O</Forenames>
-      <Text>'Donoghue, F.C.A., J.P</Text>
+      <Forenames>Brian O'Donoghue</Forenames>
+      <Text>, F.C.A., J.P</Text>
       <PageNumber>3151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,11 +827,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Northumberland</Key>
-      <Text>: Robson, Col. the Hon. Harold Burge, T.D</Text>
+      <Text>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3145</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Swan, Capt. Ernest William, O.B.E., V.D., A.D.C</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3924</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -811,7 +869,9 @@
       <Key>Suffolk</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Tertius Pretty</Forenames>
-      <Text>, O.B.E., resignation</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2490</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -368,8 +368,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Hooley</Key>
-      <Title>St.</Title>
-      <Forenames>J. C.</Forenames>
+      <Title>St. J.</Title>
+      <Forenames>C.</Forenames>
       <PageNumber>3069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,7 +696,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1363,8 +1365,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Livesay</Key>
-      <Forenames>R. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>R. O'H</Forenames>
       <PageNumber>3763</PageNumber>
     </MainItem>
   </ItemGroup>

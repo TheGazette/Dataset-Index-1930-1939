@@ -5,7 +5,10 @@
       <Key>Fletcher</Key>
       <Title>Sir</Title>
       <Forenames>Arthur George Murchison</Forenames>
-      <Text>, K.C.M.G., C.B.E., Governor and Commander. in — Chief, Colony of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3919</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,9 @@
     <MainItem>
       <Key>Foley</Key>
       <Forenames>Ernest Julian</Forenames>
-      <Text>, C.B., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -38,7 +43,10 @@
     <MainItem>
       <Key>Fortune</Key>
       <Title>Major</Title>
-      <Text>General Victor Morven, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +70,10 @@
     <MainItem>
       <Key>Fox-Pitt</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel William Augustus Fitzgerald Lane, M.C., Member, 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +105,10 @@
     <MainItem>
       <Key>French</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Wilfred Frankland, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +168,9 @@
     <MainItem>
       <Key>Gallienne</Key>
       <Forenames>Wilfred Hansford</Forenames>
-      <Text>, C.B.E., H.M. Consul at Tallinn</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3439</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +229,10 @@
     <MainItem>
       <Key>Gater</Key>
       <Forenames>George Henry</Forenames>
-      <Text>, C.M.G., D.S.O., J.P., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +299,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Raymond Evelyn</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +309,10 @@
     <MainItem>
       <Key>Gick</Key>
       <Forenames>William John</Forenames>
-      <Text>, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +345,11 @@
       <Key>Gilmour</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, Bart., G.C.V.O., D.S.O., Brigadier, King's Bodyguard for Scotland</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,7 +385,11 @@
       <Key>Goddard</Key>
       <Title>Major</Title>
       <Forenames>Eric Norman</Forenames>
-      <Text>, O.B.E., M.C., Member 4th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4001</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -373,7 +405,9 @@
     <MainItem>
       <Key>Gokul</Key>
       <Forenames>Chand Narang</Forenames>
-      <Text>, The Hon., Ph.D., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>2623</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +440,9 @@
       <Key>Gordon</Key>
       <Title>Major</Title>
       <Forenames>Douglas Hamilton</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4002</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -433,7 +469,10 @@
       <Key>Graham</Key>
       <Title>Colonel (temp. Brigadier) Lord</Title>
       <Forenames>Douglas Malise</Forenames>
-      <Text>, D.S.O., M.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -451,7 +490,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Title>Lt.</Title>
-      <Text>-Colonel (Hon. Colonel) Leonard Bishopp, T.D., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4000</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +538,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Frederick James</Forenames>
-      <Text>, M.C., M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,7 +567,9 @@
     <MainItem>
       <Key>Gresley</Key>
       <Forenames>Herbert Nigel</Forenames>
-      <Text>, C.B.E., D.Sc., M.Inst.C.E.,M.I.Mech.E., M.I.E.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3996</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +578,9 @@
       <Key>Grier</Key>
       <Title>Sir</Title>
       <Forenames>Selwyn Macgregor</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +607,9 @@
     <MainItem>
       <Key>Griffith</Key>
       <Forenames>Edward Meredith</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -567,7 +617,9 @@
     <MainItem>
       <Key>Grimble</Key>
       <Forenames>Arthur Francis</Forenames>
-      <Text>, C.M.G., Governor and Commander in Chief, Colony of Seychelles</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>2280</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -584,7 +636,9 @@
       <Key>Groom</Key>
       <Title>Flight Lt.</Title>
       <Forenames>Albert Edward</Forenames>
-      <Text>, D.S.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>4004</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +688,10 @@
     <MainItem>
       <Key>Haining</Key>
       <Title>Major</Title>
-      <Text>General Robert Hadden, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3998</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -659,7 +716,11 @@
       <Key>Hall</Key>
       <Title>Surgeon</Title>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Robert William Basil, C.B., O.B.E., M.R.C.S., L.R.C.P., K.H.P., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +739,9 @@
     <MainItem>
       <Key>Hamendar</Key>
       <Forenames>Sen</Forenames>
-      <Text>, Raja, Raja of Keonthal State, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3999</PageNumber>
     </MainItem>
   </ItemGroup>

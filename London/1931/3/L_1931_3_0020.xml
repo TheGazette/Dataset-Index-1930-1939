@@ -74,7 +74,9 @@
     <MainItem>
       <Key>Allchin</Key>
       <Forenames>Geoffrey Cuthbert</Forenames>
-      <Text>, M.C., H.M. Vice-Consul at Marrakesh</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +92,13 @@
     <MainItem>
       <Key>Athlone</Key>
       <Title>Maj.-Gen.</Title>
-      <Text>the Rt. Hon. Alexander Augustus Frederick William Alfred George, Earl of, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O., Governor and Constable of Windsor Castle</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -106,7 +114,9 @@
     <MainItem>
       <Key>Baillie</Key>
       <Forenames>James Black</Forenames>
-      <Text>, O.B.E. M.A., LL.D., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -156,7 +166,9 @@
       <Key>Beasley</Key>
       <Title>Mr.</Title>
       <Forenames>Justice</Forenames>
-      <Text>(Howard Owen Compton), O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -164,7 +176,9 @@
     <MainItem>
       <Key>Belcher</Key>
       <Forenames>Charles Frederic</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,15 +210,22 @@
     <MainItem>
       <Key>Bernays</Key>
       <Forenames>Lewis Edward</Forenames>
-      <Text>, O.B.E., H.M. Consul at Liege</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5689</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Best</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral the Hon. Matthew Robert, C.B., D. S.O., M.V.O., Member of the Nominated Council of Malta</Text>
+      <Title>Rear-Admiral the Hon.</Title>
+      <Forenames>Matthew Robert</Forenames>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>5469</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +234,9 @@
       <Key>Betterton</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Henry Bucknall</Forenames>
-      <Text>, Bt., C. B.E., Minister of Labour</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5617</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +253,10 @@
       <Key>Bond</Key>
       <Title>Surg.</Title>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. R. St. G. S., C.B., F.R.C.P., F.R.C.S., M.B., CM., D. P.H., Honorary Physician to H.M. the King</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4700</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -246,7 +272,9 @@
     <MainItem>
       <Key>Bowring</Key>
       <Forenames>Walter Andrew</Forenames>
-      <Text>, C.B.E., Administrator of the Presidency of Dominica</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +283,10 @@
       <Key>Broderick</Key>
       <Title>Sir</Title>
       <Forenames>John Joyce</Forenames>
-      <Text>, K.B.E., C.M.G., H.M. Consul-General at Havana</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5688</PageNumber>
     </MainItem>
     <SubItem>
@@ -318,7 +349,9 @@
       </Key>
       <Title>Gen. Sir</Title>
       <Forenames>David Graham Muschet</Forenames>
-      <Text>, K.C.B., Governor and Commander in Chief of Malta</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>6235</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +395,9 @@
       </Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Joseph Austin</Forenames>
-      <Text>, K.G., First Lord of the Admiralty</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -404,7 +439,9 @@
       <Key>Craig</Key>
       <Title>Maj.</Title>
       <Forenames>John Cormack</Forenames>
-      <Text>, D.S.O., (Nominated Official Member of the Legislative Council of British Guiiana</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5620</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -421,7 +458,9 @@
       <Key>Crosby</Key>
       <Title>Sir</Title>
       <Forenames>Josiah</Forenames>
-      <Text>, K.B.E., C.I.E., H,M. Envoy Extraordinary and Minister Plenipotentiary to the Republics of Panama and Costa Rica</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>5022</PageNumber>
       <PageNumber>5551</PageNumber>
     </MainItem>
@@ -431,7 +470,9 @@
       <Key>Cunliffe-Lister</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Philip</Forenames>
-      <Text>, G.B.E., President of the Board of Trade</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>5616</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -455,7 +496,9 @@
     <MainItem>
       <Key>De</Key>
       <Forenames>Mel</Forenames>
-      <Text>, Henry Lawson, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4339</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +506,9 @@
     <MainItem>
       <Key>Deacon</Key>
       <Forenames>Henry Wade</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4338</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -517,7 +562,9 @@
       <Key>Fernando</Key>
       <Title>Sir</Title>
       <Forenames>Hilarion Mar-</Forenames>
-      <Text>ens, Kt., M.D., BS Member of the Executive Council of Ceylon</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +572,9 @@
     <MainItem>
       <Key>Fitzmaurice</Key>
       <Forenames>Henry</Forenames>
-      <Text>, M.B.E., H.M. Consul-General at Batavia</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5689</PageNumber>
     </MainItem>
   </ItemGroup>

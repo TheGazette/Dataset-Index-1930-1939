@@ -410,7 +410,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hext</Key>
-      <Text>. D. Y</Text>
+      <Forenames>D. Y.</Forenames>
       <PageNumber>3189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -985,8 +985,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. L</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. L.</Forenames>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1014,8 +1014,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Hara, J. A. C</Text>
+      <Key>O'Hara</Key>
+      <Forenames>J. A. C.</Forenames>
       <PageNumber>2127</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1028,8 +1028,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neal, N. P. G</Text>
+      <Key>O'Neal</Key>
+      <Forenames>N. P. G.</Forenames>
       <PageNumber>3755</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1437,8 +1437,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thomas</Key>
-      <Forenames>E. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>E. O'D</Forenames>
       <PageNumber>2470</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,8 +1537,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Waller</Key>
-      <Forenames>E.</Forenames>
-      <Text>de W</Text>
+      <Forenames>E. de W</Forenames>
       <PageNumber>2809</PageNumber>
     </MainItem>
   </ItemGroup>

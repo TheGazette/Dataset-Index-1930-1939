@@ -54,7 +54,10 @@
     <MainItem>
       <Key>Fitzmaurice</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.M.G., M.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3865</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +83,9 @@
       <Key>Fletcher</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Douglas Alexander</Forenames>
-      <Text>, M.C., E. D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +145,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Foot</Key>
-      <Text>_ Lt.-Col. &amp; Bt. Col. Richard Cunningham, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,9 +174,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Forester</Key>
-      <Title>Lt.-Col.</Title>
-      <Forenames>The</Forenames>
-      <Text>Lord, Officer, Order of St. John of Jerusalem</Text>
+      <Title>Lt.-Col. The Lord</Title>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,8 +184,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Lady, Dame, Order of St. John of Jerusalem</Text>
+      <Title>The Lady, Dame</Title>
+      <Text>, Order of St. John of Jerusalem</Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +282,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>William</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +361,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Paul</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,7 +380,9 @@
       <Key>Gage</Key>
       <Title>Capt.</Title>
       <Forenames>Henry Rainald</Forenames>
-      <Text>, Viscount, Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,14 +407,18 @@
     <MainItem>
       <Key>Galer</Key>
       <Forenames>Frederic Bertram</Forenames>
-      <Text>, F.I.A., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>a m o n, Cyril Frederick, M.V.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +452,11 @@
       <Key>Gamier</Key>
       <Title>Col.</Title>
       <Forenames>Alan Parry</Forenames>
-      <Text>, M.B.E., M.C., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +481,10 @@
       <Key>Gatt</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alfred Joseph</Forenames>
-      <Text>, O.B.E., M.C., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +493,9 @@
       <Key>Gauvain</Key>
       <Title>Sir</Title>
       <Forenames>Henry John</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +504,10 @@
       <Key>George</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, M.C., T.D.. M.B., Serving Brother, Order of St. John of.. Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +566,9 @@
       <Key>Gilbert</Key>
       <Title>Lt. (E)</Title>
       <Forenames>John Henry</Forenames>
-      <Text>, Member 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -553,7 +585,9 @@
     <MainItem>
       <Key>Gilfulan</Key>
       <Forenames>Ewing</Forenames>
-      <Text>, M.B.E. Officer, Order of the British . Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -569,7 +603,9 @@
     <MainItem>
       <Key>Gleed</Key>
       <Forenames>John Wilson</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -681,7 +717,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>Evelyn Gladys</Forenames>
-      <Text>, Mrs., M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -699,7 +737,12 @@
     <MainItem>
       <Key>Gore-Browne</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Eric, D.S.O., T.D., A.D.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -707,7 +750,9 @@
     <MainItem>
       <Key>Gorvin</Key>
       <Forenames>John Henry</Forenames>
-      <Text>, C.B.E. Member of the Commission of Government of Island of Newfoundland and Dependencies</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3883</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -716,7 +761,9 @@
       <Key>Goss</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Slade</Forenames>
-      <Text>, M.C., M.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +787,9 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Frank</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -768,7 +817,9 @@
     <MainItem>
       <Key>Graves</Key>
       <Forenames>Hubert Ashton</Forenames>
-      <Text>, M.C. H.M. Consul, Second Grade at Osaka</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2825</PageNumber>
     </MainItem>
   </ItemGroup>

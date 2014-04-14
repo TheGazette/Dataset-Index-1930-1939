@@ -221,7 +221,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Text>A. S</Text>
+      <Forenames>A. S.</Forenames>
       <PageNumber>7022</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +621,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>K. H. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1090,8 +1092,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chepmell</Key>
-      <Forenames>C.</Forenames>
-      <Text>de B</Text>
+      <Forenames>C. de B</Forenames>
       <PageNumber>6784</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="021" pageID="https://www.thegazette.co.uk/id/London/index/year/1938/volume/4/page/021" pagePDF="https://www.thegazette.co.uk/London/index/year/1938/volume/4/page/021" pageRDF="https://www.thegazette.co.uk/London/index/year/1938/volume/4/page/021?view=linked-data" type="index" volume="4" year="1938">
   <SubItem>
-    <Text>Shaw, Rifmn. T. C. ... 8177 Sinclair-Thomson, Lt. P. A. ... ... ... 8177 Soriano, Fit. Lt. V. J., M.B.E</Text>
+    <Text>
+      <Honour>M.B.E</Honour>
+    </Text>
     <PageNumber>8177</PageNumber>
   </SubItem>
   <ItemGroup>
@@ -39,7 +41,9 @@
       <Key>Silk</Key>
       <Title>Rev.</Title>
       <Forenames>George William</Forenames>
-      <Text>, M.C., M.A., nominated to Perpetual Curacy and Titular Vicarage of St. Paul, Drighlington</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7187</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -90,7 +94,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Aitkeu</Key>
-      <Text>. Robert Stevenson, M.D., F.R.C.P., Rsgius Professor of Medicine. Aberdeen University</Text>
+      <Forenames>Robert Stevenson</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>6632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +106,9 @@
       <Key>Anderson</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G. C.B., G.C.S.I., G.C.I.E., Lord Privy Seal</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6879</PageNumber>
       <PageNumber>6987</PageNumber>
     </MainItem>
@@ -123,14 +132,19 @@
       <Key>Arbuthnott</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Keith</Forenames>
-      <Text>, M.C.. Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6435</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Arding</Key>
-      <Text>. Mrs. Stanley, Order of Mercy</Text>
+      <Title>Mrs.</Title>
+      <Forenames>Stanley</Forenames>
+      <Text>, Order of Mercy</Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +160,9 @@
     <MainItem>
       <Key>Atholl</Key>
       <Forenames>Her Grace</Forenames>
-      <Text>the Duchess of, D.B.E., Steward and Bailiff of the Three Hundreds of Chiltern</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>7526</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -154,7 +170,9 @@
     <MainItem>
       <Key>Bannatyne</Key>
       <Forenames>Robert Reid</Forenames>
-      <Text>, C.B., Member, Royal Commission on Workmen's Compensation</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>8284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +180,9 @@
     <MainItem>
       <Key>Barlow</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Harry Douglas, Distinguished Service Order</Text>
+      <Text>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>7606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +232,9 @@
     <MainItem>
       <Key>Bell</Key>
       <Forenames>Frederick A.</Forenames>
-      <Text>, M.C., Member, Herring Industry Board</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +243,9 @@
       <Key>Bellman</Key>
       <Title>Sir</Title>
       <Forenames>Harold</Forenames>
-      <Text>: M.B.E., J.P., Order of Mercy</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +269,10 @@
       <Key>Bland</Key>
       <Title>Sir</Title>
       <Forenames>Georee Nevile Maltby</Forenames>
-      <Text>, K.C.V.O., C.M.G., H. M. Envov Extraordinary and Minister Plenipotentiary to H.M. the Queen of the Netherlands</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -260,7 +287,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Boyd</Key>
-      <Text>. Tohn Smith, M.A., B.LL., Member, Royal Commission on Workmen's Compensation</Text>
+      <Forenames>Tohn Smith</Forenames>
+      <Text>, M.A., B.LL., Member, Royal Commission on Workmen's Compensation</Text>
       <PageNumber>8284</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +297,9 @@
       <Key>Brenan</Key>
       <Title>Sir</Title>
       <Forenames>John Fitzgerald</Forenames>
-      <Text>, K.C.M.G., Acting Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>7604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +315,11 @@
     <MainItem>
       <Key>Brown</Key>
       <Forenames>Harry Percy</Forenames>
-      <Text>, C.M.G., M.B.E., M.I.E.E., Knighted</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>7912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -293,7 +327,10 @@
     <MainItem>
       <Key>Butler</Key>
       <Forenames>Alfred Trego</Forenames>
-      <Text>, M.C., Honorarv Genealogist to Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +356,10 @@
     <MainItem>
       <Key>Carr</Key>
       <Forenames>Henry</Forenames>
-      <Text>, D.C.L., O.B.E., I.S.O., Nominated Unofficial Member of Legislative Council, Nigeria</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>I.S.O</Honour>
+      </Text>
       <PageNumber>6337</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,14 +367,18 @@
     <MainItem>
       <Key>Carter</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel John Fillis Carre, C.B.E., Assistant Commissioner of Police of the Metropolis</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6813</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Cartmel</Key>
-      <Text>Robinson, Harold Francis, O.B.E., Nominated Official Member of Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -366,7 +410,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>Andrews, Edwin Arthur, O.B.E., Assistant Oriental Secretary in H.M. Embassy at Cairo</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8303</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +428,9 @@
     <MainItem>
       <Key>Cochrane</Key>
       <Forenames>Edgar</Forenames>
-      <Text>, M.D., Ch.B., Member of Executive Council, Island of Grenada</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>7605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +496,9 @@
     <MainItem>
       <Key>Cresswell</Key>
       <Forenames>Reverend Cyril Leonard</Forenames>
-      <Text>, M.A., Chaplain to the Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7911</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -474,7 +524,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dain</Key>
-      <Text>]ohn Rutherford, CLE., Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>6881</PageNumber>
     </MainItem>
   </ItemGroup>

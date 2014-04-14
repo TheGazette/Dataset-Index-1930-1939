@@ -128,7 +128,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Toland</Key>
-      <Text>G. T</Text>
+      <Forenames>G. T.</Forenames>
       <PageNumber>1780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +374,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>F. L</Text>
+      <Forenames>F. L</Forenames>
       <PageNumber>233</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +622,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Moddrel</Key>
-      <Text>M</Text>
+      <Forenames>M.</Forenames>
       <PageNumber>832</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +650,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Witts</Key>
-      <Text>K. A</Text>
+      <Forenames>K. A.</Forenames>
       <PageNumber>1019</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,11 +669,16 @@
       <Key>Berks</Key>
       <Title>Maj.</Title>
       <Forenames>Ralph George Campbell Glyn</Forenames>
-      <Text>, M.C., M.P</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>2193</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Home, Col. James Murray, C.B.E.</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1362</PageNumber>
     </SubItem>
     <SubItem>
@@ -702,6 +707,8 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
         <PageNumber>1690</PageNumber>
       </Text>
       <PageNumber>1690</PageNumber>
@@ -726,7 +733,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Leicester</Key>
-      <Text>. Maj. Robert Godfrey Wolseley 'Cromwell, Baron, M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +744,9 @@
       <Key>Orkney</Key>
       <Title>Brig.</Title>
       <Forenames>John Cecil Macrae</Forenames>
-      <Text>, D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>2193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -750,11 +761,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Suffolk</Key>
-      <Text>: Bowriag, Vice-Adm. Humphrey Wykeham, C.B., D. S.O</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D. S.O</Honour>
+      </Text>
       <PageNumber>1431</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Rowley, Maj. Sir Charles Samuel, Bt.</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1431</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -764,7 +780,9 @@
       <Key>Norfolk</Key>
       <Title>Lt.-Col. Sir</Title>
       <Forenames>Thomas Leigh Hare</Forenames>
-      <Text>, M.V.O</Text>
+      <Text>
+        <Honour>M.V.O</Honour>
+      </Text>
       <PageNumber>297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +791,10 @@
       <Key>Pembroke</Key>
       <Title>Maj. Gen. Sir</Title>
       <Forenames>Ivor Philipps</Forenames>
-      <Text>, K.C.B., D.S.O</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>365</PageNumber>
     </MainItem>
   </ItemGroup>

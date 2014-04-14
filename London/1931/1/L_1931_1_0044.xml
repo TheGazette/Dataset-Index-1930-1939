@@ -1301,7 +1301,10 @@
     <MainItem>
       <Key>Washington</Key>
       <Forenames>Capt B. G.</Forenames>
-      <Text>, C.M.G., D.S.O</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>1285</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1568,9 +1571,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Salis</Forenames>
-      <Text>, A. F</Text>
+      <Key>De Salis</Key>
+      <Forenames>A. F</Forenames>
       <PageNumber>16</PageNumber>
     </MainItem>
   </ItemGroup>

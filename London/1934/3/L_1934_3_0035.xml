@@ -180,8 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. L. St. J</Forenames>
       <PageNumber>4437</PageNumber>
       <PageNumber>4437</PageNumber>
     </MainItem>
@@ -496,7 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hadow</Key>
-      <Text>. P. E</Text>
+      <Forenames>P. E .</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +611,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hart</Key>
-      <Text>. C. R</Text>
+      <Forenames>C. R .</Forenames>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -661,7 +660,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>. D. AV. H</Text>
+      <Forenames>D.</Forenames>
+      <Text>AV. H</Text>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Keast</Key>
-      <Text>. F. J. B</Text>
+      <Forenames>F. J. B</Forenames>
       <PageNumber>4593</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1212,7 +1212,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCulloch</Key>
-      <Text>. H. L</Text>
+      <Forenames>H. L</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1321,7 +1321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Madge</Key>
-      <Text>. C. E</Text>
+      <Forenames>C. E .</Forenames>
       <PageNumber>5463</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1445,8 +1445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>5607</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1527,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. C. St</Forenames>
-      <Text>. O</Text>
+      <Forenames>T. C. St. O</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1669,8 +1667,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, G. O</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>G. O.</Forenames>
       <PageNumber>6041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1771,7 +1769,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pemberton</Key>
-      <Text>. D. A</Text>
+      <Forenames>D. A.</Forenames>
       <PageNumber>4744</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1792,7 +1790,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickering</Key>
-      <Text>. A. G</Text>
+      <Forenames>A. G.</Forenames>
       <PageNumber>6041</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1910,14 +1908,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Raymond</Key>
-      <Text>. H. J</Text>
+      <Forenames>H. J.</Forenames>
       <PageNumber>5761</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Reekie</Key>
-      <Text>. H. E</Text>
+      <Forenames>H. E.</Forenames>
       <PageNumber>4903</PageNumber>
     </MainItem>
   </ItemGroup>

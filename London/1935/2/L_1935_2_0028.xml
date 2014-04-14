@@ -163,7 +163,9 @@
       <Key>Acland</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Francis Dyke</Forenames>
-      <Text>, Bt, Member of Committee of the Privy Council on Official Roll of Baronets</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3035</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,7 +228,9 @@
       <Key>Ainsworth</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ralph Bignell</Forenames>
-      <Text>, D.S.O, O.B.E, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -278,7 +282,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Hugh Percy</Forenames>
-      <Text>, K.C.V.O, Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -490,7 +496,9 @@
       <Key>Ashton</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ernest Charles</Forenames>
-      <Text>, C.M.G, V.D, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +573,10 @@
       <Key>Bailey</Key>
       <Title>Col.</Title>
       <Forenames>Lionel Danyers</Forenames>
-      <Text>, M.C, T.D, K.H.P., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>K.H.P.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -592,7 +603,9 @@
     <MainItem>
       <Key>Baldwin</Key>
       <Title>Lt.</Title>
-      <Text>-Odr. Cecil Claude, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -612,7 +625,9 @@
       <Key>Balfour</Key>
       <Title>Sir</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, Bt, K.B.E, LL.D, J.P, Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
   </ItemGroup>

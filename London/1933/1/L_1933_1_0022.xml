@@ -2,6 +2,17 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="022" pageID="https://www.thegazette.co.uk/id/London/index/year/1933/volume/1/page/022" pagePDF="https://www.thegazette.co.uk/London/index/year/1933/volume/1/page/022" pageRDF="https://www.thegazette.co.uk/London/index/year/1933/volume/1/page/022?view=linked-data" type="index" volume="1" year="1933">
   <ItemGroup>
     <MainItem>
+      <Key>de Montmorency</Key>
+      <Title>Sir</Title>
+      <Forenames>Geoffrey Fitzhervey</Forenames>
+      <Text>
+        <Honour>C.V.O.</Honour>
+      </Text>
+      <PageNumber>6</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deacon</Key>
       <Forenames>Richard</Forenames>
       <Text>, Member, Order of the British Empire</Text>
@@ -11,7 +22,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Denbigh</Key>
-      <Text>and Desmond, Col. Rudolph Robert Basil Aloysius Augustine, Earl of, K.CV.O., T.D., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1511</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -28,16 +42,20 @@
       <Key>Denniston</Key>
       <Title>Commander</Title>
       <Forenames>Alex-</Forenames>
-      <Text>ander Guthrie, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Denny</Key>
-      <Title>Surgeon</Title>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Herbert Reginald Harry, M. R. C. S., L. R. C. P., D. P. H., Companion, Order of the Bath</Text>
+      <Title>Surgeon Rear-Admiral</Title>
+      <Forenames>Herbert Reginald Harry</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +98,10 @@
       <Key>Dobson</Key>
       <Title>Colonel</Title>
       <Forenames>William Warrington</Forenames>
-      <Text>, V.D., T.D., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1355</PageNumber>
     </MainItem>
@@ -88,8 +109,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaldson</Key>
-      <Title>Rt. Rev. St.</Title>
-      <Forenames>Clair George Alfred</Forenames>
+      <Title>Rt. Rev.</Title>
+      <Forenames>St. Clair George Alfred</Forenames>
       <Text>, D.D., Prelate of the Order of St. Michael and St. George</Text>
       <PageNumber>117</PageNumber>
     </MainItem>
@@ -98,7 +119,10 @@
     <MainItem>
       <Key>Douglas</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Henry Percy, C.B., C.M.G., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -123,7 +147,9 @@
     <MainItem>
       <Key>Dowson</Key>
       <Forenames>Oscar Follett</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +157,10 @@
     <MainItem>
       <Key>Drake</Key>
       <Forenames>John Collard Bernard</Forenames>
-      <Text>, C.I.E., O.B.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +168,9 @@
     <MainItem>
       <Key>Drake-Brockman</Key>
       <Forenames>Digby Livingstone</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -165,7 +196,9 @@
       <Key>Duveen</Key>
       <Title>Sir</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, Bt., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>825</PageNumber>
     </MainItem>
@@ -174,7 +207,10 @@
     <MainItem>
       <Key>Dyke</Key>
       <Forenames>Arthur James</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +219,9 @@
       <Key>Edgar</Key>
       <Title>Surg. Cdr.</Title>
       <Forenames>William Harold</Forenames>
-      <Text>, M.D., B.S., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +253,9 @@
     <MainItem>
       <Key>Elsden</Key>
       <Forenames>Alfred Vincent</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +263,9 @@
     <MainItem>
       <Key>Emerson</Key>
       <Forenames>Herbert William</Forenames>
-      <Text>, O.S.I., CLE., C.B.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>229</PageNumber>
     </MainItem>
     <SubItem>
@@ -234,7 +276,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Ennis</Key>
-      <Text>. Lawrence, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +318,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William Owen</Forenames>
-      <Text>, M.B.E., L.R.O.P.Ed., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +368,9 @@
     <MainItem>
       <Key>Fell</Key>
       <Forenames>Bryan Hugh</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -330,7 +378,9 @@
     <MainItem>
       <Key>Filon</Key>
       <Forenames>Lieutenant-</Forenames>
-      <Text>Colonel and Brevet Colonel Louis Napoleon George, T.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -380,7 +430,10 @@
       <Key>Ford</Key>
       <Title>Gen.</Title>
       <Forenames>Richard Vernon Tredinnick</Forenames>
-      <Text>, C.B., C.B.E., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +450,11 @@
       <Key>Forster</Key>
       <Title>Col. (temp. Brigadier)</Title>
       <Forenames>David</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -442,7 +499,10 @@
     <MainItem>
       <Key>Fowler</Key>
       <Forenames>William Hope</Forenames>
-      <Text>, F.R.C.S. (Ed.), Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +513,9 @@
     <MainItem>
       <Key>Ginger</Key>
       <Forenames>Thomas Richard</Forenames>
-      <Text>, M.C, Member, Order of the British Empire ... Glancy, Bertrand James, CLE., Companion, Order of the Star of India ... Godfrey, Robert Samuel, F.F.A.S., Commander, Order of the British Empire ... Godley, Percy Lovell, Member, Order of the British Empire ... Goodwin, Robert Stephen Duke, Unofficial Member of the Executive Council of Antigua Gordon, Mrs. Elizabeth, Officer, Order of St. John of Jerusalem Gower, Helen, Mrs., J.P., Officer, Order of the British Empire Graham-Campbell, R o 11 o Frederick, Knight</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>1356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -461,7 +523,9 @@
     <MainItem>
       <Key>Graham-Vivian</Key>
       <Forenames>Richard Pres-</Forenames>
-      <Text>ton, M.C., Bluemantle Pursuivant of Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2115</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +541,9 @@
     <MainItem>
       <Key>Greenwood</Key>
       <Forenames>Charles Henry</Forenames>
-      <Text>, M.B., F.R.C.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>

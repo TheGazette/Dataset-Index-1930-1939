@@ -86,7 +86,11 @@
     <MainItem>
       <Key>Acland</Key>
       <Forenames>Hugh Thomas Dyke</Forenames>
-      <Text>, C.M.G., C.B.E., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -114,7 +118,9 @@
       <PageNumber>4960</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>.jshawe, Arthur William Garrard, C.M.G., M.B., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -154,7 +160,9 @@
     <MainItem>
       <Key>Braithwaite</Key>
       <Forenames>General</Forenames>
-      <Text>Sir Walter Pipon, G.C.B., Bath King of Arms</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>4884</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,7 +214,9 @@
       </Key>
       <Title>Cdr.</Title>
       <Forenames>Harold George</Forenames>
-      <Text>, D.S.O., R.N. (Rtd.), Private Secretary and Equerry to H.R.H. the Duke of York -</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5727</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +243,9 @@
     <MainItem>
       <Key>Castle</Key>
       <Forenames>Stewart</Forenames>
-      <Text>, the Earl, M.C., Steward and Bailiff of the Manor of Northstead</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5346</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +294,9 @@
       <Key>Clarendon</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>George Herbert Hyde</Forenames>
-      <Text>, Earl of, G. C.M.G., Member of H. M. Privy Council</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>5297</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -336,21 +350,28 @@
   <ItemGroup>
     <MainItem>
       <Key>Crawford</Key>
-      <Text>and Balcarres, Rt. Hon. the Earl of, K.T., Member of the Council of the British School at Rome</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>4961</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Crawfurd</Key>
-      <Text>. Raymond Henry Payno, M.D., F.R.C.P., Knight</Text>
+      <Forenames>Raymond Henry Payno</Forenames>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>C</Key>
-      <Text>r i p p s, Maj. Frederick William Beresford, D. S.O., Knight '</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -367,7 +388,9 @@
       <Key>Dashwood</Key>
       <Title>Cant. Sir</Title>
       <Forenames>John Lindsay</Forenames>
-      <Text>, Bt., Assistant Marshal of the Diplomatic Corps</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +414,9 @@
     <MainItem>
       <Key>Doncaster</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +425,9 @@
       <Key>Drummond</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>James Eric</Forenames>
-      <Text>, K.C.M.G., C. B., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4959</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -409,7 +436,9 @@
       <Key>Duckworth</Key>
       <Title>Sir</Title>
       <Forenames>George Herbert</Forenames>
-      <Text>, C.B., F.S.A., Meml&gt;er of the Royal Commission on Historical Monuments (England)</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,7 +446,10 @@
     <MainItem>
       <Key>Duke-Elder</Key>
       <Forenames>William Stewart</Forenames>
-      <Text>, M.D., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -452,7 +484,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Gemmel</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +496,9 @@
         <KeyDitto>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Fielden</Forenames>
-      <Text>, Flt.-Lt. Edward H., A.F.C., Chief Air Pilot and Extra Equerry to H.R.H. the Prince of Wales</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>6215</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,7 +514,9 @@
     <MainItem>
       <Key>Forster</Key>
       <Forenames>Samuel John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -495,7 +533,9 @@
     <MainItem>
       <Key>Fraser</Key>
       <Forenames>John Hugh Ronald</Forenames>
-      <Text>, CLE., O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4716</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +551,9 @@
     <MainItem>
       <Key>Gallienne</Key>
       <Forenames>Wilfred Hansford</Forenames>
-      <Text>, C.B.E., H.M. Consul at Tegucigalpa</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5948</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -552,7 +594,10 @@
     <MainItem>
       <Key>Goddard</Key>
       <Title>Capt. and Bvt.</Title>
-      <Text>-Maj. Eric Norman, O.B.E., M.C., Bar to Military Cross</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -560,7 +605,9 @@
     <MainItem>
       <Key>Goodall</Key>
       <Forenames>Edward Basil Herbert</Forenames>
-      <Text>, M.B.E., Nominated Official Member of the Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5195</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -596,7 +643,10 @@
     <MainItem>
       <Key>Gurney</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, C.M.G., M.V.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to H.M. the King of Denmark and Iceland</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -620,7 +670,9 @@
     <MainItem>
       <Key>Hands</Key>
       <Forenames>Arthur Sheldon</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +680,10 @@
     <MainItem>
       <Key>Harris</Key>
       <Title>Sqdn.</Title>
-      <Text>-Ldr. Stafford Berkeley, D.F.C., A.F.C., Second Bar to Distinguished Flying Cross</Text>
+      <Text>
+        <Honour>D.F.C.</Honour>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>5866</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,14 +698,20 @@
   <ItemGroup>
     <MainItem>
       <Key>Havard</Key>
-      <Text>. Godfrey Thomas, C.M.G., H.M. Consul a. Shiraz</Text>
+      <Forenames>Godfrey Thomas</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Heath</Key>
-      <Text>. Lt.-Col. and Bvt.-Col. Lewis Macclesfield, CLE., M.C., Distinguished Service Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>5863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,7 +739,9 @@
       <Key>Heywood</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Frank</Forenames>
-      <Text>, . M.C., Commercial Secretary, H.M. Legation at Budapest</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5947</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +756,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Holt</Key>
-      <Text>. Capt. Vyvyan, Member, Royal Victorian Order ,,, 471</Text>
+      <Title>Capt.</Title>
+      <Forenames>Vyvyan</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>

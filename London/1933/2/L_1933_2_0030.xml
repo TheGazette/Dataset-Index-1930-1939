@@ -91,7 +91,9 @@
       </Key>
       <Title>Lt.</Title>
       <Forenames>Henry William</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3809</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -131,7 +133,9 @@
       <Key>Joyner</Key>
       <Title>Maj. (Commissary)</Title>
       <Forenames>Harryi</Forenames>
-      <Text>M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -146,7 +150,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Kailas</Key>
-      <Text>. Narayan. Haksar, Pandit, CLE;, Knight</Text>
+      <Title>Narayan.</Title>
+      <Forenames>Haksar</Forenames>
+      <Text>, Pandit, CLE;, Knight</Text>
       <PageNumber>2485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +176,10 @@
     <MainItem>
       <Key>Kavasji</Key>
       <Forenames>Jamshedji Petigara</Forenames>
-      <Text>, Khan Bahadur, O.B.E., D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +187,9 @@
     <MainItem>
       <Key>Kedar</Key>
       <Forenames>Nath Das</Forenames>
-      <Text>, CLE., M.D., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +261,10 @@
   <ItemGroup>
     <MainItem>
       <Key>King</Key>
-      <Text>. Nellie, Mrs., A.R.R.C., Officer, Order of St. John of Jerusalem</Text>
+      <Forenames>Nellie</Forenames>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -285,7 +299,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Jagdish Prasad</Forenames>
-      <Text>, C.S.I., CLE;, O.B.E., Member of the Executive Council of the Governor of the United Provinces</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -318,7 +334,10 @@
     <MainItem>
       <Key>Lamb</Key>
       <Forenames>Walter Rangeley Maitland</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +354,9 @@
       <Key>Lane-Fox</Key>
       <Title>Rt. Hon.</Title>
       <Forenames>George Richard</Forenames>
-      <Text>, J.P., D.L., Baron</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -351,7 +372,9 @@
     <MainItem>
       <Key>Lassalle</Key>
       <Forenames>Charles Francis</Forenames>
-      <Text>, M.D., Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3815</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -392,7 +415,9 @@
     <MainItem>
       <Key>Leech</Key>
       <Forenames>Arthur John</Forenames>
-      <Text>, M.B.E., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -400,7 +425,9 @@
     <MainItem>
       <Key>Leeson</Key>
       <Forenames>Lavell Hall</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4200</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +443,9 @@
     <MainItem>
       <Key>Leitch</Key>
       <Forenames>Walter</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -435,7 +464,10 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William Hugh</Forenames>
-      <Text>, F.R.C.S., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3802</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +524,9 @@
       <Key>Lomax</Key>
       <Title>Maj.</Title>
       <Forenames>John</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -516,7 +550,9 @@
       <Key>Lyons</Key>
       <Title>Maj.</Title>
       <Forenames>Henry Edward</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -537,7 +573,9 @@
     <MainItem>
       <Key>Maby</Key>
       <Forenames>Charles George</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
     <SubItem>
@@ -549,7 +587,9 @@
     <MainItem>
       <Key>Mc</Key>
       <Forenames>Arthur</Forenames>
-      <Text>, Qm. and Hon. Maj. John, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +606,9 @@
       <Key>McCarrison</Key>
       <Title>Col.</Title>
       <Forenames>Robert</Forenames>
-      <Text>, CLE., K.H.P., Knight</Text>
+      <Text>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -591,7 +633,10 @@
     <MainItem>
       <Key>McCorkell</Key>
       <Forenames>Senator Dudley Evelyn Bruce</Forenames>
-      <Text>, M.B.E., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,7 +695,9 @@
     <MainItem>
       <Key>McDonald</Key>
       <Title>Wrnt. Off. Coy. Sgt.</Title>
-      <Text>-Maj. John, M.C, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3807</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +737,9 @@
     <MainItem>
       <Key>Mackenzie</Key>
       <Forenames>Arthur Hender-</Forenames>
-      <Text>son, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>

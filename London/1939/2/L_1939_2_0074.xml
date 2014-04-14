@@ -313,7 +313,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tydd</Key>
-      <Text>E. F. P</Text>
+      <Forenames>E. F. P .</Forenames>
       <PageNumber>4445</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +427,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Upton</Key>
-      <Text>S. J. F</Text>
+      <Forenames>S. J. F.</Forenames>
       <PageNumber>4442</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -492,7 +492,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Van</Key>
-      <Text>de Weyer, A. J. B</Text>
+      <Forenames>de Weyer</Forenames>
+      <Text>, A. J. B</Text>
       <PageNumber>4047</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -230,8 +230,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kershaw</Key>
-      <Forenames>J. B.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. B. de B</Forenames>
       <PageNumber>2286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,8 +278,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Sullivan, M. J. A</Text>
+      <Key>O'Sullivan</Key>
+      <Forenames>M. J. A.</Forenames>
       <PageNumber>2286</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kenny</Key>
-      <Text>. E. B</Text>
+      <Forenames>E. B</Forenames>
       <PageNumber>3203</PageNumber>
     </MainItem>
   </ItemGroup>

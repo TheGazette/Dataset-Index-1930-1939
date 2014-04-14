@@ -152,6 +152,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Lacy-Evans</Key>
+      <Forenames>L. A. L.</Forenames>
+      <PageNumber>5890</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gerard</Key>
       <Forenames>W. G.</Forenames>
       <PageNumber>4741</PageNumber>
@@ -807,8 +814,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, W. D</Text>
+      <Key>O'Brien</Key>
+      <Forenames>W. D.</Forenames>
       <PageNumber>5604</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1377,8 +1384,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill-Roe, R. J, O</Text>
+      <Key>O'Neill-Roe</Key>
+      <Forenames>R. J</Forenames>
+      <Text>, O</Text>
       <PageNumber>4677</PageNumber>
     </MainItem>
   </ItemGroup>

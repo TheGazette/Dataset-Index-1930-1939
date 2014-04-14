@@ -109,8 +109,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Diaper</Key>
-      <Title>St.</Title>
-      <Forenames>J</Forenames>
+      <Forenames>St. J</Forenames>
       <PageNumber>1128</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,8 +424,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Everest</Key>
-      <Forenames>M. H.</Forenames>
-      <Text>de L</Text>
+      <Forenames>M. H. de L</Forenames>
       <PageNumber>955</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +607,9 @@
       <Key>Fergusson</Key>
       <Title>Sir</Title>
       <Forenames>C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>421</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1169,7 +1169,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Glass</Key>
-      <Text>H. P. L</Text>
+      <Forenames>H. P. L.</Forenames>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,8 +1320,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. B</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. B</Text>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>

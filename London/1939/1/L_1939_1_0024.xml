@@ -5,7 +5,9 @@
     <PageNumber>220</PageNumber>
   </SubItem>
   <SubItem>
-    <Text>Hope, The Hon. A. O., M.C., Steward and Bailiff of the Hundreds of Chiltern</Text>
+    <Text>
+      <Honour>M.C.</Honour>
+    </Text>
     <PageNumber>2089</PageNumber>
   </SubItem>
   <SubCategoryTitle>Fiduciary Note issue</SubCategoryTitle>
@@ -28,11 +30,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>. (See under Agriculture and Fisheries, Ministry of.) Turkish Republic: Ambassador Extraordinary and Plenipotentiary .from, H.' E. Doctor Tevfik Rustu Aras</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Turkish Republic</Forenames>
+      <Text>: Ambassador Extraordinary and Plenipotentiary .from, H.' E. Doctor Tevfik Rustu Aras</Text>
       <PageNumber>1066</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.M. Ambassador Extraordinary and Plenipotentiary to Sir Hughe Montgomery KnatchbullHugessen, K.C.M.G</Text>
+      <Text>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>1763</PageNumber>
     </SubItem>
     <SubCategoryTitle>Stanley Rupert Jordan ... 1208 Consul at Birmingham, G</SubCategoryTitle>
@@ -44,14 +50,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Unemployment</Key>
-      <Text>. Insurance Acts: (See also under Labour, Ministry of.) Draft Regulations, notice Contributions (Amendment)</Text>
+      <Forenames>Insurance Acts</Forenames>
+      <Text>: (See also under Labour, Ministry of.) Draft Regulations, notice Contributions (Amendment)</Text>
       <PageNumber>2167</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>U</Key>
-      <Text>.S.A.: Consul at Jerusalem, Christian T. Steger</Text>
+      <Forenames>S.A.</Forenames>
+      <Text>: Consul at Jerusalem, Christian T. Steger</Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
     <SubItem>
@@ -153,7 +161,10 @@
     <MainItem>
       <Key>Whitby</Key>
       <Forenames>Bishop Suffragan</Forenames>
-      <Text>, Rev. Harold Evelyn Hubbard, D.S.O., M.C., M.A</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
     <SubItem>
@@ -188,7 +199,10 @@
       <Key>Hubbard</Key>
       <Title>Rev.</Title>
       <Forenames>Harold Evelyn</Forenames>
-      <Text>, D.S.O., M.C., M.A., nominated to be Bishop Suffragan of Whitby</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +288,10 @@
     <MainItem>
       <Key>Abrahams</Key>
       <Forenames>Adolphe</Forenames>
-      <Text>, O.B.E., M.D., F.R.C.P., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>

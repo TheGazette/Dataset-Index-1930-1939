@@ -615,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wates</Key>
-      <Text>C. F. W</Text>
+      <Forenames>C. F. W.</Forenames>
       <PageNumber>2483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -967,8 +967,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>P. J. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>P. J. St. C</Forenames>
       <PageNumber>3782</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1108,7 +1107,9 @@
       <Key>Welby</Key>
       <Title>Sir</Title>
       <Forenames>O. C. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1520,7 +1521,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitefield</Key>
-      <Text>H</Text>
+      <Forenames>H</Forenames>
       <PageNumber>3298</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1585,7 +1586,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitling</Key>
-      <Text>I. E. W</Text>
+      <Forenames>I. E. W</Forenames>
       <PageNumber>4303</PageNumber>
     </MainItem>
   </ItemGroup>

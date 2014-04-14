@@ -659,8 +659,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Blake</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B. ff</Text>
+      <Forenames>A. O'B</Forenames>
+      <Text>. ff</Text>
       <PageNumber>1533</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1478,7 +1478,9 @@
       <Key>Colquhoun</Key>
       <Title>Sir</Title>
       <Forenames>I.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1428</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1741,9 +1743,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sausmarez</Forenames>
-      <Text>, C. H</Text>
+      <Key>De Sausmarez</Key>
+      <Forenames>C. H.</Forenames>
       <PageNumber>683</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -653,7 +653,9 @@
       <Key>Buchanan</Key>
       <Title>Sir</Title>
       <Forenames>C. J.</Forenames>
-      <Text>, Bt. '</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5026</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -777,8 +779,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bunbury</Key>
-      <Forenames>F. R. St</Forenames>
-      <Text>. P</Text>
+      <Forenames>F. R. St. P</Forenames>
       <PageNumber>5032</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -987,8 +988,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Byrde</Key>
-      <Forenames>R. G.</Forenames>
-      <Text>de F</Text>
+      <Forenames>R. G. de F</Forenames>
       <PageNumber>5476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,8 +1166,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>5028</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,8 +1287,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carpendale</Key>
-      <Forenames>Q. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>Q. St. J</Forenames>
       <PageNumber>5477</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -3,7 +3,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Sir George Adam, D.D., Chaplain in Ordinary in Scotland, H.M. Household</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
@@ -15,7 +16,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Herbert Freder-</Forenames>
-      <Text>ick Edgar, D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -25,7 +28,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Montague Bentley Talbot Paske</Forenames>
-      <Text>, C.B.E., His Majesty's Envoy Extraordinary and Minister Plenipotentiary at Bogota</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>5342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -33,7 +38,9 @@
     <MainItem>
       <Key>Smith</Key>
       <Forenames>Cuninghame</Forenames>
-      <Text>, Lt.-Col. William Wallace, D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -41,7 +48,10 @@
     <MainItem>
       <Key>Southorn</Key>
       <Forenames>Wilfrid Thomas</Forenames>
-      <Text>, K.B.E., C.M.G., Governor and Commander-in-Chief, Gambia' Colony</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +67,11 @@
     <MainItem>
       <Key>Stanhope</Key>
       <Title>The Rt. Hon. Earl</Title>
-      <Text>, K.G., D.S.O., M.C., Member, Coronation Committee</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -65,7 +79,10 @@
     <MainItem>
       <Key>Stephenson</Key>
       <Forenames>Henry Kenyon</Forenames>
-      <Text>, D.S.O., V.D., Baronet</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +91,9 @@
       <Key>Stewart</Key>
       <Title>Sir</Title>
       <Forenames>Findlater</Forenames>
-      <Text>, G.C.T.E.. K.C.B., C.S.I., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -82,7 +101,9 @@
     <MainItem>
       <Key>Still</Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.D., F.R.C.P., Physician in Ordinary to T.R.H. The Duke and Duchess of York</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -91,7 +112,10 @@
       <Key>Stockley</Key>
       <Title>Major</Title>
       <Forenames>Henry Hud-</Forenames>
-      <Text>son Eraser, C.V.O., O.B.E., Secretary of the Central Chancery of the Orders of Knighthood</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
     <SubItem>
@@ -120,7 +144,11 @@
       <Key>Strathearn</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>John Calderwood</Forenames>
-      <Text>, C.B.E., M.D., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,14 +157,22 @@
       <Key>Streatfeild</Key>
       <Title>Colonel Sir</Title>
       <Forenames>Henry</Forenames>
-      <Text>, G. C.V.O., C.B., C.M.G., T.D., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>1664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Street</Key>
-      <Text>George Slythe, M.V.O., B.A. Examiner of Plays</Text>
+      <Forenames>George Slythe</Forenames>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -144,16 +180,20 @@
     <MainItem>
       <Key>Sutherland</Key>
       <Forenames>George Granville</Forenames>
-      <Text>, Duke of, K.T., Lord Steward</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Swinton</Key>
-      <Title>The Rt. Hon.</Title>
-      <Forenames>Vis-</Forenames>
-      <Text>count, G.B.E., M.C., Member, Coronation Committee</Text>
+      <Title>The Rt. Hon. Vis-</Title>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -170,7 +210,9 @@
     <MainItem>
       <Key>Teale</Key>
       <Forenames>Edmund Oswald</Forenames>
-      <Text>, D.Sc, F.R.S., M.Inst. M.M., Knight</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -187,14 +229,17 @@
       <Key>Templemore</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Claude Spencer Baron</Forenames>
-      <Text>, D.S.O., O.B.E., Captain, Yeoman of the Guard</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4607</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Thankerton</Key>
-      <Forenames>The</Forenames>
+      <Title>The</Title>
       <Text>) (Bit. Hon. Lord, Member, Coronation Committee</Text>
       <PageNumber>1223</PageNumber>
     </MainItem>
@@ -204,7 +249,9 @@
       <Key>Thomas</Key>
       <Title>Sir</Title>
       <Forenames>Godfrey John Vignoles</Forenames>
-      <Text>, Bt., K^.V.O., C.S.I., Assistant Private Secretary to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +277,10 @@
       <Key>Thorold</Key>
       <Title>The Rev.</Title>
       <Forenames>Ernest Hayford</Forenames>
-      <Text>, C.B., C.B.E., D.D., Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4065</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +289,11 @@
       <Key>Thynne</Key>
       <Title>Col.</Title>
       <Forenames>Ulric Oliver</Forenames>
-      <Text>, C.M.G., D.S.O., T.D., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -247,7 +301,9 @@
     <MainItem>
       <Key>Tidv</Key>
       <Forenames>Henry Lethebv</Forenames>
-      <Text>, M.D., F.R.C.P., Phvsician in Ordinary to T.R.H. The Duke and Duchess of York</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>5657</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +320,9 @@
       <Key>Tomkinson</Key>
       <Title>Brig.</Title>
       <Forenames>Henry Archdale</Forenames>
-      <Text>, D.S.O., Extra Equerri' to His Majesty</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +331,10 @@
       <Key>Towse</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Ernest Beachcroft Beck</Forenames>
-      <Text>with, V.C., K.C.V.O., C.B.L., Sergeant at Arms</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
     <SubItem>
@@ -285,7 +346,10 @@
     <MainItem>
       <Key>Trotter</Key>
       <Forenames>Wilfred</Forenames>
-      <Text>, M.D., M.S., F.R.C.S., F.R.S Serjeant Surgeon, H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +375,9 @@
       <Key>Vesey</Key>
       <Title>Lt.-Col. the Hon.</Title>
       <Forenames>Osbert Eustace</Forenames>
-      <Text>, C.B.E., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -320,7 +386,9 @@
       <Key>Villiers</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Hjyde</Forenames>
-      <Text>, T.D., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,14 +397,20 @@
       <Key>Vivian</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Valentine</Forenames>
-      <Text>, C.M.G., D.S.O., M.V.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Walker</Key>
-      <Text>The Rev. Edward Mewburn, M.A., LL.D., Chaplain, H.M. Household</Text>
+      <Title>The Rev.</Title>
+      <Forenames>Edward Mewburn</Forenames>
+      <Text>, M.A., LL.D., Chaplain, H.M. Household</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +419,10 @@
       <Key>Walton</Key>
       <Title>Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, K.C.V.O., M.B., M.S., F.R.C.S., Surgeon, H.M. Household</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
     <SubItem>
@@ -358,7 +435,11 @@
       <Key>Ward</Key>
       <Title>Col. Sir</Title>
       <Forenames>Albert Lam-</Forenames>
-      <Text>bert, Bt., D.S.O., M.P., Comptroller of the Household</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -369,14 +450,17 @@
       </Key>
       <Title>Major the Hon. Sir</Title>
       <Forenames>John Hubert</Forenames>
-      <Text>, K.C.V.O., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Warr</Key>
-      <Forenames>The Very</Forenames>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
       <Text>Rev. Charles Laing, D.D., Chaplain in Ordinary in Scotland, H.M:. Household</Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
@@ -386,7 +470,12 @@
       <Key>Watson</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>Harry Davis</Forenames>
-      <Text>, K.B.E.; C.B., C.M.G., CLE., M.V.O., Extra Equerry to His Majesty</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +483,11 @@
     <MainItem>
       <Key>Webb-Johnson</Key>
       <Forenames>Alfred Edward</Forenames>
-      <Text>, C.B.E., D.S.O., M.B., F.R.C.S., Surgeon to Queen Mary</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
     <SubItem>
@@ -414,7 +507,11 @@
     <MainItem>
       <Key>Weir</Key>
       <Title>Sir John.</Title>
-      <Text>K.C.V.O., C.M.G., M.D., Physician in 'Ordinary to Queen Mary</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
     <SubItem>
@@ -435,7 +532,9 @@
     <MainItem>
       <Key>West</Key>
       <Forenames>Frederick Joseph</Forenames>
-      <Text>. C.B.E., M.Inst.C.E., M.I.Mech.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +544,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>James Grey</Forenames>
-      <Text>, O.B.E., F.R.I.B.A., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +555,10 @@
       <Key>Wheatley</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Leonard Lane</Forenames>
-      <Text>, C.M.G., D.S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +567,10 @@
       <Key>Whitaker</Key>
       <Title>Sir</Title>
       <Forenames>Albert Edward</Forenames>
-      <Text>, C. B.E., T.D., Baronet</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>4742</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +579,9 @@
       <Key>White</Key>
       <Title>The.Rev.</Title>
       <Forenames>John</Forenames>
-      <Text>, C.H., D. D., Chaplain in Ordinary in Scotland, H.M. Household</Text>
+      <Text>
+        <Honour>C.H.</Honour>
+      </Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -481,14 +590,20 @@
       <Key>Wickham</Key>
       <Title>Maj.</Title>
       <Forenames>John Lamp-</Forenames>
-      <Text>lugh, M.V.O., Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wigram</Key>
-      <Text>Col. The Rt. Hon. Lord, G.C.B., G.C.V.O., C.S.I., Member, Coronation Committee</Text>
+      <Title>Col. The Rt. Hon. Lord</Title>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
     <SubItem>
@@ -505,14 +620,21 @@
       <Key>Wilkinson</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Mon-</Forenames>
-      <Text>tague Grant, C.B., C. M.G., C.V.O., Extra Gentleman Usher to His Majesty</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Text>Sir Frederick Jeune, K.C.V.O., M.R.C.S., L.R.C.P., Surgeon Apothecary to the Household at Sandringham</Text>
+      <Title>Sir</Title>
+      <Forenames>Frederick Jeune</Forenames>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -529,7 +651,10 @@
       <Key>Wingfield</Key>
       <Title>Col. the Hon.</Title>
       <Forenames>Maurice Anthony</Forenames>
-      <Text>, C.M.G., D. S.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +663,9 @@
       <Key>Wollaston</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, K.C.V.O., Member, Coronation Executive Committee</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>4304</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +683,12 @@
       <Key>Wray</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>John Cecil</Forenames>
-      <Text>, C.B., C.M.G.. C.V.O., T.D., Clerk of the Cheque and Adjutant, Yeoman of . the Guard</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,16 +718,25 @@
       </Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Wallace Duf-</Forenames>
-      <Text>field. V.C., C.B., C.M.G., D.S.O. Gentleman of the Corps</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Title>H.R.H.</Title>
-      <Forenames>The</Forenames>
-      <Text>Duke of, K.G., K.T., K.P., G.C.M.G., G.C.V.O., Member. Coronation Committee '</Text>
+      <Title>H.R.H. The Duke</Title>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
     <SubItem>
@@ -606,8 +747,9 @@
   <ItemGroup>
     <MainItem>
       <Key>York</Key>
-      <Forenames>The Most Reverend The Archbishop</Forenames>
-      <Text>of, Member, Coronation Committee</Text>
+      <Title>The</Title>
+      <Forenames>Most Reverend</Forenames>
+      <Text>The Archbishop of, Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -624,15 +766,19 @@
       <Key>Younghusband</Key>
       <Title>Maj.-Gen. Sir</Title>
       <Forenames>George John</Forenames>
-      <Text>, K.C.M.G., K.C.I.E., C.B., Keeper of the Jewel House, Tower of London</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Zetland</Key>
-      <Title>The Most Hon.</Title>
-      <Forenames>The Marquess</Forenames>
+      <Title>The Most Hon. The</Title>
+      <Forenames>Marquess</Forenames>
       <Text>of, G.C.S.I., G.C.I.E., Member, Coronation Committee</Text>
       <PageNumber>4223</PageNumber>
     </MainItem>

@@ -5,7 +5,9 @@
       <Key>Beachcroft</Key>
       <Title>Maj.</Title>
       <Forenames>Philip Maurice</Forenames>
-      <Text>, O.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4058</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -48,7 +50,9 @@
     <MainItem>
       <Key>Beckett</Key>
       <Forenames>Arthur George</Forenames>
-      <Text>, Member, 5th Class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -58,7 +62,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard Henry</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +114,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Henry</Forenames>
-      <Text>McGrady, C.B.E. Commander, Royal Victorian Order'</Text>
+      <Text>
+        <Honour>C.B.E. Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,7 +140,9 @@
     <MainItem>
       <Key>Berkeley</Key>
       <Title>(George Harold Arthur)</Title>
-      <Text>, Comyns, M.A., M.D., M.C, (F.R.C.P., F.R.G.S., F.C.O.G., M.M.S:A., Knight</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -140,7 +150,9 @@
     <MainItem>
       <Key>Bessborough</Key>
       <Forenames>H. E.</Forenames>
-      <Text>the Earl of, G.C.M.G., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -208,7 +220,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Reginald</Forenames>
-      <Text>, T.D., J.P., Knight</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3556</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,7 +238,9 @@
     <MainItem>
       <Key>Blunt</Key>
       <Forenames>Edward Arthur Henry</Forenames>
-      <Text>, C.I.E., O.B.E., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3560</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +265,9 @@
       <Key>Bonham</Key>
       <Title>Cmd. Eng.</Title>
       <Forenames>James Douglas Carden</Forenames>
-      <Text>, D.S.M., R.N., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.M.</Honour>
+      </Text>
       <PageNumber>3562</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +372,9 @@
     <MainItem>
       <Key>Bracken</Key>
       <Forenames>Geoffrey Thomas Hirst</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3559</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -420,7 +440,9 @@
     <MainItem>
       <Key>Bridge</Key>
       <Forenames>John Crosthwaite</Forenames>
-      <Text>F.R.C.S. Ed., M.R.C.P. Ed., D.P.H. Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -453,7 +475,9 @@
       <Key>Broadbent</Key>
       <Title>Maj.</Title>
       <Forenames>Crossley St</Forenames>
-      <Text>. John, T.D., Officer, Order . of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3564</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +486,11 @@
       <Key>Broadbent</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Edward Nicholson</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., LieutenantGovernor of Guernsey</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3353</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +525,9 @@
       </Key>
       <Title>Eng.</Title>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. .Harold Arthur,. C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -538,7 +568,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William Barrowciough</Forenames>
-      <Text>, C.B.E., Companion, Order, of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3558</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,7 +589,9 @@
       </Key>
       <Title>Col. the Hon.</Title>
       <Forenames>Herbert Alexander</Forenames>
-      <Text>, R.A.M.C, M.D., L.R.C.P., F.R.C.S Knight of Grace, Order of St. . John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4057</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +633,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buccleuch</Key>
-      <Text>and Queensberry, John Charles, Duke of, K.T., Knight Grand Royal Victorian Cross, Order</Text>
+      <Text>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>3561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +669,9 @@
       <Key>Burns</Key>
       <Title>Rev. Canon</Title>
       <Forenames>George</Forenames>
-      <Text>, O.B.E., Nominated Unofficial . Member of the Legislative Council of Kenya ... ..:</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3026</PageNumber>
     </MainItem>
   </ItemGroup>

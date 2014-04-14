@@ -78,7 +78,9 @@
       <Key>Gibbs</Key>
       <Title>Sir</Title>
       <Forenames>Philip Hamilton</Forenames>
-      <Text>, K.C.B.E., Member, Royal Commission on Private Manufacture of, and Trading in, Arms</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +192,14 @@
       <Key>Goodman</Key>
       <Title>Brig.-Gen.</Title>
       <Forenames>Godfrey Davenport</Forenames>
-      <Text>, C.B., C.M.G., D.S.O., V.D., T.D., D.L., A.D.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -205,14 +214,19 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Text>. Commander Oliver Loudon, Member, (Royal Victorian Order</Text>
+      <Title>Commander</Title>
+      <Forenames>Oliver Loudon</Forenames>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Gore</Key>
-      <Text>. George, Officer, Order of St. John of Jerusalem</Text>
+      <Forenames>George</Forenames>
+      <Text>, Officer, Order of St. John of Jerusalem</Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -221,7 +235,9 @@
       <Key>Gorssline</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Raymond Myers</Forenames>
-      <Text>, D.S.O., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +246,10 @@
       <Key>Gower</Key>
       <Title>Sir</Title>
       <Forenames>Robert Vaughan</Forenames>
-      <Text>, O.B.E., M.P., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +284,11 @@
     <MainItem>
       <Key>Grant</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Charles John Cecil C.B., D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +304,9 @@
     <MainItem>
       <Key>Graves</Key>
       <Forenames>Herbert Ashton</Forenames>
-      <Text>, M.C., H.M. Vice-Consul at Kobe</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2123</PageNumber>
     </MainItem>
     <SubItem>
@@ -362,7 +387,9 @@
       <Key>Grier</Key>
       <Title>Sir</Title>
       <Forenames>Selwyn</Forenames>
-      <Text>MacGregor, C.M.G., Governor and Commander-in-Chief of the Windward Islands and Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>457</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -440,7 +467,10 @@
       <Key>Hall</Key>
       <Title>Capt.</Title>
       <Forenames>Leonard Joseph</Forenames>
-      <Text>, O.B.E., R.D., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>R.D.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -467,7 +497,10 @@
       <Key>Hamilton</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>David Livingston</Forenames>
-      <Text>, R.A.M.C., F.R.C.S., Serving Brother, Order of -St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +510,12 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Richard</Forenames>
-      <Text>, Serving Brother, Order of St. John of Jerusalem ... Hammond, Capt. Leslie Jennings Lucas, Commander, Order of the British Empire Hampden, Brig.-Gen. Thomas Walter, Viscount, K.O.B., C.G.M., Knight Grand Cross, Royal Victorian Order Hampson, Edith, Mrs., J.P., Member, Order of the British Empire Hardie, Martin, Commander, Order -of the British [Empire Hardman-Jones, Rear-Adm. . Bverard John, O.B.E., Companion, Order of the Bath ... Hari Singh, Sardar Bahadur, Associate Serving Brother, Order of St. John of Jerusalem .„ ... ... Harkness, Joseph Welsh Park, M.B., Officer, Order of the British Empire Harman, Charles Eustace, King's Counsel</Text>
+      <Text>
+        <Honour>C.G.M.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>1014</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +535,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Ernest Sidney Walter</Forenames>
-      <Text>, M.B.E., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -508,7 +548,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Vincent</Forenames>
-      <Text>, Companion, Order of the Star of India Harvey, Maj. Samuel Emile, M.P., Knight ... S,</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1269</PageNumber>
     </MainItem>
   </ItemGroup>

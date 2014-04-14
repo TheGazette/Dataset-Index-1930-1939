@@ -76,8 +76,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilson</Key>
-      <Forenames>E. W. O</Forenames>
-      <Text>'F</Text>
+      <Forenames>E. W. O'F</Forenames>
       <PageNumber>3086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +381,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Johnston</Key>
-      <Text>. R. W. F</Text>
+      <Forenames>R. W. F</Forenames>
       <PageNumber>3924</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1483,8 +1482,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, R. N</Text>
+      <Key>O'Connor</Key>
+      <Forenames>R. N</Forenames>
       <PageNumber>3593</PageNumber>
     </MainItem>
   </ItemGroup>

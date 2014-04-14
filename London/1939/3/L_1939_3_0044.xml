@@ -219,10 +219,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Costobadie</Forenames>
-      <Text>, H. P</Text>
+      <Key>De Costobadie</Key>
+      <Forenames>H. P</Forenames>
       <PageNumber>6245</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Guingand</Key>
+      <Forenames>J. E</Forenames>
+      <PageNumber>4755</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>C. P. E.</Forenames>
+      <PageNumber>4574</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Pass</Key>
+      <Forenames>G. E</Forenames>
+      <PageNumber>4758</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paula</Key>
+      <Forenames>F. C.</Forenames>
+      <PageNumber>6063</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -233,6 +260,34 @@
       <Forenames>H. F.</Forenames>
       <Text>. M</Text>
       <PageNumber>6063</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Rees</Key>
+      <Forenames>J. P .</Forenames>
+      <PageNumber>5400</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Uphaugh</Key>
+      <Forenames>R. G. D.</Forenames>
+      <PageNumber>5988</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Winton</Key>
+      <Forenames>G. F. W.</Forenames>
+      <PageNumber>4761</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Zoete</Key>
+      <Forenames>R. E.</Forenames>
+      <PageNumber>4837</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -342,7 +397,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Deane</Key>
-      <Text>.C. R</Text>
+      <Forenames>C. R .</Forenames>
       <PageNumber>5400</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1154,7 +1209,9 @@
       <Key>Doughty-Tichbourne</Key>
       <Title>Sir</Title>
       <Forenames>A. J</Forenames>
-      <Text>H., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4924</PageNumber>
     </MainItem>
   </ItemGroup>

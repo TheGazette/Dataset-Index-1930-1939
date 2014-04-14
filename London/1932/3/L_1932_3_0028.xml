@@ -955,10 +955,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Havilland</Forenames>
-      <Text>, G. R</Text>
+      <Key>De Havilland</Key>
+      <Forenames>G. R</Forenames>
       <PageNumber>4562</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Paravicini</Key>
+      <Forenames>T. P</Forenames>
+      <PageNumber>3461</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1119,8 +1125,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fancourt</Key>
-      <Forenames>H. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. L. St. J</Forenames>
       <PageNumber>5958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1288,7 +1293,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gaskell</Key>
-      <Text>R. C</Text>
+      <Forenames>R. C .</Forenames>
       <PageNumber>4384</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1664,7 +1669,9 @@
       <Key>Hope</Key>
       <Title>Sir</Title>
       <Forenames>A. P.</Forenames>
-      <Text>. Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5893</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1713,7 +1720,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Howes</Key>
-      <Text>C. V</Text>
+      <Forenames>C. V.</Forenames>
       <PageNumber>5765</PageNumber>
     </MainItem>
   </ItemGroup>

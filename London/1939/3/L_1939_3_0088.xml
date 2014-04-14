@@ -482,15 +482,15 @@
   <KeyDitto>___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John-Smith, B. G</Text>
+      <Key>St. John-Smith</Key>
+      <Forenames>B. G.</Forenames>
       <PageNumber>6195</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Quintin, P. R</Text>
+      <Key>St. Quintin</Key>
+      <Forenames>P. R.</Forenames>
       <PageNumber>6131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -798,8 +798,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G. S</Text>
+      <Forenames>H. St. G</Forenames>
+      <Text>. S</Text>
       <PageNumber>5610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1518,8 +1518,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smallwood</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>H. St. C</Forenames>
       <PageNumber>6504</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -46,7 +46,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Harvey</Key>
-      <Text>G. C. S</Text>
+      <Forenames>G. C. S</Forenames>
       <PageNumber>7246</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,8 +88,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Aldam</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>W. St. A</Forenames>
       <PageNumber>8408</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -113,7 +112,9 @@
       <Key>Acland</Key>
       <Title>Sir</Title>
       <Forenames>W. H. D.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6395</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -143,7 +144,9 @@
       <Key>Agnew</Key>
       <Title>Sir</Title>
       <Forenames>F. M. G. N.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,8 +253,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Askew</Key>
-      <Forenames>H.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. de B</Forenames>
       <PageNumber>6962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -773,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>6962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1030,7 +1032,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cockerton</Key>
-      <Text>O. V</Text>
+      <Forenames>O. V.</Forenames>
       <PageNumber>7075</PageNumber>
     </MainItem>
   </ItemGroup>

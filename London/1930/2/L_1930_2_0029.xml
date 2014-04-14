@@ -93,14 +93,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Earle</Key>
-      <Text>R. I. P</Text>
+      <Forenames>R. I. P.</Forenames>
       <PageNumber>3960</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, W. C. L</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>W. C. L</Forenames>
       <PageNumber>2597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +180,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Godfery</Key>
-      <Forenames>M.</Forenames>
-      <Text>van S</Text>
+      <Forenames>M. van S</Forenames>
       <PageNumber>2254</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -319,7 +318,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allanby</Key>
-      <Text>R. H</Text>
+      <Forenames>R. H.</Forenames>
       <PageNumber>2596</PageNumber>
     </MainItem>
     <KeyDitto>___ ___ ___</KeyDitto>
@@ -332,8 +331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Allfrey</Key>
-      <Forenames>N. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>N. St. C</Forenames>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -425,8 +423,7 @@
     <MainItem>
       <Key>Atkinson</Key>
       <Title>Sir</Title>
-      <Forenames>E. H.</Forenames>
-      <Text>de V</Text>
+      <Forenames>E. H. de V</Forenames>
       <PageNumber>2062</PageNumber>
       <PageNumber>2561</PageNumber>
     </MainItem>
@@ -531,8 +528,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bampton</Key>
-      <Forenames>N. P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>N. P. de B</Forenames>
       <PageNumber>2328</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1367,7 +1363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>J. D</Text>
+      <Forenames>J. D .</Forenames>
       <PageNumber>2868</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1656,7 +1652,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chapman</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W.</Forenames>
       <PageNumber>2422</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1698,7 +1694,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chidlaw-Roberts</Key>
-      <Text>J. R. .. .:</Text>
+      <Forenames>J. R.</Forenames>
+      <Text>.. .:</Text>
       <PageNumber>3879</PageNumber>
     </MainItem>
   </ItemGroup>

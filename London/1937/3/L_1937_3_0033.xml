@@ -142,6 +142,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Stacpoole</Key>
+      <Forenames>D. R</Forenames>
+      <PageNumber>5688</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Edmondson</Key>
       <Forenames>R. A</Forenames>
       <PageNumber>5509</PageNumber>
@@ -199,7 +206,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hogg</Key>
-      <Text>. E. J</Text>
+      <Forenames>E. J</Forenames>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,8 +289,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donnell, P. S. G</Text>
+      <Key>O'Donnell</Key>
+      <Forenames>P. S. G</Forenames>
       <PageNumber>5688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1334,7 +1341,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Urie</Key>
-      <Text>. R. M</Text>
+      <Forenames>R. M.</Forenames>
       <PageNumber>5327</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1555,7 +1562,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Babington</Key>
-      <Text>. J. T</Text>
+      <Forenames>J. T.</Forenames>
       <PageNumber>4253</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1650,7 +1657,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R.</Forenames>
       <PageNumber>4670</PageNumber>
     </MainItem>
   </ItemGroup>

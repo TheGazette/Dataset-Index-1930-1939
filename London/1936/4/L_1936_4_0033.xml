@@ -173,8 +173,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>La Poer</Forenames>
+      <Key>De La</Key>
+      <Forenames>Poer</Forenames>
       <Text>, E. R. A</Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
@@ -1234,7 +1234,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cray</Key>
-      <Text>. G. E</Text>
+      <Forenames>G. E</Forenames>
       <PageNumber>8124</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,8 +1422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hardie</Key>
-      <Forenames>R.</Forenames>
-      <Text>de B</Text>
+      <Forenames>R. de B</Forenames>
       <PageNumber>6277</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1661,7 +1660,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hirst</Key>
-      <Text>. C. W</Text>
+      <Forenames>C. W .</Forenames>
       <PageNumber>7920</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1891,7 +1890,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hunt</Key>
-      <Text>. L. H</Text>
+      <Forenames>L. H.</Forenames>
       <PageNumber>6690</PageNumber>
     </MainItem>
   </ItemGroup>

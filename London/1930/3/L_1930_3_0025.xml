@@ -218,7 +218,9 @@
       <Key>Croft</Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4364</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,8 +305,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Daly</Key>
-      <Forenames>B. B. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>B. B. St. G</Forenames>
       <PageNumber>4805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -845,8 +846,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Forth</Key>
-      <Forenames>N. P. N.</Forenames>
-      <Text>de R</Text>
+      <Forenames>N. P. N. de R</Forenames>
       <PageNumber>4739</PageNumber>
     </MainItem>
   </ItemGroup>

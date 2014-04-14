@@ -47,8 +47,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drury</Key>
-      <Forenames>M. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. O'C</Forenames>
       <PageNumber>7172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,17 +107,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Croz</Forenames>
-      <Text>, J. P</Text>
+      <Key>Du Croz</Key>
+      <Forenames>J. P.</Forenames>
       <PageNumber>8396</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Du</Key>
-      <Forenames>Heaume</Forenames>
-      <Text>, G</Text>
+      <Key>Du Heaume</Key>
+      <Forenames>G.</Forenames>
       <PageNumber>8309</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -566,7 +563,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Durbin</Key>
-      <Text>B. C</Text>
+      <Forenames>B. C.</Forenames>
       <PageNumber>8169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -739,8 +736,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. J. A</Text>
+      <Forenames>G. St. J</Forenames>
+      <Text>. A</Text>
       <PageNumber>7167</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1025,7 +1022,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>T. C.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>8312</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1379,7 +1378,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Elliott</Key>
-      <Text>C. A</Text>
+      <Forenames>C. A .</Forenames>
       <PageNumber>8579</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1657,8 +1656,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Emmott</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. B. ... —</Text>
+      <Forenames>R. St. B</Forenames>
+      <Text>. ... —</Text>
       <PageNumber>7633</PageNumber>
     </MainItem>
   </ItemGroup>

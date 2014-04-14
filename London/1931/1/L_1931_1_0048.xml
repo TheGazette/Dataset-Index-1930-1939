@@ -98,7 +98,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Houlbrook</Key>
-      <Text>W. L</Text>
+      <Forenames>W. L</Forenames>
       <PageNumber>2141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -431,7 +431,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lloyd</Key>
-      <Text>I&gt;. LI</Text>
+      <Forenames>I</Forenames>
+      <Text>&gt;. LI</Text>
       <PageNumber>1288</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -600,7 +601,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacLatchv</Key>
-      <Text>R. F</Text>
+      <Forenames>R. F</Forenames>
       <PageNumber>750</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +615,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McMurtrie</Key>
-      <Text>R. A</Text>
+      <Forenames>R. A</Forenames>
       <PageNumber>148</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McNeil</Key>
-      <Text>T. M</Text>
+      <Forenames>T. M</Forenames>
       <PageNumber>1131</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -744,8 +745,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Middleton</Key>
-      <Forenames>H.</Forenames>
-      <Text>de M</Text>
+      <Forenames>H. de M</Forenames>
       <PageNumber>1805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,8 +958,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, H. D</Text>
+      <Key>O'Neill</Key>
+      <Forenames>H. D</Forenames>
       <PageNumber>1648</PageNumber>
     </MainItem>
   </ItemGroup>

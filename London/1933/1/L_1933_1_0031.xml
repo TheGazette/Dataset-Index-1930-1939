@@ -1020,7 +1020,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. G. H. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>672</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1144,7 +1146,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gauvain</Key>
-      <Text>G. Le B</Text>
+      <Forenames>G. Le B.</Forenames>
       <PageNumber>743</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1299,7 +1301,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gillum</Key>
-      <Text>W. W</Text>
+      <Forenames>W. W .</Forenames>
       <PageNumber>1965</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1694,8 +1696,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>W.</Forenames>
-      <Text>de H</Text>
+      <Forenames>W. de H</Forenames>
       <PageNumber>525</PageNumber>
     </MainItem>
   </ItemGroup>

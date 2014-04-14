@@ -5,7 +5,10 @@
       <Key>Wetherall</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry Edward</Forenames>
-      <Text>de Robillard, D.S.O., M.C., Officer, Order of the British. Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,8 +24,11 @@
     <MainItem>
       <Key>Whatton</Key>
       <Title>Maj.</Title>
-      <Forenames>Stewart Montagu</Forenames>
-      <Text>de Heriz, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Forenames>Stewart Montagu de Heriz</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3091</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +60,10 @@
     <MainItem>
       <Key>White</Key>
       <Forenames>Robert Eaton</Forenames>
-      <Text>, V.D., D.L., Baronet</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3075</PageNumber>
       <PageNumber>4010</PageNumber>
     </MainItem>
@@ -64,14 +73,19 @@
       <Key>Whitehead</Key>
       <Title>Brig.</Title>
       <Forenames>James</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitehouse</Key>
-      <Text>' Harold Beckwith, M.B., M.S., F.R.C.S., Knight</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3076</PageNumber>
       <PageNumber>3855</PageNumber>
     </MainItem>
@@ -109,7 +123,9 @@
       <Key>Wieck</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>George Frederick Gardells</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -117,7 +133,10 @@
     <MainItem>
       <Key>Wigram</Key>
       <Title>Col.</Title>
-      <Text>the Rt. Hon. Clive, Baron, G.C.B., G.C.V.O., C.S.I., Royal Victorian Chain</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>3083</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -132,8 +151,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilde</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Harold, M.C., Member, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Harold</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3099</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -152,15 +174,21 @@
     <MainItem>
       <Key>Wilkes</Key>
       <Forenames>Wing Comdr</Forenames>
-      <Text>. Thomas Martin, M.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3088</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Wilkinson</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Agmond Edward, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Agmond Edward</Forenames>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +248,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Evan</Forenames>
-      <Text>, Bt., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +260,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George</Forenames>
-      <Text>, O.B.E., Nominated Member, Legislaive Council of St. Lucia 2T</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>22</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +326,10 @@
     <MainItem>
       <Key>Willis</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. William John Adlam, M.V.O., C.G.M., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>C.G.M.</Honour>
+      </Text>
       <PageNumber>3085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +338,10 @@
       <Key>Willmer</Key>
       <Title>Lt.-Col. and Brevet Col.</Title>
       <Forenames>Harvey Thew</Forenames>
-      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -385,7 +423,11 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Horace John</Forenames>
-      <Text>, G. C.M.G., K.C.B., C.B.E., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +438,11 @@
       </Key>
       <Title>H.E. Col. Sir</Title>
       <Forenames>Leslie Orme</Forenames>
-      <Text>, G.C.S.I., G.C.I.E., C.M.G., P.C., D.S.O., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +474,11 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>Gen. Roger Cochrane, C.B., D.S.O., M.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -497,7 +547,9 @@
       <Key>Wollaston</Key>
       <Title>Sir</Title>
       <Forenames>Gerald Woods</Forenames>
-      <Text>, K.C.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3080</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +608,9 @@
       <Key>Woodhouse</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Charles Hall</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +636,10 @@
     <MainItem>
       <Key>Woolley</Key>
       <Forenames>Charles Campbell</Forenames>
-      <Text>, O.B.E., M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3082</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,7 +672,10 @@
     <MainItem>
       <Key>Wright</Key>
       <Forenames>Andrew Barkworth</Forenames>
-      <Text>, C.B.E., M.C., Member of Executive Council of Cyprus</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3664</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -625,7 +685,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Charles Seymour</Forenames>
-      <Text>, O.B.E., M.C.. M.A.. Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +759,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Yarnell</Key>
-      <Text>.Davies, Robert, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3090</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -712,7 +778,9 @@
       <Key>Yorke</Key>
       <Title>Miss</Title>
       <Forenames>Dorothy</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -720,7 +788,9 @@
     <MainItem>
       <Key>Young</Key>
       <Forenames>William</Forenames>
-      <Text>, M.D., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4008</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -745,8 +815,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Her</Key>
-      <Forenames>Majesty The</Forenames>
-      <Text>Queen</Text>
+      <Forenames>Majesty</Forenames>
+      <Text>The Queen</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -761,7 +831,7 @@
   <ItemGroup>
     <MainItem>
       <Key>H</Key>
-      <Text>.R.H. The Princess Beatrice</Text>
+      <Text>R.H. The Princess Beatrice</Text>
       <PageNumber>3073</PageNumber>
     </MainItem>
   </ItemGroup>

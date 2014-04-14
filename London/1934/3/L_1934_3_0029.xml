@@ -94,7 +94,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whorton</Key>
-      <Text>., A. A</Text>
+      <Text>, A. A</Text>
       <PageNumber>5193</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -129,7 +129,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wildt</Key>
-      <Text>. J. H</Text>
+      <Forenames>J. H .</Forenames>
       <PageNumber>4341</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,7 +489,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>. J. M</Text>
+      <Forenames>J. M</Forenames>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -557,8 +557,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +620,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drayson</Key>
-      <Text>. Fitz A</Text>
+      <Forenames>Fitz A.</Forenames>
       <PageNumber>5527</PageNumber>
       <PageNumber>5527</PageNumber>
     </MainItem>
@@ -629,7 +628,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eliot</Key>
-      <Text>. M</Text>
+      <Forenames>M</Forenames>
       <PageNumber>4343</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -673,7 +672,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franks</Key>
-      <Text>. K. F</Text>
+      <Forenames>K. F .</Forenames>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -737,7 +736,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hanna</Key>
-      <Text>. W. F</Text>
+      <Forenames>W. F .</Forenames>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +809,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Joly</Key>
-      <Text>de Lotbiniere, H A</Text>
+      <Forenames>de Lotbiniere</Forenames>
+      <Text>, H A</Text>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -867,8 +867,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Macartnev</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. J. F</Text>
+      <Forenames>W. St. J</Forenames>
+      <Text>. F</Text>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -903,7 +903,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>. J. S</Text>
+      <Forenames>J. S .</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -917,8 +917,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maughan</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>J. St. A</Forenames>
       <PageNumber>5527</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -933,7 +932,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Montgomery</Key>
-      <Text>. B. L</Text>
+      <Forenames>B. L.</Forenames>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -978,14 +977,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Paget</Key>
-      <Text>. B. C. T</Text>
+      <Forenames>B. C. T.</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Pocock</Key>
-      <Text>. J. G</Text>
+      <Forenames>J. G.</Forenames>
       <PageNumber>4342</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1000,7 +999,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ouinan</Key>
-      <Text>. E. P</Text>
+      <Forenames>E. P .</Forenames>
       <PageNumber>4342</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1052,7 +1051,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Roughton</Key>
-      <Text>. F. A. G</Text>
+      <Forenames>F. A. G.</Forenames>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1061,7 +1060,9 @@
       <Key>Rowley</Key>
       <Title>Sir</Title>
       <Forenames>G. W.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1075,7 +1076,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sanders</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P</Forenames>
       <PageNumber>4343</PageNumber>
       <PageNumber>4343</PageNumber>
     </MainItem>
@@ -1173,8 +1174,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wright</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>A. St. J</Forenames>
       <PageNumber>4343</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1331,8 +1331,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Baxter</Key>
-      <Forenames>J. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>J. St. J</Forenames>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,8 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Christopher</Key>
-      <Forenames>C.</Forenames>
-      <Text>de L</Text>
+      <Forenames>C. de L</Forenames>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>

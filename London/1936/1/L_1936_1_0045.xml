@@ -1105,7 +1105,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Eadie</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A .</Forenames>
       <PageNumber>311</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Franklin</Key>
-      <Text>H. C</Text>
+      <Forenames>H. C.</Forenames>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1682,7 +1682,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Gemmell</Key>
-      <Text>R. W. ..:</Text>
+      <Forenames>R. W.</Forenames>
+      <Text>..:</Text>
       <PageNumber>535</PageNumber>
     </MainItem>
   </ItemGroup>

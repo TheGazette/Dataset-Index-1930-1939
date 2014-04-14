@@ -31,7 +31,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Wiliam</Forenames>
-      <Text>, K.B.E., C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -39,7 +42,9 @@
     <MainItem>
       <Key>Peers</Key>
       <Forenames>Charles Reed</Forenames>
-      <Text>, O.B.E., M.A., F.B.A., F.R.I.B.A., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
     <SubItem>
@@ -69,7 +74,9 @@
       <Key>Penny</Key>
       <Title>Major</Title>
       <Forenames>Thomas Edward Eraser</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4151</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +100,9 @@
     <MainItem>
       <Key>Perlis</Key>
       <Forenames>H. A.</Forenames>
-      <Text>, Tuan Syed Alwi, ibni almerhum Syed San, C.B.E., Raja of, Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -124,7 +133,9 @@
     <MainItem>
       <Key>Peters</Key>
       <Forenames>Jessie Emmeline</Forenames>
-      <Text>, Lady, A.R.R.C., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -141,7 +152,9 @@
       <Key>Phillips</Key>
       <Title>Miss</Title>
       <Forenames>Agatha Mary</Forenames>
-      <Text>, A.R.R.C. Q.A.I.M.N.S., Serving Sister, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>A.R.R.C.</Honour>
+      </Text>
       <PageNumber>4073</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -233,7 +246,9 @@
       <Key>Potter</Key>
       <Title>Major</Title>
       <Forenames>Francis Mar-</Forenames>
-      <Text>tin, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -249,7 +264,9 @@
     <MainItem>
       <Key>Powney</Key>
       <Title>Lieut.</Title>
-      <Text>-Colonel Cecil Du Pre Penton, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4072</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -257,7 +274,9 @@
     <MainItem>
       <Key>Prentice</Key>
       <Forenames>William David Rus-</Forenames>
-      <Text>sell, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -265,7 +284,9 @@
     <MainItem>
       <Key>Pridie</Key>
       <Forenames>Eric Denholm</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3633</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -282,7 +303,9 @@
     <MainItem>
       <Key>Pugh</Key>
       <Forenames>Company</Forenames>
-      <Text>Sergeant Major Harry, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3630</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -309,7 +332,11 @@
       <Key>Purves-Stewart</Key>
       <Title>Colonel Sir</Title>
       <Forenames>James</Forenames>
-      <Text>, K.C.M.G., C.B., M.D., F.R.C.P., Knight of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -349,8 +376,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Rampling</Key>
-      <Forenames>Engineer Com-</Forenames>
-      <Text>mander Robin, D.S.O., Officer, Order of the British Empire</Text>
+      <Forenames>Engineer</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -358,7 +387,9 @@
     <MainItem>
       <Key>Rapp</Key>
       <Forenames>Thomas Cecil</Forenames>
-      <Text>, M.C., H.M. Consul at Sofia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3759</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +438,9 @@
       <Key>Renouf</Key>
       <Title>Captain</Title>
       <Forenames>Edward</Forenames>
-      <Text>de Faye. Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -415,7 +448,9 @@
     <MainItem>
       <Key>Reynolds</Key>
       <Forenames>Leonard William</Forenames>
-      <Text>, C.S.I., CLE., M.C., Knight Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -432,7 +467,11 @@
       <Key>Rhodes</Key>
       <Title>Colonel</Title>
       <Forenames>Stephen</Forenames>
-      <Text>, D.S.O., T.D., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +487,9 @@
     <MainItem>
       <Key>Ritchie</Key>
       <Forenames>William George Brookfield</Forenames>
-      <Text>, Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -485,7 +526,14 @@
         <KeyDitto>— ___ ___</KeyDitto>
       </Key>
       <Forenames>Field Marshal</Forenames>
-      <Text>Sir William, Bart, G.C.B., G.C.M.G., K.C.V.O., D.S.O., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -503,7 +551,9 @@
     <MainItem>
       <Key>Robinson</Key>
       <Forenames>Roy Lister</Forenames>
-      <Text>, O.B.E., Knight</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -513,7 +563,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>William</Forenames>
-      <Text>C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3624</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -550,15 +602,21 @@
     <MainItem>
       <Key>Rolston</Key>
       <Forenames>Cecil Michell</Forenames>
-      <Text>, M.D., Official Member of the Legislative Council of Dominica</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2970</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rose</Key>
-      <Forenames>Rear-</Forenames>
-      <Text>Admiral Frank Forrester, D.S.O., Companion, Order of the Bath</Text>
+      <Title>Rear-Admiral</Title>
+      <Forenames>Frank Forrester</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3625</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +632,10 @@
     <MainItem>
       <Key>Row</Key>
       <Forenames>Paymaster Rear</Forenames>
-      <Text>Admiral Philip John Hawkins Lander, C.B., Registrar of the Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2329</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -599,7 +660,9 @@
     <MainItem>
       <Key>Ruku-ud-Daula</Key>
       <Forenames>Nusrat-i-Jang Hafiz-ul-Mulk Mukhlis-udDaula Nawab</Forenames>
-      <Text>Sir Sadiq Muhammad Khan, Abbasi Bahadur, K.C.S.I., K.C.V.O., Nawab of Bahawalpur, Captain His Highness, Knight Grand Commander, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -618,7 +681,11 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>Reginald Edmund M</Forenames>
-      <Text>a g h 1 i n , C.B.E., D. S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D. S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -633,7 +700,10 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Johnston, LieutenantColonel Thomas Reginald C.M.G., Kniht Commander, Order of St. Michael and St. George</Text>
+      <Forenames>Johnston</Forenames>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3627</PageNumber>
     </MainItem>
   </ItemGroup>

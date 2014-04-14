@@ -15,7 +15,9 @@
       </Key>
       <Title>Mrs.</Title>
       <Forenames>Ina Leonora</Forenames>
-      <Text>, M.B.E., Serving Sister, Order of. . St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4240</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -49,7 +51,9 @@
     <MainItem>
       <Key>Cleugh</Key>
       <Forenames>Eric Arthur</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +61,10 @@
     <MainItem>
       <Key>Cleverly</Key>
       <Forenames>Osmund Somers</Forenames>
-      <Text>, C.V.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +157,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Coif</Key>
-      <Text>ox, Maj. William Philip, M.C., J.P., M.P., Baronet</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -167,7 +178,9 @@
       <Key>Coltart</Key>
       <Title>Capt.</Title>
       <Forenames>Cyril George Bucknill</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +240,9 @@
     <MainItem>
       <Key>Corner</Key>
       <Forenames>Charles Morris</Forenames>
-      <Text>, Member, 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +284,9 @@
       <Key>Cotton</Key>
       <Title>Lt. (Snr. Asst. Surgn.)</Title>
       <Forenames>Eugene Avron</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +296,11 @@
         <KeyDitto>___ ___ —— ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>George Frederick</Forenames>
-      <Text>, M.V.O., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -287,7 +308,9 @@
     <MainItem>
       <Key>Courtauld</Key>
       <Forenames>William Julien</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +318,11 @@
     <MainItem>
       <Key>Courtney</Key>
       <Forenames>Air Marshal Christo-</Forenames>
-      <Text>pher Lloyd, C.B., C.B.E., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -329,7 +356,12 @@
       <Key>Cowell</Key>
       <Title>Col.</Title>
       <Forenames>Ernest Marshall</Forenames>
-      <Text>, D.S.O., T.D., M.D., F.R.C.S., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +386,9 @@
     <MainItem>
       <Key>Cox</Key>
       <Forenames>Arthur Sambell</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +427,10 @@
       <Key>Crankshaw</Key>
       <Title>Maj.</Title>
       <Forenames>Eric Norman Spencer</Forenames>
-      <Text>, C.M.G., M.B.E., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -416,7 +453,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Creighton</Key>
-      <Text>Warrt. Offr. CI. II (C.S.M.) Frederick Oscar, Member, Order of the British Empire</Text>
+      <Title>Warrt. Offr.</Title>
+      <Text>CI. II (C.S.M.) Frederick Oscar, Member, Order of the British Empire</Text>
       <PageNumber>3859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -434,7 +472,9 @@
       <Key>Cripps</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Frederick William Beresford</Forenames>
-      <Text>, D.S.O., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +499,9 @@
       <Key>Crookenden</Key>
       <Title>Col.</Title>
       <Forenames>Arthur</Forenames>
-      <Text>, D.S.O., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -477,7 +519,9 @@
       <Key>Crowe</Key>
       <Title>Sir</Title>
       <Forenames>Edward</Forenames>
-      <Text>, K.C.M.G., Member, Imperial College of Science and Technology</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4236</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -524,7 +568,9 @@
       <Key>Cruickshank</Key>
       <Title>Dame</Title>
       <Forenames>Joanna Margaret</Forenames>
-      <Text>, D.B.E., R:R.C, Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.B.E.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -564,7 +610,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dack</Key>
-      <Text>Walter, Companion, Imperial Service Order</Text>
+      <Forenames>Walter</Forenames>
+      <Text>, Companion, Imperial Service Order</Text>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -614,7 +661,9 @@
     <MainItem>
       <Key>Daubney</Key>
       <Forenames>Robert</Forenames>
-      <Text>, O.B.E., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +671,10 @@
     <MainItem>
       <Key>Davidson</Key>
       <Forenames>John Wallace Ord</Forenames>
-      <Text>, C.M.G., O.B.E., H.M. Consul-General in China</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2825</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -631,7 +683,9 @@
       <Key>Davies</Key>
       <Title>Capt. Sir</Title>
       <Forenames>Leonard Twiston</Forenames>
-      <Text>, K.B.E., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -642,7 +696,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Yarnell</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -672,7 +728,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>William John</Forenames>
-      <Text>. O.B.E., H.M. Consul-General at Harbin</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2325</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -727,7 +785,9 @@
     <MainItem>
       <Key>Dawnay</Key>
       <Title>Lt.</Title>
-      <Text>-Comdr. Peter, Member 4th CI., Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>

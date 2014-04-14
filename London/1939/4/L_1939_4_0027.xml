@@ -296,7 +296,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>J. M.</Forenames>
-      <Text>(R.A.M.C</Text>
+      <Text>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>7172</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1067,8 +1069,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barkshire</Key>
-      <Forenames>C. A. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. A. St. J</Forenames>
       <PageNumber>8535</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1465,7 +1466,9 @@
       <Key>Bartlett</Key>
       <Title>Sir</Title>
       <Forenames>B. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1687,7 +1690,7 @@
       <PageNumber>8393</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>P. C</Text>
+      <Text>P. C.</Text>
       <PageNumber>7700</PageNumber>
     </SubItem>
   </ItemGroup>

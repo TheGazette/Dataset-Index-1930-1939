@@ -44,7 +44,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Weir</Key>
-      <Text>Miss Hannah, Member, Order of the British Em ' ' pire</Text>
+      <Title>Miss</Title>
+      <Forenames>Hannah</Forenames>
+      <Text>, Member, Order of the British Em ' ' pire</Text>
       <PageNumber>3678</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
       <Key>West</Key>
       <Title>Major</Title>
       <Forenames>Clement Arthur</Forenames>
-      <Text>^ M.C., Distinguished Ser-, vice Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -142,7 +146,9 @@
       <Key>Wiebkin</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Henry Wil-</Forenames>
-      <Text>.' ,liam, M.C., Officer, Order of the British Empire.</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +156,9 @@
     <MainItem>
       <Key>Wigley</Key>
       <Forenames>Wilfrid</Forenames>
-      <Text>' Murray, . O.B.E., Official Member, , . . Legislative Council of , Saint Christopher and ; . Nevis</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +166,10 @@
     <MainItem>
       <Key>Wigram</Key>
       <Title>Col. Rt. Hon. Sir</Title>
-      <Text>' .Clive, K.C.B., K.C.V.O., . C.S.I., Knight Grand Cross, Royal Victorian '.. . Order :</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>K.C.V.O.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -174,7 +185,9 @@
     <MainItem>
       <Key>Wilkinson</Key>
       <Title>Lt.-Col.</Title>
-      <Text>.and Bt..Col, Edgar William;T..IJ,, ,, .Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3574</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,7 +248,10 @@
     <MainItem>
       <Key>Wilson</Key>
       <Title>Lt.-Col.</Title>
-      <Text>the Rt. Hon.. Sir Leslie Orme, G.C.S.I., G.C.I.E., C.M.G., D.S.O.,.Gover. nor of the State of Queensland and its. . Dependencies</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2476</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +275,11 @@
     <MainItem>
       <Key>Woodwark</Key>
       <Forenames>Arthur Stanley</Forenames>
-      <Text>, C. M.G., C.B.E., M.D., F.R.C.P., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -289,7 +309,10 @@
       <Key>Wortham</Key>
       <Title>Col.</Title>
       <Forenames>Harold Charles Webster Hale</Forenames>
-      <Text>, C.M.G., ' D. S.O., Officer, Order of . ' St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,7 +321,9 @@
       <Key>Wright</Key>
       <Title>Maj.</Title>
       <Forenames>Andrew Bark-</Forenames>
-      <Text>worth, M.C., Commander, . Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3580</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -377,7 +402,10 @@
       <Key>Young</Key>
       <Title>Maj.</Title>
       <Forenames>Hubert Win-</Forenames>
-      <Text>. throp, C.M.G., D.S.O., . . Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3569</PageNumber>
       <PageNumber>4112</PageNumber>
     </MainItem>
@@ -388,7 +416,9 @@
         <KeyDitto>___ ___ —..—</KeyDitto>
       </Key>
       <Forenames>Mark Aitchison</Forenames>
-      <Text>, C.M.G., Officer; Order ; of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -703,15 +733,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W .</Forenames>
       <PageNumber>2478</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. B. [</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. B. [</Text>
       <PageNumber>2478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -800,8 +830,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>G. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>G. St. G</Forenames>
       <PageNumber>3141</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -958,6 +987,14 @@
     </MainItem>
   </ItemGroup>
   <SectionTitle>Anti-Aircraft Defence, School of, B. E. Wing</SectionTitle>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Courcy-Baldwin</Key>
+      <Forenames>W. L</Forenames>
+      <Text>: „</Text>
+      <PageNumber>3501</PageNumber>
+    </MainItem>
+  </ItemGroup>
   <SectionTitle>Electric Lighting, School' of</SectionTitle>
   <ItemGroup>
     <MainItem>

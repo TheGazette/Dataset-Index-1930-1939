@@ -376,7 +376,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lee</Key>
-      <Text>H. G</Text>
+      <Forenames>H. G.</Forenames>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +390,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M .</Forenames>
       <PageNumber>8390</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -527,8 +527,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B. -</Text>
+      <Forenames>I. O'B</Forenames>
+      <Text>. -</Text>
       <PageNumber>6714</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -722,16 +722,17 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, G. T. :</Text>
+      <Key>O'Brien</Key>
+      <Forenames>G. T.</Forenames>
+      <Text>:</Text>
       <PageNumber>6556</PageNumber>
       <PageNumber>8207</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Boherty, W. J</Text>
+      <Key>O'Boherty</Key>
+      <Forenames>W. J.</Forenames>
       <PageNumber>7273</PageNumber>
     </MainItem>
   </ItemGroup>

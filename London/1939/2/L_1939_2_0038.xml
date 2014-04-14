@@ -32,7 +32,11 @@
       </Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>Ronald Charles</Forenames>
-      <Text>, G.C.M.G.. K.C.B., C.V.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>3855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +60,13 @@
     <MainItem>
       <Key>Llewellin</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. John Jestyn, O.B.E., M.C., T.D., M.P., Commander, Order . of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3858</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -74,7 +84,10 @@
       <Key>Lloyd</Key>
       <Title>Capt.</Title>
       <Forenames>Humphrey Clifford</Forenames>
-      <Text>. M.V.O., M.C., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +115,10 @@
       <Key>Loraine</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Percy Lyham</Forenames>
-      <Text>, Bart., G.C.M.G., H.M. Ambassador Extraordinary and Plenipotentiary at Rome</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>4347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +195,10 @@
       <Key>Lyon</Key>
       <Title>Col.</Title>
       <Forenames>Colin Sinclair</Forenames>
-      <Text>, O.B.E., T.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +207,10 @@
       <Key>Lyons</Key>
       <Title>Maj. Sir</Title>
       <Forenames>Henry Edward</Forenames>
-      <Text>Bt., O.B.E., Baron</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3851</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -206,15 +228,21 @@
     <MainItem>
       <Key>MacArthur</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. William Porter, C.B., D.S.O., O.B.E., M.D.. D.Sc, F.R.C.P., F.R.C.P.I., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>McAuliffe</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Robert Paton, Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Robert Paton</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>3863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,7 +258,9 @@
     <MainItem>
       <Key>McCaghey</Key>
       <Forenames>William John</Forenames>
-      <Text>, M.B.E., |Companion, Imperial Service Order</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3870</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +382,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Forrester Douglas</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -393,7 +425,11 @@
       <Key>Mackenzie</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Eric Dighton</Forenames>
-      <Text>, C.M.G., D.S.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -410,7 +446,9 @@
     <MainItem>
       <Key>Mackenzie-Kennedy</Key>
       <Forenames>Henry Charles Donald Cleveland</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +457,9 @@
       <Key>MacKereth</Key>
       <Title>Col.</Title>
       <Forenames>Gilbert</Forenames>
-      <Text>, M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3856</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +467,9 @@
     <MainItem>
       <Key>McKillop</Key>
       <Forenames>Clarence John Archi-</Forenames>
-      <Text>bald, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4239</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +557,10 @@
       </Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Ian Macpher-</Forenames>
-      <Text>son, CLE., O.B.E.. M.B., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3854</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -556,7 +601,10 @@
     <MainItem>
       <Key>Mallet</Key>
       <Forenames>Victor Alexander Louis</Forenames>
-      <Text>, C.M.G., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>4435</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -621,7 +669,9 @@
     <MainItem>
       <Key>Marlow</Key>
       <Forenames>Edmund George</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -662,7 +712,9 @@
     <MainItem>
       <Key>Marsham</Key>
       <Forenames>Joan</Forenames>
-      <Text>, the Hon. Mrs., O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -701,7 +753,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Robert Edmund</Forenames>
-      <Text>, C.M.G., J.P., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -735,7 +789,9 @@
     <MainItem>
       <Key>Mather-Jackson</Key>
       <Forenames>Ada Frances</Forenames>
-      <Text>, Lady, O.B.E., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3862</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -1176,7 +1176,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Morris</Key>
-      <Forenames>A. De B.</Forenames>
+      <Forenames>A. De B</Forenames>
       <PageNumber>3206</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1247,8 +1247,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Murley</Key>
-      <Forenames>J. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>J. R. de C</Forenames>
       <PageNumber>7765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1430,8 +1429,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, G. E</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>G. E.</Forenames>
       <PageNumber>6984</PageNumber>
     </MainItem>
   </ItemGroup>

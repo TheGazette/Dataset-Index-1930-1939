@@ -255,8 +255,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Leary, B. P</Text>
+      <Key>O'Leary</Key>
+      <Forenames>B. P</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -321,7 +321,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pola</Key>
-      <Text>Khan</Text>
+      <Forenames>Khan</Forenames>
       <PageNumber>2638</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +510,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Spittle</Key>
-      <Text>W. R. J</Text>
+      <Forenames>W. R. J.</Forenames>
       <PageNumber>2144</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1015,8 +1015,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J .</Forenames>
       <PageNumber>2795</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1403,7 +1403,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Jauncey</Key>
-      <Text>J.' H. v '....'</Text>
+      <Forenames>J.</Forenames>
+      <Text>' H. v '....'</Text>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1473,7 +1474,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stileman</Key>
-      <Text>A. M. C</Text>
+      <Forenames>A. M. C.</Forenames>
       <PageNumber>3682</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1487,7 +1488,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wrey</Key>
-      <Text>E. O</Text>
+      <Forenames>E. O.</Forenames>
       <PageNumber>2401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1517,7 +1518,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Barnard</Key>
-      <Text>G. ... ... :</Text>
+      <Forenames>G.</Forenames>
+      <Text>... ... :</Text>
       <PageNumber>2563</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1555,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Farrant</Key>
-      <Text>J. G</Text>
+      <Forenames>J. G</Forenames>
       <PageNumber>3220</PageNumber>
     </MainItem>
   </ItemGroup>

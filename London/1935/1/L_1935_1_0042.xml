@@ -249,7 +249,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Leslie</Key>
-      <Text>. R. B</Text>
+      <Forenames>R. B .</Forenames>
       <PageNumber>547</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -279,7 +279,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis</Key>
-      <Text>.. A. C</Text>
+      <Text>. A. C</Text>
       <PageNumber>1730</PageNumber>
       <PageNumber>1731</PageNumber>
     </MainItem>
@@ -296,7 +296,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lewis-Bowen</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>1094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -345,7 +345,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>. A. C</Text>
+      <Forenames>A. C .</Forenames>
       <PageNumber>1634</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -519,7 +519,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyons</Key>
-      <Text>. E. F</Text>
+      <Forenames>E. F</Forenames>
       <PageNumber>302</PageNumber>
       <PageNumber>1905</PageNumber>
     </MainItem>
@@ -580,8 +580,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCracken</Key>
-      <Forenames>F.</Forenames>
-      <Text>de C</Text>
+      <Forenames>F. de C</Forenames>
       <PageNumber>698</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -595,7 +594,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macdonald</Key>
-      <Text>. A</Text>
+      <Forenames>A.</Forenames>
       <PageNumber>61</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -619,7 +618,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McDonald</Key>
-      <Text>. R. V</Text>
+      <Forenames>R. V.</Forenames>
       <PageNumber>772</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1457,8 +1456,8 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Title>St.</Title>
-      <Forenames>G. J. S.</Forenames>
+      <Title>St. G.</Title>
+      <Forenames>J. S.</Forenames>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1583,7 +1582,7 @@
     <KeyDitto>—</KeyDitto>
     <KeyDitto>___ ___ ___</KeyDitto>
     <SubItem>
-      <Text>W. K</Text>
+      <Text>W. K.</Text>
       <PageNumber>1556</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1967,15 +1966,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien. J. C. P</Text>
+      <Key>O'Brien</Key>
+      <Forenames>J. C. P.</Forenames>
       <PageNumber>1383</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J .</Forenames>
       <PageNumber>696</PageNumber>
     </MainItem>
   </ItemGroup>

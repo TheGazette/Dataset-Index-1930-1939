@@ -669,7 +669,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt. Jarvis, J. B. ...</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,8 +972,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>S.</Forenames>
-      <Text>van B</Text>
+      <Forenames>S. van B</Forenames>
       <PageNumber>7611</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1434,8 +1435,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lumley</Key>
-      <Forenames>T. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>T. O'D</Forenames>
       <PageNumber>6250</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1544,8 +1544,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>6554</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1774,8 +1773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Martin</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>D. St. G</Forenames>
       <PageNumber>7440</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,8 +1800,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>J. L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. L. de V</Forenames>
       <PageNumber>8054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1967,7 +1964,9 @@
       <Key>Meyrick</Key>
       <Title>Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7763</PageNumber>
     </MainItem>
   </ItemGroup>

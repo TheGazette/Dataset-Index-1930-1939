@@ -78,7 +78,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>James</Forenames>
-      <Text>, T.D., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -120,14 +122,16 @@
   <ItemGroup>
     <MainItem>
       <Key>Pepys</Key>
-      <Text>Walter Evelyn, Official Member, Legislative ' Council of .the Straits Settlements</Text>
+      <Forenames>Walter Evelyn</Forenames>
+      <Text>, Official Member, Legislative ' Council of .the Straits Settlements</Text>
       <PageNumber>4211</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Perks</Key>
-      <Text>Walter Richard, Member, Order of the British Empire</Text>
+      <Forenames>Walter Richard</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +154,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Petch</Key>
-      <Text>Rev.. Charles' Cousens. Chaplain, . Order of St. John of Jerusalem</Text>
+      <Title>Rev.</Title>
+      <Text>. Charles' Cousens. Chaplain, . Order of St. John of Jerusalem</Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +163,9 @@
     <MainItem>
       <Key>Phillips</Key>
       <Forenames>Thomas Hedley</Forenames>
-      <Text>. M.B.E., 'Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -183,7 +190,9 @@
     <MainItem>
       <Key>Piatt</Key>
       <Forenames>Councillor William Alexander</Forenames>
-      <Text>. M.B.E., J.P., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +232,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Portland</Key>
-      <Text>the Rt. Hon. William John Arthur Charles James Cavendish-Bentinck, Duke of, K.G., G.C.V.O., T.D</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>3946</PageNumber>
     </MainItem>
     <SubItem>
@@ -234,7 +247,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Poultdn</Key>
-      <Text>; Li.-Col. Arthur Faulconer, O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +266,11 @@
     <MainItem>
       <Key>Pownall</Key>
       <Title>Major and Bt. Lt.</Title>
-      <Text>Col. Henry Royds, D.S.O., M.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>2958</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -275,7 +295,11 @@
     <MainItem>
       <Key>Pryce</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Henry Edward ap Rhys, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3570</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -316,7 +340,9 @@
       <Key>Rafter</Key>
       <Title>Sir</Title>
       <Forenames>Charles Haughton</Forenames>
-      <Text>, K.B.E., Commander, .Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>4109</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +360,9 @@
     <MainItem>
       <Key>Rahbula</Key>
       <Forenames>Ernest Alexander Rahles</Forenames>
-      <Text>, M.C., F.S.A., A.R.I.B.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -359,7 +387,10 @@
     <MainItem>
       <Key>Ramsay</Key>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Hon. Alexander Robert Maule, D.S.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -370,7 +401,9 @@
       </Key>
       <Title>Hon. Patrick .</Title>
       <Forenames>William Maule</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -378,7 +411,9 @@
     <MainItem>
       <Key>Rankine</Key>
       <Forenames>Richard Sims Don-</Forenames>
-      <Text>kin, C.M.G., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3571</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -411,7 +446,9 @@
     <MainItem>
       <Key>Rawlins</Key>
       <Forenames>Evelyn Charles Donaldson</Forenames>
-      <Text>, O.B.E., Companion Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -419,7 +456,9 @@
     <MainItem>
       <Key>Rayment</Key>
       <Forenames>Francis</Forenames>
-      <Text>, D.C.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +467,10 @@
       <Key>Reed</Key>
       <Title>Col.</Title>
       <Forenames>Henry Robert Baynes</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3572</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +478,9 @@
     <MainItem>
       <Key>Reekie</Key>
       <Forenames>William Maxwell</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4110</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -472,7 +516,10 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>Hugh</Forenames>
-      <Text>, Bt., O.B.E., V.D., Brigadier, King's Body Guard for Scotland</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3500</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -565,7 +612,9 @@
       </Key>
       <Title>Major</Title>
       <Forenames>Henry Edward Sutherland</Forenames>
-      <Text>, M.C., Member of the Executive . Council of the Island of Grenada</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>2888</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -639,7 +688,9 @@
       </Key>
       <Title>Capt.</Title>
       <Forenames>John</Forenames>
-      <Text>McKellar, V.D., A.D.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,8 +714,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Robinson</Key>
-      <Forenames>The Very</Forenames>
-      <Text>Rev. Joseph Armitage, D.D!,' Knight Commander, Royal Victorian Order</Text>
+      <Title>The</Title>
+      <Forenames>Very</Forenames>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3573</PageNumber>
     </MainItem>
   </ItemGroup>

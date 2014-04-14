@@ -218,36 +218,37 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Callaghan, C. E, A</Text>
+      <Key>O'Callaghan</Key>
+      <Forenames>C. E</Forenames>
+      <Text>, A</Text>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Carroll, W. F</Text>
+      <Key>O'Carroll</Key>
+      <Forenames>W. F</Forenames>
       <PageNumber>6903</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, J</Text>
+      <Key>O'Connell</Key>
+      <Forenames>J</Forenames>
       <PageNumber>6902</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. D</Forenames>
       <PageNumber>6544</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Donald, W. H</Text>
+      <Key>O'Donald</Key>
+      <Forenames>W. H.</Forenames>
       <PageNumber>7510</PageNumber>
       <PageNumber>7580</PageNumber>
       <PageNumber>8197</PageNumber>
@@ -262,8 +263,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Driscoll, C. G</Text>
+      <Key>O'Driscoll</Key>
+      <Forenames>C. G.</Forenames>
       <PageNumber>6903</PageNumber>
       <PageNumber>8118</PageNumber>
       <PageNumber>8118</PageNumber>
@@ -271,8 +272,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Kelly, C. P</Text>
+      <Key>O'Kelly</Key>
+      <Forenames>C. P</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -332,8 +333,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shea, M</Text>
+      <Key>O'Shea</Key>
+      <Forenames>M</Forenames>
       <PageNumber>6976</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1294,7 +1295,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Richardson</Key>
-      <Text>. H</Text>
+      <Forenames>H.</Forenames>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1614,14 +1615,15 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. Clair-Ford, P</Text>
+      <Forenames>Clair-Ford</Forenames>
+      <Text>, P</Text>
       <PageNumber>7334</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Leger, G. M</Text>
+      <Key>St. Leger</Key>
+      <Forenames>G. M</Forenames>
       <PageNumber>8038</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1716,8 +1718,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Schomberg</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>H. St. G</Forenames>
       <PageNumber>8197</PageNumber>
       <PageNumber>8197</PageNumber>
     </MainItem>
@@ -1833,8 +1834,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Severin</Key>
-      <Forenames>I. St</Forenames>
-      <Text>. Q</Text>
+      <Forenames>I. St. Q</Forenames>
       <PageNumber>7752</PageNumber>
     </MainItem>
   </ItemGroup>

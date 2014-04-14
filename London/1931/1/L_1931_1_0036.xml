@@ -222,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loring</Key>
-      <Text>E. J</Text>
+      <Forenames>E. J.</Forenames>
       <PageNumber>1989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -245,7 +245,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Loveluck</Key>
-      <Text>J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>676</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +259,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Text>R. F. M</Text>
+      <Forenames>R. F. M.</Forenames>
       <PageNumber>2186</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,8 +268,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>677</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,8 +498,8 @@
   <ItemGroup>
     <MainItem>
       <Key>MacBwen</Key>
-      <Title>St.</Title>
-      <Forenames>O. M. G .</Forenames>
+      <Title>St. O.</Title>
+      <Forenames>M. G .</Forenames>
       <PageNumber>2138</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -578,7 +577,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Macllwaine</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M.</Forenames>
       <PageNumber>1128</PageNumber>
       <PageNumber>1129</PageNumber>
     </MainItem>
@@ -878,7 +877,9 @@
       <Key>Manningham-Buller</Key>
       <Title>Sir</Title>
       <Forenames>M. E.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1453</PageNumber>
     </MainItem>
   </ItemGroup>

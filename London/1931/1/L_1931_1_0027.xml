@@ -37,7 +37,9 @@
       <Key>Martindale</Key>
       <Title>Miss</Title>
       <Forenames>Louise</Forenames>
-      <Text>, M.D., B.S., J.P., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
     <MainItem>
       <Key>Matthews</Key>
       <Forenames>Robert Lee</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>63</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +90,10 @@
       <Key>May</Key>
       <Title>Sir</Title>
       <Forenames>George Ernest</Forenames>
-      <Text>, K.B.E., Baronet</Text>
+      <Text>
+        <Honour>K.B.E.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>744</PageNumber>
     </MainItem>
@@ -191,7 +198,9 @@
     <MainItem>
       <Key>Mills</Key>
       <Forenames>Arthur Walter</Forenames>
-      <Text>, Member, 5th class, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -199,7 +208,9 @@
     <MainItem>
       <Key>Minter</Key>
       <Forenames>Frederick Albert</Forenames>
-      <Text>, Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -295,7 +306,9 @@
       </Key>
       <Title>Lieut.</Title>
       <Forenames>Sidney Thomas</Forenames>
-      <Text>, R.N., Officer, Order of the British Empire ... Moriarty, Cecil Charles Hudson, O.B.E., Serving Brother Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -303,7 +316,9 @@
     <MainItem>
       <Key>Morony</Key>
       <Forenames>Thomas Henry</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India Morris, Thomas Joseph, Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +326,11 @@
     <MainItem>
       <Key>Morrish</Key>
       <Forenames>Arthur Gabriel</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order Morrison, Herbert Stanley, J.P., M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>999</PageNumber>
     </MainItem>
@@ -364,7 +383,11 @@
     <MainItem>
       <Key>Mounsey</Key>
       <Forenames>George Augustus</Forenames>
-      <Text>, C.M.G., O.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -399,7 +422,9 @@
       <Key>Murray</Key>
       <Title>Sir</Title>
       <Forenames>Oswyn Alexander Riithveh</Forenames>
-      <Text>, K.C.B., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -407,7 +432,10 @@
     <MainItem>
       <Key>Naef</Key>
       <Forenames>Conrad James</Forenames>
-      <Text>, C.B., C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -444,7 +472,13 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Mary Ellen</Forenames>
-      <Text>, Mrs., Officer, Order of St. John of Jerusalem ... Norman, Owen, Serving Brother, Order of St. John of Jerusalem ... Noseworthy, Richard Lysle, H.M. Consul at Los Angeles ... ... ... Nun, Nawab Malik Muhammad Hayat Khan Companion, Order of the Star of India ... ... .. Oakden, Ralph, C.S.I., O.B.E., Knight Ogle, Richard, Serving Brother, Order of St. John of Jerusalem Olipharit, Lancelot, C.B., C.M.G., Knight Commander Order of St. Michael and St. George ... Orde, Charles William, Companion, Order of St. Michael and St. George... Orton, Col. (temp. Brig.) Sidney Bernard, Companion, Order of the Bath Ovens, Alexander Rutherford, H.M. Consul at Tamsui ... Owen, David John, Knight</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1353</PageNumber>
     </MainItem>
@@ -455,7 +489,9 @@
         <KeyDitto>___ ___ —— ___ ___</KeyDitto>
       </Key>
       <Forenames>John Allen</Forenames>
-      <Text>, M.P., Commander, Order of the British Empire ... Pasricha, Mukund Lai, Companion, Order of the Indian Empire ... ... Paterson, Nicholas Julian, K.C., Officer, Order of the British Empire ... ... Member of the Executive Council of the Island of Grenada ... Pearce, Frederic James, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>

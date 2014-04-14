@@ -11,8 +11,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Grady, Rev. Carew James Standish, M.A., presented to the Vicarage of Holy Trinity, Bromley Common</Text>
+      <Key>O'Grady</Key>
+      <Title>Rev.</Title>
+      <Forenames>Carew James Standish</Forenames>
+      <Text>, M.A., presented to the Vicarage of Holy Trinity, Bromley Common</Text>
       <PageNumber>1738</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -75,7 +77,9 @@
       <Key>Swann</Key>
       <Title>Rev.</Title>
       <Forenames>Alfred</Forenames>
-      <Text>, D.S.C., M.A., presented to the Vicarage of Potterne</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+      </Text>
       <PageNumber>229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -136,7 +140,9 @@
     <MainItem>
       <Key>Adam</Key>
       <Forenames>Pierre</Forenames>
-      <Text>, O.B.E., Nominated Member, Council of Government of the Colony of Mauritius</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -196,7 +202,11 @@
       <Key>Alexander</Key>
       <Title>Col. (Temp. Brig.) the Hon.</Title>
       <Forenames>Harold Rupert Leofric George</Forenames>
-      <Text>, D.S.O., M.C., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>811</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -212,7 +222,9 @@
     <MainItem>
       <Key>Allardyce</Key>
       <Forenames>Robert Moir</Forenames>
-      <Text>, M.C., M.A., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -236,7 +248,9 @@
     <MainItem>
       <Key>Amarainhji</Key>
       <Forenames>Banesinhji</Forenames>
-      <Text>, Capt. H. H., Maharana Shri Sir, K.C.I.E., Knight Commander, Order of the Star of India</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -253,7 +267,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Athol Lancelot</Forenames>
-      <Text>, M.I.C.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -264,7 +280,9 @@
       </Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Eric Litchfield Brooke</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -286,7 +304,13 @@
       </Key>
       <Title>Col.</Title>
       <Forenames>William</Forenames>
-      <Text>, D.S.O., M.C., T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -311,7 +335,9 @@
       <Key>Aspinall</Key>
       <Title>Maj.</Title>
       <Forenames>Robert Stivala</Forenames>
-      <Text>, F.R.C.S. (Edin.), Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -327,7 +353,9 @@
     <MainItem>
       <Key>Assem</Key>
       <Forenames>Bey Said</Forenames>
-      <Text>, O.B.E., Honorary Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -335,7 +363,9 @@
     <MainItem>
       <Key>Austen</Key>
       <Forenames>Harold Cholmley Mansfield</Forenames>
-      <Text>, C.B.E., Nominated Member, Council of Government of the Colony of Mauritius</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1056</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -376,7 +406,9 @@
     <MainItem>
       <Key>Baldwin</Key>
       <Title>Reg.</Title>
-      <Text>' Serg.-Maj. Frederick Thomas, M.M., Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.M.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -394,7 +426,9 @@
     <MainItem>
       <Key>Ball</Key>
       <Forenames>George Joseph</Forenames>
-      <Text>, O.B.E., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>

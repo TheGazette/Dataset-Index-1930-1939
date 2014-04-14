@@ -15,7 +15,12 @@
       </Key>
       <Title>Brig.</Title>
       <Forenames>General Wallace Duffield</Forenames>
-      <Text>, V.C., C.B., C.M.G., D.S.O., one of H.M. Body Guard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6553</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -24,7 +29,10 @@
       <Key>Young</Key>
       <Title>Major Sir</Title>
       <Forenames>Hubert Winthrop</Forenames>
-      <Text>, C.M.G., D.S.O., H.M. Envoy Extraordinary and Minister Plenipotentiary to Iraq</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -230,8 +238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gage</Key>
-      <Forenames>R. F. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>R. F. O'D</Forenames>
       <PageNumber>7340</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -478,8 +485,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Beirne, J. J</Text>
+      <Key>O'Beirne</Key>
+      <Forenames>J. J.</Forenames>
       <PageNumber>6773</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -488,7 +495,9 @@
       <Key>Pile</Key>
       <Title>Sir</Title>
       <Forenames>F. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7588</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -673,7 +682,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -789,8 +800,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Welsh</Key>
-      <Forenames>W. M. M. O</Forenames>
-      <Text>'D</Text>
+      <Forenames>W. M. M. O'D</Forenames>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -842,7 +852,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fayle</Key>
-      <Text>. L. R. E</Text>
+      <Forenames>L. R. E</Forenames>
       <PageNumber>6703</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -950,6 +960,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Linde</Key>
+      <Forenames>C. A.</Forenames>
+      <PageNumber>7833</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Gepp</Key>
       <Forenames>E. C .</Forenames>
       <PageNumber>7589</PageNumber>
@@ -994,8 +1011,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lipscomb</Key>
-      <Forenames>H. T.</Forenames>
-      <Text>de B</Text>
+      <Forenames>H. T. de B</Forenames>
       <PageNumber>7833</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1197,9 @@
       <Key>Adam</Key>
       <Title>Sir</Title>
       <Forenames>R. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6488</PageNumber>
     </MainItem>
   </ItemGroup>

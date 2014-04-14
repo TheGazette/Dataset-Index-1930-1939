@@ -3,6 +3,15 @@
   <ItemGroup>
     <MainItem>
       <Key>United</Key>
+      <Forenames>Carlo Gatti Stevenson</Forenames>
+      <Text>and Slaters</Text>
+      <PageNumber>7047</PageNumber>
+      <PageNumber>7764</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>United</Key>
       <Forenames>Commercial Travellers</Forenames>
       <Text>' Association . of Great Britain and Ireland (U,K.C.T.A.)</Text>
       <PageNumber>8164</PageNumber>
@@ -11,7 +20,7 @@
   <ItemGroup>
     <MainItem>
       <Key>United</Key>
-      <Forenames>Restaurants</Forenames>
+      <Title>Restaurants .</Title>
       <PageNumber>7053</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -34,14 +43,14 @@
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>B. Productions</Text>
+      <Forenames>B. Productions</Forenames>
       <PageNumber>6563</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>V</Key>
-      <Text>G. Stores</Text>
+      <Forenames>G. Stores</Forenames>
       <PageNumber>7603</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,8 +71,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vairon</Key>
-      <Forenames>Ch</Forenames>
-      <Text>., &amp; Co</Text>
+      <Title>Ch.</Title>
+      <Text>, &amp; Co</Text>
       <PageNumber>7507</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,6 +89,15 @@
       <Forenames>Estates</Forenames>
       <Text>(Chesham)</Text>
       <PageNumber>6973</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>Vandervell</Key>
+      <Forenames>F.</Forenames>
+      <Text>&amp; P</Text>
+      <PageNumber>7287</PageNumber>
+      <PageNumber>8290</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -124,7 +142,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vernbris</Key>
-      <Text>(Sheffield) .:</Text>
+      <Title>(Sheffield)</Title>
+      <Text>.:</Text>
       <PageNumber>7522</PageNumber>
       <PageNumber>7523</PageNumber>
     </MainItem>
@@ -147,8 +166,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicarage</Key>
-      <Forenames>Farm Building Co</Forenames>
-      <Text>. . '</Text>
+      <Forenames>Farm Building</Forenames>
+      <Text>Co. . '</Text>
       <PageNumber>6560</PageNumber>
       <PageNumber>7292</PageNumber>
     </MainItem>
@@ -163,7 +182,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Vicars</Key>
-      <Text>(Portsmouth)-</Text>
+      <Title>(Portsmouth)</Title>
+      <Text>-</Text>
       <PageNumber>6387</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -224,6 +244,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Vitty</Key>
+      <Text>&amp; Seaborne</Text>
+      <PageNumber>6479</PageNumber>
+      <PageNumber>7876</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Vosper</Key>
       <Text>&amp; Company (Holdings)</Text>
       <PageNumber>7672</PageNumber>
@@ -233,21 +261,22 @@
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H.</Forenames>
       <PageNumber>8317</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>H. M. Vendors</Text>
+      <Forenames>H. M. Vendors</Forenames>
       <PageNumber>8144</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>W</Key>
-      <Text>Johnson Gill Seale and Company</Text>
+      <Forenames>Johnson Gill Seale</Forenames>
+      <Text>and Company</Text>
       <PageNumber>7360</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -334,7 +363,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Walton</Key>
-      <Forenames>Crisps</Forenames>
+      <Title>Crisps .</Title>
       <PageNumber>7162</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +377,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6628</PageNumber>
       <PageNumber>7859</PageNumber>
     </MainItem>
@@ -502,8 +531,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>Weller</Key>
+      <Text>&amp; .Meesons</Text>
+      <PageNumber>6557</PageNumber>
+      <PageNumber>6782</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Wellington</Key>
-      <Text>Assembly Rooms</Text>
+      <Forenames>Assembly Rooms</Forenames>
       <PageNumber>8380</PageNumber>
       <PageNumber>8382</PageNumber>
     </MainItem>
@@ -548,7 +585,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>(Stockport)</Text>
+      <Title>(Stockport)</Title>
       <PageNumber>6627</PageNumber>
       <PageNumber>7858</PageNumber>
     </MainItem>
@@ -589,7 +626,8 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>End and Central Properties</Text>
+      <Forenames>End</Forenames>
+      <Text>and Central Properties</Text>
       <PageNumber>6381</PageNumber>
       <PageNumber>6829</PageNumber>
       <PageNumber>7637</PageNumber>
@@ -598,7 +636,7 @@
   <ItemGroup>
     <MainItem>
       <Key>West</Key>
-      <Text>End Libraries</Text>
+      <Forenames>End Libraries</Forenames>
       <PageNumber>6559</PageNumber>
       <PageNumber>6561</PageNumber>
       <PageNumber>8236</PageNumber>
@@ -636,8 +674,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westcliff</Key>
-      <Title>Riding.</Title>
-      <Forenames>School</Forenames>
+      <Title>Riding. School .</Title>
       <PageNumber>7450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -651,7 +688,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>Omnibus Co</Forenames>
+      <Forenames>Omnibus</Forenames>
+      <Text>Co</Text>
       <PageNumber>6978</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -665,14 +703,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Westminster</Key>
-      <Forenames>Restaurant</Forenames>
+      <Title>Restaurant .</Title>
       <PageNumber>7672</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Westmore</Key>
-      <Forenames>Syndicate</Forenames>
+      <Title>Syndicate .</Title>
       <PageNumber>6304</PageNumber>
       <PageNumber>6858</PageNumber>
     </MainItem>
@@ -695,7 +733,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Weston</Key>
-      <Forenames>Gowns</Forenames>
+      <Title>Gowns .</Title>
       <PageNumber>6485</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -710,7 +748,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Weyburn</Key>
-      <Forenames>Engineering Co</Forenames>
+      <Forenames>Engineering</Forenames>
+      <Text>Co</Text>
       <PageNumber>7291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -734,7 +773,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheldale</Key>
-      <Text>(Norfolk) Estate</Text>
+      <Title>(Norfolk) Estate .</Title>
       <PageNumber>7675</PageNumber>
       <PageNumber>3141</PageNumber>
     </MainItem>
@@ -768,15 +807,14 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Arheaker</Forenames>
+      <Title>Arheaker .</Title>
       <PageNumber>6481</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Forenames>Bros</Forenames>
-      <Text>. (West Hartlepools)</Text>
+      <Title>Bros. (West Hartlepools)</Title>
       <PageNumber>6309</PageNumber>
       <PageNumber>6309</PageNumber>
     </MainItem>
@@ -807,14 +845,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Whitehall</Key>
-      <Forenames>Motors</Forenames>
+      <Title>Motors .</Title>
       <PageNumber>6781</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Whitell</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>7161</PageNumber>
       <PageNumber>7512</PageNumber>
     </MainItem>
@@ -837,7 +875,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittington</Key>
-      <Text>(Doncaster)</Text>
+      <Title>(Doncaster)</Title>
       <PageNumber>6781</PageNumber>
       <PageNumber>7049</PageNumber>
     </MainItem>
@@ -845,8 +883,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Whittle</Key>
-      <Forenames>Superheater</Forenames>
-      <Text>. ' Company..;</Text>
+      <Title>Superheater.</Title>
+      <Text>' Company..;</Text>
       <PageNumber>6388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -890,7 +928,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wild</Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>7855</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +959,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Richard</Forenames>
+      <Title>Richard .</Title>
       <PageNumber>7862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -945,7 +983,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Willoughby</Key>
-      <Text>(Plymouth)</Text>
+      <Title>(Plymouth)</Title>
       <PageNumber>6851</PageNumber>
       <PageNumber>7671</PageNumber>
     </MainItem>
@@ -953,7 +991,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wills</Key>
-      <Text>A. W. &amp; Son :</Text>
+      <Forenames>A. W.</Forenames>
+      <Text>&amp; Son :</Text>
       <PageNumber>7597</PageNumber>
       <PageNumber>8453</PageNumber>
     </MainItem>
@@ -970,7 +1009,7 @@
   <ItemGroup>
     <MainItem>
       <Key>WillsQn</Key>
-      <Forenames>Walter</Forenames>
+      <Title>Walter.</Title>
       <PageNumber>6859</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,15 +1035,15 @@
       <Key>
         <KeyDitto>-</KeyDitto>
       </Key>
-      <Forenames>Wilson Boot Co</Forenames>
-      <Text>. ..: -</Text>
+      <Forenames>Wilson Boot</Forenames>
+      <Text>Co. ..: -</Text>
       <PageNumber>7404</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>WimborJne</Key>
-      <Text>Minster Masonic Hall Company</Text>
+      <Forenames>Minster Masonic Hall Company</Forenames>
       <PageNumber>6780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1059,7 +1098,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wolfsky</Key>
-      <Text>M Womersley,. James &amp; Sons</Text>
+      <Forenames>M</Forenames>
+      <Text>Womersley,. James &amp; Sons</Text>
       <PageNumber>6858</PageNumber>
     </MainItem>
     <SubItem>
@@ -1092,8 +1132,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Forenames>Hydraulic Hoist Co</Forenames>
-      <Text>. ... Woodland Estates (Bury</Text>
+      <Forenames>Hydraulic Hoist</Forenames>
+      <Text>Co. ... Woodland Estates (Bury</Text>
       <PageNumber>8231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1226,8 +1266,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ackroyd</Key>
-      <Forenames>Geo</Forenames>
-      <Text>., Jnr</Text>
+      <Title>Geo., Jnr.</Title>
       <PageNumber>6392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,7 +1309,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Alite</Key>
-      <Forenames>Foundry</Forenames>
+      <Title>Foundry .</Title>
       <PageNumber>7169</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1327,7 +1366,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ball</Key>
-      <Forenames>Aubrey</Forenames>
+      <Title>Aubrey .</Title>
       <PageNumber>8459</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1357,7 +1396,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Bates</Key>
-      <Forenames>Edwin</Forenames>
+      <Title>Edwin .</Title>
       <PageNumber>6640</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1372,7 +1411,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Beaman</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>6787</PageNumber>
     </MainItem>
   </ItemGroup>

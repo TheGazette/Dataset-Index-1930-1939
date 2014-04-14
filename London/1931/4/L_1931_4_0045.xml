@@ -139,8 +139,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Vaughan</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. St. J</Forenames>
       <PageNumber>6879</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +241,7 @@
   <ItemGroup>
     <MainItem>
       <Key>White</Key>
-      <Text>L. J. M</Text>
+      <Forenames>L. J. M.</Forenames>
       <PageNumber>7075</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -365,7 +364,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Haverfordwest</Key>
-      <Text>resignation of Lord Kylsarit, G.C.M.G</Text>
+      <Text>
+        <Honour>G.C.M.G</Honour>
+      </Text>
       <PageNumber>7241</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -386,12 +387,16 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>6466</PageNumber>
       </Text>
       <PageNumber>6466</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Thornton, Brig.-Gen. William Brooke, D.S.O.</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6466</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -406,14 +411,18 @@
       <PageNumber>6466</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Unett, Capt. John Alfred, D. S.O Wilson, Brevet Col. Harold Rene, D.S.O., T.D</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6466</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Hertford</Key>
-      <Text>: Church, Lt.-Col. Sir Geoffrey Selby, Bt., M.C</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7585</PageNumber>
     </MainItem>
     <SubItem>
@@ -439,6 +448,7 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>O.B.E.</Honour>
         <PageNumber>7662</PageNumber>
       </Text>
       <PageNumber>7662</PageNumber>
@@ -447,7 +457,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Nottingham</Key>
-      <Text>: Bagnall-Wild, Brig.-Gen. Ralph Kirkby, C.M.G., C. B.E</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>7506</PageNumber>
     </MainItem>
     <SubItem>
@@ -455,7 +467,9 @@
       <PageNumber>7506</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Musters, Lt.-Col. John Nevile Chaworth, D. S.O., T.D</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+      </Text>
       <PageNumber>7506</PageNumber>
     </SubItem>
     <SubItem>
@@ -472,6 +486,7 @@
     <SubItem>
       <Text>
         <PageNumber>6395</PageNumber>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>6395</PageNumber>
     </SubItem>
@@ -483,19 +498,26 @@
       <PageNumber>7909</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>Thesiger, Vice-Admiral Bertram Sackville, C.B., C. M.G</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>7909</PageNumber>
     </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Surrey</Key>
-      <Text>: Chetwynd-Stapylton, Lt.Col. (Bt. Col.) Granville Brian, T. D</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6962</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
         <PageNumber>6962</PageNumber>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D. S.O.</Honour>
       </Text>
       <PageNumber>6962</PageNumber>
     </SubItem>
@@ -507,11 +529,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Wilts</Key>
-      <Text>: Everett, Maj.-Gen. Sir Henry Joseph, K.C.M.G., C.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7413</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>D.S.O.</Honour>
         <PageNumber>7413</PageNumber>
       </Text>
       <PageNumber>7413</PageNumber>
@@ -522,7 +548,10 @@
       <Key>Worcester</Key>
       <Title>Brevet Col.</Title>
       <Forenames>Alfred Cyril Whitworth Hobson</Forenames>
-      <Text>, M.C., T.D</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D</Honour>
+      </Text>
       <PageNumber>8069</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -530,12 +559,17 @@
     <MainItem>
       <Key>Yorkshire</Key>
       <Forenames>North Riding</Forenames>
-      <Text>: Dugdale, Maj. Thomas Lionel, M.P</Text>
+      <Text>
+        <Honour>M.P</Honour>
+      </Text>
       <PageNumber>8409</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
         <PageNumber>8409</PageNumber>
+        <Honour>K.B.E</Honour>
       </Text>
       <PageNumber>8409</PageNumber>
     </SubItem>
@@ -545,7 +579,11 @@
     <MainItem>
       <Key>Glasgow</Key>
       <Forenames>City</Forenames>
-      <Text>of, Sir John Maxwell Stirling-Maxwell, Bart, K.T., D.L., LL.D</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>K.T.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>7907</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -554,7 +592,10 @@
       <Key>Northumberland</Key>
       <Title>Sir</Title>
       <Forenames>Francis Douglas Blake</Forenames>
-      <Text>, Bt., C.B</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>C.B</Honour>
+      </Text>
       <PageNumber>7737</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -563,7 +604,9 @@
       <Key>Stirling</Key>
       <Title>Brig.-Gen. Sir</Title>
       <Forenames>Nor-</Forenames>
-      <Text>man Archibald Orr Ewing, Bt., D.S.O</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7739</PageNumber>
     </MainItem>
   </ItemGroup>

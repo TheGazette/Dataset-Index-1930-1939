@@ -54,7 +54,9 @@
     <MainItem>
       <Key>Cochrane</Key>
       <Forenames>Group</Forenames>
-      <Text>Capt. the Hon, Ralph Alexander, A.F.C., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>A.F.C.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -62,7 +64,9 @@
     <MainItem>
       <Key>Cohen</Key>
       <Forenames>Bertram</Forenames>
-      <Text>, M.B., B.S., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -99,7 +103,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Percy</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -108,7 +114,10 @@
       <Key>Cope</Key>
       <Title>Major Sir</Title>
       <Forenames>William</Forenames>
-      <Text>, Bart., T.D., K.C., Deputy Chairman, Glamorganshire Quarter Sessions</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +134,9 @@
     <MainItem>
       <Key>Corfield</Key>
       <Forenames>Charles Russell</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>53</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -151,7 +162,10 @@
     <MainItem>
       <Key>Courroux</Key>
       <Forenames>Edward Septimus</Forenames>
-      <Text>, M.V.O., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,7 +173,9 @@
     <MainItem>
       <Key>Cousins</Key>
       <Forenames>William Robert</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -176,7 +192,9 @@
     <MainItem>
       <Key>Craig</Key>
       <Forenames>Alderman Gilfrid Gordon</Forenames>
-      <Text>, J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>
@@ -202,7 +220,9 @@
       <Key>Crookshank</Key>
       <Title>Capt.</Title>
       <Forenames>Harry Frederick Comfort</Forenames>
-      <Text>, M.P., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>751</PageNumber>
     </MainItem>
@@ -212,7 +232,10 @@
       <Key>Crosland</Key>
       <Title>Lt.-Col. and Bt. Col.</Title>
       <Forenames>Harold Powell</Forenames>
-      <Text>, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +243,9 @@
     <MainItem>
       <Key>Cross</Key>
       <Forenames>Richard Donald</Forenames>
-      <Text>, Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -280,7 +305,10 @@
     <MainItem>
       <Key>Cunningham</Key>
       <Forenames>Vice-</Forenames>
-      <Text>Admiral Andrew Browne, C.B., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -315,7 +343,9 @@
     <MainItem>
       <Key>Dadabhai</Key>
       <Forenames>Dinshaw Variava</Forenames>
-      <Text>, O.B.E., M.B.,F.R.C.S.Ed.. Associate Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>54</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -324,7 +354,9 @@
       <Key>Dale</Key>
       <Title>Sir</Title>
       <Forenames>Henry Hallett</Forenames>
-      <Text>, C.B.E., Member, Court of London University</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2161</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -342,7 +374,9 @@
       <Key>Daly</Key>
       <Title>Brevet Lt.-Col.</Title>
       <Forenames>Victor Alexander Henry</Forenames>
-      <Text>, M.C., Gentleman of the Corps, H.M. Body Guard of the Honourable Corps of Gentleman at Arms</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -368,8 +402,9 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>The</Forenames>
-      <Text>Rt. Rev. John Russell, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
+      <Title>The Rt. Rev.</Title>
+      <Forenames>John Russell</Forenames>
+      <Text>, Chaplain and Sub-Prelate, Order of St. John of Jerusalem</Text>
       <PageNumber>52</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -427,7 +462,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Ashton</Forenames>
-      <Text>, O.B.E., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +506,10 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Leonard Twiston</Forenames>
-      <Text>, O.B.E., J.P., , D.L., Knight Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>10</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,7 +566,9 @@
       <Key>Dawson</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>Ernest Frederick Steell</Forenames>
-      <Text>, M.C., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -536,7 +579,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>James Alexander</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -586,6 +631,14 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Chazal</Key>
+      <Forenames>Louise Marie Denise</Forenames>
+      <Text>Mrs., Marc, Member, Order of the British Empire</Text>
+      <PageNumber>18</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Delmas</Key>
       <Forenames>Felix</Forenames>
       <Text>, Member, Order of the British Empire</Text>
@@ -596,15 +649,17 @@
     <MainItem>
       <Key>Dening</Key>
       <Forenames>Maberly Esler</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Silva</Forenames>
-      <Text>, Edwin Roland, Member, Order of the British Empire</Text>
+      <Key>De Silva</Key>
+      <Forenames>Edwin Roland</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>18</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -628,7 +683,9 @@
     <MainItem>
       <Key>Dimoline</Key>
       <Title>Lt.-Col.</Title>
-      <Text>-William Alfred, M.C., Nominated . Member, Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1763</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -645,7 +702,9 @@
     <MainItem>
       <Key>Ditchburn</Key>
       <Forenames>Alfred Henry</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -669,8 +728,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Dobbinson</Key>
-      <Forenames>The Revd</Forenames>
-      <Text>. Richard William, Officer, Order of the British Empire</Text>
+      <Title>The Revd.</Title>
+      <Forenames>Richard William</Forenames>
+      <Text>, Officer, Order of the British Empire</Text>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,7 +746,11 @@
     <MainItem>
       <Key>Dobson</Key>
       <Forenames>Alban Tabor Austin</Forenames>
-      <Text>, C.V.O., C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -702,7 +766,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Donaldson</Key>
-      <Text>M.D., D.P.H., ...... Officer, Order of the British Empire ... ... ... ir</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>___ ___ ___ ___ ___ ___ ___ ___ ___ ___</PageNumber>
     </MainItem>
   </ItemGroup>

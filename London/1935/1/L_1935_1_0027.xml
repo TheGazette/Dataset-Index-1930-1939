@@ -29,7 +29,13 @@
       <Key>Athlone</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Alexander Augustus Frederick William Alfred George</Forenames>
-      <Text>, Earl of, K.G., P.O., G.C.B., G.C.M.G., G.C.V.O., D.S.O., Royal Victorian Chain</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +60,9 @@
     <MainItem>
       <Key>Austen</Key>
       <Forenames>Harold Cholmley Mansfield</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -103,7 +111,9 @@
     <MainItem>
       <Key>Babu</Key>
       <Forenames>Rameshwar</Forenames>
-      <Text>' Prashad Singh, L.M.C., Member, Order of the British (Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>13</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -111,7 +121,9 @@
     <MainItem>
       <Key>Badeley</Key>
       <Forenames>Henry John Fan-</Forenames>
-      <Text>shawe, O.B.E., F:S.A., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -137,7 +149,10 @@
       <Key>Baird</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Harry Beau-</Forenames>
-      <Text>champ Douglas, C.B., O.M.G., CLE., D.S.O., ' Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -153,7 +168,9 @@
     <MainItem>
       <Key>Balaam</Key>
       <Forenames>Charles John</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -162,7 +179,9 @@
       <Key>Bankes</Key>
       <Title>Sir</Title>
       <Forenames>John</Forenames>
-      <Text>FJdon, K.G.C.B., Chairman, Royal Commission on Private Manufacture of, and trading in, Arms</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>1267</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +190,11 @@
       <Key>Banks</Key>
       <Title>Col. (Thomas Macdonald)</Title>
       <Forenames>Donald</Forenames>
-      <Text>, C.B., D.S.O., M.C., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -179,7 +202,9 @@
     <MainItem>
       <Key>Barber</Key>
       <Forenames>Charles Gordon</Forenames>
-      <Text>, M.B.E., Companion, Order of the Indian Empire „</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -209,7 +234,9 @@
       <Key>Beales</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>William Lear</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -250,7 +277,10 @@
       <Key>Beeman</Key>
       <Title>Eng.</Title>
       <Forenames>Rear-Adm</Forenames>
-      <Text>. Robert, C.M.G., Companion, Order of the Bath Bell, Thomas, Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -259,7 +289,10 @@
       <Key>Bernard</Key>
       <Title>Maj.-Gen.</Title>
       <Forenames>Denis John Charles Kirwan</Forenames>
-      <Text>, O.M.G., D.S.O., , Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -267,7 +300,11 @@
     <MainItem>
       <Key>Best</Key>
       <Forenames>Vice-Adm</Forenames>
-      <Text>. the Hon. Matthew Robert, C.B., D.S.O., M.V.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -276,7 +313,10 @@
       <Key>Betterton</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Henry Bucknall</Forenames>
-      <Text>, Bart., O.B.E., Baron Rushcliffe of Blackfordby</Text>
+      <Text>
+        <Honour>Bart</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>693</PageNumber>
     </MainItem>
@@ -310,7 +350,9 @@
       <Key>Bird</Key>
       <Title>Col.</Title>
       <Forenames>Arthur James Glover</Forenames>
-      <Text>, D.S.O., Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -338,7 +380,10 @@
       <Key>Birdwood</Key>
       <Title>Field-Marshal Sir</Title>
       <Forenames>William Riddel</Forenames>
-      <Text>, Bt., G.O.B., G.C.S.I., G.O.M.G., CLE., D.S.O., Captain of Deal Castle</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>1631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -346,7 +391,9 @@
     <MainItem>
       <Key>Birt</Key>
       <Forenames>Guy Capper</Forenames>
-      <Text>, Commander, Royal Victorian Order ... Bishop, Thomas Henry, Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -364,7 +411,11 @@
     <MainItem>
       <Key>Blarney</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Thomas Albert, C.B., C.M.G., D.S.O., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -374,7 +425,10 @@
       <Key>Blatherwick</Key>
       <Title>Col.</Title>
       <Forenames>Thomas</Forenames>
-      <Text>, D.S.O., M.C T.D., Companion, Order of the ' Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +436,9 @@
     <MainItem>
       <Key>Bledisloe</Key>
       <Title>H.E.</Title>
-      <Text>the Lord, G.C.M.G., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>G.C.M.G.</Honour>
+      </Text>
       <PageNumber>55</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -390,7 +446,9 @@
     <MainItem>
       <Key>Blundelil</Key>
       <Forenames>Henry S. Moss</Forenames>
-      <Text>, C.B.E., LL.D.,' Deputy Chairman, Herring Industry Board</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>1903</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -406,7 +464,10 @@
     <MainItem>
       <Key>Bonham-Carter</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Charles, C.B., O.M.G., D.S.O., Knight Commander, Order of the Bath Boon, Herbert, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>14</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,7 +525,9 @@
       <Key>Bracegirdle</Key>
       <Title>Capt.</Title>
       <Forenames>Leighton Seymour</Forenames>
-      <Text>, D.S.O., Cornpanion, Order of St. Michael and St. George.. Bracken, Geoffrey Thomas Hirst, O.S.I., CLE., Member of the Executive Council of the Governor of Madras</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>238</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -511,7 +574,9 @@
     <MainItem>
       <Key>Bressey</Key>
       <Forenames>Charles Herbert</Forenames>
-      <Text>, C.B., C.B.B., F.S.I., Knight</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>
@@ -535,7 +600,9 @@
     <MainItem>
       <Key>Brittain</Key>
       <Forenames>Edwin Lester</Forenames>
-      <Text>, O.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>56</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -572,7 +639,11 @@
       <Key>Browne</Key>
       <Title>Col. (temp. Brig.)</Title>
       <Forenames>James Clendinning</Forenames>
-      <Text>, C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -583,7 +654,9 @@
       </Key>
       <Title>Miss</Title>
       <Forenames>Mildred Frances</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>9</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -609,7 +682,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Buchanan</Key>
-      <Text>Smith, ' Walter, C.M.G., M.C, Knight'</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
       <PageNumber>1269</PageNumber>
     </MainItem>

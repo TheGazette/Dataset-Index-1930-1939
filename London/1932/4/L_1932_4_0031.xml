@@ -164,7 +164,9 @@
     <MainItem>
       <Key>Hutchinson</Key>
       <Forenames>A. G.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,7 +631,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacDougall</Key>
-      <Text>. C. L</Text>
+      <Forenames>C. L.</Forenames>
       <PageNumber>7505</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -815,7 +817,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Manning</Key>
-      <Text>. W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>8137</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -869,7 +871,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mason</Key>
-      <Text>. G. P</Text>
+      <Forenames>G. P.</Forenames>
       <PageNumber>7342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -930,7 +932,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Mathews</Key>
-      <Text>. H. F. E!</Text>
+      <Forenames>H. F. E</Forenames>
+      <Text>!</Text>
       <PageNumber>7087</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -952,14 +955,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell</Key>
-      <Text>. F. G</Text>
+      <Forenames>F. G.</Forenames>
       <PageNumber>6993</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Mead</Key>
-      <Text>. B. S</Text>
+      <Forenames>B. S .</Forenames>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1376,7 +1379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oliver</Key>
-      <Text>. A. R. L</Text>
+      <Forenames>A. R. L.</Forenames>
       <PageNumber>7342</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1422,8 +1425,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Shanohun, A. G</Text>
+      <Key>O'Shanohun</Key>
+      <Forenames>A. G.</Forenames>
       <PageNumber>6922</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1602,8 +1605,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pereira</Key>
-      <Forenames>B.</Forenames>
-      <Text>de H</Text>
+      <Forenames>B. de H</Forenames>
       <PageNumber>7341</PageNumber>
     </MainItem>
   </ItemGroup>

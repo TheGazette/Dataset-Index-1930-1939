@@ -23,7 +23,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>Walter</Forenames>
-      <Text>, M.C., Minister of Health</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3189</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -42,7 +44,9 @@
       </Key>
       <Title>Paymr. Cdr.</Title>
       <Forenames>Maurice Herbert</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -52,7 +56,11 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Newlyn Mason, D.S.O., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -60,7 +68,9 @@
     <MainItem>
       <Key>Ellis</Key>
       <Forenames>Albert Fuller</Forenames>
-      <Text>, C.M.G., Knight</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3686</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -79,7 +89,9 @@
       <Key>Ellul</Key>
       <Title>Prof.</Title>
       <Forenames>Joseph</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -139,7 +151,10 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Title>Capt.</Title>
-      <Text>&amp; Bt. Maj. Herbert Baird, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,7 +165,12 @@
       </Key>
       <Title>Col. (hon. Brig.-Gen.)</Title>
       <Forenames>Lewis Pugh</Forenames>
-      <Text>, V.C., C.M.G., D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3688</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -181,7 +201,9 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>William Owen</Forenames>
-      <Text>, M.B.E., L.R.C.P., Ed., Knight of Grace, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>4070</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +237,11 @@
     <MainItem>
       <Key>Fairbank</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Christian Albert Hastings, M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -256,7 +282,9 @@
     <MainItem>
       <Key>Farnington</Key>
       <Title>Warrt. Ofir.</Title>
-      <Text>CI. I (Staff S.M. 2nd CI.) Charles James, D.C.M., Member, Order of the British . Empire</Text>
+      <Text>
+        <Honour>D.C.M.</Honour>
+      </Text>
       <PageNumber>3694</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,7 +317,9 @@
     <MainItem>
       <Key>Fazan</Key>
       <Forenames>Sidney Herbert</Forenames>
-      <Text>, C.B.E., Nominated Official Member of the Legislative Council of Kenya Colony</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2708</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,7 +334,9 @@
   <ItemGroup>
     <MainItem>
       <Key>F</Key>
-      <Text>e n t o n, James, M.D., M.R.C.P., D.P.H., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3697</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -312,7 +344,9 @@
     <MainItem>
       <Key>Fenwick-Palmer</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. Roderick George, Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +378,11 @@
     <MainItem>
       <Key>Fisher</Key>
       <Title>Lt.</Title>
-      <Text>-Gen. Bertie Drew, C.B., C.M.G., D.S.O., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3687</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +392,12 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bt. Col. John Malcolm, D.S.O., M.C., T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -362,7 +405,9 @@
     <MainItem>
       <Key>Fisk</Key>
       <Forenames>George</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4071</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -459,7 +504,9 @@
     <MainItem>
       <Key>Ford</Key>
       <Forenames>Vice-Adml</Forenames>
-      <Text>. Wilbraham Tennyson Randle, C.B., Officer, Order of St. John of Jerusalem 4°7i Forsyth, Miss Bessie Cowie Simpson, Royal Red Cross, ist CI</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>

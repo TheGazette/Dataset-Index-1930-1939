@@ -75,7 +75,9 @@
     <MainItem>
       <Key>Virgin</Key>
       <Forenames>Islands</Forenames>
-      <Text>, Executive Council, Official Member, Aubrey Scott Gillett, F.R.C.S., M.R.C.S., L.R.C.P</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>146</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -118,7 +120,10 @@
       <Key>Blackburne</Key>
       <Title>the Rev.</Title>
       <Forenames>Harry William</Forenames>
-      <Text>, D.S.O., M.C., M.A., presented to the Deanery of the Cathedral Church of Bristol</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1862</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -213,7 +218,12 @@
     <MainItem>
       <Key>Abraham</Key>
       <Forenames>James Johnston</Forenames>
-      <Text>, C.B.E., D.S.O., M.D., F.R.C.S., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>49</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -223,7 +233,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Conrad</Forenames>
-      <Text>, M.B.E., Member of the Executive Council and Official Member of the Legislative Council in the Nyasaland Protectorate</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2036</PageNumber>
     </MainItem>
   </ItemGroup>

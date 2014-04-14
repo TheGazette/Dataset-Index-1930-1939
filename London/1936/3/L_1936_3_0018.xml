@@ -4,7 +4,9 @@
     <MainItem>
       <Key>Treasury</Key>
       <Title>(cont.)</Title>
-      <Text>: Appointment, Sir Henry Cautley, Bart., K.C., Steward and Bailiff, of the Manor of Northstead</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>4224</PageNumber>
     </MainItem>
     <SubItem>
@@ -23,7 +25,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>(See under Agriculture and Fisheries, Ministry of.) Turkey, Clearing Office Order</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Turkey</Forenames>
+      <Text>, Clearing Office Order</Text>
       <PageNumber>5935</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,12 +106,21 @@
     <MainItem>
       <Key>Whaling</Key>
       <Forenames>Industry</Forenames>
-      <Text>(Regulation) Act. (See under Orders in Council.) Wheat Act. (See under Agriculture and Fisheries, Ministry of.) Wild Birds Protection Acts. (See under Home Office.) Windsor Castle: Constable and Governor, Maj.-Gen. The Rt. Hon. Alexander Augustus Frederick William Alfred George, Earl of Athlone, K.G., G.C.B., G.C.M.G., G.C.V.O., D.S.O</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.V.O.</Honour>
         <PageNumber>4666</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
       </Text>
       <PageNumber>4666</PageNumber>
     </SubItem>
@@ -115,16 +128,25 @@
   <ItemGroup>
     <MainItem>
       <Key>Workmen</Key>
-      <Text>'s Compensation Act. (See under Home Office.) Y York, T.R.H. The Duke and Duchess of : Deputy Comptroller and Equerry, Commander Harold George Campbell, C-V.O., D.S.O</Text>
+      <Text>
+        <Honour>D.S.O</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>M.D.</Honour>
         <PageNumber>5657</PageNumber>
+        <Honour>M.D.</Honour>
         <PageNumber>5657</PageNumber>
+        <Honour>M.D.</Honour>
         <PageNumber>5657</PageNumber>
+        <Honour>K.C.V.O.</Honour>
         <PageNumber>5657</PageNumber>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>C.M.G.</Honour>
         <PageNumber>4668</PageNumber>
+        <Honour>K.C.V.O.</Honour>
       </Text>
       <PageNumber>5657</PageNumber>
     </SubItem>
@@ -184,7 +206,9 @@
     <MainItem>
       <Key>Abbiss</Key>
       <Forenames>George</Forenames>
-      <Text>, O.B.E., Assistant Commissioner, Metropolitan ' Police</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>5474</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -201,15 +225,21 @@
       <Key>Aird</Key>
       <Title>Major Sir</Title>
       <Forenames>John Renton</Forenames>
-      <Text>, Bt., M.C., Equerry-in-Waiting to His Majesty</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4664</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Airlie</Key>
-      <Forenames>The Dowager Countess</Forenames>
-      <Text>of, G.B.E., Lady of the Bedchamber to Queen Mary</Text>
+      <Title>The</Title>
+      <Forenames>Dowager Countess</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -217,7 +247,9 @@
     <MainItem>
       <Key>Albery</Key>
       <Forenames>Irving James</Forenames>
-      <Text>, M.C., Knight</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -226,15 +258,22 @@
       <Key>Alexander</Key>
       <Title>Major</Title>
       <Forenames>James Ulick Francis Canning</Forenames>
-      <Text>, C.M.G., C.V.O., O.B.E., Keeper of the Privy Purse</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>4663</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Ampthill</Key>
-      <Forenames>The Dowager</Forenames>
-      <Text>Lady, C.I., G.B.E., Lady of the Bedchamber to Queen Mary</Text>
+      <Title>The</Title>
+      <Forenames>Dowager</Forenames>
+      <Text>
+        <Honour>G.B.E.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -242,7 +281,9 @@
     <MainItem>
       <Key>Anderson</Key>
       <Forenames>Alexander Greig</Forenames>
-      <Text>, M.D., F.R.C.P., H.M. Physician in Scotland to H.M. Household</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4666</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -263,7 +304,9 @@
       </Key>
       <Title>The Rev.</Title>
       <Forenames>Frederick Ingall</Forenames>
-      <Text>, C.M.G., M.A., Chaplain of H.M. Household</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -272,7 +315,9 @@
       <Key>Andrews</Key>
       <Title>Canon</Title>
       <Forenames>Leonard Martin</Forenames>
-      <Text>, M.C., M.A., Chaplain, H.M. Household</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -281,7 +326,9 @@
       <Key>Anglesey</Key>
       <Title>The Rt. Hon.</Title>
       <Forenames>Charles Henry Alexander</Forenames>
-      <Text>, Marquess of. G.C.V.O., Lord Chamberlain to Queen Mary</Text>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+      </Text>
       <PageNumber>4668</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -298,16 +345,24 @@
     <MainItem>
       <Key>Arrigo</Key>
       <Forenames>Edgar</Forenames>
-      <Text>, M.B.E., Nominated Member, Executive Council of Malta ... '</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>5772</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Athlone</Key>
-      <Title>Major</Title>
-      <Forenames>General The Bit</Forenames>
-      <Text>. Hon. The Earl of K.G., G.C.B.. G.C.M.G., G.C.V.O., D.S.O., Member, Coronation Committee</Text>
+      <Title>Major-</Title>
+      <Forenames>General</Forenames>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>G.C.B.</Honour>
+        <Honour>G.C.M.G.</Honour>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>4223</PageNumber>
     </MainItem>
     <SubItem>
@@ -329,7 +384,10 @@
       <Key>Aubrey-Fletcher</Key>
       <Title>Major</Title>
       <Forenames>Henry Launcelot</Forenames>
-      <Text>, D.S.O., M.V.O., Gentleman of the Corps</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>4667</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -299,7 +299,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Read</Key>
-      <Text>. N. F</Text>
+      <Forenames>N. F .</Forenames>
       <PageNumber>6489</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -544,8 +544,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>O. R.</Forenames>
-      <Text>de W</Text>
+      <Forenames>O. R. de W</Forenames>
       <PageNumber>6557</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -650,8 +649,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John F. O. St.Quintin, E. Sandeman, G. R.'</Text>
+      <Key>St. John</Key>
+      <Forenames>F. O. St</Forenames>
+      <Text>.Quintin, E. Sandeman, G. R.'</Text>
       <PageNumber>7434</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1130,8 +1130,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stedall</Key>
-      <Forenames>E. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>E. St. G</Forenames>
       <PageNumber>7747</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1641,7 +1640,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ward</Key>
-      <Text>. A. F</Text>
+      <Forenames>A. F .</Forenames>
       <PageNumber>6627</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -616,8 +616,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Aubyn, H. C. Molesworth</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>H. C. Molesworth</Forenames>
       <PageNumber>7086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +841,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smith</Key>
-      <Text>. A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>6336</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -920,7 +920,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Soga</Key>
-      <Text>. R, R</Text>
+      <Forenames>R</Forenames>
+      <Text>, R</Text>
       <PageNumber>6251</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,7 +1121,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sutton</Key>
-      <Text>. A. L</Text>
+      <Forenames>A. L</Forenames>
       <PageNumber>6704</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,7 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tacey</Key>
-      <Text>. N. S</Text>
+      <Forenames>N. S</Forenames>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1490,8 +1491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde</Key>
-      <Forenames>J. R. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>J. R. O'B</Forenames>
       <PageNumber>7834</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1533,8 +1533,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Watson</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J. B</Text>
+      <Forenames>H. St. J</Forenames>
+      <Text>. B</Text>
       <PageNumber>7835</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1858,7 +1858,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woods</Key>
-      <Text>. W. G. H</Text>
+      <Forenames>W. G. H.</Forenames>
       <PageNumber>7264</PageNumber>
     </MainItem>
   </ItemGroup>

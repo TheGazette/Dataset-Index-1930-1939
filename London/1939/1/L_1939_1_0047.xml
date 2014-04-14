@@ -50,7 +50,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pragnell</Key>
-      <Text>. M. W</Text>
+      <Forenames>M. W.</Forenames>
       <PageNumber>610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -726,7 +726,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodd</Key>
-      <Text>. W. J. P</Text>
+      <Forenames>W. J. P.</Forenames>
       <PageNumber>542</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1052,22 +1052,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, W. A. W</Text>
+      <Key>St. George</Key>
+      <Forenames>W. A. W.</Forenames>
       <PageNumber>865</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. John, E. R. G</Text>
+      <Key>St. John</Key>
+      <Forenames>E. R. G.</Forenames>
       <PageNumber>679</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. Lawrence, R. T</Text>
+      <Key>St. Lawrence</Key>
+      <Forenames>R. T .</Forenames>
       <PageNumber>685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1270,8 +1270,7 @@
       <Key>
         <KeyDitto>— ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>756</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1507,8 +1506,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sheil</Key>
-      <Forenames>F. P. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>F. P. St. M</Forenames>
       <PageNumber>1846</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1553,7 +1551,9 @@
       <Key>Shifmer</Key>
       <Title>Sir</Title>
       <Forenames>H. B.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1210</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1780,8 +1780,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sleeman</Key>
-      <Forenames>J. C.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. C. de F</Forenames>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>

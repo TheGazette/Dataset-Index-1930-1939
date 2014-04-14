@@ -10,7 +10,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>of Leys, Sir J. L. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -220,7 +222,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carmiehael</Key>
-      <Text>J. H</Text>
+      <Forenames>J. H</Forenames>
       <PageNumber>2321</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,8 +564,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Coldwell</Key>
-      <Forenames>A. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>A. St. G</Forenames>
       <PageNumber>2320</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1024,7 +1025,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cubitt</Key>
-      <Text>A. B</Text>
+      <Forenames>A. B</Forenames>
       <PageNumber>3221</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1163,7 +1164,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Darby</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>2739</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1214,7 +1215,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Davies</Key>
-      <Text>H. L. O '</Text>
+      <Forenames>H. L. O</Forenames>
+      <Text>'</Text>
       <PageNumber>2824</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1249,7 +1251,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Davis</Key>
-      <Text>F. C</Text>
+      <Forenames>F. C</Forenames>
       <PageNumber>2738</PageNumber>
       <PageNumber>2739</PageNumber>
     </MainItem>
@@ -1311,6 +1313,14 @@
       <Forenames>W</Forenames>
       <Text>H</Text>
       <PageNumber>2319</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sales</Key>
+      <Forenames>La Terriere</Forenames>
+      <Text>, J. F</Text>
+      <PageNumber>3519</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -1385,7 +1395,9 @@
     <MainItem>
       <Key>Dick</Key>
       <Forenames>Cunyngham</Forenames>
-      <Text>, Sir C. K Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>3709</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1802,7 +1814,9 @@
       <Key>Erskine</Key>
       <Title>Sir</Title>
       <Forenames>T. W. H. J.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2235</PageNumber>
     </MainItem>
   </ItemGroup>

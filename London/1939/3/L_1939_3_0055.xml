@@ -429,7 +429,9 @@
       <Key>Meyrick</Key>
       <Title>Sir</Title>
       <Forenames>T. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,7 +512,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Milford</Key>
-      <Text>. C. R</Text>
+      <Forenames>C. R.</Forenames>
       <PageNumber>5923</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1307,8 +1309,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. M.</Forenames>
-      <Text>de B</Text>
+      <Forenames>G. M. de B</Forenames>
       <PageNumber>6567</PageNumber>
       <PageNumber>6567</PageNumber>
     </MainItem>

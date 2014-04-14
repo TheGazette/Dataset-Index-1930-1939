@@ -21,7 +21,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Mackintosh</Key>
-      <Text>of Mackintosh, Ella Mrs., C.B.E., Dame of Justice, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -30,7 +32,10 @@
       <Key>Maclaren</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Norman</Forenames>
-      <Text>, M.B., F.R.C.S.,R.A.M.C., (T.A.), Serving Brother, Order of St. John of .Jerusalem</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -56,7 +61,9 @@
       <Key>Macklin</Key>
       <Title>Maj.</Title>
       <Forenames>R. W.</Forenames>
-      <Text>, M.C., Official Member of the Legislative Council of Gambia</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3202</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -73,7 +80,10 @@
       <Key>McPhersoh</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Alan Bruce</Forenames>
-      <Text>, M.C., Member, 4th Class, , Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +112,9 @@
       </Key>
       <Title>Rt. Hon.</Title>
       <Forenames>James Ian</Forenames>
-      <Text>, K.C., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2852</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +133,9 @@
     <MainItem>
       <Key>McShine</Key>
       <Forenames>Arthur Hutton</Forenames>
-      <Text>, O.B.E., Nominated Unofficial Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -171,7 +185,9 @@
       <Key>Maguire</Key>
       <Title>Col.</Title>
       <Forenames>Frederick Arthur</Forenames>
-      <Text>; D.S.O., V.D., Companion, Order of St. Michael and St. George;..,</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -204,7 +220,9 @@
       <Key>Mallam</Key>
       <Title>Maj.</Title>
       <Forenames>Paul Phillips</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -229,7 +247,9 @@
     <MainItem>
       <Key>Marks</Key>
       <Forenames>Henry</Forenames>
-      <Text>, C.B.E., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -266,7 +286,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Hugh John Cole</Forenames>
-      <Text>, O.B.E., A.R.I.Bi.A., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -274,7 +296,9 @@
     <MainItem>
       <Key>Martin</Key>
       <Title>Maj. (Mechanist Off.)</Title>
-      <Text>, George William, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -301,7 +325,9 @@
       <Key>Matheson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Archibald</Forenames>
-      <Text>, D.S.O., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -326,7 +352,9 @@
       <Key>Mavrogordato</Key>
       <Title>Col.</Title>
       <Forenames>Arthur Stephen</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -344,7 +372,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald Maitland</Forenames>
-      <Text>, C.I.E., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -381,7 +411,9 @@
     <MainItem>
       <Key>Medcalf</Key>
       <Title>Lt.-Col.</Title>
-      <Text>&amp; Bvt. Col. Sydney Arthur, T.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -389,7 +421,9 @@
     <MainItem>
       <Key>Meek</Key>
       <Forenames>David Burnett</Forenames>
-      <Text>, O.B.E., , Companion, Order of the Indian Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +431,10 @@
     <MainItem>
       <Key>Megaw</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Sir John Wallace Dick, K.C.I.E., M.B., K.H.P., I.M.S., Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.I.E.</Honour>
+        <Honour>K.H.P.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -405,7 +442,9 @@
     <MainItem>
       <Key>Meller</Key>
       <Forenames>Richard James</Forenames>
-      <Text>, J.P., M.P., Knight</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3800</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -422,7 +461,9 @@
       <Key>Melvin</Key>
       <Title>Sir</Title>
       <Forenames>Martin John</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>3799</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -430,7 +471,9 @@
     <MainItem>
       <Key>Metcalfe</Key>
       <Forenames>Herbert Aubrey Francis</Forenames>
-      <Text>, C.I.E., M.V.O., Companion, Order of-the Star of India</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -446,7 +489,10 @@
     <MainItem>
       <Key>Mieville</Key>
       <Forenames>Eric Charles</Forenames>
-      <Text>, C.M.G., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -463,7 +509,9 @@
     <MainItem>
       <Key>Millar</Key>
       <Forenames>Ross</Forenames>
-      <Text>, M.D., Officer, Order of St. John of Jerusalem '</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>4199</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +528,9 @@
     <MainItem>
       <Key>Mitchell</Key>
       <Forenames>Edwin Lawrence</Forenames>
-      <Text>, O.B.E., Comtmander, Order of the British .Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3808</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +559,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Philip Euen</Forenames>
-      <Text>^ M.C., Com. panion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3803</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -533,7 +585,9 @@
     <MainItem>
       <Key>Molson</Key>
       <Title>Lt.</Title>
-      <Text>JQol. Herbert, C.M.G., !M.O. Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -582,7 +636,9 @@
       </Key>
       <Title>Maj. (Commissary)</Title>
       <Forenames>Wil-</Forenames>
-      <Text>fred, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3806</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -626,7 +682,10 @@
     <MainItem>
       <Key>Mourisey</Key>
       <Forenames>George Augustus</Forenames>
-      <Text>, OB., C.M.G., O.B.E., Knight Commander, Orderof St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3804</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -634,7 +693,9 @@
     <MainItem>
       <Key>Muhammad</Key>
       <Forenames>Ahmad Said Khan</Forenames>
-      <Text>, Nawab Sir, K.C.S.I., K.O.I.E., M.B.E., Governor of the United Province of Agra and Oudh</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>2402</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -695,7 +756,9 @@
     <MainItem>
       <Key>Murphy</Key>
       <Forenames>Matthew Alexander</Forenames>
-      <Text>, C.B.E., Nominated Member of the Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2765</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -715,7 +778,9 @@
       </Key>
       <Title>The Hon. Sir</Title>
       <Forenames>George John Robert</Forenames>
-      <Text>,' K.C.M.G., . Commander, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4198</PageNumber>
     </MainItem>
   </ItemGroup>

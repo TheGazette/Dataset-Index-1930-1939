@@ -261,8 +261,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Mahony, C. C. Saunders</Text>
+      <Key>O'Mahony</Key>
+      <Forenames>C. C. Saunders</Forenames>
       <PageNumber>197</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -292,8 +292,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Clutterbuck</Key>
-      <Forenames>L. St</Forenames>
-      <Text>. J. R</Text>
+      <Forenames>L. St. J</Forenames>
+      <Text>. R</Text>
       <PageNumber>1680</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +322,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abbott</Key>
-      <Text>C. J. F</Text>
+      <Forenames>C. J. F.</Forenames>
       <PageNumber>2107</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -709,7 +709,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bagot</Key>
-      <Text>C. F. V . -</Text>
+      <Forenames>C. F. V .</Forenames>
+      <Text>-</Text>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barford</Key>
-      <Text>B. C</Text>
+      <Forenames>B. C .</Forenames>
       <PageNumber>780</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -937,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barber-Mill</Key>
-      <Text>C. P. V</Text>
+      <Forenames>C. P. V.</Forenames>
       <PageNumber>48</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -981,7 +982,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Barrett</Key>
-      <Text>C. C</Text>
+      <Forenames>C. C</Forenames>
       <PageNumber>629</PageNumber>
       <PageNumber>1858</PageNumber>
     </MainItem>
@@ -1250,8 +1251,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>H. St</Forenames>
-      <Text>. P. J</Text>
+      <Forenames>H. St. P</Forenames>
+      <Text>. J</Text>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -46,7 +46,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Tuberculosis</Key>
-      <Text>(See under Agriculture and Fisheries, Ministry of.) Turkish Republic, Ambassador Extraordinary and Plenipotentiary from, H.E. Mehmet Munir Bey</Text>
+      <Title>(See under Agriculture and Fisheries, Ministry of.)</Title>
+      <Forenames>Turkish Republic</Forenames>
+      <Text>, Ambassador Extraordinary and Plenipotentiary from, H.E. Mehmet Munir Bey</Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
     <SubItem>
@@ -58,7 +60,9 @@
     <MainItem>
       <Key>Water</Key>
       <Forenames>Undertakings</Forenames>
-      <Text>(Modification of Charges) Act, 1921. (See ( under Health, Ministry of.) Weights and Measures Act, 1904. (See under Trade, Board of.) Western Australia, Lieutenant-Governor of, and of Dependencies, the Hon. Sir John Alfred Northmore, K.C.M.G., LL.B</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>4626</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -86,7 +90,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Allen</Key>
-      <Text>^ Rev. Ronald Edward Taylor, M.C., M.A., appointed to the District of St. Christopher, Withington</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>5762</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -184,7 +190,9 @@
       <Key>Acland</Key>
       <Title>Rt. Hon. Sir</Title>
       <Forenames>Francis Dyike</Forenames>
-      <Text>, Bt., Member of Parliament for Cornwall, Northern Division</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4862</PageNumber>
     </MainItem>
   </ItemGroup>

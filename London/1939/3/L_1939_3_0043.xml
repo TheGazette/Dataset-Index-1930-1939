@@ -777,7 +777,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>J. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>5403</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1042,8 +1044,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Cuffey</Key>
-      <Forenames>D. E. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>D. E. O'C</Forenames>
       <PageNumber>5850</PageNumber>
     </MainItem>
   </ItemGroup>

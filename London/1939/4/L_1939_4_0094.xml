@@ -184,7 +184,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>N. H.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -489,8 +491,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rainier</Key>
-      <Forenames>P. H. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>P. H. O'C</Forenames>
       <PageNumber>7962</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -686,8 +687,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>I. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>I. St. J</Forenames>
       <PageNumber>6797</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -755,8 +755,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>R. F.</Forenames>
-      <Text>de R</Text>
+      <Forenames>R. F. de R</Forenames>
       <PageNumber>7041</PageNumber>
       <PageNumber>7043</PageNumber>
     </MainItem>
@@ -939,8 +938,8 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>G. St</Forenames>
-      <Text>. C. B</Text>
+      <Forenames>G. St. C</Forenames>
+      <Text>. B</Text>
       <PageNumber>7274</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1837,7 +1836,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rodmell</Key>
-      <Text>E. B</Text>
+      <Forenames>E. B.</Forenames>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>

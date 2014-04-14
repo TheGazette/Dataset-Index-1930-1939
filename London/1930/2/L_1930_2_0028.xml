@@ -59,7 +59,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Willans</Key>
-      <Text>Miss Ethel, Member, Order of the British Empire</Text>
+      <Title>Miss</Title>
+      <Forenames>Ethel</Forenames>
+      <Text>, Member, Order of the British Empire</Text>
       <PageNumber>3483</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -148,7 +150,9 @@
       <Key>Wilson</Key>
       <Title>Capt.</Title>
       <Forenames>Alan Leslie</Forenames>
-      <Text>, M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3480</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -158,7 +162,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Basil Mayor</Forenames>
-      <Text>, M.D., Nominated Member of Legislative Council of Jamaica</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>2491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -178,7 +184,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>John Macintosh</Forenames>
-      <Text>, M.B., CH.B. Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>3956</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -188,7 +196,10 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Title>Maj.</Title>
-      <Text>Gen. Roger Cochrane, D.S.O., M.C. Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C. Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3475</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -214,7 +225,9 @@
     <MainItem>
       <Key>Woodford</Key>
       <Forenames>Charles Merllyn</Forenames>
-      <Text>, M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3482</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -239,7 +252,9 @@
     <MainItem>
       <Key>Wortley</Key>
       <Forenames>Edward Jocelyn</Forenames>
-      <Text>, O.B.E., Nominated Official Member, Legislative Council of Trinidad and Tobago</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2252</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -391,7 +406,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Burnett</Key>
-      <Text>of Leys, Sir J. L. G., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2145</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -562,7 +579,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gallagher</Key>
-      <Text>H. N</Text>
+      <Forenames>H. N</Forenames>
       <PageNumber>2561</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,7 +614,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gray</Key>
-      <Text>A. C. H</Text>
+      <Forenames>A. C. H</Forenames>
       <PageNumber>3491</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -921,7 +938,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Todd</Key>
-      <Text>W. F</Text>
+      <Forenames>W. F</Forenames>
       <PageNumber>3725</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -956,8 +973,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wetherall</Key>
-      <Forenames>H. E.</Forenames>
-      <Text>de R</Text>
+      <Forenames>H. E. de R</Forenames>
       <PageNumber>3569</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1150,8 +1166,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tudor</Key>
-      <Forenames>C. L. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>C. L. St. J</Forenames>
       <PageNumber>2421</PageNumber>
     </MainItem>
   </ItemGroup>

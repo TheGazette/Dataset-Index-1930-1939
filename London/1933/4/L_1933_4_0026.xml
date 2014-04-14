@@ -150,7 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Little</Key>
-      <Text>E. M</Text>
+      <Forenames>E. M</Forenames>
       <PageNumber>6356</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -195,7 +195,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lockett</Key>
-      <Text>V. N</Text>
+      <Forenames>V. N</Forenames>
       <PageNumber>6692</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -357,8 +357,7 @@
   <ItemGroup>
     <MainItem>
       <Key>MacGregor</Key>
-      <Forenames>I. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>I. O'B</Forenames>
       <PageNumber>8316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -487,7 +486,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Major</Key>
-      <Text>A. R</Text>
+      <Forenames>A. R</Forenames>
       <PageNumber>8318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -597,8 +596,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Forenames>R. O. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. O. St. G</Forenames>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -663,7 +661,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Maxwell-Gambleton</Key>
-      <Text>M. S. H</Text>
+      <Forenames>M. S. H</Forenames>
       <PageNumber>7194</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -810,7 +808,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Miller</Key>
-      <Text>L. E</Text>
+      <Forenames>L. E.</Forenames>
       <PageNumber>7372</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,11 +1002,11 @@
   <ItemGroup>
     <MainItem>
       <Key>Muir</Key>
-      <Text>A. H. H</Text>
+      <Forenames>A. H. H.</Forenames>
       <PageNumber>8126</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>G. N.</Text>
+      <Text>G. N</Text>
       <PageNumber>8445</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -1060,7 +1058,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Nailer</Key>
-      <Text>H. K. F</Text>
+      <Forenames>H. K. F.</Forenames>
       <PageNumber>8316</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1082,7 +1080,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nettlefold</Key>
-      <Text>E. J .'</Text>
+      <Forenames>E. J .</Forenames>
+      <Text>'</Text>
       <PageNumber>8223</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1175,29 +1174,29 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Coffey, S. W</Text>
+      <Key>O'Coffey</Key>
+      <Forenames>S. W.</Forenames>
       <PageNumber>8318</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell, D. G</Text>
+      <Key>O'Connell</Key>
+      <Forenames>D. G.</Forenames>
       <PageNumber>7954</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Bell, W. H</Text>
+      <Key>O'Bell</Key>
+      <Forenames>W. H.</Forenames>
       <PageNumber>6357</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Dowd, P. L</Text>
+      <Key>O'Dowd</Key>
+      <Forenames>P. L.</Forenames>
       <PageNumber>8050</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1232,22 +1231,22 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Malley, M. J</Text>
+      <Key>O'Malley</Key>
+      <Forenames>M. J.</Forenames>
       <PageNumber>7869</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neil, J. T</Text>
+      <Key>O'Neil</Key>
+      <Forenames>J. T.</Forenames>
       <PageNumber>7281</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, J. A</Text>
+      <Key>O'Neill</Key>
+      <Forenames>J. A.</Forenames>
       <PageNumber>7769</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1260,8 +1259,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Riordan, W. H</Text>
+      <Key>O'Riordan</Key>
+      <Forenames>W. H</Forenames>
       <PageNumber>6842</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,7 +1523,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Philligs</Key>
-      <Text>A. K</Text>
+      <Forenames>A. K.</Forenames>
       <PageNumber>8126</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1827,8 +1826,7 @@
     <MainItem>
       <Key>Radcliffe</Key>
       <Title>Sir</Title>
-      <Forenames>P.</Forenames>
-      <Text>de B</Text>
+      <Forenames>P. de B</Forenames>
       <PageNumber>6355</PageNumber>
     </MainItem>
   </ItemGroup>

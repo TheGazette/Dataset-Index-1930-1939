@@ -25,7 +25,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pawlyn</Key>
-      <Forenames>Brothers</Forenames>
+      <Title>Brothers .</Title>
       <PageNumber>6639</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -252,7 +252,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rosenwald</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>7863</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -643,7 +643,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tilley</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>6566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -841,7 +841,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Wheathouse</Key>
-      <Forenames>Haulage Co</Forenames>
+      <Forenames>Haulage</Forenames>
+      <Text>Co</Text>
       <PageNumber>7451</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -913,7 +914,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wjllson</Key>
-      <Text>L</Text>
+      <Forenames>L</Forenames>
       <PageNumber>8066</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -996,7 +997,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Abrahams</Key>
-      <Forenames>Sam</Forenames>
+      <Title>Sam .</Title>
       <PageNumber>7171</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1162,7 +1163,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>6989</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1185,8 +1186,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Alington</Key>
-      <Forenames>Rt</Forenames>
-      <Text>. Hon.. Mary Sibell, Baroness</Text>
+      <Title>Rt. Hon.</Title>
+      <Text>. Mary Sibell, Baroness</Text>
       <PageNumber>6394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1228,8 +1229,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Title>Selina.</Title>
-      <Forenames>Elizabeth</Forenames>
+      <Title>Selina.Elizabeth .</Title>
       <PageNumber>8079</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1338,7 +1338,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Angus</Key>
-      <Forenames>Jonathan</Forenames>
+      <Title>Jonathan .</Title>
       <PageNumber>6397</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1417,7 +1417,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ardern</Key>
-      <Forenames>Lawrence</Forenames>
+      <Title>Lawrence .</Title>
       <PageNumber>6997</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1438,7 +1438,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Armstrong</Key>
-      <Forenames>Francis</Forenames>
+      <Title>Francis .</Title>
       <PageNumber>6867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1447,7 +1447,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>James</Forenames>
+      <Title>James .</Title>
       <PageNumber>8077</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1497,7 +1497,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arthurton</Key>
-      <Forenames>Robert</Forenames>
+      <Title>Robert .</Title>
       <PageNumber>7613</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1621,7 +1621,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Azzopardi</Key>
-      <Forenames>Jerome</Forenames>
+      <Title>Jerome .</Title>
       <PageNumber>6653</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,8 +1643,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bacon</Key>
-      <Forenames>William</Forenames>
-      <Text>..:</Text>
+      <Title>William .</Title>
+      <Text>.:</Text>
       <PageNumber>6642</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1699,7 +1699,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Thomas</Forenames>
+      <Title>Thomas .</Title>
       <PageNumber>7873</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1800,7 +1800,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>Joseph</Forenames>
+      <Title>Joseph .</Title>
       <PageNumber>6395</PageNumber>
     </MainItem>
   </ItemGroup>

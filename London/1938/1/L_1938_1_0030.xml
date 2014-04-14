@@ -18,7 +18,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Airlie</Key>
-      <Text>. Lt.-Col. David Lyulph Gore Wolseley, Earl of, K.C.V.O., M.C., J.P., D.L., Knight Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -27,7 +32,9 @@
       <Key>Aitchison</Key>
       <Title>Sir</Title>
       <Forenames>Stephen Harry</Forenames>
-      <Text>, J.P., Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>728</PageNumber>
     </MainItem>
@@ -36,7 +43,9 @@
     <MainItem>
       <Key>Alexander</Key>
       <Forenames>Henry</Forenames>
-      <Text>, LL.D., J.P., D.L., Knight</Text>
+      <Text>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1068</PageNumber>
     </MainItem>
@@ -102,7 +111,9 @@
     <MainItem>
       <Key>Amod</Key>
       <Forenames>Sardar Nawab Nahar-</Forenames>
-      <Text>sinhji Ishwarsinhji, Thakor of. Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -119,7 +130,9 @@
       <Key>Anderson</Key>
       <Title>The Rt. Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>, G.C.B., G.C.S.I., G.C.I.E.: Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>G.C.B.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>1231</PageNumber>
     </MainItem>
@@ -171,7 +184,7 @@
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>___ —— ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Forenames>George James</Forenames>
       <Text>, Member, Order of the British Empire ... ... -</Text>
@@ -238,21 +251,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Vice-</Forenames>
-      <Text>Admiral Sidney Robert, C.B., C.B.E., D.S.O., Knight Commander, Orde' of the British Empire ... Baillieu, Clive Latham, C.M.G., O.B.E., Knight Commander, Order of the British Empire ... ... Baldwin, Air Vice-Marshal John Eustace Arthur, D.S.O., O.B.E., Companion, Order of the Bath ... ... Balfour, John, Acting Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Key>Ayre</Key>
+      <Title>Miss</Title>
+      <Forenames>Georgina Birds-</Forenames>
+      <Text>
+        <Honour>G.C.V.O.</Honour>
+        <Honour>K.C.B.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Charles Henry</Forenames>
-      <Text>, Member, . Order of the British Empire ... ... ... Ballantyne, Alexander Hanson, H.M. Vice-Consul in Siam</Text>
+      <Key>Ball</Key>
+      <Forenames>Arthur Brooksbank</Forenames>
+      <Text>, Officer, Order of the British Empire ... ... ... Charles Henry, Member, . Order of the British Empire ... ... ... Ballantyne, Alexander Hanson, H.M. Vice-Consul in Siam</Text>
       <PageNumber>1840</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -261,43 +283,40 @@
       <Key>Bamford</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Harry Wil-</Forenames>
-      <Text>liam Morrey, C.B.E., M.C., Mining Member of Legislative Council, Gold Coast Colony</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>1346</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>
-        <KeyDitto>—— ___ ___</KeyDitto>
+        <KeyDitto>——</KeyDitto>
       </Key>
       <Title>Sir</Title>
       <Forenames>Colville Herbert San-</Forenames>
-      <Text>ford, Bart., Third Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>Bart</Honour>
+      </Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Roderick Edward</Forenames>
-      <Text>, Second Secretary in H.M. Diplomatic Service</Text>
+    <SubItem>
+      <Text>Roderick Edward, Second Secretary in H.M. Diplomatic Service</Text>
       <PageNumber>2085</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
-  <KeyDitto>___ ___</KeyDitto>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Thomas William Alport</Forenames>
-      <Text>, Member of Executive . Council, Fiji</Text>
+      <Key>Barker</Key>
+      <Title>Mrs. Amy .</Title>
+      <Forenames>Helen</Forenames>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1845</PageNumber>
     </MainItem>
-    <KeyDitto>___</KeyDitto>
     <SubItem>
       <Text>Bayles, Herbert Laurence, Companion, Order of St. Michael and St. George</Text>
       <PageNumber>5</PageNumber>
@@ -312,16 +331,21 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>D.L.</Honour>
         <PageNumber>2</PageNumber>
       </Text>
       <PageNumber>1068</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Birley, Frank, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>1936</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Black well, Cecil Patrick, M.B.E., Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </SubItem>
     <SubItem>

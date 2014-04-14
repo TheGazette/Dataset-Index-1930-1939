@@ -181,7 +181,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Poole</Key>
-      <Text>. L, T</Text>
+      <Forenames>L</Forenames>
+      <Text>, T</Text>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -482,8 +483,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ransome</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G. T</Text>
+      <Forenames>R. St. G</Forenames>
+      <Text>. T</Text>
       <PageNumber>5605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -606,7 +607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Reynolds</Key>
-      <Text>. A. B</Text>
+      <Forenames>A. B.</Forenames>
       <PageNumber>5264</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -615,8 +616,7 @@
       <Key>
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>J. A.</Forenames>
-      <Text>de V</Text>
+      <Forenames>J. A. de V</Forenames>
       <PageNumber>5523</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -630,7 +630,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rhodes</Key>
-      <Text>. A. :</Text>
+      <Forenames>A.</Forenames>
+      <Text>:</Text>
       <PageNumber>5904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -685,7 +686,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Ricketts</Key>
-      <Text>. L. T. G. ... Ridley-Martin, M. G</Text>
+      <Forenames>L. T. G.</Forenames>
+      <Text>... Ridley-Martin, M. G</Text>
       <PageNumber>5523</PageNumber>
       <PageNumber>5904</PageNumber>
     </MainItem>
@@ -714,7 +716,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Robarts</Key>
-      <Text>. A. V. C</Text>
+      <Forenames>A. V. C</Forenames>
       <PageNumber>5837</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1033,7 +1035,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Rust</Key>
-      <Text>. A. B. W</Text>
+      <Forenames>A. B. W</Forenames>
       <PageNumber>5345</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,15 +1048,16 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>. George, A. J</Text>
+      <Key>St. George</Key>
+      <Forenames>A. J</Forenames>
       <PageNumber>5524</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>. John, O. C</Text>
+      <Forenames>John</Forenames>
+      <Text>, O. C</Text>
       <PageNumber>5521</PageNumber>
       <PageNumber>5525</PageNumber>
     </MainItem>
@@ -1260,7 +1263,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Shaw</Key>
-      <Text>. F. A</Text>
+      <Forenames>F. A</Forenames>
       <PageNumber>4741</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1464,7 +1467,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Smales</Key>
-      <Text>. W. C</Text>
+      <Forenames>W. C</Forenames>
       <PageNumber>5462</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1886,8 +1889,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stewart</Key>
-      <Forenames>G. R.</Forenames>
-      <Text>de C</Text>
+      <Forenames>G. R. de C</Forenames>
       <PageNumber>4901</PageNumber>
     </MainItem>
   </ItemGroup>

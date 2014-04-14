@@ -74,10 +74,23 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Verteuil</Key>
+      <Forenames>St. Yves Daniel</Forenames>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
+      <PageNumber>7951</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Dickinson</Key>
       <Title>Maj. and Bvt. Col.</Title>
       <Forenames>Douglas Povah</Forenames>
-      <Text>, D.S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6415</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -93,7 +106,9 @@
     <MainItem>
       <Key>Eccles</Key>
       <Forenames>Lancelot William</Forenames>
-      <Text>— Gregory, M.C., Nominated Official Member of the Legislative Council of Northern Rhodesia ..:</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -125,7 +140,9 @@
     <MainItem>
       <Key>Pairweather</Key>
       <Forenames>William Gemmel</Forenames>
-      <Text>, O.B.E., Nominated Official Member of the Legislative Council of Northern Rhodesia</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -182,7 +199,12 @@
       <Key>Frew</Key>
       <Title>Sqdn. Ldr.</Title>
       <Forenames>Matthew Brown</Forenames>
-      <Text>, D.S.O., M.C., A.F.C., Bar to Distinguished Service Order</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+        <Honour>A.F.C.</Honour>
+        <Honour>Distinguished Service Order</Honour>
+      </Text>
       <PageNumber>6416</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -238,7 +260,9 @@
     <MainItem>
       <Key>Goodwin</Key>
       <Forenames>Charles Arthur</Forenames>
-      <Text>, M.B.E., H.M. ConsulGeneral at Rio de Janeiro</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -288,7 +312,9 @@
       <Key>Greenaway</Key>
       <Title>Sir</Title>
       <Forenames>Percy Walter</Forenames>
-      <Text>, Baronet</Text>
+      <Text>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>6912</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -304,8 +330,13 @@
     <MainItem>
       <Key>Grogan</Key>
       <Title>Brig.-Gen.</Title>
-      <Forenames>George William St</Forenames>
-      <Text>. George. V.C., C.B., C.M.G., D.S.O., one of H.M. Bodyguard of the Honourable Corps of Gentlemen at Arms</Text>
+      <Forenames>George William St. George</Forenames>
+      <Text>
+        <Honour>V.C.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>7693</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -397,7 +428,9 @@
   <ItemGroup>
     <MainItem>
       <Key>Houstoun-Boswall</Key>
-      <Text>(William. Evelyn, M.C., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -413,7 +446,9 @@
     <MainItem>
       <Key>Hutcheon</Key>
       <Forenames>Alexander Byres</Forenames>
-      <Text>, M.B.E., H.M. Consul at Maracaibo</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -429,7 +464,9 @@
     <MainItem>
       <Key>Jamieson</Key>
       <Forenames>Douglas</Forenames>
-      <Text>, K.C., M.P., H.M. SolicitorGeneral for Scotland</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -462,7 +499,9 @@
     <MainItem>
       <Key>Kay</Key>
       <Forenames>Sydney Entwisle</Forenames>
-      <Text>, M.B.E., H.M. ConsulGeneral at Lourenco Marques</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>8220</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -480,7 +519,11 @@
       <Key>Lampson</Key>
       <Title>Sir</Title>
       <Forenames>Miles Wedder-</Forenames>
-      <Text>burn, K.C.M.G., C.B., M.V.O., H.M. High Commissioner for Egypt and the Sudan</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>8313</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -505,7 +548,9 @@
     <MainItem>
       <Key>Leeper</Key>
       <Forenames>Alexander Wigram Allen</Forenames>
-      <Text>, C.B.E., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -515,7 +560,9 @@
         <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Reginald Wildig Allen</Forenames>
-      <Text>, C.B.E., Counsellor of Embassy in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>6362</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -532,7 +579,9 @@
       <Key>Lewis</Key>
       <Title>the Hon. Sir</Title>
       <Forenames>Neil Elliott</Forenames>
-      <Text>, K.C.M.G., Lieutenant-Governor of Tasmania</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>6354</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -541,7 +590,9 @@
       <Key>Lincoln</Key>
       <Title>Captain</Title>
       <Forenames>Cecil Henning</Forenames>
-      <Text>, O.B.E., H.M. Consul at Kerman</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8218</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -558,7 +609,10 @@
       <Key>Loraine</Key>
       <Title>Sir</Title>
       <Forenames>Percy Lyham</Forenames>
-      <Text>, Bt., K.C.M.G., Member of H.M. Privy Council</Text>
+      <Text>
+        <Honour>Bt</Honour>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>8291</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -574,7 +628,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Luke</Key>
-      <Text>The Lord, K.B.E., Order of Mercy</Text>
+      <Title>The Lord</Title>
+      <Text>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,7 +664,10 @@
       <Key>MacMichael</Key>
       <Title>Sir</Title>
       <Forenames>Harold Alfred</Forenames>
-      <Text>, K.C.M.G., D.S.O., Governor and Commanderin-Chief, Tanganyika Territory</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>8315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -622,7 +682,9 @@
   <ItemGroup>
     <MainItem>
       <Key>MacRae</Key>
-      <Text>of Feoirlinn, the Lady Margaret, O.B.E., J.P., Bar to Order of Mercy</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>8427</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -638,7 +700,9 @@
     <MainItem>
       <Key>Mehmed</Key>
       <Forenames>Munir Bey</Forenames>
-      <Text>, O.B.E., Additional Member of the Executive Council of Cyprus</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>7867</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -646,7 +710,9 @@
     <MainItem>
       <Key>Mercer</Key>
       <Forenames>John Swan</Forenames>
-      <Text>, O.B.E., Counsel to H.M. the King</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6610</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -655,7 +721,9 @@
       <Key>Merriman</Key>
       <Title>Sir</Title>
       <Forenames>Frank Boyd</Forenames>
-      <Text>, O.B.E., K.C., President of the Probate, Divorce and Admiralty Division of the High Court</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>6351</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -690,7 +758,11 @@
       <Key>Montgomery</Key>
       <Title>Sir</Title>
       <Forenames>Charles Hubert</Forenames>
-      <Text>, K.C.M.G., K.C.V.O., C.B., H.M. Envoy Extraordinary and Minister Plenipotentiary at the Hague</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+        <Honour>K.C.V.O.</Honour>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>6352</PageNumber>
     </MainItem>
   </ItemGroup>

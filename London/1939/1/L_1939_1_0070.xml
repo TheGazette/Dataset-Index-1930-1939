@@ -46,7 +46,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>I. F.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2012</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -493,8 +495,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Chisman</Key>
-      <Forenames>L.</Forenames>
-      <Text>de V</Text>
+      <Forenames>L. de V</Forenames>
       <PageNumber>1394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -525,8 +526,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Chute</Key>
-      <Forenames>C. St</Forenames>
-      <Text>. C. R</Text>
+      <Forenames>C. St. C</Forenames>
+      <Text>. R</Text>
       <PageNumber>691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -942,7 +943,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Conran</Key>
-      <Text>. G. C</Text>
+      <Forenames>G. C.</Forenames>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1492,7 +1493,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dally</Key>
-      <Text>. E. H</Text>
+      <Forenames>E. H.</Forenames>
       <PageNumber>1394</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,8 +1644,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dawes</Key>
-      <Forenames>D. T. St</Forenames>
-      <Text>. H</Text>
+      <Forenames>D. T. St. H</Forenames>
       <PageNumber>398</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1693,10 +1693,67 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Lotbiniere</Forenames>
-      <Text>, H. A. J</Text>
+      <Key>de Freitas</Key>
+      <Forenames>W. A. A</Forenames>
+      <PageNumber>1394</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Froberville</Key>
+      <Forenames>M. J. P. F. H.</Forenames>
+      <Text>DA</Text>
+      <PageNumber>2100</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jonquieres</Key>
+      <Forenames>M. V. J. de F</Forenames>
+      <PageNumber>2099</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Lestang</Key>
+      <Forenames>R. M. C. N.</Forenames>
+      <PageNumber>546</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>De Lotbiniere</Key>
+      <Forenames>H. A. J.</Forenames>
       <PageNumber>1396</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mestre</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>2009</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Sarigny</Key>
+      <Forenames>J. F. R. B.</Forenames>
+      <PageNumber>1217</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Souza</Key>
+      <Forenames>K.</Forenames>
+      <Text>JM. A</Text>
+      <PageNumber>2009</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Wilde</Key>
+      <Forenames>H. R.</Forenames>
+      <PageNumber>2099</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>

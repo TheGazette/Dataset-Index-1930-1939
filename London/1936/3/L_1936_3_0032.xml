@@ -561,9 +561,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P.</Forenames>
       <PageNumber>5661</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -776,7 +775,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wallace</Key>
-      <Text>N. M</Text>
+      <Forenames>N. M.</Forenames>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1608,8 +1607,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Yates</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>H. St. J</Forenames>
       <PageNumber>5661</PageNumber>
       <PageNumber>5873</PageNumber>
     </MainItem>
@@ -1665,8 +1663,7 @@
       <Key>
         <KeyDitto>___ ___ .</KeyDitto>
       </Key>
-      <Forenames>J.</Forenames>
-      <Text>de D</Text>
+      <Forenames>J. de D</Forenames>
       <PageNumber>5597</PageNumber>
     </MainItem>
   </ItemGroup>

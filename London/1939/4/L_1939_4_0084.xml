@@ -2,10 +2,23 @@
 <Index xmlns="http://www.tso.co.uk/assets/namespace/gazetteindex" editionCode="L" page="084" pageID="https://www.thegazette.co.uk/id/London/index/year/1939/volume/4/page/084" pagePDF="https://www.thegazette.co.uk/London/index/year/1939/volume/4/page/084" pageRDF="https://www.thegazette.co.uk/London/index/year/1939/volume/4/page/084?view=linked-data" type="index" volume="4" year="1939">
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Halpert</Forenames>
-      <Text>, R. V</Text>
+      <Key>De Halpert</Key>
+      <Forenames>R. V.</Forenames>
       <PageNumber>7805</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Jongh</Key>
+      <Forenames>G.</Forenames>
+      <PageNumber>6662</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Mestre</Key>
+      <Forenames>P. M.</Forenames>
+      <PageNumber>7274</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -18,34 +31,30 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Sarigny</Forenames>
-      <Text>, J. F. R</Text>
+      <Key>De Sarigny</Key>
+      <Forenames>J. F. R.</Forenames>
       <PageNumber>6663</PageNumber>
       <PageNumber>7185</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Souza</Forenames>
-      <Text>, K. M. A</Text>
+      <Key>De Souza</Key>
+      <Forenames>K. M. A.</Forenames>
       <PageNumber>7274</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Thier</Forenames>
-      <Text>, F. I. J</Text>
+      <Key>De Thier</Key>
+      <Forenames>F. I. J.</Forenames>
       <PageNumber>7967</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Wilde</Forenames>
-      <Text>, H. R</Text>
+      <Key>De Wilde</Key>
+      <Forenames>H. R.</Forenames>
       <PageNumber>6663</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -629,8 +638,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Domville</Key>
-      <Forenames>H.</Forenames>
-      <Text>de G</Text>
+      <Forenames>H. de G</Forenames>
       <PageNumber>7046</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -859,7 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Drake</Key>
-      <Text>M. H</Text>
+      <Forenames>M. H</Forenames>
       <PageNumber>6662</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1006,7 +1014,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duce</Key>
-      <Text>W</Text>
+      <Forenames>W.</Forenames>
       <PageNumber>7805</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1043,9 +1051,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Dudley</Key>
-      <Title>Rt. Hon.</Title>
-      <Forenames>The</Forenames>
-      <Text>Earl of</Text>
+      <Title>Rt. Hon. The Earl</Title>
+      <Text>of</Text>
       <PageNumber>6665</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1166,7 +1173,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunn</Key>
-      <Text>A. W</Text>
+      <Forenames>A. W .</Forenames>
       <PageNumber>7180</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1209,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Dunne</Key>
-      <Text>W. H</Text>
+      <Forenames>W. H .</Forenames>
       <PageNumber>7179</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1284,7 +1291,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Duthie</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>6666</PageNumber>
     </MainItem>
   </ItemGroup>

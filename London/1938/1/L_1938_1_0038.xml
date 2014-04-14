@@ -55,16 +55,10 @@
       <Text>, Serving Brother, Order of St. John of Jerusalem</Text>
       <PageNumber>30</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>Henry Edgar</Forenames>
-      <Text>, Officer, Order of the British Empire</Text>
+    <SubItem>
+      <Text>Henry Edgar, Officer, Order of the British Empire</Text>
       <PageNumber>10</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -78,7 +72,9 @@
     <MainItem>
       <Key>Northcote</Key>
       <Forenames>H. E.</Forenames>
-      <Text>Sir Geoffry Alexander Stafford, K.C.M.G., Knight, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>K.C.M.G.</Honour>
+      </Text>
       <PageNumber>28</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -94,7 +90,10 @@
     <MainItem>
       <Key>Northumberland</Key>
       <Forenames>Helen Mag-</Forenames>
-      <Text>dalen, Duchess of, C.B.E., J.P., Dame Grand Cross, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -102,7 +101,10 @@
     <MainItem>
       <Key>Norton</Key>
       <Forenames>Clifford John</Forenames>
-      <Text>, C.M.G., C.V.O., Acting Counsellor of Embassy, Warsaw</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.V.O.</Honour>
+      </Text>
       <PageNumber>1841</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -110,7 +112,9 @@
     <MainItem>
       <Key>Norwood</Key>
       <Forenames>Charles John Boyd</Forenames>
-      <Text>, Knighted</Text>
+      <Text>
+        <Honour>Knighted</Honour>
+      </Text>
       <PageNumber>967</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -126,7 +130,9 @@
     <MainItem>
       <Key>Nott-Bower</Key>
       <Forenames>William Guy</Forenames>
-      <Text>, C.B.E., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -134,7 +140,9 @@
     <MainItem>
       <Key>Nuffield</Key>
       <Forenames>William Richard</Forenames>
-      <Text>, Baron, O.B.E.. Viscount Nuffield of Nuffield</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
       <PageNumber>578</PageNumber>
     </MainItem>
@@ -149,8 +157,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, Michael, A.M.I.C.E., Companion, Order of the Indian Empire</Text>
+      <Key>O'Brien</Key>
+      <Forenames>Michael</Forenames>
+      <Text>, A.M.I.C.E., Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +175,9 @@
     <MainItem>
       <Key>Oehlers</Key>
       <Forenames>Roderick Clarke</Forenames>
-      <Text>, M.D., Serving Brother, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>30</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -180,8 +191,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Meara, Francis, H.M. Consul, at Lyons</Text>
+      <Key>O'Meara</Key>
+      <Forenames>Francis</Forenames>
+      <Text>, H.M. Consul, at Lyons</Text>
       <PageNumber>2005</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -190,7 +202,10 @@
       <Key>Onslow</Key>
       <Title>Commander</Title>
       <Forenames>Richard Francis John</Forenames>
-      <Text>, D.S.C., Member, . Royal Victorian Order</Text>
+      <Text>
+        <Honour>D.S.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -215,7 +230,9 @@
     <MainItem>
       <Key>Orr-Ewing</Key>
       <Forenames>Ian Leslie</Forenames>
-      <Text>, M.P., Member of Rhodesia and Nyasaland Royal Commission</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2006</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -235,17 +252,10 @@
       <Text>, Companion, Order of the Indian Empire</Text>
       <PageNumber>7</PageNumber>
     </MainItem>
-  </ItemGroup>
-  <ItemGroup>
-    <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Title>Capt.</Title>
-      <Forenames>Leonard Edward</Forenames>
-      <Text>, J.P.. Officer, Order of .the British Empire</Text>
+    <SubItem>
+      <Text>Capt. Leonard Edward, J.P.. Officer, Order of .the British Empire</Text>
       <PageNumber>10</PageNumber>
-    </MainItem>
+    </SubItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
@@ -257,11 +267,10 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___</KeyDitto>
-      </Key>
-      <Forenames>John</Forenames>
-      <Text>, J.P., Member, Order of the British Empire</Text>
+      <Key>Page</Key>
+      <Title>The .Rt. Hon.</Title>
+      <Forenames>Earle Christmas Grafton</Forenames>
+      <Text>, Knight Grand Cross, Order of St. Michael and St. George ... John, J.P., Member, Order of the British Empire</Text>
       <PageNumber>11</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -269,7 +278,9 @@
     <MainItem>
       <Key>Palmer</Key>
       <Forenames>William</Forenames>
-      <Text>, Companion, Order of the Bath Pape, William Herbert, Serving Brother, Order of St. John of Jerusalem Pare, Henry Burton, M.B., Serving Brother, Order of St. John of Jerusalem Parish, Leonard Archibald Henry, H.M. Consul at Li^ge</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>2085</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -289,14 +300,17 @@
       <PageNumber>31</PageNumber>
     </MainItem>
   </ItemGroup>
-  <KeyDitto>___ ___ ___</KeyDitto>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Herbert John</Forenames>
-      <Text>, C.B.E., M.C. M.D., F.R.C.S., Officer, Order of St. John of Jerusalem Paton, George Pearson, C.B.E., H.M. Consul-General at Istanbul</Text>
+      <Key>Partabgarh</Key>
+      <Title>H.H.</Title>
+      <Forenames>Maharawat Ram Singh Bahadur</Forenames>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>M.C. M.D.</Honour>
+        <Honour>F.R.C.S.</Honour>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2086</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,11 +324,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>
-        <KeyDitto>___ ___ ___</KeyDitto>
-      </Key>
-      <Forenames>Colin Hargreaves</Forenames>
-      <Text>, Recorder of Hythe Peasegood, James Arthur, Junior Inspector and Inspector under Mines Department</Text>
+      <Key>Peasegood</Key>
+      <Forenames>James Arthur</Forenames>
+      <Text>, Junior Inspector and Inspector under Mines Department</Text>
       <PageNumber>2007</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -322,7 +334,9 @@
     <MainItem>
       <Key>Peck</Key>
       <Forenames>James Wallace</Forenames>
-      <Text>, C.B.,</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>1068</PageNumber>
     </MainItem>
     <SubItem>
@@ -335,7 +349,11 @@
       <Key>Perlis</Key>
       <Title>H.H.</Title>
       <Forenames>Tuan Syed Alwi</Forenames>
-      <Text>ibni almerhum Syed Safi, Raja of, C.M.G., C.B.E., Hon. Knight Commander, Order of the British Empire Perowne, Capt. Lancelot Edgar Connop Mervyn, Commander, Order of St. John of Jerusalem Perring, Florence, Lady, Officer, Order of St. John of Jerusalem ... Perry, Sir Percival Lea Dewhurst, K.B.E., Baron Perry of Stock Harvard</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>K.B.E.</Honour>
+      </Text>
       <PageNumber>1</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +361,9 @@
     <MainItem>
       <Key>Peterson</Key>
       <Forenames>Maurice Drummond</Forenames>
-      <Text>, C.M.G., Knight Commander, Order of St. Michael and St. George ... Petti tt, Frederick Edward, Member, Order of the British Empire Phillips, Arthur Gordon, Companion, Order of the Indian Empire Phillips, Col. John Alfred Steele, CLE., L.R.C.P., and S., Officer, Order of StJohn of Jerusalem</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -352,7 +372,9 @@
       <Key>Phipson</Key>
       <Title>Lt.-Col.</Title>
       <Forenames>Edward Selby</Forenames>
-      <Text>, CLE., D.S.O., 5 Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>29</PageNumber>
     </MainItem>
     <SubItem>

@@ -763,7 +763,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Sommerville</Key>
-      <Text>.T</Text>
+      <Forenames>T.</Forenames>
       <PageNumber>5685</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -863,7 +863,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spalding</Key>
-      <Text>. T. G:</Text>
+      <Forenames>T. G</Forenames>
+      <Text>:</Text>
       <PageNumber>5927</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1239,8 +1240,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Staveley-Hill</Key>
-      <Forenames>A.</Forenames>
-      <Text>de G. S</Text>
+      <Forenames>A. de G</Forenames>
+      <Text>. S</Text>
       <PageNumber>6645</PageNumber>
     </MainItem>
   </ItemGroup>

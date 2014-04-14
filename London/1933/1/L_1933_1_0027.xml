@@ -20,7 +20,9 @@
     <MainItem>
       <Key>Souter</Key>
       <Forenames>Charles Alexander</Forenames>
-      <Text>, Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -29,7 +31,10 @@
       <Key>Spencer-Nairn</Key>
       <Title>Major Sir</Title>
       <Forenames>Robert</Forenames>
-      <Text>, T.D., J.P., Baronet</Text>
+      <Text>
+        <Honour>T.D.</Honour>
+        <Honour>Baronet</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>622</PageNumber>
     </MainItem>
@@ -55,7 +60,10 @@
     <MainItem>
       <Key>Stagg</Key>
       <Forenames>Reginald</Forenames>
-      <Text>, O.B.E., Member, 4th Class Royal Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>7</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -70,8 +78,12 @@
   <ItemGroup>
     <MainItem>
       <Key>Standing</Key>
-      <Forenames>The Reverend George</Forenames>
-      <Text>, D.S.O., M.C., K.H.O., Commander, Order of the British Empire</Text>
+      <Title>The</Title>
+      <Forenames>Reverend George</Forenames>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>8</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +92,10 @@
       <Key>Stanley</Key>
       <Title>the Hon.</Title>
       <Forenames>Oliver Frederick George</Forenames>
-      <Text>, M.C., M.P., Minister of Transport</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>1263</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +103,9 @@
     <MainItem>
       <Key>Stead</Key>
       <Forenames>Kingsley Willans</Forenames>
-      <Text>, O.B.E., Commander, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -166,7 +183,9 @@
     <MainItem>
       <Key>Street</Key>
       <Forenames>Arthur William</Forenames>
-      <Text>, CLE., M.C., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -200,7 +219,10 @@
   <ItemGroup>
     <MainItem>
       <Key>Swan</Key>
-      <Text>John Arthur Laing, Companion, Order of the Star of India</Text>
+      <Forenames>John Arthur Laing</Forenames>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -255,7 +277,9 @@
         <KeyDitto>___ ___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Robert Stanley</Forenames>
-      <Text>, M.D., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>12</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -273,7 +297,9 @@
     <MainItem>
       <Key>Teichman</Key>
       <Forenames>Eric</Forenames>
-      <Text>, C.M.G., CLE., Knight Commander, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -339,7 +365,10 @@
     <MainItem>
       <Key>Tottenham</Key>
       <Forenames>Rear</Forenames>
-      <Text>Admiral Francis Loftus, C.B.E., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -348,7 +377,9 @@
       <Key>Tracy-Inglis</Key>
       <Title>Colonel</Title>
       <Forenames>Tracy Russell</Forenames>
-      <Text>, C.B.E., V.D., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>46</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -372,7 +403,9 @@
     <MainItem>
       <Key>Turner</Key>
       <Forenames>Charles William Aldis</Forenames>
-      <Text>. CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>5</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -396,7 +429,9 @@
     <MainItem>
       <Key>Upcott</Key>
       <Forenames>Gilbert Charles</Forenames>
-      <Text>, C.B., Knight Commander, Order of the Bath</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +483,9 @@
     <MainItem>
       <Key>Waley</Key>
       <Forenames>Sigismund David</Forenames>
-      <Text>, M.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>4</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -457,7 +494,9 @@
       <Key>Walker</Key>
       <Title>Col.</Title>
       <Forenames>Charles William Garno</Forenames>
-      <Text>, D.S.O., Companion, Order of St. Michael and St. George</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>6</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -499,7 +538,11 @@
         <KeyDitto>—— ___ ___</KeyDitto>
       </Key>
       <Forenames>William Henry</Forenames>
-      <Text>, Member, Order of the British Empire Walwyn, Vice Admiral Humphrey Thomas, C.B., D.S.O., Knight Commander, Order of the Star of India Wan, Tso Seen, O.B.E., LL.D., Unofficial Member of the Legislative Council of Hong Kong</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>2189</PageNumber>
     </MainItem>
   </ItemGroup>

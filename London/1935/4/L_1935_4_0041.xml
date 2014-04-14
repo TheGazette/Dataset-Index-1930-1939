@@ -323,7 +323,9 @@
       <Key>Jardine</Key>
       <Title>Sir</Title>
       <Forenames>C. A.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6975</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1013,8 +1015,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. B</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. B</Text>
       <PageNumber>6378</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -2096,7 +2098,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mulholland</Key>
-      <Text>. A. I</Text>
+      <Forenames>A. I.</Forenames>
       <PageNumber>8293</PageNumber>
     </MainItem>
   </ItemGroup>

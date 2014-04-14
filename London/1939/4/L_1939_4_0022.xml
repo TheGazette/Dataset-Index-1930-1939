@@ -15,7 +15,9 @@
     <PageNumber>8530</PageNumber>
   </SubItem>
   <SubItem>
-    <Text>Scott, Maj. S. C, D.S.O., M.C</Text>
+    <Text>
+      <Honour>D.S.O.</Honour>
+    </Text>
     <PageNumber>7020</PageNumber>
   </SubItem>
   <SubItem>
@@ -77,7 +79,9 @@
     <SubItem>
       <Text>
         <PageNumber>8530</PageNumber>
+        <Honour>D. S.O.</Honour>
         <PageNumber>7020</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>7020</PageNumber>
         <PageNumber>7020</PageNumber>
         <PageNumber>8531</PageNumber>
@@ -91,6 +95,7 @@
         <PageNumber>8530</PageNumber>
         <PageNumber>8530</PageNumber>
         <PageNumber>7019</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>7020</PageNumber>
         <PageNumber>8530</PageNumber>
         <PageNumber>7020</PageNumber>
@@ -110,6 +115,7 @@
         <PageNumber>8530</PageNumber>
         <PageNumber>7021</PageNumber>
         <PageNumber>7021</PageNumber>
+        <Honour>M.C.</Honour>
         <PageNumber>7020</PageNumber>
         <PageNumber>7020</PageNumber>
       </Text>
@@ -117,7 +123,9 @@
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>8530</PageNumber>
+        <Honour>M.B.E.</Honour>
         <PageNumber>7020</PageNumber>
       </Text>
       <PageNumber>8531</PageNumber>
@@ -126,11 +134,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Washington</Key>
-      <Text>: H.M. Ambassador Extraordinary and Plenopotentiary. The Most Hon. the Marquess of Lothian, CH</Text>
+      <Text>
+        <Honour>CH</Honour>
+      </Text>
       <PageNumber>7493</PageNumber>
     </MainItem>
     <SubItem>
-      <Text>H.M. Consul, Alexander Knox Helm, C.B.E</Text>
+      <Text>
+        <Honour>C.B.E</Honour>
+      </Text>
       <PageNumber>7494</PageNumber>
     </SubItem>
   </ItemGroup>

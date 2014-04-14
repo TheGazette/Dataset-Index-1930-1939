@@ -5,7 +5,9 @@
       <Key>Stanier</Key>
       <Title>Sir</Title>
       <Forenames>A. B. G.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -88,7 +90,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Stqtt</Key>
-      <Text>A. O. ..,</Text>
+      <Forenames>A. O.</Forenames>
+      <Text>..,</Text>
       <PageNumber>2648</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -468,7 +471,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Young</Key>
-      <Text>A. McL</Text>
+      <Forenames>A.</Forenames>
+      <Text>McL</Text>
       <PageNumber>8996</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -424,7 +424,9 @@
       <Key>Marling</Key>
       <Title>Sir</Title>
       <Forenames>P. S.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1347</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -547,7 +549,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Menneer</Key>
-      <Text>K. C</Text>
+      <Forenames>K. C</Forenames>
       <PageNumber>392</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -757,7 +759,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Motion</Key>
-      <Text>J. T</Text>
+      <Forenames>J. T .</Forenames>
       <PageNumber>1707</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -970,15 +972,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, H. W</Text>
+      <Key>O'Brien</Key>
+      <Forenames>H. W.</Forenames>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Coffey, S. W</Text>
+      <Key>O'Coffey</Key>
+      <Forenames>S. W.</Forenames>
       <PageNumber>150</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1064,7 +1066,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pardoe</Key>
-      <Text>F. L</Text>
+      <Forenames>F. L .</Forenames>
       <PageNumber>461</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1535,7 +1537,9 @@
       <Key>Renshaw</Key>
       <Title>Sir</Title>
       <Forenames>C. S. B.</Forenames>
-      <Text>, Bt,</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>2040</PageNumber>
     </MainItem>
   </ItemGroup>

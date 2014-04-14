@@ -664,7 +664,9 @@
       <Key>Stanier</Key>
       <Title>Sir</Title>
       <Forenames>A. B. G.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>4042</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1368,8 +1370,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Thompson</Key>
-      <Forenames>J.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>3779</PageNumber>
     </MainItem>
   </ItemGroup>

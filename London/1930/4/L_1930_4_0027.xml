@@ -262,7 +262,9 @@
       <Key>Russell</Key>
       <Title>Sir</Title>
       <Forenames>A. C</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6247</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -310,8 +312,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>George, H. E. G</Text>
+      <Key>St. George</Key>
+      <Forenames>H. E. G.</Forenames>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -417,8 +419,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>6838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -607,8 +608,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>S. St</Forenames>
-      <Text>. D</Text>
+      <Forenames>S. St. D</Forenames>
       <PageNumber>8156</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -678,8 +678,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Homers</Key>
-      <Forenames>G.</Forenames>
-      <Text>de N. M</Text>
+      <Forenames>G. de N</Forenames>
+      <Text>. M</Text>
       <PageNumber>7999</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -693,7 +693,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Spencer</Key>
-      <Text>L, 1)</Text>
+      <Forenames>L</Forenames>
+      <Text>, 1)</Text>
       <PageNumber>7414</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -736,8 +737,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stansneld</Key>
-      <Forenames>J.</Forenames>
-      <Text>de B</Text>
+      <Forenames>J. de B</Forenames>
       <PageNumber>6318</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1041,7 +1041,9 @@
       <Key>Throckmorton</Key>
       <Title>Sir</Title>
       <Forenames>R. G. M.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1120,8 +1122,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Traill</Key>
-      <Forenames>A. O</Forenames>
-      <Text>'B</Text>
+      <Forenames>A. O'B</Forenames>
       <PageNumber>6478</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1224,9 +1225,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, P. W. C</Text>
+      <Key>Van Straubenzee</Key>
+      <Forenames>P. W. C.</Forenames>
       <PageNumber>8078</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1308,7 +1308,9 @@
       <Key>Waechter</Key>
       <Title>Sir</Title>
       <Forenames>H. L.</Forenames>
-      <Text>DA., Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1326,9 @@
       <Key>Wake</Key>
       <Title>Sir</Title>
       <Forenames>Hereward</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>7767</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1620,7 +1624,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Westwood</Key>
-      <Text>W. T</Text>
+      <Forenames>W. T.</Forenames>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1658,8 +1662,8 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>B.</Forenames>
-      <Text>du B. F</Text>
+      <Forenames>B. du B</Forenames>
+      <Text>. F</Text>
       <PageNumber>6838</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1791,8 +1795,7 @@
       <Key>
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
-      <Forenames>O.</Forenames>
-      <Text>de L</Text>
+      <Forenames>O. de L</Forenames>
       <PageNumber>7890</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1812,7 +1815,9 @@
       </Key>
       <Title>Sir</Title>
       <Forenames>R.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>6094</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1935,7 +1940,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wood</Key>
-      <Text>C. W</Text>
+      <Forenames>C. W .</Forenames>
       <PageNumber>7577</PageNumber>
     </MainItem>
   </ItemGroup>

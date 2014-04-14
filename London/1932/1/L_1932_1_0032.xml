@@ -118,8 +118,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Tandy</Key>
-      <Forenames>M. P. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>M. P. O'C</Forenames>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -696,9 +695,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Van</Key>
-      <Forenames>Straubenzee</Forenames>
-      <Text>, Sir C. C</Text>
+      <Key>Van Straubenzee</Key>
+      <Title>Sir</Title>
+      <Forenames>C. C.</Forenames>
       <PageNumber>629</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -868,8 +867,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Warde-Aldam</Key>
-      <Forenames>W. St</Forenames>
-      <Text>. A</Text>
+      <Forenames>W. St. A</Forenames>
       <PageNumber>47</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1440,7 +1438,9 @@
       <Key>Wilmot</Key>
       <Title>Sir</Title>
       <Forenames>A. R.</Forenames>
-      <Text>, Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>631</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1538,7 +1538,9 @@
     <MainItem>
       <Key>Wingfield</Key>
       <Forenames>E. W. R.</Forenames>
-      <Text>... Winnington, Sir F. S. W Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1296</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1643,7 +1645,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Wort</Key>
-      <Text>G</Text>
+      <Forenames>G.</Forenames>
       <PageNumber>632</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1766,9 +1768,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>De</Key>
-      <Forenames>Chair</Forenames>
-      <Text>, G. H. B</Text>
+      <Key>De Chair</Key>
+      <Forenames>G. H. B.</Forenames>
       <PageNumber>1960</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1867,8 +1868,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>St</Key>
-      <Text>Aubyn, E. G</Text>
+      <Key>St. Aubyn</Key>
+      <Forenames>E. G</Forenames>
       <PageNumber>1606</PageNumber>
     </MainItem>
   </ItemGroup>

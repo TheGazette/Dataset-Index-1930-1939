@@ -182,8 +182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Freiter</Key>
-      <Forenames>M. A. St</Forenames>
-      <Text>. C</Text>
+      <Forenames>M. A. St. C</Forenames>
       <PageNumber>5401</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -270,7 +269,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Grylls</Key>
-      <Text>. W. M</Text>
+      <Forenames>W. M .</Forenames>
       <PageNumber>5681</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -387,8 +386,7 @@
       <Key>
         <KeyDitto>___ ___</KeyDitto>
       </Key>
-      <Forenames>W. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>W. G. O'C</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -875,15 +873,15 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Brien, B. P. T</Text>
+      <Key>O'Brien</Key>
+      <Forenames>B. P. T</Forenames>
       <PageNumber>4974</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Lone, R. J</Text>
+      <Key>O'Lone</Key>
+      <Forenames>R. J.</Forenames>
       <PageNumber>5839</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1569,7 +1567,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Anderson</Key>
-      <Text>. W. M. E</Text>
+      <Forenames>W. M. E.</Forenames>
       <PageNumber>4669</PageNumber>
     </MainItem>
   </ItemGroup>

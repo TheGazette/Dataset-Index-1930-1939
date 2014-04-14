@@ -379,8 +379,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Carter</Key>
-      <Forenames>H. St</Forenames>
-      <Text>. M</Text>
+      <Forenames>H. St. M</Forenames>
       <PageNumber>7176</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1165,6 +1164,21 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Hoghton</Key>
+      <Forenames>G .</Forenames>
+      <PageNumber>8385</PageNumber>
+      <PageNumber>8386</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>de Klee</Key>
+      <Forenames>F. B</Forenames>
+      <PageNumber>6318</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>De</Key>
       <Forenames>Salis</Forenames>
       <Text>, S. C. F</Text>
@@ -1173,8 +1187,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>Dean</Key>
-      <Forenames>H. H</Forenames>
+      <Key>de Waal</Key>
+      <Forenames>P</Forenames>
+      <Text>Dean, H. H</Text>
       <PageNumber>8257</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1213,7 +1228,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Delaval</Key>
-      <Text>de Lautour, P. C. F</Text>
+      <Forenames>de Lautour</Forenames>
+      <Text>, P. C. F</Text>
       <PageNumber>7691</PageNumber>
     </MainItem>
   </ItemGroup>

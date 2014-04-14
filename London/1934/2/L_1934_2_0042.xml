@@ -714,8 +714,9 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor-Fenton, A. de f</Text>
+      <Key>O'Connor-Fenton</Key>
+      <Forenames>A.</Forenames>
+      <Text>de f</Text>
       <PageNumber>3219</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -804,7 +805,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Oxley</Key>
-      <Text>. M. S</Text>
+      <Forenames>M. S</Forenames>
       <PageNumber>3301</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1049,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pickard</Key>
-      <Text>. G. H</Text>
+      <Forenames>G. H</Forenames>
       <PageNumber>4143</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1104,14 +1105,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Porter</Key>
-      <Text>. E. J. W</Text>
+      <Forenames>E. J. W.</Forenames>
       <PageNumber>3119</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Portnell</Key>
-      <Text>. H. B</Text>
+      <Forenames>H. B.</Forenames>
       <PageNumber>3826</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1125,7 +1126,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Prentie</Key>
-      <Text>. J. A</Text>
+      <Forenames>J. A.</Forenames>
       <PageNumber>2628</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1139,7 +1140,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price-Hughes</Key>
-      <Text>. J. B</Text>
+      <Forenames>J. B.</Forenames>
       <PageNumber>3487</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1153,7 +1154,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Priestley</Key>
-      <Text>. K. S</Text>
+      <Forenames>K. S.</Forenames>
       <PageNumber>3584</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1181,7 +1182,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Pugsley</Key>
-      <Text>. R. L</Text>
+      <Forenames>R. L.</Forenames>
       <PageNumber>4142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1202,7 +1203,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Quas-Cohen</Key>
-      <Text>. K. A</Text>
+      <Forenames>K. A.</Forenames>
       <PageNumber>3906</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1936,8 +1937,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slade</Key>
-      <Forenames>G.</Forenames>
-      <Text>de M</Text>
+      <Forenames>G. de M</Forenames>
       <PageNumber>2391</PageNumber>
     </MainItem>
   </ItemGroup>

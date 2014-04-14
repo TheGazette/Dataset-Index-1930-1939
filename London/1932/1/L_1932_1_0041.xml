@@ -18,7 +18,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Woolf</Key>
-      <Text>T. A</Text>
+      <Forenames>T. A .</Forenames>
       <PageNumber>420</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -150,8 +150,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Arkwright</Key>
-      <Forenames>R. St</Forenames>
-      <Text>. G</Text>
+      <Forenames>R. St. G</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -412,14 +411,14 @@
   <ItemGroup>
     <MainItem>
       <Key>Rendell</Key>
-      <Text>A</Text>
+      <Forenames>A .</Forenames>
       <PageNumber>1050</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Rider</Key>
-      <Text>H. S</Text>
+      <Forenames>H. S .</Forenames>
       <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -448,7 +447,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Stocklev</Key>
-      <Text>G. H</Text>
+      <Forenames>G. H .</Forenames>
       <PageNumber>1498</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -464,6 +463,13 @@
       <Key>Tripp</Key>
       <Forenames>W. H. L.</Forenames>
       <PageNumber>1295</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
+      <Key>van Praagh</Key>
+      <Forenames>H. B.</Forenames>
+      <PageNumber>123</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
@@ -901,7 +907,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McCallum</Key>
-      <Text>A. D</Text>
+      <Forenames>A. D.</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -915,7 +921,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Marshall</Key>
-      <Text>J</Text>
+      <Forenames>J.</Forenames>
       <PageNumber>15</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -943,7 +949,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Meek</Key>
-      <Text>W. C</Text>
+      <Forenames>W. C.</Forenames>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -957,7 +963,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mitchell</Key>
-      <Text>E. T</Text>
+      <Forenames>E. T.</Forenames>
       <PageNumber>348</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -992,7 +998,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Nicholson</Key>
-      <Text>K. M,</Text>
+      <Forenames>K. M</Forenames>
+      <Text>,</Text>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1048,7 +1055,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Phillips</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>705</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1313,7 +1320,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Butler</Key>
-      <Text>S. B</Text>
+      <Forenames>S. B .</Forenames>
       <PageNumber>876</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1496,8 +1503,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lyburn</Key>
-      <Forenames>E. F. St</Forenames>
-      <Text>. J</Text>
+      <Forenames>E. F. St. J</Forenames>
       <PageNumber>566</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1524,8 +1530,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connor, E. D</Text>
+      <Key>O'Connor</Key>
+      <Forenames>E. D</Forenames>
       <PageNumber>1857</PageNumber>
     </MainItem>
   </ItemGroup>

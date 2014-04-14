@@ -57,7 +57,9 @@
       <Key>Guthrie</Key>
       <Title>Sir</Title>
       <Forenames>C.</Forenames>
-      <Text>Bt</Text>
+      <Text>
+        <Honour>Bt</Honour>
+      </Text>
       <PageNumber>1554</PageNumber>
     </MainItem>
     <SubItem>
@@ -1230,7 +1232,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Hulton-Harrop</Key>
-      <Forenames>C. P. De L.</Forenames>
+      <Forenames>C. P. De L</Forenames>
       <PageNumber>689</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1420,8 +1422,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Jago</Key>
-      <Forenames>J.</Forenames>
-      <Text>de F</Text>
+      <Forenames>J. de F</Forenames>
       <PageNumber>2098</PageNumber>
     </MainItem>
   </ItemGroup>

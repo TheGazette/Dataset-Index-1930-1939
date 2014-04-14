@@ -49,8 +49,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Gordon</Key>
-      <Forenames>D. St</Forenames>
-      <Text>. V</Text>
+      <Forenames>D. St. V</Forenames>
       <PageNumber>5894</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -611,15 +610,15 @@
   <ItemGroup>
     <MainItem>
       <Key>Lord</Key>
-      <Text>C. W: ... Loughlin, H. J</Text>
+      <Forenames>C. W</Forenames>
+      <Text>: ... Loughlin, H. J</Text>
       <PageNumber>5766</PageNumber>
     </MainItem>
   </ItemGroup>
   <ItemGroup>
     <MainItem>
       <Key>Lowe</Key>
-      <Forenames>T. M. O</Forenames>
-      <Text>'H</Text>
+      <Forenames>T. M. O'H</Forenames>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1004,8 +1003,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, E. M. M</Text>
+      <Key>O'Neill</Key>
+      <Forenames>E. M. M.</Forenames>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1018,8 +1017,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Toole, N. D. G</Text>
+      <Key>O'Toole</Key>
+      <Forenames>N. D. G</Forenames>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1047,7 +1046,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Paterson</Key>
-      <Text>V. J. E</Text>
+      <Forenames>V. J. E</Forenames>
       <PageNumber>4798</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1528,7 +1527,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Blade</Key>
-      <Text>M. M</Text>
+      <Forenames>M. M</Forenames>
       <PageNumber>6179</PageNumber>
     </MainItem>
   </ItemGroup>

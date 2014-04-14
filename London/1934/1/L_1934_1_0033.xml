@@ -12,7 +12,9 @@
     <MainItem>
       <Key>Wigley</Key>
       <Forenames>Wilfred Murray</Forenames>
-      <Text>, O.B.E., Official Member of the Legislative Council of St. Christopher and Nevis</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>388</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -59,7 +61,9 @@
     <MainItem>
       <Key>Williamson</Key>
       <Forenames>Horace</Forenames>
-      <Text>, CLE., M.B.E. Knight</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -159,6 +163,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Fonblanque</Key>
+      <Forenames>P</Forenames>
+      <PageNumber>149</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Deedes</Key>
       <Forenames>O. P</Forenames>
       <PageNumber>390</PageNumber>
@@ -254,7 +265,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Fleming</Key>
-      <Text>G</Text>
+      <Forenames>G</Forenames>
       <PageNumber>149</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -296,7 +307,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Graeme</Key>
-      <Text>J. A</Text>
+      <Forenames>J. A</Forenames>
       <PageNumber>1229</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -428,7 +439,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Henderson</Key>
-      <Text>G. B</Text>
+      <Forenames>G. B</Forenames>
       <PageNumber>1530</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -509,7 +520,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Lachlan</Key>
-      <Text>L. A. W. B</Text>
+      <Forenames>L. A. W. B.</Forenames>
       <PageNumber>315</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -523,8 +534,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Lejeune</Key>
-      <Forenames>F. St</Forenames>
-      <Text>. D. B</Text>
+      <Forenames>F. St. D</Forenames>
+      <Text>. B</Text>
       <PageNumber>904</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -951,7 +962,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Slim</Key>
-      <Text>W. J</Text>
+      <Forenames>W. J.</Forenames>
       <PageNumber>541</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1100,8 +1111,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Scott</Key>
-      <Forenames>A. G. O</Forenames>
-      <Text>'C</Text>
+      <Forenames>A. G. O'C</Forenames>
       <PageNumber>608</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -38,7 +38,10 @@
       <PageNumber>5864</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Fagan, Cpt. H. A., D.S.O., M.C</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>M.C</Honour>
+      </Text>
       <PageNumber>5883</PageNumber>
     </SubItem>
   </ItemGroup>
@@ -51,6 +54,8 @@
     </MainItem>
     <SubItem>
       <Text>
+        <Honour>Bt</Honour>
+        <Honour>M.C.</Honour>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
@@ -69,17 +74,14 @@
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
         <PageNumber>5863</PageNumber>
-        <PageNumber>5863</PageNumber>
-      </Text>
-      <PageNumber>5863</PageNumber>
-    </SubItem>
-    <SubItem>
-      <Text>
+        <Honour>M.C.</Honour>
         <PageNumber>5863</PageNumber>
       </Text>
       <PageNumber>5863</PageNumber>
@@ -99,7 +101,16 @@
     <SubItem>
       <Text>
         <PageNumber>5863</PageNumber>
+      </Text>
+      <PageNumber>5863</PageNumber>
+    </SubItem>
+    <SubItem>
+      <Text>
         <PageNumber>5863</PageNumber>
+        <PageNumber>5863</PageNumber>
+        <Honour>C.B.</Honour>
+        <Honour>C.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
       </Text>
       <PageNumber>5863</PageNumber>
     </SubItem>
@@ -108,7 +119,12 @@
       <PageNumber>5863</PageNumber>
     </SubItem>
     <SubItem>
-      <Text>Wylly, Col. C. G. E., V.C, C.B., D.S.O., A.D.C.</Text>
+      <Text>
+        <Honour>V.C</Honour>
+        <Honour>C.B.</Honour>
+        <Honour>D.S.O.</Honour>
+        <Honour>A.D.C.</Honour>
+      </Text>
       <PageNumber>5863</PageNumber>
     </SubItem>
     <SubItem>
@@ -170,7 +186,9 @@
     <MainItem>
       <Key>Water</Key>
       <Forenames>Undertakings</Forenames>
-      <Text>(Modification of Charges) Act, 1921. (See under Health, Ministry of.) Western Australia, Lieutenant Governor, Sir James Mitchell, K.C.M.G</Text>
+      <Text>
+        <Honour>K.C.M.G</Honour>
+      </Text>
       <PageNumber>4801</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -202,7 +220,9 @@
     <MainItem>
       <Key>York</Key>
       <Title>H.R.H.</Title>
-      <Text>the Duke of, Private Secretary and Equerry to, Cdr. Harold George Campbell, D.S.O., R.N. (Retd.)</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>5727</PageNumber>
     </MainItem>
   </ItemGroup>

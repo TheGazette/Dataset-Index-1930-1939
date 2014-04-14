@@ -162,7 +162,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Ahluwalia</Key>
-      <Text>D. N</Text>
+      <Forenames>D. N</Forenames>
       <PageNumber>5369</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -445,7 +445,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Mohammad</Key>
-      <Text>Salamat Ullah</Text>
+      <Forenames>Salamat Ullah</Forenames>
       <PageNumber>6025</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -458,8 +458,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Neill, P. L</Text>
+      <Key>O'Neill</Key>
+      <Forenames>P. L</Forenames>
       <PageNumber>5627</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1046,6 +1046,13 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
+      <Key>de Burgh</Key>
+      <Forenames>C</Forenames>
+      <PageNumber>4300</PageNumber>
+    </MainItem>
+  </ItemGroup>
+  <ItemGroup>
+    <MainItem>
       <Key>Holden</Key>
       <Forenames>G. S</Forenames>
       <PageNumber>4934</PageNumber>
@@ -1231,7 +1238,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Malleson</Key>
-      <Text>R. St. A</Text>
+      <Forenames>R. St. A</Forenames>
       <PageNumber>4300</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1310,7 +1317,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Bolitho</Key>
-      <Text>W. A. A,</Text>
+      <Forenames>W. A. A</Forenames>
+      <Text>,</Text>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1324,7 +1332,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Crookshank</Key>
-      <Text>R</Text>
+      <Forenames>R.</Forenames>
       <PageNumber>4934</PageNumber>
     </MainItem>
   </ItemGroup>

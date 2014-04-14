@@ -47,7 +47,9 @@
     <MainItem>
       <Key>Steel</Key>
       <Forenames>Christopher Eden</Forenames>
-      <Text>, M.V.O., First Secretary in H.M. Diplomatic Service</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>282</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -57,7 +59,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Henry</Forenames>
-      <Text>, Member, Order of the British Empire ... Stevens, Lt.-Col. Frank Augustus Douglas, C.B.E., D. L., Knight</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>2</PageNumber>
       <PageNumber>1136</PageNumber>
     </MainItem>
@@ -76,23 +80,29 @@
       <Text>
         <PageNumber>53</PageNumber>
         <PageNumber>12</PageNumber>
+        <Honour>F.R.C.S.</Honour>
       </Text>
       <PageNumber>53</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
         <PageNumber>457</PageNumber>
+        <Honour>M.B.E.</Honour>
       </Text>
       <PageNumber>12</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>M.D.</Honour>
         <PageNumber>53</PageNumber>
       </Text>
       <PageNumber>54</PageNumber>
     </SubItem>
     <SubItem>
       <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.B.E.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
         <PageNumber>4</PageNumber>
       </Text>
       <PageNumber>6</PageNumber>
@@ -101,6 +111,7 @@
       <Text>
         <PageNumber>10</PageNumber>
         <PageNumber>53</PageNumber>
+        <Honour>K.B.E.</Honour>
       </Text>
       <PageNumber>5</PageNumber>
     </SubItem>
@@ -130,7 +141,10 @@
         <KeyDitto>___</KeyDitto>
       </Key>
       <Forenames>Alderman John Ockelford</Forenames>
-      <Text>, O.B.E., J.P., D.L. Commander, Order of the British Empire ... T h o in s, Alexander Key, Member, Order of the British Empire</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>D.L.</Honour>
+      </Text>
       <PageNumber>17</PageNumber>
     </MainItem>
   </ItemGroup>

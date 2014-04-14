@@ -4,7 +4,10 @@
     <MainItem>
       <Key>Gale</Key>
       <Forenames>Charles Claus</Forenames>
-      <Text>, M.C., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.C.</Honour>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -13,7 +16,10 @@
       <Key>Game</Key>
       <Title>Air Vice-Marshal Sir</Title>
       <Forenames>Philip Woolcott</Forenames>
-      <Text>, G.B.E., K.O.B., D.S.O., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>G.B.E.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -21,7 +27,9 @@
     <MainItem>
       <Key>Garbett</Key>
       <Forenames>Colin Campbell</Forenames>
-      <Text>, C. M.G., C.I.E., F.R.G.S., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -54,7 +62,10 @@
     <MainItem>
       <Key>Garson</Key>
       <Forenames>Herbert Leslie</Forenames>
-      <Text>, O.B.E., M.C., M.B., Officer, Order of St. John of Jerusalem</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>4084</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -71,7 +82,9 @@
     <MainItem>
       <Key>Gaselee</Key>
       <Forenames>Stephen</Forenames>
-      <Text>, C.B.E., Knight Commander, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>C.B.E.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -80,7 +93,11 @@
       <Key>Gathorne-Hardy</Key>
       <Title>Gen. the Hon. Sir</Title>
       <Forenames>John</Forenames>
-      <Text>[Francis, K.C.B., C.M.G., D.S.O., Knight Grand Cross, Order of the Bath</Text>
+      <Text>
+        <Honour>K.C.B.</Honour>
+        <Honour>C.M.G.</Honour>
+        <Honour>D.S.O.</Honour>
+      </Text>
       <PageNumber>3594</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -121,7 +138,10 @@
     <MainItem>
       <Key>Gent</Key>
       <Forenames>Gerard Edward James</Forenames>
-      <Text>, D. S.O., M.C., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>D. S.O.</Honour>
+        <Honour>M.C.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -169,7 +189,9 @@
   <ItemGroup>
     <MainItem>
       <Key>G</Key>
-      <Text>i f f o r d, Lawson, M.D., C.M.Edin., Nominated Member of the Legislative Council, of Jamaica</Text>
+      <Text>
+        <Honour>M.D.</Honour>
+      </Text>
       <PageNumber>3140</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -227,7 +249,9 @@
     <MainItem>
       <Key>Girdwood</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Eric Stanley, C.B C.M.G., Knight Commander, ___ ___ Order of the British Empire</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+      </Text>
       <PageNumber>3601</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -268,7 +292,11 @@
     <MainItem>
       <Key>Gloucester</Key>
       <Title>H.R.H.</Title>
-      <Text>the Duke of, K.G., P.C., K.T., K.P., G.O.V.O., A.D.O., Knight Grand Orjoss, Order of Saint Michael and St. George</Text>
+      <Text>
+        <Honour>K.G.</Honour>
+        <Honour>P.C.</Honour>
+        <Honour>K.T.</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -294,7 +322,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Noel Barre</Forenames>
-      <Text>, K.C., M.P., Recorder of Manchester</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>2438</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -302,7 +332,9 @@
     <MainItem>
       <Key>Goldsmith</Key>
       <Forenames>Elizabeth Nina</Forenames>
-      <Text>, Mrs., M.B.E., Officer, Order of the British Empire</Text>
+      <Text>
+        <Honour>M.B.E.</Honour>
+      </Text>
       <PageNumber>3606</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -343,7 +375,9 @@
     <MainItem>
       <Key>Gordon</Key>
       <Forenames>Charles William</Forenames>
-      <Text>, D. D., LL.D., F.R.C.S., Companion, Order of Saint Michael and Saint George</Text>
+      <Text>
+        <Honour>F.R.C.S.</Honour>
+      </Text>
       <PageNumber>3597</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -354,7 +388,10 @@
       </Key>
       <Title>Maj.</Title>
       <Forenames>Colin Lindsay</Forenames>
-      <Text>, M.V.O., Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>M.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -374,7 +411,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Eyre</Forenames>
-      <Text>, CLE., Companion, Order of the Star of India</Text>
+      <Text>
+        <Honour>Companion, Order of the Star of India</Honour>
+      </Text>
       <PageNumber>3596</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -382,7 +421,10 @@
     <MainItem>
       <Key>Goschen</Key>
       <Title>Maj .</Title>
-      <Text>-Gen. Arthur Alec, D.S.O., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -418,7 +460,10 @@
       <Key>Gower</Key>
       <Title>Sir</Title>
       <Forenames>Robert Vaughan</Forenames>
-      <Text>, O.B.E., M.P., Knight Commander. R ol y a 1 Victorian Order</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -454,7 +499,10 @@
     <MainItem>
       <Key>Grant</Key>
       <Forenames>Francis James</Forenames>
-      <Text>, C.V.O., Knight Commander, Royal Victorian Order</Text>
+      <Text>
+        <Honour>C.V.O.</Honour>
+        <Honour>Commander, Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>3600</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -551,7 +599,13 @@
       <Key>Greenwood</Key>
       <Title>Col.</Title>
       <Forenames>Charles Francis Hill</Forenames>
-      <Text>, D.S.O., O.B.E., T.D., D.L., Companion, Order of the Bath</Text>
+      <Text>
+        <Honour>D.S.O.</Honour>
+        <Honour>O.B.E.</Honour>
+        <Honour>T.D.</Honour>
+        <Honour>D.L.</Honour>
+        <Honour>Companion, Order of the Bath</Honour>
+      </Text>
       <PageNumber>3595</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -559,7 +613,9 @@
     <MainItem>
       <Key>Gregg</Key>
       <Forenames>Cornelius Joseph</Forenames>
-      <Text>, . C.B., H.M. Commissioner of Inland Revenue</Text>
+      <Text>
+        <Honour>C.B.</Honour>
+      </Text>
       <PageNumber>2231</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -575,7 +631,9 @@
     <MainItem>
       <Key>Grenfell</Key>
       <Forenames>David Rhys</Forenames>
-      <Text>, J.P., M.P., Commander. Order of the British Empire</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3605</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -585,7 +643,9 @@
         <KeyDitto>___ ___</KeyDitto>
       </Key>
       <Forenames>Edward Charles</Forenames>
-      <Text>, M.P., Baron</Text>
+      <Text>
+        <Honour>M.P.</Honour>
+      </Text>
       <PageNumber>3591</PageNumber>
     </MainItem>
     <SubItem>
@@ -676,7 +736,9 @@
       <Key>Gunn</Key>
       <Title>Surg. Cdr.</Title>
       <Forenames>Alexander William</Forenames>
-      <Text>. M.B., Member, Royal Victorian Order</Text>
+      <Text>
+        <Honour>Royal Victorian Order</Honour>
+      </Text>
       <PageNumber>2230</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -684,7 +746,10 @@
     <MainItem>
       <Key>Gurney</Key>
       <Forenames>Hugh</Forenames>
-      <Text>, C.M.G., M.V.O., Knight Commander, Order of Saint Michael ajid Saint George</Text>
+      <Text>
+        <Honour>C.M.G.</Honour>
+        <Honour>M.V.O.</Honour>
+      </Text>
       <PageNumber>3598</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -694,7 +759,9 @@
         <KeyDitto>___ ___ ___</KeyDitto>
       </Key>
       <Forenames>Wentworth Mastyn</Forenames>
-      <Text>, O.B.E., H.M. Consul at Managua</Text>
+      <Text>
+        <Honour>O.B.E.</Honour>
+      </Text>
       <PageNumber>3045</PageNumber>
     </MainItem>
   </ItemGroup>

@@ -41,7 +41,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Kerwood</Key>
-      <Forenames>Stores</Forenames>
+      <Title>Stores .</Title>
       <PageNumber>6139</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -157,7 +157,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Love</Key>
-      <Text>E,</Text>
+      <Forenames>E</Forenames>
+      <Text>,</Text>
       <PageNumber>6054</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -198,7 +199,7 @@
   <ItemGroup>
     <MainItem>
       <Key>McKinstry</Key>
-      <Text>F</Text>
+      <Forenames>F</Forenames>
       <PageNumber>7720</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -436,7 +437,8 @@
   <ItemGroup>
     <MainItem>
       <Key>New</Key>
-      <Forenames>Era Bind Co</Forenames>
+      <Forenames>Era Bind</Forenames>
+      <Text>Co</Text>
       <PageNumber>7450</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -510,8 +512,8 @@
   </ItemGroup>
   <ItemGroup>
     <MainItem>
-      <Key>O</Key>
-      <Text>'Connell &amp; Lund</Text>
+      <Key>O'Connell</Key>
+      <Text>&amp; Lund</Text>
       <PageNumber>8407</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -740,7 +742,7 @@
   <ItemGroup>
     <MainItem>
       <Key>Price</Key>
-      <Forenames>Bros</Forenames>
+      <Title>Bros.</Title>
       <PageNumber>6055</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -840,8 +842,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Rigg</Key>
-      <Forenames>Brothers</Forenames>
-      <Text>... ,</Text>
+      <Title>Brothers .</Title>
+      <Text>.. ,</Text>
       <PageNumber>7211</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -960,7 +962,8 @@
   <ItemGroup>
     <MainItem>
       <Key>St</Key>
-      <Text>Just Engineering and General Supply Company</Text>
+      <Forenames>Just Engineering</Forenames>
+      <Text>and General Supply Company</Text>
       <PageNumber>6142</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1320,7 +1323,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Turner</Key>
-      <Text>Lord, W. &amp; Company &amp; Ropley</Text>
+      <Title>Lord</Title>
+      <Text>, W. &amp; Company &amp; Ropley</Text>
       <PageNumber>6519</PageNumber>
     </MainItem>
   </ItemGroup>
@@ -1501,7 +1505,8 @@
   <ItemGroup>
     <MainItem>
       <Key>Yorkley</Key>
-      <Forenames>Coal Co</Forenames>
+      <Forenames>Coal</Forenames>
+      <Text>Co</Text>
       <PageNumber>6140</PageNumber>
     </MainItem>
   </ItemGroup>
